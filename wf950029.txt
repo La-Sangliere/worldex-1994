@@ -1,0 +1,382 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0028
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Benin
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Benin 
+ 
+ 
+                                   Benin
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, bordering the North Atlantic Ocean between Nigeria and
+     Togo
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     112,620 sq km
+land area:
+     110,620 sq km
+comparative area:
+     slightly smaller than Pennsylvania
+Land boundaries:
+     total 1,989 km, Burkina 306 km, Niger 266 km, Nigeria 773 km, Togo 644
+     km
+Coastline:
+     121 km
+Maritime claims:
+territorial sea:
+     200 nm
+International disputes:
+     none
+Climate:
+     tropical; hot, humid in south; semiarid in north
+Terrain:
+     mostly flat to undulating plain; some hills and low mountains
+Natural resources:
+     small offshore oil deposits, limestone, marble, timber
+Land use:
+arable land:
+     12%
+permanent crops:
+     4%
+meadows and pastures:
+     4%
+forest and woodland:
+     35%
+other:
+     45%
+Irrigated land:
+     60 sq km (1989 est.)
+Environment:
+current issues:
+     limited supply of safe drinking water; illegal hunting threatens
+     wildlife populations; deforestation; desertification
+natural hazards:
+     hot, dry, dusty harmattan wind may affect north in winter
+international agreements:
+     party to - Endangered Species, Environmental Modification, Nuclear
+     Test Ban, Ozone Layer Protection; signed, but not ratified -
+     Biodiversity, Climate Change, Law of the Sea
+ 
+ 
+Note:
+     recent droughts have severely affected marginal agriculture in north;
+     no natural harbors
+ 
+                                  People
+ 
+Population:
+     5,341,710 (July 1994 est.)
+Population growth rate:
+     3.33% (1994 est.)
+Birth rate:
+     47.67 births/1,000 population (1994 est.)
+Death rate:
+     14.36 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     110.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     51.77 years
+male:
+     49.92 years
+female:
+     53.68 years (1994 est.)
+Total fertility rate:
+     6.79 children born/woman (1994 est.)
+Nationality:
+noun:
+     Beninese (singular and plural)
+adjective:
+     Beninese
+Ethnic divisions:
+     African 99% (42 ethnic groups, most important being Fon, Adja, Yoruba,
+     Bariba), Europeans 5,500
+Religions:
+     indigenous beliefs 70%, Muslim 15%, Christian 15%
+Languages:
+     French (official), Fon and Yoruba (most common vernaculars in south),
+     tribal languages (at least six major ones in north)
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     23%
+male:
+     32%
+female:
+     16%
+Labor force:
+     1.9 million (1987)
+by occupation:
+     agriculture 60%, transport, commerce, and public services 38%,
+     industry less than 2%
+note:
+     49% of population of working age (1985)
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Benin
+conventional short form:
+local long form:
+     Republique Populaire du Benin
+local short form:
+former:
+     Dahomey
+Digraph:
+     BN
+Type:
+     republic under multiparty democratic rule dropped Marxism-Leninism
+     December 1989; democratic reforms adopted February 1990; transition to
+     multiparty system completed 4 April 1991
+Capital:
+     Porto-Novo
+Administrative divisions:
+     6 provinces; Atakora, Atlantique, Borgou, Mono, Oueme, Zou
+Independence:
+     1 August 1960 (from France)
+National holiday:
+     National Day, 1 August (1990)
+Constitution:
+     2 December 1990
+Legal system:
+     based on French civil law and customary law; has not accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President Nicephore SOGLO (since 4 April 1991); election last held 10
+     and 24 March 1991; results - Nicephore SOGLO 68%, Mathieu KEREKOU 32%
+cabinet:
+     Executive Council; appointed by the president
+Legislative branch:
+     unicameral
+National Assembly (Assemblee Nationale):
+     elections last held 10 and 24 March 1991; results - percent of vote by
+     party NA; seats - (64 total) UDFP-MDPS-ULD 12, PNDD/PRD 9, PSD/UNSP 8,
+     NCC 7, RND 7, MNDD/MSUP/UDRN 6, UDS 5, RDL 4, ASD/BSD 3, ADP/UDRS 2,
+     UNDP 1
+Judicial branch:
+     Supreme Court (Cour Supreme)
+ 
+ 
+Political parties and leaders:
+     Alliance of the Democratic Union for the Forces of Progress (UDFP),
+     Timothee ADANLIN; Movement for Democracy and Social Progress (MDPS),
+     Jean-Roger AHOYO; Union for Liberty and Development (ULD), Marcellin
+     DEGBE; Alliance of the National Party for Democracy and Development
+     (PNDD) and the Democratic Renewal Party (PRD), Pascal Chabi KAO;
+     Alliance of the Social Democratic Party (PSD) and the National Union
+     for Solidarity and Progress (UNSP), Bruno AMOUSSOU; Our Common Cause
+     (NCC), Albert TEVOEDJRE; National Rally for Democracy (RND), Joseph
+     KEKE; Alliance of the National Movement for Democracy and Development
+     (MNDD), leader NA; Movement for Solidarity, Union, and Progress
+     (MSUP), Adebo ADENIYI; Union for Democracy and National Reconstruction
+     (UDRN), Azaria FAKOREDE; Union for Democracy and National Solidarity
+     (UDS), Mama Amadou N'DIAYE; Assembly of Liberal Democrats for National
+     Reconstruction (RDL), Severin ADJOVI; Alliance of the Alliance for
+     Social Democracy (ASD), Robert DOSSOU; Bloc for Social Democracy
+     (BSD), Michel MAGNIDE; Alliance of the Alliance for Democracy and
+     Progress (ADP), Akindes ADEKPEDJOU; Democratic Union for Social
+     Renewal (UDRS), Bio Gado Seko N'GOYE; National Union for Democracy and
+     Progress (UNDP), Robert TAGNON; Party for Progress and Democracy,
+     Thiophile NATA; African Rally for Progress and Solidarity (RAPS),
+     Florentin MITO-BABA; The Benin Renaissance Party , Desire VIEYRA and
+     Rosine SOGLO; The Patriotic Union for the Republic (UPR), Jean-Marie
+     ZAHOUN; Union for the Conservation of Democracy, Bernard HOUEGNON
+note:
+     as of May 1994, Benin had about 60 political parties
+Member of:
+     ACCT, ACP, AfDB, CEAO, ECA, ECOWAS, Entente, FAO, FZ, G-77, GATT,
+     IBRD, ICAO, ICFTU, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INTELSAT,
+     INTERPOL, IOC, ITU, LORCS, NAM, OAU, OIC, UN, UNCTAD, UNESCO, UNIDO,
+     UPU, WADB, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Candide AHOUANSOU
+chancery:
+     2737 Cathedral Avenue NW, Washington, DC 20008
+telephone:
+     (202) 232-6656
+FAX:
+     (202) 265-1996
+US diplomatic representation:
+chief of mission:
+     Ambassador Ruth A. DAVIS
+embassy:
+     Rue Caporal Anani Bernard, Cotonou
+mailing address:
+     B. P. 2012, Cotonou
+telephone:
+     [229] 30-06-50, 30-05-13, 30-17-92
+FAX:
+     [229] 30-14-39 and 30-19-74
+Flag:
+     two equal horizontal bands of yellow (top) and red with a vertical
+     green band on the hoist side
+ 
+ 
+                                  Economy
+ 
+Overview:
+     Benin is one of the least developed countries in the world because of
+     limited natural resources and a poorly developed infrastructure.
+     Agriculture accounts for about 35% of GDP, employs about 60% of the
+     labor force, and generates a major share of foreign exchange earnings.
+     The industrial sector contributes only about 10% to GDP and employs 2%
+     of the work force. Low prices in recent years have kept down hard
+     currency earnings from Benin's major exports of agricultural products,
+     primarily cotton. A World Bank supported structural adjustment program
+     begun in 1989 has helped strengthen the economy through such measures
+     as trimming the government payroll, reforming the tax system, and
+     encouraging private investment, both domestic and foreign. Benin has
+     experienced 3 consecutive years of moderate growth as a result.
+National product:
+     GDP - purchasing power equivalent - $6.2 billion (1993 est.)
+National product real growth rate:
+     3% (1991)
+National product per capita:
+     $1,200 (1993 est.)
+Inflation rate (consumer prices):
+     3.4% (1990)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $218 million
+expenditures:
+     $355 million, including capital expenditures of $100 million (1991
+     est.)
+Exports:
+     $328.8 million (f.o.b., 1991 est.)
+commodities:
+     crude oil, cotton, palm products, cocoa
+partners:
+     FRG 36%, France 16%, Spain 14%, Italy 8%, UK 4%
+Imports:
+     $482.3 million (f.o.b., 1991 est.)
+commodities:
+     foodstuffs, beverages, tobacco, petroleum products, intermediate
+     goods, capital goods, light consumer goods
+partners:
+     France 20%, Thailand 8%, Netherlands 7%, US 5%
+External debt:
+     $1 billion (December 1990 est.)
+Industrial production:
+     growth rate -0.7% (1988); accounts for 10% of GDP
+Electricity:
+capacity:
+     30,000 kW
+production:
+     25 million kWh
+consumption per capita:
+     5 kWh (1991)
+ 
+ 
+Industries:
+     textiles, cigarettes, construction materials, beverages, food
+     production, petroleum
+Agriculture:
+     accounts for 35% of GDP; small farms produce 90% of agricultural
+     output; production is dominated by food crops - corn, sorghum,
+     cassava, beans, rice; cash crops include cotton, palm oil, peanuts;
+     poultry and livestock output has not kept up with consumption
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $46 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $1.3
+     billion; OPEC bilateral aid (1979-89), $19 million; Communist
+     countries (1970-89), $101 million
+Currency:
+     1 CFA franc (CFAF) = 100 centimes
+Exchange rates:
+     Communaute Financiere Africaine francs (CFAF) per US$1 - 592.05
+     (January 1994), 283.16 (1993), 264.69 (1992), 282.11 (1991), 272.26
+     (1990), 319.01 (1989)
+note:
+     beginning 12 January 1994 the CFA franc was devalued to CFAF 100 per
+     French franc from CFAF 50 at which it had been fixed since 1948
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     578 km, all 1.000-meter gauge, single track
+Highways:
+total:
+     8,435 km
+paved:
+     1,038 km
+unpaved:
+     crushed stone 2,600 km; improved earth 1,530 km; unimproved earth
+     3,267 km
+Inland waterways:
+     navigable along small sections, important only locally
+Ports:
+     Cotonou
+Airports:
+total:
+     7
+usable:
+     6
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     3
+ 
+ 
+Telecommunications:
+     fair system of open wire, submarine cable, and radio relay microwave;
+     broadcast stations - 2 AM, 2 FM, 2 TV; 1 Atlantic Ocean INTELSAT earth
+     station
+ 
+                              Defense Forces
+ 
+Branches:
+     Armed Forces (including Army, Navy, Air Force), National Gendarmerie
+Manpower availability:
+     males age 15-49 1,209,226; females age 15-49 1,120,105; males fit for
+     military service 611,257; females fit for military service 573,775;
+     males reach military age (18) annually 58,293 (1994 est.);
+     femalesreach military age (18) annually 56,735 (1994 est.); both sexes
+     are liable for miltary service
+Defense expenditures:
+     exchange rate conversion - $29 million, 1.7% of GDP (1988 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

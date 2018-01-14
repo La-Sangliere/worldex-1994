@@ -1,0 +1,379 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0126
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Jordan
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Jordan 
+ 
+ 
+                                  Jordan
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (also see separate West Bank entry)
+ 
+                                 Geography
+ 
+Location:
+     Middle East, between Israel and Saudi Arabia
+Map references:
+     Africa, Middle East, Standard Time Zones of the World
+Area:
+total area:
+     89,213 sq km
+land area:
+     88,884 sq km
+comparative area:
+     slightly smaller than Indiana
+Land boundaries:
+     total 1,619 km, Iraq 181 km, Israel 238 km, Saudi Arabia 728 km, Syria
+     375 km, West Bank 97 km
+Coastline:
+     26 km
+Maritime claims:
+territorial sea:
+     3 nm
+International disputes:
+     differences with Israel over the location of the 1949 Armistice Line
+     that separates the two countries; water-sharing issues with Israel
+Climate:
+     mostly arid desert; rainy season in west (November to April)
+Terrain:
+     mostly desert plateau in east, highland area in west; Great Rift
+     Valley separates East and West Banks of the Jordan River
+Natural resources:
+     phosphates, potash, shale oil
+Land use:
+arable land:
+     4%
+permanent crops:
+     0.5%
+meadows and pastures:
+     1%
+forest and woodland:
+     0.5%
+other:
+     94%
+Irrigated land:
+     570 sq km (1989 est.)
+Environment:
+current issues:
+     lack of adequate natural water resources; deforestation; overgrazing;
+     soil erosion; desertification
+ 
+ 
+natural hazards:
+     NA
+international agreements:
+     party to - Biodiversity, Climate Change, Endangered Species, Hazardous
+     Wastes, Marine Dumping, Nuclear Test Ban, Ozone Layer Protection,
+     Wetlands
+ 
+                                  People
+ 
+Population:
+     3,961,194 (July 1994 est.)
+Population growth rate:
+     3.5% (1994 est.)
+Birth rate:
+     38.77 births/1,000 population (1994 est.)
+Death rate:
+     4.22 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.47 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     32.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     71.85 years
+male:
+     70.04 years
+female:
+     73.77 years (1994 est.)
+Total fertility rate:
+     5.64 children born/woman (1994 est.)
+Nationality:
+noun:
+     Jordanian(s)
+adjective:
+     Jordanian
+Ethnic divisions:
+     Arab 98%, Circassian 1%, Armenian 1%
+Religions:
+     Sunni Muslim 92%, Christian 8%
+Languages:
+     Arabic (official), English widely understood among upper and middle
+     classes
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     80%
+male:
+     89%
+female:
+     70%
+Labor force:
+     600,000 (1992)
+ 
+ 
+by occupation:
+     industry 11.4%, commerce, restaurants, and hotels 10.5%, construction
+     10.0%, transport and communications 8.7%, agriculture 7.4%, other
+     services 52.0% (1992)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Hashemite Kingdom of Jordan
+conventional short form:
+local long form:
+     Al Mamlakah al Urduniyah al Hashimiyah
+local short form:
+     Al Urdun
+former:
+     Transjordan
+Digraph:
+     JO
+Type:
+     constitutional monarchy
+Capital:
+     Amman
+Administrative divisions:
+     8 governorates (muhafazat, singular - muhafazah); Al Balqa', Al Karak,
+     Al Mafraq, 'Amman, At Tafilah, Az Zarqa', Irbid, Ma'an
+Independence:
+     25 May 1946 (from League of Nations mandate under British
+     administration)
+National holiday:
+     Independence Day, 25 May (1946)
+Constitution:
+     8 January 1952
+Legal system:
+     based on Islamic law and French codes; judicial review of legislative
+     acts in a specially provided High Tribunal; has not accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     20 years of age; universal
+Executive branch:
+chief of state:
+     King HUSSEIN Bin Talal Al Hashimi (since 11 August 1952)
+head of government:
+     Prime Minister Abd al-Salam al-MAJALI (since May 1993)
+cabinet:
+     Cabinet appointed by the monarch
+Legislative branch:
+     bicameral National Assembly (Majlis al-'Umma)
+House of Notables (Majlis al-A'ayan):
+     consists of a 40-member body appointed by the king from designated
+     categories of public figures
+ 
+ 
+House of Representatives:
+     elections last held 8 November 1993 (next to be held NA November
+     1997); results - percent of vote by party NA; seats - (80 total)
+     Muslim Brotherhood (fundamentalist) 16, Independent Islamic bloc
+     (generally traditionalist) 6, Radical leftist 3, pro-government 55
+note:
+     the House of Representatives has been convened and dissolved by the
+     King several times since 1974 and in November 1989 the first
+     parliamentary elections in 22 years were held
+Judicial branch:
+     Court of Cassation
+Political parties and leaders:
+     NA; note - political parties were legalized in December 1992
+Member of:
+     ABEDA, ACC, AFESD, AL, AMF, CAEU, CCC, ESCWA, FAO, G-77, IAEA, IBRD,
+     ICAO, ICC, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL,
+     IOC, IOM (observer), ISO (correspondent), ITU, LORCS, NAM, OIC, PCA,
+     UN, UNAVEM II, UNCTAD, UNESCO, UNIDO, UNOSOM, UNRWA, UNPROFOR, UNTAC,
+     UPU, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Fayiz A. TARAWNAH
+chancery:
+     3504 International Drive NW, Washington, DC 20008
+telephone:
+     (202) 966-2664
+FAX:
+     (202) 966-3110
+US diplomatic representation:
+chief of mission:
+     Ambassador Wesley EGAN, Jr.
+embassy:
+     Jabel Amman, Amman
+mailing address:
+     P. O. Box 354, Amman, or APO AE 09892-0200
+telephone:
+     [962] (6) 820-101
+Flag:
+     three equal horizontal bands of black (top), white, and green with a
+     red isosceles triangle based on the hoist side bearing a small white
+     seven-pointed star; the seven points on the star represent the seven
+     fundamental laws of the Koran
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Jordan benefited from increased Arab aid during the oil boom of the
+     late 1970s and early 1980s, when its annual real GNP growth averaged
+     more than 10%. In the remainder of the 1980s, however, reductions in
+     both Arab aid and worker remittances slowed real economic growth to an
+     average of roughly 2% per year. Imports - mainly oil, capital goods,
+     consumer durables, and food - outstripped exports, with the difference
+     covered by aid, remittances, and borrowing. In mid-1989, the Jordanian
+     Government began debt-rescheduling negotiations and agreed to
+     implement an IMF-supported program designed to gradually reduce the
+     budget deficit and implement badly needed structural reforms. The
+     Persian Gulf crisis that began in August 1990, however, aggravated
+     Jordan's already serious economic problems, forcing the government to
+     shelve the IMF program, stop most debt payments, and suspend
+     rescheduling negotiations. Aid from Gulf Arab states, worker
+     remittances and trade contracted, and refugees flooded the country,
+     producing serious balance-of-payments problems, stunting GDP growth,
+     and straining government resources. The economy rebounded in 1992,
+     largely due to the influx of capital repatriated by workers returning
+     from the Gulf, but the recovery has been losing steam since mid-1993.
+     The government is implementing the reform program adopted in 1992 and
+     continues to secure rescheduling of its heavy foreign debt.
+National product:
+     GDP - purchasing power equivalent - $11.5 billion (1993 est.)
+National product real growth rate:
+     5% (1993 est.)
+National product per capita:
+     $3,000 (1993 est.)
+Inflation rate (consumer prices):
+     5% (1993 est.)
+Unemployment rate:
+     20% (1993 est.)
+Budget:
+revenues:
+     $1.7 billion
+expenditures:
+     $1.9 billion, including capital expenditures of $420 million (1993)
+Exports:
+     $1.4 billion (f.o.b., 1993 est.)
+commodities:
+     phosphates, fertilizers, potash, agricultural products, manufactures
+partners:
+     India, Iraq, Saudi Arabia, EC, Indonesia, UAE
+Imports:
+     $3.2 billion (c.i.f., 1993 est.)
+commodities:
+     crude oil, machinery, transport equipment, food, live animals,
+     manufactured goods
+partners:
+     EC, US, Iraq, Japan, Turkey
+External debt:
+     $6.8 billion (December 1993 est.)
+Industrial production:
+     growth rate 3% (1993 est.); accounts for 20% of GDP
+ 
+ 
+Electricity:
+capacity:
+     1,030,000 kW
+production:
+     3.814 billion kWh
+consumption per capita:
+     1,070 kWh (1992)
+Industries:
+     phosphate mining, petroleum refining, cement, potash, light
+     manufacturing
+Agriculture:
+     accounts for about 10% of GDP; principal products are wheat, barley,
+     citrus fruit, tomatoes, melons, olives; livestock - sheep, goats,
+     poultry; large net importer of food
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $1.7 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $1.5
+     billion; OPEC bilateral aid (1979-89), $9.5 billion; Communist
+     countries (1970-89), $44 million
+Currency:
+     1 Jordanian dinar (JD) = 1,000 fils
+Exchange rates:
+     Jordanian dinars (JD) per US$1 - 0.7019 (February 1994), 0.6928
+     (1993), 0.6797 (1992), 0.6808 (1991), 0.6636 (1990), 0.5704 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     789 km 1.050-meter gauge, single track
+Highways:
+total:
+     7,500 km
+paved:
+     asphalt 5,500 km
+unpaved:
+     gravel, crushed stone 2,000 km
+Pipelines:
+     crude oil 209 km
+Ports:
+     Al 'Aqabah
+Merchant marine:
+     3 ships (1,000 GRT or over) totaling 71,566 GRT/129,351 DWT, bulk 1,
+     cargo 1, oil tanker 1
+Airports:
+total:
+     16
+usable:
+     14
+with permanent-surface runways:
+     13
+with runways over 3,659 m:
+     1
+ 
+ 
+with runways 2,440-3,659 m:
+     12
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     adequate telephone system of microwave, cable, and radio links; 81,500
+     telephones; broadcast stations - 5 AM, 7 FM, 8 TV; satellite earth
+     stations - 1 Atlantic Ocean INTELSAT, 1 Indian Ocean INTELSAT, 1
+     ARABSAT, 1 domestic TV receive-only; coaxial cable and microwave to
+     Iraq, Saudi Arabia, and Syria; microwave link to Lebanon is inactive;
+     participant in MEDARABTEL, a microwave radio relay network linking
+     Syria, Jordan, Egypt, Libya, Tunisia, Algeria, and Morocco
+ 
+                              Defense Forces
+ 
+Branches:
+     Jordanian Armed Forces (JAF) includes Royal Jordanian Land Force,
+     Royal Jordanian Air Force, Royal Naval Force; Ministry of the
+     Interior's Public Security Force (falls under JAF only in wartime or
+     crisis situations)
+Manpower availability:
+     males age 15-49 966,420; fit for military service 685,112; reach
+     military age (18) annually 42,776 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $435 million, 7.9% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

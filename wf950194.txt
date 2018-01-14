@@ -1,0 +1,283 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0193
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Pitcairn Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Pitcairn Islands 
+ 
+ 
+                             Pitcairn Islands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (dependent territory of the UK)
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Polynesia in the South Pacific Ocean, about halfway between
+     Peru and New Zealand
+Map references:
+     Oceania
+Area:
+total area:
+     47 sq km
+land area:
+     47 sq km
+comparative area:
+     about 0.3 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     51 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     tropical, hot, humid, modified by southeast trade winds; rainy season
+     (November to March)
+Terrain:
+     rugged volcanic formation; rocky coastline with cliffs
+Natural resources:
+     miro trees (used for handicrafts), fish
+Land use:
+arable land:
+     NA%
+permanent crops:
+     NA%
+meadows and pastures:
+     NA%
+forest and woodland:
+     NA%
+other:
+     NA%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+ 
+ 
+natural hazards:
+     subject to typhoons (especially November to March)
+international agreements:
+     NA
+ 
+                                  People
+ 
+Population:
+     71 (July 1994 est.)
+Population growth rate:
+     2.93% (1994 est.)
+Birth rate:
+     NA
+Death rate:
+     NA
+Net migration rate:
+     NA
+Infant mortality rate:
+     NA
+Life expectancy at birth:
+     NA
+Total fertility rate:
+     NA
+Nationality:
+noun:
+     Pitcairn Islander(s)
+adjective:
+     Pitcairn Islander
+Ethnic divisions:
+     descendants of the Bounty mutineers
+Religions:
+     Seventh-Day Adventist 100%
+Languages:
+     English (official), Tahitian/English dialect
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+by occupation:
+     no business community in the usual sense; some public works;
+     subsistence farming and fishing
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Pitcairn, Henderson, Ducie, and Oeno Islands
+conventional short form:
+ 
+ 
+ 
+Digraph:
+     PC
+Type:
+     dependent territory of the UK
+Capital:
+     Adamstown
+Administrative divisions:
+     none (dependent territory of the UK)
+Independence:
+     none (dependent territory of the UK)
+National holiday:
+     Celebration of the Birthday of the Queen (second Saturday in June)
+Constitution:
+     Local Government Ordinance of 1964
+Legal system:
+     local island by-laws
+Suffrage:
+     18 years of age; universal with three years residency
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by UK High
+     Commissioner to New Zealand and Governor (non-resident) of the
+     Pitcairn Islands David Joseph MOSS (since NA September 1990);
+     Commissioner (non-resident) G.D. HARRAWAY (since NA; is the liason
+     person between the governor and the Island Council)
+head of government:
+     Island Magistrate and Chairman of the Island Council Jay WARREN (since
+     NA)
+Legislative branch:
+     unicameral
+Island Council:
+     elections last held NA (next to be held NA); results - percent of vote
+     by party NA; seats - (11 total, 5 elected) number of seats by party NA
+Judicial branch:
+     Island Court
+Political parties and leaders:
+     NA
+Other political or pressure groups:
+     NA
+Member of:
+     SPC
+Diplomatic representation in US:
+     none (dependent territory of the UK)
+US diplomatic representation:
+     none (dependent territory of the UK)
+Flag:
+     blue with the flag of the UK in the upper hoist-side quadrant and the
+     Pitcairn Islander coat of arms centered on the outer half of the flag;
+     the coat of arms is yellow, green, and light blue with a shield
+     featuring a yellow anchor
+ 
+                                  Economy
+ 
+ 
+Overview:
+     The inhabitants exist on fishing and subsistence farming. The fertile
+     soil of the valleys produces a wide variety of fruits and vegetables,
+     including citrus, sugar cane, watermelons, bananas, yams, and beans.
+     Bartering is an important part of the economy. The major sources of
+     revenue are the sale of postage stamps to collectors and the sale of
+     handicrafts to passing ships.
+National product:
+     GDP $NA
+National product real growth rate:
+     NA%
+National product per capita:
+     $NA
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $430,000
+expenditures:
+     $429,000, including capital expenditures of $NA (1987 est.)
+Exports:
+     $NA
+commodities:
+     fruits, vegetables, curios
+partners:
+     NA
+Imports:
+     $NA
+commodities:
+     fuel oil, machinery, building materials, flour, sugar, other
+     foodstuffs
+partners:
+     NA
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     110 kW
+production:
+     300,000 kWh
+consumption per capita:
+     5,360 kWh (1990)
+Industries:
+     postage stamp sales, handicrafts
+Agriculture:
+     based on subsistence fishing and farming; wide variety of fruits and
+     vegetables grown; must import grain products
+Economic aid:
+recipient:
+     ODA bilateral commitments (1992-93), $84,000
+ 
+ 
+Currency:
+     1 New Zealand dollar (NZ$) = 100 cents
+Exchange rates:
+     New Zealand dollars (NZ$) per US$1 - 1.7771 (January 1994), 1.8495
+     (1993), 1.8584 (1992), 1.7265 (1991), 1.6750 (1990), 1.6711 (1989)
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Railroads:
+     none
+Highways:
+total:
+     6.4 km
+unpaved:
+     earth 6.4 km
+Ports:
+     Bounty Bay
+Airports:
+     none
+Telecommunications:
+     24 telephones; party line telephone service on the island; broadcast
+     stations - 1 AM, no FM, no TV; diesel generator provides electricity
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,411 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0018
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Azerbaijan
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Azerbaijan 
+ 
+ 
+                                Azerbaijan
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southwestern Asia, between Armenia and Turkmenistan, bordering the
+     Caspian Sea
+Map references:
+     Africa, Asia, Commonwealth of Independent States - Central Asian
+     States, Commonwealth of Independent States - European States, Middle
+     East, Standard Time Zones of the World
+Area:
+total area:
+     86,600 sq km
+land area:
+     86,100 sq km
+comparative area:
+     slightly larger than Maine
+note:
+     includes the Nakhichevan Autonomous Republic and the Nagorno-Karabakh
+     regions; regions' autonomy was abolished by Azerbaijani Supreme Soviet
+     on 26 November 1991
+Land boundaries:
+     total 2,013 km, Armenia (west) 566 km, Armenia (southwest) 221 km,
+     Georgia 322 km, Iran (south) 432 km, Iran (southwest) 179 km, Russia
+     284 km, Turkey 9 km
+Coastline:
+     0 km (landlocked)
+note:
+     Azerbaijan borders the Caspian Sea (800 km, est.)
+Maritime claims:
+     NA
+note:
+     Azerbaijani claims in Caspian Sea unknown; 10-nm fishing zone provided
+     for in 1940 treaty regarding trade and navigation between Soviet Union
+     and Iran
+International disputes:
+     violent and longstanding dispute with ethnic Armenians of
+     Nagorno-Karabakh over its status, lesser dispute concerns Nakhichevan;
+     some Azerbaijanis desire absorption of and/or unification with the
+     ethnic Azeri portion of Iran
+Climate:
+     dry, semiarid steppe
+Terrain:
+     large, flat Kur-Araz Lowland (much of it below sea level) with Great
+     Caucasus Mountains to the north, Qarabag (Karabakh) Upland in west;
+     Baku lies on Abseron (Apsheron) Peninsula that juts into Caspian Sea
+Natural resources:
+     petroleum, natural gas, iron ore, nonferrous metals, alumina
+Land use:
+arable land:
+     18%
+permanent crops:
+     4%
+meadows and pastures:
+     25%
+ 
+ 
+forest and woodland:
+     0%
+other:
+     53%
+Irrigated land:
+     14,010 sq km (1990)
+Environment:
+current issues:
+     local scientists consider the Abseron (Apsheron) Peninsula (including
+     Baku and Sumqayit) and the Caspian Sea to be the ecologically most
+     devastated area in the world because of severe air, water, and soil
+     pollution; soil pollution results from the use of DDT as a pesticide
+     and also from toxic defoliants used in the production of cotton
+natural hazards:
+     subject to drought; some coastal areas threatened by rising levels of
+     the Caspian Sea
+international agreements:
+     signed, but not ratified - Biodiversity, Climate Change
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     7,684,456 (July 1994 est.)
+Population growth rate:
+     1.41% (1994 est.)
+Birth rate:
+     23.04 births/1,000 population (1994 est.)
+Death rate:
+     6.58 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -2.38 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     34.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     70.85 years
+male:
+     67.08 years
+female:
+     74.8 years (1994 est.)
+Total fertility rate:
+     2.7 children born/woman (1994 est.)
+Nationality:
+noun:
+     Azerbaijani(s)
+adjective:
+     Azerbaijani
+Ethnic divisions:
+     Azeri 82.7%, Russian 5.6%, Armenian 5.6%, Dagestani 3.2%, other 2.9%
+     (1989)
+ 
+ 
+note:
+     Armenian share is now approximately 0.3% because most Armenians have
+     fled the ethnic violence since 1989 census; Russian percentage is
+     probably half what it was for the same reason
+Religions:
+     Muslim 87%, Russian Orthodox 5.6%, Armenian Orthodox 5.6%, other 1.8%
+Languages:
+     Azeri 82%, Russian 7%, Armenian 5%, other 6%
+Literacy:
+     age 9-49 can read and write (1970)
+total population:
+     100%
+male:
+     100%
+female:
+     100%
+Labor force:
+     2.789 million
+by occupation:
+     agriculture and forestry 32%, industry and construction 26%, other 42%
+     (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Azerbaijani Republic
+conventional short form:
+local long form:
+     Azarbaycan Respublikasi
+local short form:
+     none
+former:
+     Azerbaijan Soviet Socialist Republic
+Digraph:
+     AJ
+Type:
+     republic
+Capital:
+     Baku (Baky)
+Administrative divisions:
+     1 autonomous republic (avtomnaya respublika); Nakhichevan
+     (administrative center at Nakhichevan)
+note:
+     all rayons except for the exclave of Nakhichevan are under direct
+     republic jurisdiction
+Independence:
+     30 August 1991 (from Soviet Union)
+National holiday:
+     Novruz Bayram, 21-22 March
+Constitution:
+     adopted NA April 1978; writing a new constitution mid-1993
+Legal system:
+     based on civil law system
+ 
+ 
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Heydar ALIYEV (since 18 June 1993 after President ELCIBEY
+     left Baku for Nakhichevan); election last held 3 October 1993 (next to
+     be held NA); results - Heydar ALIYEV won 97% of vote
+head of government:
+     Prime Minister Surat HUSEYNOV (since 30 June 1993)
+cabinet:
+     Council of Ministers; appointed by the president and confirmed by the
+     Mejlas
+Legislative branch:
+     unicameral
+National Assembly (Milli Mejlis):
+     elections last held 30 September and 14 October 1990 for the Supreme
+     Soviet (next expected to be held NA 1994 for the National Assembly);
+     seats for Supreme Soviet - (360 total) Communists 280, Democratic Bloc
+     45 (grouping of opposition parties), other 15, vacant 20; note - on 19
+     May 1992 the Supreme Soviet was prorogued in favor of a Popular
+     Front-dominated National Council; seats - (50 total) Popular Front 25,
+     opposition elements 25
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Azerbaijan Popular Front (APF), Ebulfez ELCIBEY, chairman; Musavat
+     Party, Isa GAMBAR, chairman; National Independence Party, Etibar
+     MAMEDOV, chairman; Social Democratic Party (SDP), Araz ALIZADE,
+     chairman; Communist Party, Ramiz AKHMEDOV, chairman; People's Freedom
+     Party, Yunus OGUZ, chairman; Independent Social Democratic Party, Arif
+     YUNUSOV and Leila YUNOSOVA, cochairmen; New Azerbaijan Party, Heydar
+     ALIYEV, chairman; Boz Gurd Party, Iskander HAMIDOV, chairman;
+     Azerbaijan Democratic Party, Sardar MAMEDOV, chairman; Azerbaijan
+     Democratic Independence Party, Qabil HUSELNLI, chairman; Islamic Party
+     of Azerbaijan, Ali Akram, chairman
+Other political or pressure groups:
+     self-proclaimed Armenian Nagorno-Karabakh Republic; Talysh
+     independence movement
+Member of:
+     BSEC, CCC, CIS, CSCE, EBRD, ECE, ECO, ESCAP, IBRD, ICAO, IDB, ILO,
+     IMF, INTELSAT, INTERPOL, IOC, ITU, NACC, OIC, UN, UNCTAD, UNESCO, UPU,
+     WHO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Hafiz Mir Jalal Ogly PASHAYEV
+chancery:
+     Suite 700, 927 15th Street NW, Washington, DC 20005
+telephone:
+     (202) 842-0001
+FAX:
+     (202) 842-0004
+US diplomatic representation:
+chief of mission:
+     Ambassador Richard KAZLAURICH
+ 
+ 
+embassy:
+     Hotel Intourist, Baku
+mailing address:
+     use embassy street address
+telephone:
+     7-8922-92-63-06 through 09, extension 441, 442, 446, 447, 448, 450
+FAX:
+     Telex 142110 AMEMB SU
+Flag:
+     three equal horizontal bands of blue (top), red, and green; a crescent
+     and eight-pointed star in white are centered in red band
+ 
+                                  Economy
+ 
+Overview:
+     Azerbaijan is less developed industrially than either Armenia or
+     Georgia, the other Transcaucasian states. It resembles the Central
+     Asian states in its majority Muslim population, high structural
+     unemployment, and low standard of living. The economy's most prominent
+     products are oil, cotton, and gas. Production from the Caspian oil and
+     gas field has been in decline for several years. With foreign
+     assistance, the oil industry might generate the funds needed to spur
+     industrial development. However, civil unrest, marked by armed
+     conflict in the Nagorno-Karabakh region between Muslim Azeris and
+     Christian Armenians, makes foreign investors wary. Azerbaijan
+     accounted for 1.5% to 2% of the capital stock and output of the former
+     Soviet Union. Azerbaijan shares all the formidable problems of the
+     ex-Soviet republics in making the transition from a command to a
+     market economy, but its considerable energy resources brighten its
+     prospects somewhat. Old economic ties and structures have yet to be
+     replaced. A particularly galling constraint on economic revival is the
+     Nagorno-Karabakh conflict, said to consume 25% of Azerbaijan's
+     economic resources.
+National product:
+     GDP - purchasing power equivalent - $15.5 billion (1993 estimate from
+     the UN International Comparison Program, as extended to 1991 and
+     published in the World Bank's World Development Report 1993; and as
+     extrapolated to 1993 using official Azerbaijani statistics, which are
+     very uncertain because of major economic changes since 1990)
+National product real growth rate:
+     -13.3% (1993 est.)
+National product per capita:
+     $2,040 (1993 est.)
+Inflation rate (consumer prices):
+     20% per month (average 1993); above 50% per month (February 1994)
+Unemployment rate:
+     0.7% includes officially registered unemployed; also large numbers of
+     underemployed workers (December 1993)
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $355 million to outside the FSU countries (f.o.b., 1993)
+ 
+ 
+commodities:
+     oil and gas, chemicals, oilfield equipment, textiles, cotton (1991)
+partners:
+     mostly CIS and European countries
+Imports:
+     $240 million from outside the FSU countries (c.i.f., 1993)
+commodities:
+     machinery and parts, consumer durables, foodstuffs, textiles (1991)
+partners:
+     European countries
+External debt:
+     $NA
+Industrial production:
+     growth rate -7% (1993)
+Electricity:
+capacity:
+     6,025,000 kW
+production:
+     22,300 kWh
+consumption per capita:
+     2,990 kWh (1992)
+Industries:
+     petroleum and natural gas, petroleum products, oilfield equipment;
+     steel, iron ore, cement; chemicals and petrochemicals; textiles
+Agriculture:
+     cotton, grain, rice, grapes, fruit, vegetables, tea, tobacco; cattle,
+     pigs, sheep and goats
+Illicit drugs:
+     illicit cultivator of cannabis and opium poppy; mostly for CIS
+     consumption; limited government eradication program; transshipment
+     point for illicit drugs to Western Europe
+Economic aid:
+recipient:
+     wheat from Turkey
+Currency:
+     1 manat = 100 gopik
+Exchange rates:
+     NA
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     2,090 km; does not include industrial lines (1990)
+Highways:
+total:
+     36,700 km
+paved or graveled:
+     31,800 km
+unpaved:
+     earth 4,900 km (1990)
+Pipelines:
+     crude oil 1,130 km; petroleum products 630 km; natural gas 1,240 km
+ 
+ 
+Ports:
+     inland - Baku (Baky)
+Airports:
+total:
+     65
+usable:
+     33
+with permanent-surface runways:
+     26
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     8
+with runways 1,220-2,439 m:
+     23
+Telecommunications:
+     domestic telephone service is of poor quality and inadequate; 710,000
+     domestic telephone lines [density - 9 lines per 100 persons (1991)],
+     202,000 persons waiting for telephone installations (January 1991);
+     connections to other former USSR republics by cable and microwave and
+     to other countries via the Moscow international gateway switch;
+     INTELSAT earth station installed in late 1992 in Baku with Turkish
+     financial assistance with access to 200 countries through Turkey;
+     since August 1993 an earth station near Baku has provided direct
+     communications with New York through Russia's Stationar-11 satellite;
+     a joint venture to establish a cellular telephone system (Bakcel) in
+     the Baku area is supposed to become operational in 1994; domestic and
+     Russian TV programs are received locally and Turkish and Iranian TV is
+     received from an INTELSAT satellite through a receive-only earth
+     station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Air Force, Navy, Maritime Border Guard, National Guard, Security
+     Forces (internal and border troops)
+Manpower availability:
+     males age 15-49 1,884,458; fit for military service 1,525,123; reach
+     military age (18) annually 68,192 (1994 est.)
+Defense expenditures:
+     2,848 million rubles, NA% of GDP (1992 est.); note - conversion of the
+     military budget into US dollars using the current exchange rate could
+     produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

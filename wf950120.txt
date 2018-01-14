@@ -1,0 +1,440 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0119
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Italy
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Italy 
+ 
+ 
+                                   Italy
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Europe, a peninsula extending into the central Mediterranean
+     Sea
+Map references:
+     Africa, Europe, Standard Time Zones of the World
+Area:
+total area:
+     301,230 sq km
+land area:
+     294,020 sq km
+comparative area:
+     slightly larger than Arizona
+note:
+     includes Sardinia and Sicily
+Land boundaries:
+     total 1,899.2 km, Austria 430 km, France 488 km, Holy See (Vatican
+     City) 3.2 km, San Marino 39 km, Slovenia 199 km, Switzerland 740 km
+Coastline:
+     4,996 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     predominantly Mediterranean; Alpine in far north; hot, dry in south
+Terrain:
+     mostly rugged and mountainous; some plains, coastal lowlands
+Natural resources:
+     mercury, potash, marble, sulfur, dwindling natural gas and crude oil
+     reserves, fish, coal
+Land use:
+arable land:
+     32%
+permanent crops:
+     10%
+meadows and pastures:
+     17%
+forest and woodland:
+     22%
+other:
+     19%
+Irrigated land:
+     31,000 sq km (1989 est.)
+Environment:
+current issues:
+     air pollution from industrial emissions such as sulfur dioxide;
+     coastal and inland rivers polluted from industrial and agricultural
+     effluents; acid rain damaging lakes
+ 
+ 
+natural hazards:
+     regional risks include landslides, mudflows, avalanches, earthquakes,
+     volcanic eruptions, flooding; land subsidence in Venice
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Antarctic Treaty, Endangered Species, Environmental
+     Modification, Hazardous Wastes, Marine Dumping, Nuclear Test Ban,
+     Ozone Layer Protection, Ship Pollution, Tropical Timber, Wetlands;
+     signed, but not ratified - Air Pollution-Volatile Organic Compounds,
+     Antarctic-Environmental Protocol, Biodiversity, Climate Change, Law of
+     the Sea
+Note:
+     strategic location dominating central Mediterranean as well as
+     southern sea and air approaches to Western Europe
+ 
+                                  People
+ 
+Population:
+     58,138,394 (July 1994 est.)
+Population growth rate:
+     0.21% (1994 est.)
+Birth rate:
+     10.79 births/1,000 population (1994 est.)
+Death rate:
+     9.71 deaths/1,000 population (1994 est.)
+Net migration rate:
+     1.03 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     7.6 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     77.64 years
+male:
+     74.44 years
+female:
+     81.04 years (1994 est.)
+Total fertility rate:
+     1.39 children born/woman (1994 est.)
+Nationality:
+noun:
+     Italian(s)
+adjective:
+     Italian
+Ethnic divisions:
+     Italian (includes small clusters of German-, French-, and
+     Slovene-Italians in the north and Albanian-Italians and Greek-Italians
+     in the south), Sicilians, Sardinians
+Religions:
+     Roman Catholic 98%, other 2%
+Languages:
+     Italian, German (parts of Trentino-Alto Adige region are predominantly
+     German speaking), French (small French-speaking minority in Valle
+     d'Aosta region), Slovene (Slovene-speaking minority in the
+     Trieste-Gorizia area)
+ 
+ 
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     97%
+male:
+     98%
+female:
+     96%
+Labor force:
+     23.988 million
+by occupation:
+     services 58%, industry 32.2%, agriculture 9.8% (1988)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Italian Republic
+conventional short form:
+local long form:
+     Repubblica Italiana
+local short form:
+     Italia
+former:
+     Kingdom of Italy
+Digraph:
+     IT
+Type:
+     republic
+Capital:
+     Rome
+Administrative divisions:
+     20 regions (regioni, singular - regione); Abruzzi, Basilicata,
+     Calabria, Campania, Emilia-Romagna, Friuli-Venezia Giulia, Lazio,
+     Liguria, Lombardia, Marche, Molise, Piemonte, Puglia, Sardegna,
+     Sicilia, Toscana, Trentino-Alto Adige, Umbria, Valle d'Aosta, Veneto
+Independence:
+     17 March 1861 (Kingdom of Italy proclaimed)
+National holiday:
+     Anniversary of the Republic, 2 June (1946)
+Constitution:
+     1 January 1948
+Legal system:
+     based on civil law system, with ecclesiastical law influence; appeals
+     treated as trials de novo; judicial review under certain conditions in
+     Constitutional Court; has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age, universal (except in senatorial elections, where
+     minimum age is 25)
+Executive branch:
+chief of state:
+     President Oscar Luigi SCALFARO (since 28 May 1992)
+head of government:
+     Prime Minister Silvio BERLUSCONI (since 11 May 1994)
+ 
+ 
+cabinet:
+     Council of Ministers; appointed by the president
+Legislative branch:
+     bicameral Parliament (Parlamento)
+Senate (Senato della Repubblica):
+     elections last held 27-28 March 1994 (next expected to be held by
+     spring 2001); results - percent of vote by party NA; seats - (326
+     total; 315 elected, 11 appointed senators-for-life) PDS 61, Northern
+     League 60, National Alliance 48, Forza Italia 36, Popular Party 31,
+     Communist Refounding 18, Greens and The Network 13, Socialist Party
+     13, Christian Democratic Center 12, Democratic Alliance 8, Christian
+     Socialists 5, Pact for Italy 4, Radical Party 1, others 5
+Chamber of Deputies (Camera dei Deputati):
+     elections last held 27-28 March 1994 (next expected to be held by
+     spring 2001); results - percent of vote by party NA; seats - (630
+     total) Northern League 117, PDS 114, Forza Italia 113, National
+     Alliance 109, Communist Refounding 39, Christian Democratic Center 33,
+     Popular Party 33, Greens and The Network 20, Democratic Alliance 18,
+     Socialist Party 16, Pact for Italy 13, Christian Socialists 5
+Judicial branch:
+     Constitutional Court (Corte Costituzionale)
+Political parties and leaders:
+Rightists:
+     Forza Italia, Silvio BERLUSCONI; National Alliance (was Italian Social
+     Movement - MSI - until January 1994), Gianfranco FINI, party
+     secretary; Lega Nord (Northern League), Umberto BOSSI, president
+Leftists:
+     Democratic Party of the Left (PDS - was Communist Party, or PCI, until
+     January 1991), Achille OCCHETTO, secretary; Communist Refounding,
+     Fausto BERTINOTTI; Greens, Carlo RIPA di MEARA; Radical Party, Marco
+     PANNELLA; Italian Socialist Party, Ottaviano DELTURCO; The Network,
+     Leoluca ORLANDO; Christian Socialists, Ermanno GORRIERI
+Centrists:
+     Pact for Italy, Mario SEGNI; Popular Party, Rosa JERVOLINO; Christian
+     Democratic Center, Pier Ferdinando CASINI
+Other political or pressure groups:
+     the Roman Catholic Church; three major trade union confederations
+     (CGIL - formerly Communist dominated, CISL - Christian Democratic, and
+     UIL - Social Democratic, Socialist, and Republican); Italian
+     manufacturers and merchants associations (Confindustria,
+     Confcommercio); organized farm groups (Confcoltivatori,
+     Confagricoltura)
+Member of:
+     AfDB, AG (observer), Australia Group, AsDB, BIS, CCC, CDB
+     (non-regional), CE, CEI, CERN, COCOM, CSCE, EBRD, EC, ECE, ECLAC, EIB,
+     ESA, FAO, G-7, G-10, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA,
+     IFAD, IEA, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM,
+     ISO, ITU, LAIA (observer), LORCS, MINURSO, MTCR, NACC, NATO, NEA, NSG,
+     OAS (observer), OECD, ONUSAL, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO,
+     UNIFIL, UNIKOM, UNMOGIP, UNOSOM, UNTAC, UNTSO, UPU, WCL, WEU, WHO,
+     WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Boris BIANCHERI-CHIAPPORI
+ 
+ 
+chancery:
+     1601 Fuller Street NW, Washington, DC 20009
+telephone:
+     (202) 328-5500
+consulate(s) general:
+     Boston, Chicago, Houston, Miami, New York, Los Angeles, Philadelphia,
+     San Francisco
+consulate(s):
+     Detroit, New Orleans, and Newark (New Jersey)
+US diplomatic representation:
+chief of mission:
+     Ambassador Reginald BARTHOLOMEW
+embassy:
+     Via Veneto 119/A, 00187-Rome
+mailing address:
+     PSC 59, Box 100, Rome; APO AE 09624
+telephone:
+     [39] (6) 46741
+FAX:
+     [39] (6) 488-2672
+consulate(s) general:
+     Florence, Milan, Naples
+Flag:
+     three equal vertical bands of green (hoist side), white, and red;
+     similar to the flag of Ireland, which is longer and is green (hoist
+     side), white, and orange; also similar to the flag of the Cote
+     d'Ivoire, which has the colors reversed - orange (hoist side), white,
+     and green
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Since World War II the Italian economy has changed from one based on
+     agriculture into a ranking industrial economy, with approximately the
+     same total and per capita output as France and the UK. The country is
+     still divided into a developed industrial north, dominated by private
+     companies, and an undeveloped agricultural south, dominated by large
+     public enterprises. Services account for 48% of GDP, industry 35%,
+     agriculture 4%, and public administration 13%. Most raw materials
+     needed by industry and over 75% of energy requirements must be
+     imported. After growing at an annual average rate of 3% in 1983-90,
+     growth slowed to about 1% in 1991 and 1992 and fell by 0.7% in 1993.
+     In the second half of 1992, Rome became unsettled by the prospect of
+     not qualifying to participate in EC plans for economic and monetary
+     union later in the decade; thus it finally began to address its huge
+     fiscal imbalances. Thanks to the determination of Prime Ministers
+     AMATO and CIAMPI, the government adopted a fairly stringent budget for
+     1993 and 1994, abandoned its highly inflationary wage indexation
+     system, and started to scale back its extremely generous social
+     welfare programs, including pension and health care benefits. Monetary
+     officials were forced to withdraw the lira from the European monetary
+     system in September 1992 when it came under extreme pressure in
+     currency markets. For the 1990s, Italy faces the problems of
+     refurbishing a tottering communications system, curbing pollution in
+     major industrial centers, and adjusting to the new competitive forces
+     accompanying the ongoing economic integration of the European Union.
+National product:
+     GDP - purchasing power equivalent - $967.6 billion (1993)
+National product real growth rate:
+     -0.7% (1993)
+National product per capita:
+     $16,700 (1993)
+Inflation rate (consumer prices):
+     4.2% (1993)
+Unemployment rate:
+     11.3% (January 1994)
+Budget:
+revenues:
+     $302 billion
+expenditures:
+     $391 billion, including capital expenditures of $48 billion (1993
+     est.)
+Exports:
+     $178.2 billion (f.o.b., 1992)
+commodities:
+     metals, textiles and clothing, production machinery, motor vehicles,
+     transportation equipment, chemicals, other
+partners:
+     EC 58.3%, US 6.8%, OPEC 5.1% (1992)
+Imports:
+     $188.5 billion (f.o.b., 1992)
+commodities:
+     industrial machinery, chemicals, transport equipment, petroleum,
+     metals, food, agricultural products
+partners:
+     EC 58.8%, OPEC 6.1%, US 5.5% (1992)
+ 
+ 
+External debt:
+     $67 billion (1993 est.)
+Industrial production:
+     growth rate -2.8% (1993 est.); accounts for almost 35% of GDP
+Electricity:
+capacity:
+     58,000,000 kW
+production:
+     235 billion kWh
+consumption per capita:
+     4,060 kWh (1992)
+Industries:
+     machinery, iron and steel, chemicals, food processing, textiles, motor
+     vehicles, clothing, footwear, ceramics
+Agriculture:
+     accounts for about 4% of GDP and about 9.8% of the work force;
+     self-sufficient in foods other than meat, dairy products, and cereals;
+     principal crops - fruits, vegetables, grapes, potatoes, sugar beets,
+     soybeans, grain, olives; fish catch of 525,000 metric tons in 1990
+Illicit drugs:
+     important gateway country for Latin American cocaine and Southwest
+     Asian heroin entering the European market
+Economic aid:
+donor:
+     ODA and OOF commitments (1970-89),  $25.9 billion
+Currency:
+     1 Italian lira (Lit) = 100 centesimi
+Exchange rates:
+     Italian lire (Lit) per US$1 - 1,700.2 (January 1994), 1,573.7 (1993),
+     1,232.4 (1992), 1,240.6 (1991), 1,198.1 (1990), 1,372.1 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     20,011 km total; 16,066 km 1.435-meter government-owned standard gauge
+     (8,999 km electrified); 3,945 km privately owned - 2,100 km
+     1.435-meter standard gauge (1,155 km electrified) and 1,845 km
+     0.950-meter narrow gauge (380 km electrified)
+Highways:
+total:
+     298,000 km
+paved:
+     270,000 km (including nearly 7,000 km of expressways)
+unpaved:
+     gravel, crushed stone 23,000 km; earth 5,000 km
+Inland waterways:
+     2,400 km for various types of commercial traffic, although of limited
+     overall value
+Pipelines:
+     crude oil 1,703 km; petroleum products 2,148 km; natural gas 19,400 km
+Ports:
+     Cagliari (Sardinia), Genoa, La Spezia, Livorno, Naples, Palermo
+     (Sicily), Taranto, Trieste, Venice
+ 
+ 
+Merchant marine:
+     474 ships (1,000 GRT or over) totaling 6,055,779 GRT/8,924,779 DWT,
+     bulk 50, cargo 72, chemical tanker 34, combination bulk 1, combination
+     ore/oil 5, container 20, liquefied gas 39, multifunction large-load
+     carrier 1, oil tanker 129, passenger 8, refrigerated cargo 2,
+     roll-on/roll-off cargo 62, short-sea passenger 34, specialized tanker
+     10, vehicle carrier 7
+Airports:
+total:
+     137
+usable:
+     132
+with permanent-surface runways:
+     92
+with runways over 3,659 m:
+     2
+with runways 2,440-3,659 m:
+     36
+with runways 1,220-2,439 m:
+     39
+Telecommunications:
+     modern, well-developed, fast; 25,600,000 telephones; fully automated
+     telephone, telex, and data services; high-capacity cable and microwave
+     radio relay trunks; broadcast stations - 135 AM, 28 (1,840 repeaters)
+     FM, 83 (1,000 repeaters) TV; international service by 21 submarine
+     cables, 3 satellite earth stations operating in INTELSAT with 3
+     Atlantic Ocean antennas and 2 Indian Ocean antennas; also participates
+     in INMARSAT and EUTELSAT systems
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, Carabinieri
+Manpower availability:
+     males age 15-49 14,921,411; fit for military service 12,982,445; reach
+     military age (18) annually 403,017 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $16.1 billion, 1.3% of GDP (1992)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

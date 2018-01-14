@@ -1,0 +1,276 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0179
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Norfolk Island
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Norfolk Island 
+ 
+ 
+                              Norfolk Island
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of Australia)
+                                 Geography
+ 
+Location:
+     Southwestern Oceania, 1,575 km east of Australia in the South Pacific
+     Ocean
+Map references:
+     Oceania
+Area:
+total area:
+     34.6 sq km
+land area:
+     34.6 sq km
+comparative area:
+     about 0.2 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     32 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     subtropical, mild, little seasonal temperature variation
+Terrain:
+     volcanic formation with mostly rolling plains
+Natural resources:
+     fish
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     25%
+forest and woodland:
+     0%
+other:
+     75%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     subject to typhoons (especially May to July)
+ 
+ 
+international agreements:
+     NA
+ 
+                                  People
+ 
+Population:
+     2,710 (July 1994 est.)
+Population growth rate:
+     1.7% (1994 est.)
+Nationality:
+noun:
+     Norfolk Islander(s)
+adjective:
+     Norfolk Islander(s)
+Ethnic divisions:
+     descendants of the Bounty mutineers, Australian, New Zealander
+Religions:
+     Anglican 39%, Roman Catholic 11.7%, Uniting Church in Australia 16.4%,
+     Seventh-Day Adventist 4.4%, none 9.2%, unknown 16.9%, other 2.4%
+     (1986)
+Languages:
+     English (official), Norfolk a mixture of 18th century English and
+     ancient Tahitian
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Territory of Norfolk Island
+conventional short form:
+Digraph:
+     NF
+Type:
+     territory of Australia
+Capital:
+     Kingston (administrative center);  Burnt Pine (commercial center)
+Administrative divisions:
+     none (territory of Australia)
+Independence:
+     none (territory of Australia)
+National holiday:
+     Pitcairners Arrival Day Anniversary, 8 June (1856)
+Constitution:
+     Norfolk Island Act of 1979
+ 
+ 
+Legal system:
+     wide legislative and executive responsibility under the Norfolk Island
+     Act of 1979; Supreme Court
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by
+     Administrator A. G. KERR (since NA April 1992), who is appointed by
+     the Governor General of Australia
+head of government:
+     Assembly President David Ernest BUFFETT (since NA May 1992)
+cabinet:
+     Executive Council
+Legislative branch:
+     unicameral
+Legislative Assembly:
+     elections last held 1989 (held every three years); results - percent
+     of vote by party NA; seats - (9 total) percent of seats by party NA
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     NA
+Member of:
+     none
+Diplomatic representation in US:
+     none (territory of Australia)
+US diplomatic representation:
+     none (territory of Australia)
+Flag:
+     three vertical bands of green (hoist side), white, and green with a
+     large green Norfolk Island pine tree centered in the slightly wider
+     white band
+ 
+                                  Economy
+ 
+Overview:
+     The primary economic activity is tourism, which has brought a level of
+     prosperity unusual among inhabitants of the Pacific Islands. The
+     number of visitors has increased steadily over the years and reached
+     29,000 in FY89. Revenues from tourism have given the island a
+     favorable balance of trade and helped the agricultural sector to
+     become self-sufficient in the production of beef, poultry, and eggs.
+National product:
+     GDP $NA
+National product real growth rate:
+     NA%
+National product per capita:
+     $NA
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     NA%
+ 
+ 
+Budget:
+revenues:
+     $NA
+expenditures:
+     $4.2 million, including capital expenditures of $400,000 (1989 est.)
+Exports:
+     $1.7 million (f.o.b., FY86)
+commodities:
+     postage stamps, seeds of the Norfolk Island pine and Kentia palm,
+     small quantities of avocados
+partners:
+     Australia, Pacific Islands, NZ, Asia, Europe
+Imports:
+     $15.6 million (c.i.f., FY86)
+commodities:
+     NA
+partners:
+     Australia, Pacific Islands, NZ, Asia, Europe
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     7,000 kW
+production:
+     8 million kWh
+consumption per capita:
+     3,160 kWh (1990)
+Industries:
+     tourism
+Agriculture:
+     Norfolk Island pine seed, Kentia palm seed, cereals, vegetables,
+     fruit, cattle, poultry
+Economic aid:
+     none
+Currency:
+     1 Australian dollar ($A) = 100 cents
+Exchange rates:
+     Australian dollars ($A) per US$1 - 1.4364 (January 1994), 1.4704
+     (1993), 1.3600 (1992), 1.2835 (1991), 1.2799 (1990), 1.2618 (1989)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Highways:
+total:
+     80 km
+paved:
+     53 km
+unpaved:
+     earth, coral 27 km
+Ports:
+     none; loading jetties at Kingston and Cascade
+ 
+ 
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     1,500 radio receivers (1982); radio link service with Sydney; 987
+     telephones (1983); broadcast stations - 1 AM, no FM, no TV
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of Australia
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

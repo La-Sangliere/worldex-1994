@@ -1,0 +1,335 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0206
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Saint Vincent and the Grenadines
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Saint Vincent and the Grenadines 
+ 
+ 
+                     Saint Vincent and the Grenadines
+ 
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the eastern Caribbean Sea about three-fourths of the way
+     between Puerto Rico and Trinidad and Tobago
+Map references:
+     Central America and the Caribbean, South America, Standard Time Zones
+     of the World
+Area:
+total area:
+     340 sq km
+land area:
+     340 sq km
+comparative area:
+     slightly less than twice the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     84 km
+Maritime claims:
+contiguous zone:
+     24 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; little seasonal temperature variation; rainy season (May to
+     November)
+Terrain:
+     volcanic, mountainous; Soufriere volcano on the island of Saint
+     Vincent
+Natural resources:
+     negligible
+Land use:
+arable land:
+     38%
+permanent crops:
+     12%
+meadows and pastures:
+     6%
+forest and woodland:
+     41%
+other:
+     3%
+Irrigated land:
+     10 sq km (1989 est.)
+Environment:
+current issues:
+     pollution of coastal waters and shorelines from discharges by pleasure
+     yachts and other effluents
+ 
+ 
+natural hazards:
+     subject to hurricanes; Soufriere volcano is a constant threat
+international agreements:
+     party to - Law of the Sea, Ship Pollution, Whaling
+Note:
+     some islands of the Grenadines group are administered by Grenada
+ 
+                                  People
+ 
+Population:
+     115,437 (July 1994 est.)
+Population growth rate:
+     0.77% (1994 est.)
+Birth rate:
+     20.27 births/1,000 population (1994 est.)
+Death rate:
+     5.2 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -7.4 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     17.2 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     72.28 years
+male:
+     70.77 years
+female:
+     73.84 years (1994 est.)
+Total fertility rate:
+     2.08 children born/woman (1994 est.)
+Nationality:
+noun:
+     Saint Vincentian(s) or Vincentian(s)
+adjective:
+     Saint Vincentian or Vincentian
+Ethnic divisions:
+     black African descent, white, East Indian, Carib Indian
+Religions:
+     Anglican, Methodist, Roman Catholic, Seventh-Day Adventist
+Languages:
+     English, French patois
+Literacy:
+     age 15 and over having ever attended school (1970)
+total population:
+     96%
+male:
+     96%
+female:
+     96%
+Labor force:
+     67,000 (1984 est.)
+by occupation:
+     NA
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     VC
+Type:
+     constitutional monarchy
+Capital:
+     Kingstown
+Administrative divisions:
+     6 parishes; Charlotte, Grenadines, Saint Andrew, Saint David, Saint
+     George, Saint Patrick
+Independence:
+     27 October 1979 (from UK)
+National holiday:
+     Independence Day, 27 October (1979)
+Constitution:
+     27 October 1979
+Legal system:
+     based on English common law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by Governor
+     General David JACK (since 29 September 1989)
+head of government:
+     Prime Minister James F. MITCHELL (since 30 July 1984); Deputy Prime
+     Minister Allan C. CRUICKSHANK (since NA); note - governor general
+     appoints leader of the majority party to position of prime minister
+cabinet:
+     Cabinet; appointed by the governor general on the advice of the prime
+     minister
+Legislative branch:
+     unicameral
+House of Assembly:
+     elections last held 21 February 1994 (next to be held NA July 1999);
+     results - percent of vote by party NA; seats - (21 total; 15 elected
+     representatives and 6 appointed senators) NDP 10, MNU 2, SVLP 3
+Judicial branch:
+     Eastern Caribbean Supreme Court
+Political parties and leaders:
+     New Democratic Party (NDP), James (Son) MITCHELL; Saint Vincent Labor
+     Party (SVLP), Stanley JOHN; United People's Movement (UPM), Adrian
+     SAUNDERS; Movement for National Unity (MNU), Ralph GONSALVES; National
+     Reform Party (NRP), Joel MIGUEL
+Member of:
+     ACP, C, CARICOM, CDB, ECLAC, FAO, G-77, GATT, IBRD, ICAO, ICFTU, IDA,
+     IFAD, IMF, IMO, INTELSAT (nonsignatory user), INTERPOL, IOC, ITU,
+     LORCS, OAS, OECS, OPANAL, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WFTU,
+     WHO
+ 
+ 
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Kingsley C.A. LAYNE
+chancery:
+     1717 Massachusetts Avenue NW, Suite 102, Washington, DC 20036
+telephone:
+     (202) 462-7806 or 7846
+FAX:
+     (202) 462-7807
+US diplomatic representation:
+     no official presence since the Ambassador resides in Bridgetown
+     (Barbados)
+Flag:
+     three vertical bands of blue (hoist side), gold (double width), and
+     green; the gold band bears three green diamonds arranged in a V
+     pattern
+ 
+                                  Economy
+ 
+Overview:
+     Agriculture, dominated by banana production, is the most important
+     sector of the economy. The services sector, based mostly on a growing
+     tourist industry, is also important. The government has been
+     relatively unsuccessful at introducing new industries, and high
+     unemployment rates of 35%-40% continue.
+National product:
+     GDP - purchasing power equivalent - $215 million (1992 est.)
+National product real growth rate:
+     6.5% (1992 est.)
+National product per capita:
+     $2,000 (1992 est.)
+Inflation rate (consumer prices):
+     3.3% (1993 est.)
+Unemployment rate:
+     35%-40% (1992 est.)
+Budget:
+revenues:
+     $62 million
+expenditures:
+     $67 million, including capital expenditures of $21 million (1990 est.)
+Exports:
+     $77.5 million (f.o.b., 1992)
+commodities:
+     bananas, eddoes and dasheen (taro), arrowroot starch, tennis racquets
+partners:
+     UK 54%, CARICOM 34%, US 10%
+Imports:
+     $118.6 million (f.o.b., 1992)
+commodities:
+     foodstuffs, machinery and equipment, chemicals and fertilizers,
+     minerals and fuels
+partners:
+     US 36%, CARICOM 21%, UK 18%, Trinidad and Tobago 13%
+External debt:
+     $62.6 million (1992)
+ 
+ 
+Industrial production:
+     growth rate 0% (1989); accounts for 8% of GDP
+Electricity:
+capacity:
+     16,600 kW
+production:
+     64 million kWh
+consumption per capita:
+     555 kWh (1992)
+Industries:
+     food processing, cement, furniture, clothing, starch
+Agriculture:
+     accounts for 15% of GDP and 60% of labor force; provides bulk of
+     exports; products - bananas, coconuts, sweet potatoes, spices; small
+     numbers of cattle, sheep, hogs, goats; small fish catch used locally
+Illicit drugs:
+     transshipment point for South American drugs destined for the US and
+     Europe
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-87), $11 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $81
+     million
+Currency:
+     1 EC dollar (EC$) = 100 cents
+Exchange rates:
+     East Caribbean dollars (EC$) per US$1 - 2.70 (fixed rate since 1976)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     1,000 km
+paved:
+     300 km
+unpaved:
+     improved earth 400 km; unimproved earth 300 km
+Ports:
+     Kingstown
+Merchant marine:
+     555 ships (1,000 GRT or over) totaling 5,575,652 GRT/9,262,250 DWT,
+     bulk 96, cargo 280, chemical tanker 13, combination bulk 12,
+     combination ore/oil 2, container 31, liquefied gas 7, livestock
+     carrier 1, multi-function large load carrier 1, oil tanker 56,
+     passenger 2, passenger-cargo 5, refrigerated cargo 19,
+     roll-on/roll-off cargo 26, short-sea passenger 2, specialized tanker
+     1, vehicle carrier 1
+note:
+     China owns 5 ships, Croatia owns 58, Russia owns 16; a flag of
+     convenience registry
+Airports:
+total:
+     6
+ 
+ 
+usable:
+     6
+with permanent-surface runways:
+     5
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     islandwide fully automatic telephone system; 6,500 telephones; VHF/UHF
+     interisland links from Saint Vincent to the other islands of the
+     Grenadines and Barbados; new SHF links to Grenada and Saint Lucia;
+     broadcast stations - 2 AM, no FM, 1 TV (cable)
+ 
+                              Defense Forces
+ 
+Branches:
+     Royal Saint Vincent and the Grenadines Police Force, Coast Guard
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

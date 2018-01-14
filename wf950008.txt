@@ -1,0 +1,298 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0007
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Anguilla
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Anguilla 
+ 
+ 
+                                 Anguilla
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (dependent territory of the UK)
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the eastern Caribbean Sea, about 270 km east of Puerto
+     Rico
+Map references:
+     Central America and the Caribbean
+Area:
+total area:
+     91 sq km
+land area:
+     91 sq km
+comparative area:
+     about half the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     61 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     tropical; moderated by northeast trade winds
+Terrain:
+     flat and low-lying island of coral and limestone
+Natural resources:
+     negligible; salt, fish, lobster
+Land use:
+arable land:
+     NA%
+permanent crops:
+     NA%
+meadows and pastures:
+     NA%
+forest and woodland:
+     NA%
+other:
+     NA% (mostly rock with sparse scrub oak, few trees, some commercial
+     salt ponds)
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+ 
+ 
+natural hazards:
+     frequent hurricanes and other tropical storms (July to October)
+international agreements:
+     NA
+ 
+                                  People
+ 
+Population:
+     7,052 (July 1994 est.)
+Population growth rate:
+     0.67% (1994 est.)
+Birth rate:
+     24.25 births/1,000 population (1994 est.)
+Death rate:
+     8.08 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -9.5 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     17.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     73.99 years
+male:
+     71.21 years
+female:
+     76.8 years (1994 est.)
+Total fertility rate:
+     3.07 children born/woman (1994 est.)
+Nationality:
+noun:
+     Anguillan(s)
+adjective:
+     Anguillan
+Ethnic divisions:
+     black African
+Religions:
+     Anglican 40%, Methodist 33%, Seventh-Day Adventist 7%, Baptist 5%,
+     Roman Catholic 3%, other 12%
+Languages:
+     English (official)
+Literacy:
+     age 12 and over can read and write (1984)
+total population:
+     95%
+male:
+     95%
+female:
+     95%
+Labor force:
+     2,780 (1984)
+by occupation:
+     NA
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     AV
+Type:
+     dependent territory of the UK
+Capital:
+     The Valley
+Administrative divisions:
+     none (dependent territory of the UK)
+Independence:
+     none (dependent territory of the UK)
+National holiday:
+     Anguilla Day, 30 May
+Constitution:
+     Anguilla Constitutional Orders 1 April 1982; amended 1990
+Legal system:
+     based on English common law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by Governor
+     Alan W. SHAVE (since 14 August 1992)
+head of government:
+     Chief Minister Hubert HUGHES (since 16 March 1994)
+cabinet:
+      Executive Council; appointed by the governor from the elected members
+     of the House of Assembly
+Legislative branch:
+     unicameral
+House of Assembly:
+     elections last held 16 March 1994 (next to be held March 1999);
+     results - percent of vote by party NA; seats - (11 total, 7 elected)
+     ANA 2, AUP 2, ADP 2, independent 1
+Judicial branch:
+     High Court
+Political parties and leaders:
+     Anguilla National Alliance (ANA); Anguilla United Party (AUP), Hubert
+     HUGHES; Anguilla Democratic Party (ADP), Victor BANKS
+Member of:
+     CARICOM (observer), CDB, INTERPOL (subbureau)
+Diplomatic representation in US:
+     none (dependent territory of the UK)
+US diplomatic representation:
+     none (dependent territory of the UK)
+Flag:
+     two horizontal bands of white (top, almost triple width) and light
+     blue with three orange dolphins in an interlocking circular design
+     centered in the white band; a new flag may have been in use since 30
+     May 1990
+ 
+ 
+                                  Economy
+ 
+Overview:
+     Anguilla has few natural resources, and the economy depends heavily on
+     lobster fishing, offshore banking, tourism, and remittances from
+     emigrants. In recent years the economy has benefited from a boom in
+     tourism and construction. Development plans center around the
+     improvement of the infrastructure, particularly transport and tourist
+     facilities, and also light industry.
+National product:
+     GDP - exchange rate conversion - $56.5 million (1992 est.)
+National product real growth rate:
+     7.5% (1992 est.)
+National product per capita:
+     $6,800 (1991 est.)
+Inflation rate (consumer prices):
+     3% (1992 est.)
+Unemployment rate:
+     5% (1988 est.)
+Budget:
+revenues:
+     $13.8 million
+expenditures:
+     $15.2 million, including capital expenditures of $2.4 million (1992
+     est.)
+Exports:
+     $556,000 (f.o.b., 1992)
+commodities:
+     lobster and salt
+partners:
+     NA
+Imports:
+     $33.5 million (f.o.b., 1992)
+commodities:
+     NA
+partners:
+     NA
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     2,000 kW
+production:
+     6 million kWh
+consumption per capita:
+     862 kWh (1992)
+Industries:
+     tourism, boat building, salt
+Agriculture:
+     pigeon peas, corn, sweet potatoes, sheep, goats, pigs, cattle,
+     poultry, fishing (including lobster)
+ 
+ 
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $38 million
+Currency:
+     1 EC dollar (EC$) = 100 cents
+Exchange rates:
+     East Caribbean dollars (EC$) per US$1 - 2.70 (fixed rate since 1976)
+Fiscal year:
+     NA
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+paved:
+     60 km
+unpaved:
+     NA
+Ports:
+     Road Bay, Blowing Point
+Airports:
+total:
+     3
+usable:
+     2
+with permanent-surface runways:
+     1 (1,000 m at Wallblake Airport)
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     modern internal telephone system; 890 telephones; broadcast stations -
+     3 AM, 1 FM, no TV; radio relay microwave link to island of Saint
+     Martin
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

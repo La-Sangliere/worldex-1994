@@ -1,0 +1,264 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0236
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Tokelau
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Tokelau 
+ 
+ 
+                                  Tokelau
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of New Zealand)
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Polynesia, 3,750 km southwest of Honolulu in the South
+     Pacific Ocean, about halfway between Hawaii and New Zealand
+Map references:
+     Oceania
+Area:
+total area:
+     10 sq km
+land area:
+     10 sq km
+comparative area:
+     about 17 times the size of The Mall in Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     101 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; moderated by trade winds (April to November)
+Terrain:
+     coral atolls enclosing large lagoons
+Natural resources:
+     negligible
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     very limited natural resources and overcrowding are contributing to
+     emigration to New Zealand
+ 
+ 
+natural hazards:
+     lies in Pacific typhoon belt
+international agreements:
+     NA
+ 
+                                  People
+ 
+Population:
+     1,523 (July 1994 est.)
+Population growth rate:
+     -1.35% (1994 est.)
+Nationality:
+noun:
+     Tokelauan(s)
+adjective:
+     Tokelauan
+Ethnic divisions:
+     Polynesian
+Religions:
+     Congregational Christian Church 70%, Roman Catholic 28%, other 2%
+note:
+     on Atafu, all Congregational Christian Church of Samoa; on Nukunonu,
+     all Roman Catholic; on Fakaofo, both denominations, with the
+     Congregational Christian Church predominant
+Languages:
+     Tokelauan (a Polynesian language), English
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     TL
+Type:
+     territory of New Zealand
+Capital:
+     none; each atoll has its own administrative center
+Administrative divisions:
+     none (territory of New Zealand)
+Independence:
+     none (territory of New Zealand)
+ 
+ 
+National holiday:
+     Waitangi Day, 6 February (1840) (Treaty of Waitangi established
+     British sovereignty over New Zealand)
+Constitution:
+     administered under the Tokelau Islands Act of 1948, as amended in 1970
+Legal system:
+     British and local statutes
+Suffrage:
+     NA
+Executive branch:
+Chief of State:
+     Queen ELIZABETH II (since 6 February 1952)
+Head of Government:
+     Administrator Graham ANSELL (since NA 1990; appointed by the Minister
+     of Foreign Affairs in New Zealand); Official Secretary Casimilo J.
+     PEREZ (since NA), Office of Tokelau Affairs; Tokelau's governing
+     Council will elect its first head of government
+Legislative branch:
+     unicameral Council of Elders (Taupulega) on each atoll
+Judicial branch:
+     High Court in Niue, Supreme Court in New Zealand
+Political parties and leaders:
+     NA
+Member of:
+     SPC, WHO (associate)
+Diplomatic representation in US:
+     none (territory of New Zealand)
+US diplomatic representation:
+     none (territory of New Zealand)
+Flag:
+     the flag of New Zealand is used
+ 
+                                  Economy
+ 
+Overview:
+     Tokelau's small size, isolation, and lack of resources greatly
+     restrain economic development and confine agriculture to the
+     subsistence level. The people must rely on aid from New Zealand to
+     maintain public services, annual aid being substantially greater than
+     GDP. The principal sources of revenue come from sales of copra,
+     postage stamps, souvenir coins, and handicrafts. Money is also
+     remitted to families from relatives in New Zealand.
+National product:
+     GDP - exchange rate conversion - $1.4 million (1988 est.)
+National product real growth rate:
+     NA%
+National product per capita:
+     $800 (1988 est.)
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $430,830
+ 
+ 
+expenditures:
+     $2.8 billion, including capital expenditures of $37,300 (1987 est.)
+Exports:
+     $98,000 (f.o.b., 1983)
+commodities:
+     stamps, copra, handicrafts
+partners:
+     NZ
+Imports:
+     $323,400 (c.i.f., 1983)
+commodities:
+     foodstuffs, building materials, fuel
+partners:
+     NZ
+External debt:
+     $0
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     200 kW
+production:
+     300,000 kWh
+consumption per capita:
+     180 kWh (1990)
+Industries:
+     small-scale enterprises for copra production, wood work, plaited craft
+     goods; stamps, coins; fishing
+Agriculture:
+     coconuts, copra; basic subsistence crops - breadfruit, papaya,
+     bananas; pigs, poultry, goats
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $24 million
+Currency:
+     1 New Zealand dollar (NZ$) = 100 cents
+Exchange rates:
+     New Zealand dollars (NZ$) per US$1 - 1.7771 (January 1994), 1.8495
+     (1993), 1.8584 (1992), l.7265 (1991), 1.6750 (1990), 1.6708 (1989)
+Fiscal year:
+     1 April-31 March
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     none; offshore anchorage only
+ 
+ 
+Airports:
+     none; lagoon landings by amphibious aircraft from Western Samoa
+Telecommunications:
+     radiotelephone service between islands and to Western Samoa
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of New Zealand
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

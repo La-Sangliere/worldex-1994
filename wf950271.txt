@@ -1,0 +1,95 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT APP-D
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : Appendix D: Abbreviations for Selected International Environmental
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+ 
+6 April 1994
+ 
+     Appendix D:  Abbreviations for Selected International Environmental
+                  Agreements
+ 
+A  Air Pollution
+     Convention on Long-Range Transboundary Air Pollution
+   Air Pollution-Nitrogen Oxides
+     Convention on Long-Range Transboundary Air Pollution (Nitrogen
+     Oxides Protocol)
+   Air Pollution-Sulphur
+     Convention on Long-Range Transboundary Air Pollution (Sulphur
+     Protocol)
+   Air Pollution-Volatile Organic Compounds
+     Convention on Long-Range Transboundary Air Pollution (Volatile Organic
+     Compounds Protocol)
+   Antarctic-Environmental Protocol
+     Protocol on Environmental Protection to the Antarctic Treaty
+ 
+B  Biodiversity
+     Convention on Biological Diversity
+ 
+C  Climate Change
+     United Nations Framework Convention on Climate Change
+ 
+E  Endangered Species
+     Convention on the International Trade in Endangered Species of
+     Wild Flora and Fauna (CITES)
+   Environmental Modification
+     Convention on the Prohibition of Military or Any Other Hostile Use of
+     Environmental Modification Techniques
+ 
+H  Hazardous Wastes
+     Basel Convention on the Control of Transboundary Movements of
+     Hazardous Wastes and Their Disposal
+ 
+L  Law of the Sea
+     United Nations Convention on the Law of the Sea (LOS)
+ 
+M  Marine Dumping
+     Convention on the Prevention of Marine Pollution by Dumping Wastes and
+     Other Matter; note - also known as the London Convention
+   Marine Life Conservation
+     Convention on Fishing and Conservation of Living Resources of the High
+     Seas
+ 
+N  Nuclear Test Ban
+     Treaty Banning Nuclear Weapons Tests in the Atmosphere, in Outer
+     Space, and Under Water
+ 
+O  Ozone Layer Protection
+     Montreal Protocol on Substances That Deplete the Ozone Layer
+ 
+S  Ship Pollution
+     International Convention for the Prevention of Pollution From Ships
+     (MARPOL)
+ 
+T  Tropical Timber
+     International Tropical Timber Agreement
+ 
+W  Wetlands
+     Convention on Wetlands of International Importance Especially As
+     Waterfowl Habitat; note - also known as Ramsar
+   Whaling
+     International Convention for the Regulation of Whaling
+ 
+Note:  Not all of the selected international environmental agreements have
+       abbreviations.
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

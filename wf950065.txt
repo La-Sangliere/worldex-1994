@@ -1,0 +1,460 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0064
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Cyprus
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Cyprus 
+ 
+ 
+                                  Cyprus
+ 
+ 
+                                 Geography
+ 
+Location:
+     Middle East, in the eastern Mediterreanean Sea, 97 km west of Syria
+     and 64 km west of Turkey
+Map references:
+     Africa, Middle East, Standard Time Zones of the World
+Area:
+total area:
+     9,250 sq km
+land area:
+     9,240 sq km
+comparative area:
+     about 0.7 times the size of Connecticut
+Land boundaries:
+     0 km
+Coastline:
+     648 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+territorial sea:
+     12 nm
+International disputes:
+     1974 hostilities divided the island into two de facto autonomous
+     areas, a Greek area controlled by the Cypriot Government (60% of the
+     island's land area) and a Turkish-Cypriot area (35% of the island),
+     that are separated by a narrow UN buffer zone; in addition, there are
+     two UK sovereign base areas (about 5% of the island's land area)
+Climate:
+     temperate, Mediterranean with hot, dry summers and cool, wet winters
+Terrain:
+     central plain with mountains to north and south
+Natural resources:
+     copper, pyrites, asbestos, gypsum, timber, salt, marble, clay earth
+     pigment
+Land use:
+arable land:
+     40%
+permanent crops:
+     7%
+meadows and pastures:
+     10%
+forest and woodland:
+     18%
+other:
+     25%
+Irrigated land:
+     350 sq km (1989)
+ 
+ 
+Environment:
+current issues:
+     water resource problems (no natural reservoir catchments, seasonal
+     disparity in rainfall, and most potable resources concentrated in the
+     Turkish Cypriot area); water pollution from sewage and industrial
+     wastes; coastal degradation; loss of wildlife habitats from
+     urbanization
+natural hazards:
+     moderate earthquake activity
+international agreements:
+     party to - Air Pollution, Endangered Species, Environmental
+     Modification, Hazardous Wastes, Law of the Sea, Marine Dumping,
+     Nuclear Test Ban, Ozone Layer Protection, Ship Pollution; signed, but
+     not ratified - Biodiversity, Climate Change
+ 
+                                  People
+ 
+Population:
+     730,084 (July 1994 est.)
+Population growth rate:
+     0.91% (1994 est.)
+Birth rate:
+     16.69 births/1,000 population (1994 est.)
+Death rate:
+     7.61 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     76.22 years
+male:
+     73.97 years
+female:
+     78.58 years (1994 est.)
+Total fertility rate:
+     2.32 children born/woman (1994 est.)
+Nationality:
+noun:
+     Cypriot(s)
+adjective:
+     Cypriot
+Ethnic divisions:
+     Greek 78%, Turkish 18%, other 4%
+Religions:
+     Greek Orthodox 78%, Muslim 18%, Maronite, Armenian, Apostolic, and
+     other 4%
+Languages:
+     Greek, Turkish, English
+Literacy:
+     age 15 and over can read and write (1987 est.)
+total population:
+     94%
+ 
+ 
+male:
+     98%
+female:
+     91%
+Labor force:
+Greek area:
+     285,500
+by occupation:
+     services 57%, industry 29%, agriculture 14% (1992)
+Turkish area:
+     75,000
+by occupation:
+     services 52%, industry 22%, agriculture 26% (1992)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Cyprus
+conventional short form:
+Digraph:
+     CY
+Type:
+     republic
+note:
+     a disaggregation of the two ethnic communities inhabiting the island
+     began after the outbreak of communal strife in 1963; this separation
+     was further solidified following the Turkish invasion of the island in
+     July 1974, which gave the Turkish Cypriots de facto control in the
+     north; Greek Cypriots control the only internationally recognized
+     government; on 15 November 1983 Turkish Cypriot President Rauf
+     DENKTASH declared independence and the formation of a "Turkish
+     Republic of Northern Cyprus" (TRNC), which has been recognized only by
+     Turkey; both sides publicly call for the resolution of intercommunal
+     differences and creation of a new federal system of government
+Capital:
+     Nicosia
+Administrative divisions:
+     6 districts; Famagusta, Kyrenia, Larnaca, Limassol, Nicosia, Paphos
+Independence:
+     16 August 1960 (from UK)
+National holiday:
+     Independence Day, 1 October (15 November (1983) is celebrated as
+     Independence Day in the Turkish area)
+Constitution:
+     16 August 1960; negotiations to create the basis for a new or revised
+     constitution to govern the island and to better relations between
+     Greek and Turkish Cypriots have been held intermittently; in 1975
+     Turkish Cypriots created their own Constitution and governing bodies
+     within the "Turkish Federated State of Cyprus," which was renamed the
+     "Turkish Republic of Northern Cyprus" in 1983; a new Constitution for
+     the Turkish area passed by referendum in 5 May 1985
+Legal system:
+     based on common law, with civil law modifications
+ 
+ 
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President Glafkos CLERIDES (since 28 February 1993); election last
+     held 14 February 1993 (next to be held February 1998); results -
+     Glafkos CLERIDES 50.3%, George VASSILIOU 49.7%
+cabinet:
+     Council of Ministers; appointed jointly by the president and
+     vice-president
+note:
+     Rauf R. DENKTASH has been president of the Turkish area since 13
+     February 1975; Hakki ATUN has been prime minister of the Turkish area
+     since 1 January 1994; there is a Council of Ministers (cabinet) in the
+     Turkish area
+Legislative branch:
+     unicameral
+House of Representatives (Vouli Antiprosopon):
+     elections last held 19 May 1991 (next to be held NA); results - DISY
+     35.8%, AKEL (Communist) 30.6%, DIKO 19.5%, EDEK 10.9%; others 3.2%;
+     seats - (56 total) DISY 20, AKEL (Communist) 18, DIKO 11, EDEK 7
+Turkish Area: Assembly of the Republic (Cumhuriyet Meclisi):
+     elections last held 12 December 1993 (next to be held NA); results -
+     percent of vote by party NA; seats - (50 total) UBP (conservative) 17,
+     DP 15, CTP 13, TKP 5
+Judicial branch:
+     Supreme Court; note - there is also a Supreme Court in the Turkish
+     area
+Political parties and leaders:
+Greek Cypriot:
+     Progressive Party of the Working People (AKEL, Communist Party),
+     Dimitrios CHRISTOFIAS; Democratic Rally (DISY), John MATSIS;
+     Democratic Party (DIKO), Spyros KYPRIANOU; United Democratic Union of
+     the Center (EDEK), Vassos LYSSARIDIS; Socialist Democratic Renewal
+     Movement (ADISOK), Mikhalis PAPAPETROU; Liberal Party, Nikos ROLANDIS;
+     Free Democrats, George VASSILIOU
+Turkish area:
+     National Unity Party (UBP), Dervis EROGLU; Communal Liberation Party
+     (TKP), Mustafa AKINCI; Republican Turkish Party (CTP), Ozker OZGUR;
+     New Cyprus Party (YKP), Alpay DURDURAN; Social Democratic Party (SDP),
+     Ergun VEHBI; New Birth Party (YDP), Ali Ozkan ALTINISHIK; Free
+     Democratic Party (HDP), Ismet KOTAK; National Struggle Party (MSP),
+     Zorlu TORE; Unity and Sovereignty Party (USP), Arif Salih KIRDAG;
+     Democratic Party (DP), Hakki ATUN; Fatherland Party (VP), Orhan UCOK
+note:
+     CTP, TKP, and YDP joined in the coalition Democratic Struggle Party
+     (DMP) for the 22 April 1990 legislative election; the CTP and TKP
+     boycotted the by-election of 13 October 1991, in which 12 seats were
+     at stake; the DMP was dissolved after the 1990 election
+ 
+ 
+Other political or pressure groups:
+     United Democratic Youth Organization (EDON, Communist controlled);
+     Union of Cyprus Farmers (EKA, Communist controlled); Cyprus Farmers
+     Union (PEK, pro-West); Pan-Cyprian Labor Federation (PEO, Communist
+     controlled); Confederation of Cypriot Workers (SEK, pro-West);
+     Federation of Turkish Cypriot Labor Unions (Turk-Sen); Confederation
+     of Revolutionary Labor Unions (Dev-Is)
+Member of:
+     C, CCC, CE, CSCE, EBRD, ECE, FAO, G-77, GATT, IAEA, IBRD, ICAO, ICC,
+     ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL,
+     IOC, IOM, ISO, ITU, NAM, OAS (observer), UN, UNCTAD, UNESCO, UNIDO,
+     UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Andreas JACOVIDES
+chancery:
+     2211 R Street NW, Washington, DC 20008
+telephone:
+     (202) 462-5772
+consulate(s) general:
+     New York
+note:
+     Representative of the Turkish area in the US is Namik KORMAN, office
+     at 1667 K Street NW, Washington DC, telephone (202) 887-6198
+US diplomatic representation:
+chief of mission:
+     Ambassador Richard BOUCHER
+embassy:
+     corner of Metochiou and Ploutarchou Streets, Nicosia
+mailing address:
+     APO AE 09836
+telephone:
+     [357] (2) 476100
+FAX:
+     [357] (2) 465944
+Flag:
+     white with a copper-colored silhouette of the island (the name Cyprus
+     is derived from the Greek word for copper) above two green crossed
+     olive branches in the center of the flag; the branches symbolize the
+     hope for peace and reconciliation between the Greek and Turkish
+     communities
+note:
+     the Turkish Cypriot flag has a horizontal red stripe at the top and
+     bottom with a red crescent and red star on a white field
+ 
+                                  Economy
+ 
+ 
+Overview:
+     The Greek Cypriot economy is small, diversified, and prosperous.
+     Industry contributes 16% to GDP and employs 29% of the labor force,
+     while the service sector contributes 60% to GDP and employs 57% of the
+     labor force. An average 6.8% rise in real GDP between 1986 and 1990
+     was temporarily checked in 1991, because of the adverse effects of the
+     Gulf War on tourism. Economic growth surged again in 1992, bolstered
+     by strong foreign and domestic demand. As the economy gained momentum,
+     however, it began to overheat; inflation reached 6.5%. The economy has
+     likely recorded a sharp drop in growth in 1993, due to the recession
+     in Western Europe, Cyprus' main trading partner, but probably will
+     pick up again in 1994. The Turkish Cypriot economy has less than
+     one-third the per capita GDP in the south. Because it is recognized
+     only by Turkey, it has had much difficulty arranging foreign
+     financing, and foreign firms have hesitated to invest there. The
+     economy remains heavily dependent on agriculture, which employs more
+     than one-quarter of the workforce. Moreover, because the Turkish lira
+     is legal tender, the Turkish Cypriot economy has suffered the same
+     high inflation as mainland Turkey. To compensate for the economy's
+     weakness, Turkey provides direct and indirect aid to nearly every
+     sector; financial support has reached about one-third of Turkish
+     Cypriot GDP.
+National product:
+Greek area:
+     GDP - purchasing power equivalent - $6.7 billion (1992)
+Turkish area:
+     GDP - purchasing power equivalent - $550 million (1992)
+National product real growth rate:
+Greek area:
+     8.2% (1992)
+Turkish area:
+     7.3% (1992)
+National product per capita:
+Greek area:
+     $11,390 (1992)
+Turkish area:
+     $3,130 (1992)
+Inflation rate (consumer prices):
+Greek area:
+     6.5% (1992)
+Turkish area:
+     63.4% (1992)
+Unemployment rate:
+Greek area:
+     1.8% (1992)
+Turkish area:
+     1.2% (1992)
+Budget:
+revenues:
+     Greek area - $1.7 billion
+     Turkish area -  $273 million
+expenditures:
+     Greek area - $2.2 billion, including capital expenditures of $350
+     million
+ 
+ 
+     Turkish area - $360 million, including capital expenditures of $78
+     million (1994)
+Exports:
+     $1.1 billion (f.o.b., 1993 est.)
+commodities:
+     citrus, potatoes, grapes, wine, cement, clothing and shoes
+partners:
+     UK 19%, Greece 8%, Lebanon 2%, Egypt 7%
+Imports:
+     $3.3 billion (f.o.b., 1993 est.)
+commodities:
+     consumer goods, petroleum and lubricants, food and feed grains,
+     machinery
+partners:
+     UK 11%, Japan 11%, Italy 10%, Germany 9%, US 8%
+External debt:
+     $1.6 billion (1992)
+Industrial production:
+     growth rate 4% (1993 est.); accounts for 16.0% of GDP
+Electricity:
+capacity:
+     620,000 kW
+production:
+     1.77 billion kWh
+consumption per capita:
+     2,530 kWh (1991)
+Industries:
+     food, beverages, textiles, chemicals, metal products, tourism, wood
+     products
+Agriculture:
+     contributes 7% to GDP and employs 26% of labor force in the south;
+     major crops - potatoes, vegetables, barley, grapes, olives, citrus
+     fruits; vegetables and fruit provide 25% of export revenues
+Illicit drugs:
+     transit point for heroin via air routes and container traffic to
+     Europe, especially from Lebanon and Turkey
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $292 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $250
+     million; OPEC bilateral aid (1979-89), $62 million; Communist
+     countries (1970-89), $24 million
+Currency:
+     1 Cypriot pound (#C) = 100 cents; 1 Turkish lira (TL) = 100 kurus
+Exchange rates:
+     Cypriot pounds per $US1 - 0.5148 (December 1993), 0.4970 (1993),
+     0.4502 (1992), 0.4615 (1991), 0.4572 (1990), 0.4933 (1989); Turkish
+     liras (TL) per US$1 - 15,196.1 (January 1994), 10,983.3 (1993),
+     6,872.4 (1992), 4,171.8 (1991), 2,608.6 (1990), 2,121.7 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+ 
+Highways:
+total:
+     10,780 km
+paved:
+     5,170 km
+unpaved:
+     gravel, crushed stone, earth 5,610 km
+Ports:
+     Famagusta, Kyrenia, Larnaca, Limassol, Paphos
+Merchant marine:
+     1,399 ships (1,000 GRT or over) totaling 22,743,484 GRT/39,874,985
+     DWT, bulk 469, cargo 496, chemical tanker 27, combination bulk 48,
+     combination ore/oil 32, container 82, liquefied gas 3, multifunction
+     large load carrier 4, oil tanker 122, passenger 4, passenger-cargo 2,
+     railcar carrier 1, refrigerated cargo 67, roll-on/roll-off cargo 24,
+     short-sea passenger 12, specialized tanker 3, vehicle carrier 3
+note:
+     a flag of convenience registry; Cuba owns 26 of these ships, Russia
+     owns 61, Latvia owns 7, Croatia owns 2, and Romania owns 4
+Airports:
+total:
+     14
+usable:
+     14
+with permanent-surface runways:
+     11
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     7
+with runways 1,220-2,439 m:
+     2
+Telecommunications:
+     excellent in both the area controlled by the Cypriot Government (Greek
+     area), and in the Turkish-Cypriot administered area; 210,000
+     telephones; largely open-wire and microwave radio relay; broadcast
+     stations - 11 AM, 8 FM, 1 (34 repeaters) TV in Greek sector and 2 AM,
+     6 FM and 1 TV in Turkish sector; international service by tropospheric
+     scatter, 3 submarine cables, and satellite earth stations - 1 Atlantic
+     Ocean INTELSAT, 1 Indian Ocean INTELSAT and EUTELSAT earth stations
+ 
+                              Defense Forces
+ 
+Branches:
+Greek area:
+     Greek Cypriot National Guard (GCNG; including air and naval elements),
+     Greek Cypriot Police
+Turkish area:
+     Turkish Cypriot Security Force
+Manpower availability:
+     males age 15-49 186,807; fit for military service 128,444; reach
+     military age (18) annually 5,233 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $407 million, 6.5% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

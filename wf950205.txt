@@ -1,0 +1,330 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0204
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Saint Lucia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Saint Lucia 
+ 
+ 
+                                Saint Lucia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the eastern Caribbean Sea, about two-thirds of the way
+     between Puerto Rico and Trinidad and Tobago
+Map references:
+     Central America and the Caribbean, South America, Standard Time Zones
+     of the World
+Area:
+total area:
+     620 sq km
+land area:
+     610 sq km
+comparative area:
+     slightly less than 3.5 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     158 km
+Maritime claims:
+contiguous zone:
+     24 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical, moderated by northeast trade winds; dry season from January
+     to April, rainy season from May to August
+Terrain:
+     volcanic and mountainous with some broad, fertile valleys
+Natural resources:
+     forests, sandy beaches, minerals (pumice), mineral springs, geothermal
+     potential
+Land use:
+arable land:
+     8%
+permanent crops:
+     20%
+meadows and pastures:
+     5%
+forest and woodland:
+     13%
+other:
+     54%
+Irrigated land:
+     10 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; soil erosion
+natural hazards:
+     subject to hurricanes and volcanic activity
+ 
+ 
+international agreements:
+     party to - Biodiversity, Climate Change, Environmental Modification,
+     Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer
+     Protection, Whaling
+ 
+                                  People
+ 
+Population:
+     145,090 (July 1994 est.)
+Population growth rate:
+     0.52% (1994 est.)
+Birth rate:
+     23.12 births/1,000 population (1994 est.)
+Death rate:
+     5.84 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -12.05 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     18.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     69.36 years
+male:
+     67.06 years
+female:
+     71.83 years (1994 est.)
+Total fertility rate:
+     2.5 children born/woman (1994 est.)
+Nationality:
+noun:
+     Saint Lucian(s)
+adjective:
+     Saint Lucian
+Ethnic divisions:
+     African descent 90.3%, mixed 5.5%, East Indian 3.2%, Caucasian 0.8%
+Religions:
+     Roman Catholic 90%, Protestant 7%, Anglican 3%
+Languages:
+     English (official), French patois
+Literacy:
+     age 15 and over having ever attended school (1980)
+total population:
+     67%
+male:
+     65%
+female:
+     69%
+Labor force:
+     43,800
+by occupation:
+     agriculture 43.4%, services 38.9%, industry and commerce 17.7% (1983
+     est.)
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     ST
+Type:
+     parliamentary democracy
+Capital:
+     Castries
+Administrative divisions:
+     11 quarters; Anse La Raye, Castries, Choiseul, Dauphin, Dennery, Gros
+     Islet, Laborie, Micoud, Praslin, Soufriere, Vieux Fort
+Independence:
+     22 February 1979 (from UK)
+National holiday:
+     Independence Day, 22 February (1979)
+Constitution:
+     22 February 1979
+Legal system:
+     based on English common law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by Governor
+     General Sir Stanislaus Anthony JAMES (since 10 October 1988)
+head of government:
+     Prime Minister John George Melvin COMPTON (since 3 May 1982); Vice
+     President George MALLET (since NA)
+cabinet:
+     Cabinet; appointed by the governor general on advice of the prime
+     minister
+Legislative branch:
+     bicameral Parliament
+Senate:
+     consists of an 11-member body, 6 appointed on the advice of the prime
+     minister, 3 on the advice of the leader of the opposition, and 2 after
+     consultation with religious, economic, and social groups
+House of Assembly:
+     elections last held 27 April 1992 (next to be held by April 1997);
+     results - percent of vote by party NA; seats - (17 total) UWP 11, SLP
+     6
+Judicial branch:
+     Eastern Caribbean Supreme Court
+Political parties and leaders:
+     United Workers' Party (UWP), John COMPTON; Saint Lucia Labor Party
+     (SLP), Julian HUNTE; Progressive Labor Party (PLP), George ODLUM
+Member of:
+     ACCT (associate), ACP, C, CARICOM, CDB, ECLAC, FAO, G-77, GATT, IBRD,
+     ICAO, ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INTELSAT (nonsignatory
+     user), INTERPOL, LORCS, NAM, OAS, OECS, UN, UNCTAD, UNESCO, UNIDO,
+     UPU, WCL, WHO, WIPO, WMO
+ 
+ 
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Dr. Joseph Edsel EDMUNDS
+chancery:
+     Suite 309, 2100 M Street NW, Washington, DC 30037
+telephone:
+     (202) 463-7378 or 7379
+FAX:
+     (202) 887-5746
+consulate(s) general:
+     New York
+US diplomatic representation:
+     no official presence since the Ambassador resides in Bridgetown
+     (Barbados)
+Flag:
+     blue with a gold isosceles triangle below a black arrowhead; the upper
+     edges of the arrowhead have a white border
+ 
+                                  Economy
+ 
+Overview:
+     Since 1983 the economy has shown an impressive average annual growth
+     rate of almost 5% because of strong agricultural and tourist sectors.
+     Saint Lucia also possesses an expanding industrial base supported by
+     foreign investment in manufacturing and other activities, such as data
+     processing. The economy, however, remains vulnerable because the
+     important agricultural sector is dominated by banana production, which
+     is subject to periodic droughts and tropical storms. The economy
+     exhibited relatively strong growth in 1992-93 based on a recovery of
+     the agricultural and manufacturing sectors and continued growth in
+     construction and tourism.
+National product:
+     GDP - exchange rate conversion - $433 million (1993 est.)
+National product real growth rate:
+     6.6% (1992 est.)
+National product per capita:
+     $3,000 (1993 est.)
+Inflation rate (consumer prices):
+     5.1% (1992)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $121 million
+expenditures:
+     $127 million, including capital expenditures of $104 million (1992
+     est.)
+Exports:
+     $122.8 million (f.o.b., 1992)
+commodities:
+     bananas 60%, clothing, cocoa, vegetables, fruits, coconut oil
+partners:
+     UK 56%, US 22%, CARICOM 19% (1991)
+Imports:
+     $276 million (f.o.b., 1992)
+ 
+ 
+commodities:
+     manufactured goods 21%, machinery and transportation equipment 21%,
+     food and live animals, chemicals, fuels
+partners:
+     US 34%, CARICOM 17%, UK 14%, Japan 7%, Canada 4% (1991)
+External debt:
+     $96.4 million (1992 est.)
+Industrial production:
+     growth rate 3.5% (1990 est.); accounts for 12% of GDP
+Electricity:
+capacity:
+     32,500 kW
+production:
+     112 million kWh
+consumption per capita:
+     740 kWh (1992)
+Industries:
+     clothing, assembly of electronic components, beverages, corrugated
+     cardboard boxes, tourism, lime processing, coconut processing
+Agriculture:
+     accounts for 14% of GDP and 43% of labor force; crops - bananas,
+     coconuts, vegetables, citrus fruit, root crops, cocoa; imports food
+     for the tourist industry
+Illicit drugs:
+     transit country for South American drugs destined for the US and
+     Europe
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $120 million
+Currency:
+     1 EC dollar (EC$) = 100 cents
+Exchange rates:
+     East Caribbean dollars (EC$) per US$1 - 2.70 (fixed rate since 1976)
+ 
+                              Communications
+ 
+Highways:
+total:
+     760 km
+paved:
+     500 km
+unpaved:
+     otherwise improved  260 km
+Ports:
+     Castries, Vieux Fort
+Airports:
+total:
+     3
+usable:
+     3
+with permanent-surface runways:
+     3
+with runways over 3,659 m:
+     0
+ 
+ 
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     fully automatic telephone system; 9,500 telephones; direct microwave
+     link with Martinique and Saint Vincent and the Grenadines; interisland
+     troposcatter link to Barbados; broadcast stations - 4 AM, 1 FM, 1 TV
+     (cable)
+ 
+                              Defense Forces
+ 
+Branches:
+     Royal Saint Lucia Police Force, Coast Guard
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,277 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0259
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Western Sahara
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Western Sahara 
+ 
+ 
+                              Western Sahara
+ 
+ 
+                                 Geography
+ 
+Location:
+     Northern Africa, along the Atlantic Ocean, between Morocco and
+     Mauritania
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     266,000 sq km
+land area:
+     266,000 sq km
+comparative area:
+     slightly smaller than Colorado
+Land boundaries:
+     total 2,046 km, Algeria 42 km, Mauritania 1,561 km, Morocco 443 km
+Coastline:
+     1,110 km
+Maritime claims:
+     contingent upon resolution of sovereignty issue
+International disputes:
+     claimed and administered by Morocco, but sovereignty is unresolved and
+     the UN is attempting to hold a referendum on the issue; the
+     UN-administered cease-fire has been currently in effect since
+     September 1991
+Climate:
+     hot, dry desert; rain is rare; cold offshore air currents produce fog
+     and heavy dew
+Terrain:
+     mostly low, flat desert with large areas of rocky or sandy surfaces
+     rising to small mountains in south and northeast
+Natural resources:
+     phosphates, iron ore
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     19%
+forest and woodland:
+     0%
+other:
+     81%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     sparse water and arable land
+natural hazards:
+     hot, dry, dust/sand-laden sirocco wind can occur during winter and
+     spring; widespread harmattan haze exists 60% of time, often severely
+     restricting visibility
+ 
+ 
+international agreements:
+     NA
+ 
+                                  People
+ 
+Population:
+     211,877 (July 1994 est.)
+Population growth rate:
+     2.5% (1994 est.)
+Birth rate:
+     47.22 births/1,000 population (1994 est.)
+Death rate:
+     19.04 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -3.21 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     152.2 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     45.59 years
+male:
+     44.66 years
+female:
+     46.83 years (1994 est.)
+Total fertility rate:
+     6.96 children born/woman (1994 est.)
+Nationality:
+noun:
+     Sahrawi(s), Sahraoui(s)
+adjective:
+     Sahrawian, Sahraouian
+Ethnic divisions:
+     Arab, Berber
+Religions:
+     Muslim
+Languages:
+     Hassaniya Arabic, Moroccan Arabic
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     12,000
+by occupation:
+     animal husbandry and subsistence farming 50%
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+ 
+ 
+conventional short form:
+Digraph:
+     WI
+Type:
+     legal status of territory and question of sovereignty unresolved;
+     territory contested by Morocco and Polisario Front (Popular Front for
+     the Liberation of the Saguia el Hamra and Rio de Oro), which in
+     February 1976 formally proclaimed a government in exile of the Sahrawi
+     Arab Democratic Republic (SADR); territory partitioned between Morocco
+     and Mauritania in April 1976, with Morocco acquiring northern
+     two-thirds; Mauritania, under pressure from Polisario guerrillas,
+     abandoned all claims to its portion in August 1979; Morocco moved to
+     occupy that sector shortly thereafter and has since asserted
+     administrative control; the Polisario's government in exile was seated
+     as an OAU member in 1984; guerrilla activities continued sporadically,
+     until a UN-monitored cease-fire was implemented 6 September 1991
+Capital:
+     none
+Administrative divisions:
+     none (under de facto control of Morocco)
+Executive branch:
+     none
+Member of:
+     none
+Diplomatic representation in US:
+     none
+US diplomatic representation:
+     none
+ 
+                                  Economy
+ 
+Overview:
+     Western Sahara, a territory poor in natural resources and having
+     little rainfall, has a per capita GDP of roughly $300. Pastoral
+     nomadism, fishing, and phosphate mining are the principal sources of
+     income for the population. Most of the food for the urban population
+     must be imported. All trade and other economic activities are
+     controlled by the Moroccan Government.
+National product:
+     GDP - exchange rate conversion - $60 million (1991 est.)
+National product real growth rate:
+     NA%
+National product per capita:
+     $300 (1991 est.)
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+ 
+ 
+Exports:
+     $8 million (f.o.b., 1982 est.)
+commodities:
+     phosphates 62%
+partners:
+     Morocco claims and administers Western Sahara, so trade partners are
+     included in overall Moroccan accounts
+Imports:
+     $30 million (c.i.f., 1982 est.)
+commodities:
+     fuel for fishing fleet, foodstuffs
+partners:
+     Morocco claims and administers Western Sahara, so trade partners are
+     included in overall Moroccan accounts
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     60,000 kW
+production:
+     79 million kWh
+consumption per capita:
+     425 kWh (1989)
+Industries:
+     phosphate mining, fishing, handicrafts
+Agriculture:
+     limited largely to subsistence agriculture; some barley is grown in
+     nondrought years; fruit and vegetables are grown in the few oases;
+     food imports are essential; camels, sheep, and goats are kept by the
+     nomadic natives; cash economy exists largely for the garrison forces
+Economic aid:
+     $NA
+Currency:
+     1 Moroccan dirham (DH) = 100 centimes
+Exchange rates:
+     Moroccan dirhams (DH) per US$1 - 9.669 (January 1994), 9.299 (1993),
+     8.538 (1992), 8.707 (1991), 8.242 (1990), 8.488 (1989)
+Fiscal year:
+     NA
+ 
+                              Communications
+ 
+Highways:
+total:
+     6,200 km
+unpaved:
+     gravel 1,450 km; improved, unimproved earth, tracks 4,750 km
+Ports:
+     El Aaiun, Ad Dakhla
+Airports:
+total:
+     14
+ 
+ 
+usable:
+     14
+with permanent-surface runways:
+     3
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     3
+with runways 1,220-2,439 m:
+     5
+Telecommunications:
+     sparse and limited system; tied into Morocco's system by microwave
+     radio relay, troposcatter, and 2 Atlantic Ocean INTELSAT earth
+     stations linked to Rabat, Morocco; 2,000 telephones; broadcast
+     stations - 2 AM, no FM, 2 TV
+ 
+                              Defense Forces
+ 
+Branches:
+     NA
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

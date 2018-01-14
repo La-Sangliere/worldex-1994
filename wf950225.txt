@@ -1,0 +1,409 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0224
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Sudan
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Sudan 
+ 
+ 
+                                   Sudan
+ 
+ 
+                                 Geography
+ 
+Location:
+     Northern Africa, along the Red Sea, between Egypt and Eritrea
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     2,505,810 sq km
+land area:
+     2.376 million sq km
+comparative area:
+     slightly more than one-quarter the size of the US
+Land boundaries:
+     total 7,687 km, Central African Republic 1,165 km, Chad 1,360 km,
+     Egypt 1,273 km, Eritrea 605 km, Ethiopia 1,606 km, Kenya 232 km, Libya
+     383 km, Uganda 435 km, Zaire 628 km
+Coastline:
+     853 km
+Maritime claims:
+contiguous zone:
+     18 nm
+continental shelf:
+     200-m depth or to depth of exploitation
+territorial sea:
+     12 nm
+International disputes:
+     administrative boundary with Kenya does not coincide with
+     international boundary; administrative boundary with Egypt does not
+     coincide with international boundary creating the "Hala'ib Triangle,"
+     a barren area of 20,580 sq km, the dispute over this area escalated in
+     1993, this area continues to be in dispute
+Climate:
+     tropical in south; arid desert in north; rainy season (April to
+     October)
+Terrain:
+     generally flat, featureless plain; mountains in east and west
+Natural resources:
+     small reserves of petroleum, iron ore, copper, chromium ore, zinc,
+     tungsten, mica, silver
+Land use:
+arable land:
+     5%
+permanent crops:
+     0%
+meadows and pastures:
+     24%
+forest and woodland:
+     20%
+other:
+     51%
+Irrigated land:
+     18,900 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     contaminated water supplies present human health risks; wildlife
+     populations threatened by excessive hunting; soil erosion;
+     desertification
+natural hazards:
+     dust storms
+international agreements:
+     party to - Climate Change, Endangered Species, Law of the Sea, Nuclear
+     Test Ban, Ozone Layer Protection; signed, but not ratified -
+     Biodiversity
+Note:
+     largest country in Africa; dominated by the Nile and its tributaries
+ 
+                                  People
+ 
+Population:
+     29,419,798 (July 1994 est.)
+Population growth rate:
+     2.36% (1994 est.)
+Birth rate:
+     41.95 births/1,000 population (1994 est.)
+Death rate:
+     12.09 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -6.25 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     79.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     54.27 years
+male:
+     53.4 years
+female:
+     55.19 years (1994 est.)
+Total fertility rate:
+     6.09 children born/woman (1994 est.)
+Nationality:
+noun:
+     Sudanese (singular and plural)
+adjective:
+     Sudanese
+Ethnic divisions:
+     black 52%, Arab 39%, Beja 6%, foreigners 2%, other 1%
+Religions:
+     Sunni Muslim 70% (in north), indigenous beliefs 25%, Christian 5%
+     (mostly in south and Khartoum)
+Languages:
+     Arabic (official), Nubian, Ta Bedawie, diverse dialects of Nilotic,
+     Nilo-Hamitic, Sudanic languages, English
+note:
+     program of Arabization in process
+Literacy:
+     age 15 and over can read and write (1990 est.)
+ 
+ 
+total population:
+     27%
+male:
+     43%
+female:
+     12%
+Labor force:
+     6.5 million
+by occupation:
+     agriculture 80%, industry and commerce 10%, government 6%
+note:
+     labor shortages for almost all categories of skilled employment (1983
+     est.); 52% of population of working age (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of the Sudan
+conventional short form:
+local long form:
+     Jumhuriyat as-Sudan
+local short form:
+     As-Sudan
+former:
+     Anglo-Egyptian Sudan
+Digraph:
+     SU
+Type:
+     ruling military junta - Revolutionary Command Council - dissolved on
+     16 October 1993 and government civilianized
+Capital:
+     Khartoum
+Administrative divisions:
+     9 states (wilayat, singular - wilayat or wilayah*); A'ali an Nil, Al
+     Wusta*, Al Istiwa'iyah*, Al Khartum, Ash Shamaliyah*, Ash Sharqiyah*,
+     Bahr al Ghazal, Darfur, Kurdufan
+Independence:
+     1 January 1956 (from Egypt and UK)
+National holiday:
+     Independence Day, 1 January (1956)
+Constitution:
+     12 April 1973, suspended following coup of 6 April 1985; interim
+     constitution of 10 October 1985 suspended following coup of 30 June
+     1989
+Legal system:
+     based on English common law and Islamic law; as of 20 January 1991,
+     the now defunct Revolutionary Command Council imposed Islamic law in
+     the northern states; the council is still studying criminal provisions
+     under Islamic law; Islamic law applies to all residents of the six
+     northern states regardless of their religion; some separate religious
+     courts; accepts compulsory ICJ jurisdiction, with reservations
+Suffrage:
+     none
+ 
+ 
+Executive branch:
+Chief of State and Head of Government:
+     President Lt. General Umar Hasan Ahmad al-BASHIR (since 16 October
+     1993); prior to 16 October 1993, BASHIR served concurrently as Chief
+     of State, Chairman of the RCC, Prime Minister, and Minister of Defence
+     (since 30 June 1989);  Vice President Major General al-Zubayr Muhammad
+     SALIH (since 19 October 1993); note - upon its dissolution on 16
+     October 1993, the RCC's executive and legislative powers were devolved
+     to the President and the Transitional National Assembly (TNA), Sudan's
+     appointed legislative body
+cabinet:
+     Cabinet; appointed by the president; note - on 30 October 1993
+     President BASHIR announced a new, predominantly civilian cabinet,
+     consisting of 20 federal ministers, most of whom retained their
+     previous cabinet positions
+note:
+     Lt. Gen. BASHIR's government is dominated by members of Sudan's
+     National Islamic Front, a fundamentalist political organization formed
+     from the Muslim Brotherhood in 1986; front leader Hasan al-TURABI
+     controls Khartoum's overall domestic and foreign policies
+Legislative branch:
+     appointed 300-member Transitional National Assembly; officially
+     assumes all legislative authority for Sudan until the eventual,
+     unspecified resumption of national elections
+Judicial branch:
+     Supreme Court, Special Revolutionary Courts
+Political parties and leaders:
+     none; banned following 30 June 1989 coup
+Other political or pressure groups:
+     National Islamic Front, Hasan al-TURABI
+Member of:
+     ABEDA, ACP, AfDB, AFESD, AL, AMF, CAEU, CCC, ECA, FAO, G-77, IAEA,
+     IBRD, ICAO, IDA, IFAD, IFC, IGADD, ILO, IMF, IMO, INTELSAT, INTERPOL,
+     IOC, ITU, LORCS, NAM, OAU, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU,
+     WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Ahmad SULAYMAN
+chancery:
+     2210 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 338-8565 through 8570
+FAX:
+     (202) 667-2406
+US diplomatic representation:
+chief of mission:
+     Ambassador Donald K. PETTERSON
+embassy:
+     Shar'ia Ali Abdul Latif, Khartoum
+mailing address:
+     P. O. Box 699, Khartoum, or APO AE 09829
+telephone:
+     74700 or 74611
+FAX:
+     Telex 22619 AMEM SD
+ 
+ 
+Flag:
+     three equal horizontal bands of red (top), white, and black with a
+     green isosceles triangle based on the hoist side
+ 
+                                  Economy
+ 
+Overview:
+     Sudan is buffeted by civil war, chronic political instability, adverse
+     weather, high inflation, a drop in remittances from abroad, and
+     counterproductive economic policies. The economy is dominated by
+     governmental entities that account for more than 70% of new
+     investment. The private sector's main areas of activity are
+     agriculture and trading, with most private industrial investment
+     predating 1980. The economy's base is agriculture, which employs 80%
+     of the work force. Industry mainly processes agricultural items.
+     Sluggish economic performance over the past decade, attributable
+     largely to declining annual rainfall, has reduced levels of per capita
+     income and consumption. A large foreign debt and huge arrearages
+     continue to cause difficulties. In 1990 the International Monetary
+     Fund took the unusual step of declaring Sudan noncooperative because
+     of its nonpayment of arrearages to the Fund. The government
+     implemented a comprehensive economic reform program in 1992 that
+     included slashing the fiscal deficit, liberalizing foreign exchange
+     regulations, and lifting most price controls, but it had backtracked
+     on most reforms by mid-1993 because of its fear of generating a
+     domestic backlash. The government's failure to pursue economic reform,
+     its continued prosecution of the civil war, and its growing
+     international isolation have led to a further deterioration of the
+     non-agricultural sectors of the economy during 1993. Agriculture, on
+     the other hand, after several disappointing years, enjoyed favorable
+     growing conditions in 1993, and its strong performance produced an
+     overall growth rate in GNP of about 7%.
+National product:
+     GDP - purchasing power equivalent - $21.5 billion (1993 est.)
+National product real growth rate:
+     7% (FY93 est.)
+National product per capita:
+     $750 (1993 est.)
+Inflation rate (consumer prices):
+     105% (FY93 est.)
+Unemployment rate:
+     30% (FY93 est.)
+Budget:
+revenues:
+     $374.4 million
+expenditures:
+     $1.2 billion, including capital expenditures of $214 million (1993
+     est.)
+Exports:
+     $350 million (f.o.b., FY93 est.)
+commodities:
+     cotton 52%, sesame, gum arabic, peanuts
+partners:
+     Western Europe 46%, Saudi Arabia 14%, Eastern Europe 9%, Japan 9%, US
+     3% (FY88)
+ 
+ 
+Imports:
+     $1.1 billion (c.i.f., FY93 est.)
+commodities:
+     foodstuffs, petroleum products, manufactured goods, machinery and
+     equipment, medicines and chemicals, textiles
+partners:
+     Western Europe 32%, Africa and Asia 15%, US 13%, Eastern Europe 3%
+     (FY88)
+External debt:
+     $17 billion (June 1993 est.)
+Industrial production:
+     growth rate 6.8% (FY93 est.); accounts for 11% of GDP (FY92)
+Electricity:
+capacity:
+     610,000 kW
+production:
+     905 million kWh
+consumption per capita:
+     40 kWh (1991)
+Industries:
+     cotton ginning, textiles, cement, edible oils, sugar, soap distilling,
+     shoes, petroleum refining
+Agriculture:
+     accounts for 35% of GDP and 80% of labor force; water shortages;
+     two-thirds of land area suitable for raising crops and livestock;
+     major products - cotton, oilseeds, sorghum, millet, wheat, gum arabic,
+     sheep; marginally self-sufficient in most foods
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $1.5 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $5.1
+     billion; OPEC bilateral aid (1979-89), $3.1 billion; Communist
+     countries (1970-89), $588 million
+Currency:
+     1 Sudanese pound (#Sd) = 100 piastres
+Exchange rates:
+     official rate - Sudanese pounds (#Sd) per US$1 - 215 (January 1994),
+     333.3 (December 1993), 90.1 (March 1992), 5.4288 (1991), 4.5004 (fixed
+     rate since 1987); note - the commercial rate is 300 (January 1994)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Railroads:
+     5,516 km total; 4,800 km 1.067-meter gauge, 716 km 1.6096-meter-gauge
+     plantation line
+Highways:
+total:
+     20,703 km
+paved:
+     bituminous treated 2,000 km
+unpaved:
+     gravel 4,000 km; improved earth 2,304 km; unimproved earth  12,399 km
+ 
+ 
+Inland waterways:
+     5,310 km navigable
+Pipelines:
+     refined products 815 km
+Ports:
+     Port Sudan, Sawakin
+Merchant marine:
+     10 ships (1,000 GRT or over) totaling 89,842 GRT/122,379 DWT, cargo 8,
+     roll-on/roll-off cargo 2
+Airports:
+total:
+     70
+usable:
+     58
+with permanent-surface runways:
+     9
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     7
+with runways 1,220-2,439 m:
+     29
+Telecommunications:
+     large, well-equipped system by African standards, but barely adequate
+     and poorly maintained by modern standards; consists of microwave radio
+     relay, cable, radio communications, troposcatter, and a domestic
+     satellite system with 14 stations; broadcast stations - 11 AM, 3 TV;
+     satellite earth stations for international traffic - 1 Atlantic Ocean
+     INTELSAT and 1 ARABSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force
+Manpower availability:
+     males age 15-49 6,640,123; fit for military service 4,080,715; reach
+     military age (18) annually 305,885 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $339 million, 2.2% of GDP (1989 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

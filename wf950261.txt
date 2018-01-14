@@ -1,0 +1,330 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0260
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Western Samoa
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Western Samoa 
+ 
+ 
+                               Western Samoa
+ 
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Polynesia, 4,300 km southwest of Honolulu in the South
+     Pacific Ocean, about halfway between Hawaii and New Zealand
+Map references:
+     Oceania, Standard Time Zones of the World
+Area:
+total area:
+     2,860 sq km
+land area:
+     2,850 sq km
+comparative area:
+     slightly smaller than Rhode Island
+Land boundaries:
+     0 km
+Coastline:
+     403 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; rainy season (October to March), dry season (May to October)
+Terrain:
+     narrow coastal plain with volcanic, rocky, rugged mountains in
+     interior
+Natural resources:
+     hardwood forests, fish
+Land use:
+arable land:
+     19%
+permanent crops:
+     24%
+meadows and pastures:
+     0%
+forest and woodland:
+     47%
+other:
+     10%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     soil erosion
+natural hazards:
+     subject to occasional typhoons; active volcanism
+international agreements:
+     party to - Biodiversity; signed, but not ratified - Climate Change,
+     Law of the Sea
+ 
+ 
+                                  People
+ 
+Population:
+     204,447 (July 1994 est.)
+Population growth rate:
+     2.38% (1994 est.)
+Birth rate:
+     32.41 births/1,000 population (1994 est.)
+Death rate:
+     6.02 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -2.63 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     37 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     67.97 years
+male:
+     65.59 years
+female:
+     70.48 years (1994 est.)
+Total fertility rate:
+     4.16 children born/woman (1994 est.)
+Nationality:
+noun:
+     Western Samoan(s)
+adjective:
+     Western Samoan
+Ethnic divisions:
+     Samoan 92.6%, Euronesians 7% (persons of European and Polynesian
+     blood), Europeans 0.4%
+Religions:
+     Christian 99.7% (about half of population associated with the London
+     Missionary Society; includes Congregational, Roman Catholic,
+     Methodist, Latter Day Saints, Seventh-Day Adventist)
+Languages:
+     Samoan (Polynesian), English
+Literacy:
+     age 15 and over can read and write (1971)
+total population:
+     97%
+male:
+     97%
+female:
+     97%
+Labor force:
+     38,000
+by occupation:
+     agriculture 22,000 (1987 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Independent State of Western Samoa
+ 
+ 
+conventional short form:
+Digraph:
+     WS
+Type:
+     constitutional monarchy under native chief
+Capital:
+     Apia
+Administrative divisions:
+     11 districts; A'ana, Aiga-i-le-Tai, Atua, Fa'asaleleaga, Gaga'emauga,
+     Gagaifomauga, Palauli, Satupa'itea, Tuamasaga, Va'a-o-Fonoti,
+     Vaisigano
+Independence:
+     1 January 1962 (from UN trusteeship administered by New Zealand)
+National holiday:
+     National Day, 1 June (1962)
+Constitution:
+     1 January 1962
+Legal system:
+     based on English common law and local customs; judicial review of
+     legislative acts with respect to fundamental rights of the citizen;
+     has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     21 years of age; universal, but only matai (head of family) are able
+     to run for the Legislative Assembly
+Executive branch:
+chief of state:
+     Chief Susuga Malietoa TANUMAFILI II (Co-Chief of State from 1 January
+     1962 until becoming sole Chief of State on 5 April 1963)
+head of government:
+     Prime Minister TOFILAU Eti Alesana (since 7 April 1988)
+cabinet:
+     Cabinet; appointed by the head of state with the prime minister's
+     advice
+Legislative branch:
+     unicameral
+Legislative Assembly (Fono):
+     elections last held 5 April 1991 (next to be held by NA 1996); results
+     - percent of vote by party NA; seats - (47 total) HRPP 28, SNDP 18,
+     independents 1
+Judicial branch:
+     Supreme Court, Court of Appeal
+Political parties and leaders:
+     Human Rights Protection Party (HRPP), TOFILAU Eti Alesana, chairman;
+     Samoan National Development Party (SNDP), TAPUA Tamasese Efi, chairman
+Member of:
+     ACP, AsDB, C, ESCAP, FAO, G-77, IBRD, ICFTU, IDA, IFAD, IFC, IMF,
+     INTELSAT (nonsignatory user), IOC, ITU, LORCS, SPARTECA, SPC, SPF, UN,
+     UNCTAD, UNESCO, UPU, WHO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Neroni SLADE
+chancery:
+     820 Second Avenue, Suite 800, New York, NY 10017
+ 
+ 
+telephone:
+     (212) 599-6196 or 6197
+FAX:
+     (212) 972-3970
+US diplomatic representation:
+chief of mission:
+     the ambassador to New Zealand is accredited to Western Samoa
+embassy:
+     5th floor, Beach Road, Apia
+mailing address:
+     P.O. Box 3430, Apia
+telephone:
+     (685) 21-631
+FAX:
+     (685) 22-030
+Flag:
+     red with a blue rectangle in the upper hoist-side quadrant bearing
+     five white five-pointed stars representing the Southern Cross
+     constellation
+ 
+                                  Economy
+ 
+Overview:
+     Agriculture employs more than half of the labor force, contributes 50%
+     to GDP, and furnishes 90% of exports. The bulk of export earnings
+     comes from the sale of coconut oil and copra. The economy depends on
+     emigrant remittances and foreign aid to support a level of imports
+     much greater than export earnings. Tourism has become the most
+     important growth industry, and construction of the first international
+     hotel is under way. The economy continued to falter in 1993, as
+     remittances and tourist earnings fell off. A fungal plant disease
+     severely damaged the taro crop, the primary food and export crop.
+National product:
+     GDP - purchasing power equivalent - $400 million (1992 est.)
+National product real growth rate:
+     -4.3% (1992 est.)
+National product per capita:
+     $2,000 (1992 est.)
+Inflation rate (consumer prices):
+     7% (1993 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $95.3 million
+expenditures:
+     $95.4 million, including capital expenditures of $41 million (1992
+     est.)
+Exports:
+     $5.7 million (f.o.b., 1992 est.)
+commodities:
+     coconut oil and cream, taro, copra, cocoa
+partners:
+     New Zealand 34%, American Samoa 21%, Germany 18%, Australia 11%
+ 
+ 
+Imports:
+     $11.5 million (c.i.f., 1992 est.)
+commodities:
+     intermediate goods 58%, food 17%, capital goods 12%
+partners:
+     New Zealand 37%, Australia 25%, Japan 11%, Fiji 9%
+External debt:
+     $83 million (December 1990 est.)
+Industrial production:
+     growth rate -0.3% (1992 est.); accounts for 16% of GDP
+Electricity:
+capacity:
+     29,000 kW
+production:
+     45 million kWh
+consumption per capita:
+     240 kWh (1990)
+Industries:
+     timber, tourism, food processing, fishing
+Agriculture:
+     accounts for about 50% of GDP; coconuts, fruit (including bananas,
+     taro, yams)
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $18 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $306
+     million; OPEC bilateral aid (1979-89), $4 million
+Currency:
+     1 tala (WS$) = 100 sene
+Exchange rates:
+     tala (WS$) per US$1 - 2.5920 (January 1994), 2.5681 (1993), 2.4655
+     (1992), 2.3975 (1991), 2.3095 (1990), 2.2686 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     2,042 km
+paved:
+     375 km
+unpaved:
+     gravel, crushed stone, earth 1,667 km
+Ports:
+     Apia
+Merchant marine:
+     1 roll on/roll off cargo ship (1,000 GRT or over) totaling 3,838
+     GRT/5,536 DWT
+Airports:
+total:
+     3
+usable:
+     3
+ 
+ 
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     7,500 telephones; 70,000 radios; broadcast stations - 1 AM, no FM, no
+     TV; 1 Pacific Ocean INTELSAT ground station
+ 
+                              Defense Forces
+ 
+Branches:
+     Department of Police and Prisons
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

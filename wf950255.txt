@@ -1,0 +1,370 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0254
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Vietnam
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Vietnam 
+ 
+ 
+                                  Vietnam
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, bordering the South China Sea, between Laos and the
+     Philippines
+Map references:
+     Asia, Southeast Asia, Standard Time Zones of the World
+Area:
+total area:
+     329,560 sq km
+land area:
+     325,360 sq km
+comparative area:
+     slightly larger than New Mexico
+Land boundaries:
+     total 3,818 km, Cambodia 982 km, China 1,281 km, Laos 1,555 km
+Coastline:
+     3,444 km (excludes islands)
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200 nm or the edge of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     maritime boundary with Cambodia not defined; involved in a complex
+     dispute over the Spratly Islands with China, Malaysia, Philippines,
+     Taiwan, and possibly Brunei; unresolved maritime boundary with
+     Thailand; maritime boundary dispute with China in the Gulf of Tonkin;
+     Paracel Islands occupied by China but claimed by Vietnam and Taiwan
+Climate:
+     tropical in south; monsoonal in north with hot, rainy season (mid-May
+     to mid-September) and warm, dry season (mid-October to mid-March)
+Terrain:
+     low, flat delta in south and north; central highlands; hilly,
+     mountainous in far north and northwest
+Natural resources:
+     phosphates, coal, manganese, bauxite, chromate, offshore oil deposits,
+     forests
+Land use:
+arable land:
+     22%
+permanent crops:
+     2%
+meadows and pastures:
+     1%
+forest and woodland:
+     40%
+other:
+     35%
+ 
+ 
+Irrigated land:
+     18,300 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; soil degradation; water pollution and overfishing
+     threatening marine life populations
+natural hazards:
+     occasional typhoons (May to January) with extensive flooding
+international agreements:
+     party to - Environmental Modification, Ozone Layer Protection, Ship
+     Pollution, Wetlands; signed, but not ratified - Biodiversity, Climate
+     Change, Endangered Species, Law of the Sea, Nuclear Test Ban
+ 
+                                  People
+ 
+Population:
+     73,103,898 (July 1994 est.)
+Population growth rate:
+     1.78% (1994 est.)
+Birth rate:
+     27.13 births/1,000 population (1994 est.)
+Death rate:
+     7.76 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -1.53 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     45.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     65.41 years
+male:
+     63.37 years
+female:
+     67.58 years (1994 est.)
+Total fertility rate:
+     3.33 children born/woman (1994 est.)
+Nationality:
+noun:
+     Vietnamese (singular and plural)
+adjective:
+     Vietnamese
+Ethnic divisions:
+     Vietnamese 85-90%, Chinese 3%, Muong, Thai, Meo, Khmer, Man, Cham
+Religions:
+     Buddhist, Taoist, Roman Catholic, indigenous beliefs, Islamic,
+     Protestant
+Languages:
+     Vietnamese (official), French, Chinese, English, Khmer, tribal
+     languages (Mon-Khmer and Malayo-Polynesian)
+Literacy:
+     age 15 and over can read and write (1990)
+total population:
+     88%
+male:
+     93%
+ 
+ 
+female:
+     83%
+Labor force:
+     32.7 million
+by occupation:
+     agricultural 65%, industrial and service 35% (1990 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Socialist Republic of Vietnam
+conventional short form:
+local long form:
+     Cong Hoa Chu Nghia Viet Nam
+local short form:
+     Viet Nam
+Abbreviation:
+     SRV
+Digraph:
+     VM
+Type:
+     Communist state
+Capital:
+     Hanoi
+Administrative divisions:
+     50 provinces (tinh, singular and plural), 3 municipalities* (thanh
+     pho, singular and plural); An Giang, Ba Ria-Vung Tau, Bac Thai, Ben
+     Tre, Binh Dinh, Binh Thuan, Can Tho, Cao Bang, Dac Lac, Dong Nai, Dong
+     Thap, Gia Lai, Ha Bac, Ha Giang, Ha Noi*, Ha Tay, Ha Tinh, Hai Hung,
+     Hai Phong*, Ho Chi Minh*, Hoa Binh, Khanh Hoa, Kien Giang, Kon Tum,
+     Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Minh Hai, Nam Ha, Nghe
+     An, Ninh Binh, Ninh Thuan, Phu Yen, Quang Binh, Quang Nam-Da Nang,
+     Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Song Be, Tay
+     Ninh, Thai Binh, Thanh Hoa, Thua Thien, Tien Giang, Tra Vinh, Tuyen
+     Quang, Vinh Long, Vinh Phu, Yen Bai
+Independence:
+     2 September 1945 (from France)
+National holiday:
+     Independence Day, 2 September (1945)
+Constitution:
+     15 April 1992
+Legal system:
+     based on Communist legal theory and French civil law system
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Le Duc ANH (since 23 September 1992)
+head of government:
+     Prime Minister Vo Van KIET (since 9 August 1991); First Deputy Prime
+     Minister Phan Van KHAI (since 10 August 1991); Deputy Prime Minister
+     Nguyen KHANH (since NA February 1987); Deputy Prime Minister Tran Duc
+     LUONG (since NA February 1987)
+ 
+ 
+cabinet:
+     Cabinet;  appointed by the president on proposal of the prime minister
+     and ratification of the Assembly
+Legislative branch:
+     unicameral
+National Assembly (Quoc-Hoi):
+     elections last held 19 July 1992 (next to be held NA July 1997);
+     results - VCP is the only party; seats - (395 total) VCP or
+     VCP-approved 395
+Judicial branch:
+     Supreme People's Court
+Political parties and leaders:
+     only party - Vietnam Communist Party (VCP), DO MUOI, general secretary
+Member of:
+     ACCT, AsDB, ASEAN (observer), ESCAP, FAO, G-77, IAEA, IBRD, ICAO, IDA,
+     IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, IOM (observer),
+     ISO, ITU, LORCS, NAM, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WFTU, WHO,
+     WIPO, WMO, WTO
+Diplomatic representation in US:
+     none; Ambassador Le Van BANG is the Permanent Representative to the UN
+US diplomatic representation:
+     none
+Flag:
+     red with a large yellow five-pointed star in the center
+ 
+                                  Economy
+ 
+Overview:
+     Vietnam has made significant progress in recent years moving away from
+     the planned economic model toward a more effective market-based
+     economic system. Most prices are now fully decontrolled, and the
+     Vietnamese currency has been effectively devalued and floated at world
+     market rates. In addition, the scope for private sector activity has
+     been expanded, primarily through decollectivization of the
+     agricultural sector and introduction of laws giving legal recognition
+     to private business. Nearly three-quarters of export earnings are
+     generated by only two commodities, rice and crude oil. Led by industry
+     and construction, the economy did well in 1993 with output rising
+     perhaps 7%. However, the industrial sector remains burdened by
+     uncompetitive state-owned enterprises the government is unwilling or
+     unable to privatize. Unemployment looms as a serious problem with
+     roughly 25% of the workforce without jobs and with population growth
+     swelling the ranks of the unemployed yearly.
+National product:
+     GNP - purchasing power equivalent - $72 billion (1993 est.)
+National product real growth rate:
+     7% (1993 est.)
+National product per capita:
+     $1,000 (1993 est.)
+Inflation rate (consumer prices):
+     5.2% (1993 est.)
+Unemployment rate:
+     25% (1993 est.)
+ 
+ 
+Budget:
+revenues:
+     $1.9 billion
+expenditures:
+     $2 billion, including capital expenditures of $NA (1992)
+Exports:
+     $2.6 billion (f.o.b., 1993 est.)
+commodities:
+     petroleum, rice, agricultural products, marine products, coffee
+partners:
+     Japan, Hong Kong, Thailand, Germany, Indonesia
+Imports:
+     $3.1 billion (f.o.b., 1993 est.)
+commodities:
+     petroleum products, steel products, railroad equipment, chemicals,
+     medicines, raw cotton, fertilizer, grain
+partners:
+     Hong Kong, Japan, Indonesia, South Korea, Taiwan
+External debt:
+     $3.4 billion Western countries; $4.5 billion CEMA debts primarily to
+     Russia;  $700 million commercial debts (1993 est.)
+Industrial production:
+     growth rate 15% (1992); accounts for 20% of GDP
+Electricity:
+capacity:
+     3,300,000 kW
+production:
+     9 billion kWh
+consumption per capita:
+     130 kWh (1992)
+Industries:
+     food processing, textiles, machine building, mining, cement, chemical
+     fertilizer, glass, tires, oil
+Agriculture:
+     accounts for almost 40% of GDP; paddy rice, corn, potatoes make up 50%
+     of farm output; commercial crops (rubber, soybeans, coffee, tea,
+     bananas) and animal products 50%; since 1989 self-sufficient in food
+     staple rice; fish catch of 943,100 metric tons (1989 est.)
+Illicit drugs:
+     minor opium producer and secondary transit point for Southeast Asian
+     heroin destined for the US and Europe
+Economic aid:
+recipient:
+     $1.9 billion in credits and grants pledged by international donors for
+     1994, Japan largest contributor with $550 million
+Currency:
+     1 new dong (D) = 100 xu
+Exchange rates:
+     new dong (D) per US$1 - 10,800 (November 1993), 8,100 (July 1991),
+     7,280 (December 1990), 3,996 (March 1990); note - 1985-89 figures are
+     end of year
+Fiscal year:
+     calendar year
+ 
+ 
+                              Communications
+ 
+Railroads:
+     3,059 km total; 2,454 1.000-meter gauge, 151 km 1.435-meter (standard)
+     gauge, 230 km dual gauge (three rails), and 224 km not restored to
+     service after war damage
+Highways:
+total:
+     85,000 km
+paved:
+     9,400 km
+unpaved:
+     gravel, improved earth 48,700 km; unimproved earth 26,900 km
+Inland waterways:
+     17,702 km navigable; more than 5,149 km navigable at all times by
+     vessels up to 1.8 meter draft
+Pipelines:
+     petroleum products 150 km
+Ports:
+     Da Nang, Haiphong, Ho Chi Minh City
+Merchant marine:
+     101 ships (1,000 GRT or over) totaling 460,225 GRT/741,231 DWT, bulk
+     3, cargo 86, oil tanker 8, refrigerated cargo 3, roll-on/roll-off
+     cargo 1
+Airports:
+total:
+     100
+usable:
+     100
+with permanent-surface runways:
+     50
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     10
+with runways 1,220-2,439 m:
+     20
+Telecommunications:
+     the inadequacies of the obsolete switching equipment and cable system
+     is a serious constraint on the business sector and on economic growth,
+     and restricts access to the international links that Vietnam has
+     established with most major countries; the telephone system is not
+     generally available for private use (25 telephones for each 10,000
+     persons); 3 satellite earth stations; broadcast stations - NA AM, 288
+     FM; 36 (77 repeaters) TV; about 2,500,000 TV receivers and 7,000,000
+     radio receivers in use (1991)
+ 
+                              Defense Forces
+ 
+Branches:
+People's Army of Vietnam (PAVN) including:
+     Ground, Navy (including Naval Infantry), Air Force
+Manpower availability:
+     males age 15-49 18,281,483; fit for military service 11,602,318; reach
+     military age (17) annually 762,943 (1994 est.)
+ 
+ 
+Defense expenditures:
+     $NA, NA% of GNP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

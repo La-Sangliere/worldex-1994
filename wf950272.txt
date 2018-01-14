@@ -1,0 +1,641 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT APP-E
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : Appendix E: Selected International Environmental Agreements
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+ 
+6 April 1994
+ 
+Appendix E:  Selected International Environmental Agreements
+ 
+ 
+Air Pollution
+ 
+see Convention on Long-Range Transboundary Air Pollution
+-----
+Air Pollution-Nitrogen Oxides
+ 
+see Convention on Long-Range Transboundary Air Pollution (Nitrogen
+Oxides Protocol)
+-----
+Air Pollution-Sulphur
+ 
+see Convention on Long-Range Transboundary Air Pollution (Sulphur
+Protocol)
+-----
+Air Pollution-Volatile Organic Compounds
+ 
+see Convention on Long-Range Transboundary Air Pollution (Volatile
+Organic Compounds Protocol)
+-----
+Antarctic-Environmental Protocol
+ 
+see Protocol on Environmental Protection to the Antarctic Treaty
+-----
+Antarctic Treaty
+ 
+date opened for signature - 1959
+ 
+objective - to ensure that Antarctica is used for peaceful purposes,
+for international cooperation in scientific research, and that it does
+not become the scene or object of international discord
+ 
+parties - (42) Argentina, Australia, Austria, Belgium, Brazil,
+Bulgaria, Canada, Chile, China, Colombia, Cuba, Czech Republic,
+Denmark, Ecuador, Finland, France, Germany, Greece, Guatemala, Hungary,
+India, Italy, Japan, North Korea, South Korea, Netherlands, New
+Zealand, Norway, Papua New Guinea, Peru, Poland, Romania, Russia,
+Slovakia, South Africa, Spain, Sweden, Switzerland, Ukraine, United
+Kingdom, United States, Uruguay
+-----
+Basel Convention on the Control of Transboundary Movements of Hazardous
+Wastes and Their Disposal
+ 
+note - abbreviated as Hazardous Wastes
+ 
+date opened for signature - 1989
+ 
+objective - to reduce transboundary movements of wastes subject to the
+Convention to a minimum consistent with the environmentally sound and
+efficient management of such wastes; to minimize the amount and
+toxicity of wastes generated and ensure their environmentally sound
+management as closely as possible to the source of generation; and to
+assist LDCs in environmentally sound management of the hazardous and
+other wastes they generate
+ 
+parties - (65) Antigua and Barbuda, Argentina, Australia, Austria, The
+Bahamas, Bahrain, Bangladesh, Belgium, Brazil, Canada, Chile, China,
+Cyprus, Czech Republic, Denmark, Ecuador, Egypt, El Salvador, Estonia,
+European Union, Finland, France, Hungary, India, Indonesia, Iran,
+Ireland, Italy, Japan, Jordan, South Korea, Kuwait, Latvia,
+Liechtenstein, Luxembourg, Malaysia, Maldives, Mauritius, Mexico,
+Monaco, Netherlands, Nigeria, Norway, Panama, Peru, Philippines,
+Poland, Portugal, Romania, Saint Lucia, Saudi Arabia, Senegal,
+Seychelles, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland,
+Syria, Tanzania, Trinidad and Tobago, United Arab Emirates, United
+Kingdom, Uruguay
+ 
+note - the following countries have signed, but not yet ratified the
+convention:  Afghanistan, Bolivia, Colombia, Germany, Greece,
+Guatemala, Haiti, Israel, Lebanon, New Zealand, Russia, Thailand,
+Turkey, United States, Venezuela
+-----
+Biodiversity
+ 
+see Convention on Biological Diversity
+-----
+Convention on Biological Diversity
+ 
+note - abbreviated as Biodiversity
+ 
+date opened for signature - 1992
+ 
+objective - to develop national strategies for the conservation and
+sustainable use of biological diversity
+ 
+parties - (53) Albania, Antigua and Barbuda, Armenia, Australia, The
+Bahamas, Barbados, Belarus, Belize, Brazil, Burkina, Canada, China,
+Cook Islands, Cuba, Czech Republic, Denmark, Ecuador, European Union,
+Fiji, Germany, Guinea, Hungary, India, Japan, Jordan, Malawi, Maldives,
+Marshall Islands, Mauritius, Mexico, Monaco, Mongolia, Nauru, Nepal,
+New Zealand, Norway, Papua New Guinea, Paraguay, Peru, Philippines,
+Portugal, Saint Kitts and Nevis, Saint Lucia, Seychelles, Spain, Sri
+Lanka, Sweden, Tunisia, Uganda, Uruguay, Vanuatu, Western Samoa, Zambia
+ 
+note - the following countries have signed, but not yet ratified the
+convention:  Afghanistan, Algeria, Angola, Argentina, Austria,
+Azerbaijan, Bahrain, Bangladesh, Belgium, Benin, Bhutan, Bolivia,
+Botswana, Bulgaria, Burma, Burundi, Cameroon, Cape Verde, Central
+African Republic, Chad, Chile, Colombia, Comoros, Congo, Costa Rica,
+Cote d'Ivoire, Croatia, Cyprus, Djibouti, Dominican Republic, Egypt, El
+Salvador, Estonia, Ethiopia, Finland, France, Gabon, The Gambia, Ghana,
+Greece, Guatemala, Guinea-Bissau, Guyana, Haiti, Honduras, Iceland,
+Indonesia, Iran, Ireland, Israel, Italy, Jamaica, Kazakhstan, Kenya,
+North Korea, South Korea, Kuwait, Latvia, Lebanon, Lesotho, Liberia,
+Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malaysia,
+Malta, Mauritania, Federated States of Micronesia, Moldova, Morocco,
+Mozambique, Namibia, Netherlands, Nicaragua, Niger, Nigeria, Oman,
+Pakistan, Panama, Poland, Qatar, Romania, Russia, Rwanda, San Marino,
+Sao Tome and Principe, Senegal, Singapore, Slovakia, Slovenia, Solomon
+Islands, South Africa, Sudan, Suriname, Swaziland, Switzerland, Syria,
+Tanzania, Thailand, Togo, Trinidad and Tobago, Turkey, Tuvalu, Ukraine,
+United Arab Emirates, United Kingdom, United States, Venezuela,
+Vietnam, Yemen, former Yugoslavia, Zaire, Zimbabwe
+-----
+Climate Change
+ 
+see United Nations Framework Convention on Climate Change
+-----
+Convention on Fishing and Conservation of Living Resources of the High
+Seas
+ 
+note - abbreviated as Marine Life Conservation
+ 
+date opened for signature - 1958
+ 
+objective - to solve through international cooperation the problems
+involved in the conservation of living resources of the high seas,
+considering that through the development of modern techniques some of
+these resources are in danger of being over exploited
+ 
+parties - (37) Australia, Belgium, Bosnia and Herzegovina, Burkina,
+Cambodia, Colombia, Denmark, Dominican Republic, Fiji, Finland, France,
+Haiti, Jamaica, Kenya, Lesotho, Madagascar, Malawi, Malaysia,
+Mauritius, Mexico, Netherlands, Nigeria, Portugal, Senegal, Sierra
+Leone, Solomon Islands, South Africa, Spain, Switzerland, Thailand,
+Tonga, Trinidad and Tobago, Uganda, United Kingdom, United States,
+Venezuela, former Yugoslavia
+ 
+note - the following countries have signed, but not yet ratified the
+convention:  Afghanistan, Argentina, Bolivia, Costa Rica, Cuba, Ghana,
+Iceland, Indonesia, Iran, Ireland, Israel, Lebanon, Liberia, Nepal, New
+Zealand, Pakistan, Panama, Sri Lanka, Taiwan (Canada signed on behalf
+of Taiwan), Tunisia, Uruguay
+-----
+Convention on Long-Range Transboundary Air Pollution
+ 
+note - abbreviated as Air Pollution
+ 
+date opened for signature - 1979
+ 
+objective - to protect the human environment against air pollution and
+to gradually reduce and prevent air pollution, including long-range
+transboundary air pollution
+ 
+parties - (38) Austria, Belarus, Belgium, Bosnia and Herzegovina,
+Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, European
+Union, Finland, France, Germany, Greece, Hungary, Iceland, Ireland,
+Italy, Liechtenstein, Lithuania, Luxembourg, Netherlands, Norway,
+Poland, Portugal, Romania, Russia, Slovakia, Slovenia, Spain, Sweden,
+Switzerland, Turkey, Ukraine, United Kingdom, United States, former
+Yugoslavia
+ 
+note - the following countries have signed, but not yet ratified the
+convention: Holy See, San Marino
+-----
+Convention on Long-Range Transboundary Air Pollution (Nitrogen Oxides
+Protocol)
+ 
+note - abbreviated as Air Pollution-Nitrogen Oxides
+ 
+date opened for signature - 1988
+ 
+objective - to provide for the control or reduction of nitrogen oxides
+and their transboundary fluxes
+ 
+parties - (23) Austria, Belarus, Bulgaria, Canada, Czech Republic,
+Denmark, European Union, Finland, France, Germany, Hungary, Italy,
+Liechtenstein, Luxembourg, Netherlands, Norway, Russia, Slovakia,
+Sweden, Switzerland, Ukraine, United Kingdom, United States
+ 
+note - the following countries have signed, but not yet ratified the
+convention:  Belgium, Greece, Ireland, Poland, Spain
+-----
+Convention on Long-Range Transboundary Air Pollution (Sulphur Protocol)
+ 
+note - abbreviated as Air Pollution-Sulphur
+ 
+date opened for signature - 1985; a second protocol to further reduce
+sulfur dioxide emissions was completed in 1994
+ 
+objective - to provide for a 30% reduction in sulfur emissions or
+transboundary fluxes by 1993
+ 
+parties - (21) Austria, Belarus, Belgium, Bulgaria, Canada, Czech
+Republic, Denmark, Finland, France, Germany, Hungary, Italy,
+Liechtenstein, Luxembourg, Netherlands, Norway, Russia, Slovakia,
+Sweden, Switzerland, Ukraine
+-----
+Convention on Long-Range Transboundary Air Pollution (Volatile Organic
+Compounds Protocol)
+ 
+note - abbreviated as Air Pollution-Volatile Organic Compounds
+ 
+date opened for signature - 1991, but not yet in force
+ 
+objective - to provide for the control and reduction of emissions of
+Volatile Organic Compounds in order to reduce their transboundary
+fluxes so as to protect human health and the environment from adverse
+effects
+ 
+parties - (8) Finland, Liechtenstein, Luxembourg, Netherlands, Norway,
+Spain, Sweden, Switzerland
+ 
+note - the following countries have signed, but not yet ratified the
+convention:  Austria, Belgium, Bulgaria, Canada, Denmark, European
+Union, France, Germany, Greece, Hungary, Italy, Portugal, Ukraine,
+United Kingdom, United States
+-----
+Convention on the International Trade in Endangered Species of Wild
+Flora and Fauna (CITES)
+ 
+note - abbreviated as Endangered Species
+ 
+date opened for signature - 1973
+ 
+objective - to protect certain endangered species from overexploitation
+by means of a system of import/export permits
+ 
+parties - (104) Afghanistan, Algeria, Argentina, Australia, Austria,
+Bangladesh, Belgium, Belize, Benin, Bolivia, Botswana, Brazil,
+Bulgaria, Burkina, Burundi, Cameroon, Canada, Central African Republic,
+Chad, Chile, China, Colombia, Congo, Costa Rica, Cuba, Cyprus, Denmark,
+Djibouti, Dominican Republic, Ecuador, Egypt, El Salvador, Ethiopia,
+Finland, France, Gabon, The Gambia, Germany, Ghana, Guatemala, Guinea,
+Guinea-Bissau, Guyana, Honduras, Hungary, India, Indonesia, Iran,
+Israel, Italy, Japan, Jordan, Kenya, Liberia, Luxembourg, Madagascar,
+Malawi, Malaysia, Malta, Mauritius, Mexico, Morocco, Mozambique,
+Namibia, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria,
+Norway, Pakistan, Panama, Papua New Guinea, Paraguay, Peru,
+Philippines, Poland, Portugal, Rwanda, Senegal, Singapore, Somalia,
+South Africa, Spain, Sri Lanka, Sudan, Suriname, Sweden, Switzerland,
+Tanzania, Thailand, Togo, Trinidad and Tobago, Tunisia, Uganda, United
+Arab Emirates, United Kingdom, United States, Uruguay, Venezuela,
+Zaire, Zambia, Zimbabwe
+ 
+note - the following countries have signed, but not yet ratified the
+convention:  Cambodia, Ireland, Kuwait, Lesotho, Vietnam
+-----
+Convention on the Prevention of Marine Pollution by Dumping Wastes and
+Other Matter (London Convention)
+ 
+note - abbreviated as Marine Dumping
+ 
+date opened for signature - 1972
+ 
+objective - to control pollution of the sea by dumping, and to
+encourage regional agreements supplementary to the Convention
+ 
+parties - (70) Afghanistan, Argentina, Australia, Belarus, Belgium,
+Canada, Cape Verde, Chile, China, Costa Rica, Cote d'Ivoire, Croatia,
+Cuba, Cyprus, Denmark, Dominican Republic, Egypt, European Union,
+Finland, France, Gabon, Germany, Greece, Guatemala, Haiti, Honduras,
+Hungary, Iceland, Ireland, Italy, Jamaica, Japan, Jordan, Kenya,
+Kiribati, Libya, Luxembourg, Malta, Mexico, Monaco, Morocco, Nauru,
+Netherlands, New Zealand, Nigeria, Norway, Oman, Panama, Papua New
+Guinea, Philippines, Poland, Portugal, Russia, Saint Lucia, Seychelles,
+Slovenia, Solomon Islands, South Africa, Spain, Suriname, Sweden,
+Switzerland, Tunisia, Ukraine, United Arab Emirates, United Kingdom,
+United States, Vanuatu, former Yugoslavia, Zaire
+-----
+Convention on the Prohibition of Military or Any Other Hostile Use of
+Environmental Modification Techniques
+ 
+note - abbreviated as Environmental Modification
+ 
+date opened for signature - 1976
+ 
+objective - to prohibit the military or other hostile use of
+environmental modification techniques in order to further world peace
+and trust among nations
+ 
+parties - (62) Afghanistan, Algeria, Antigua and Barbuda, Argentina,
+Australia, Austria, Bangladesh, Belarus, Belgium, Benin, Brazil,
+Bulgaria, Canada, Cape Verde, Cuba, Cyprus, Czech Republic, Denmark,
+Dominica, Egypt, Finland, Germany, Ghana, Greece, Guatemala, Hungary,
+India, Ireland, Italy, Japan, North Korea, South Korea, Kuwait, Laos,
+Malawi, Mauritius, Mongolia, Netherlands, New Zealand, Niger, Norway,
+Pakistan, Papua New Guinea, Poland, Romania, Russia, Saint Lucia, Sao
+Tome and Principe, Slovakia, Solomon Islands, Spain, Sri Lanka, Sweden,
+Switzerland, Tunisia, Ukraine, United Kingdom, United States, Uruguay,
+Uzbekistan, Vietnam, Yemen
+ 
+note - the following countries have signed, but not yet ratified the
+convention:  Bolivia, Ethiopia, Holy See, Iceland, Iran, Iraq, Lebanon,
+Liberia, Luxembourg, Morocco, Nicaragua, Portugal, Sierra Leone, Syria,
+Turkey, Uganda, Zaire
+-----
+Convention on Wetlands of International Importance Especially As
+Waterfowl Habitat (Ramsar)
+ 
+note - abbreviated as Wetlands
+ 
+date opened for signature - 1971
+ 
+objective - to stem the progressive encroachment on and loss of
+wetlands now and in the future, recognizing the fundamental ecological
+functions of wetlands and their economic, cultural, scientific, and
+recreational value
+ 
+parties - (65) Algeria, Australia, Austria, Belgium, Bolivia, Bulgaria,
+Burkina, Canada, Chad, Chile, Costa Rica, Czech Republic, Denmark,
+Ecuador, Egypt, Finland, France, Gabon, Germany, Ghana, Greece,
+Guatemala, Guinea-Bissau, Hungary, Iceland, India, Iran, Ireland,
+Italy, Japan, Jordan, Kenya, Lesotho, Liechtenstein, Mali, Malta,
+Mauritania, Mexico, Morocco, Netherlands, New Zealand, Niger, Norway,
+Pakistan, Panama, Poland, Portugal, Romania, Russia, Senegal, South
+Africa, Spain, Sri Lanka, Suriname, Sweden, Switzerland, Tunisia,
+Uganda, United Kingdom, United States, Uruguay, Venezuela, Vietnam,
+former Yugoslavia, Zambia
+-----
+Endangered Species
+ 
+see Convention on the International Trade in Endangered Species of Wild
+Flora and Fauna (CITES)
+-----
+Environmental Modification
+ 
+see Convention on the Prohibition of Military or Any Other Hostile Use
+of Environmental Modification Techniques
+-----
+Hazardous Wastes
+ 
+see Basel Convention on the Control of Transboundary Movements of
+Hazardous Wastes and Their Disposal
+-----
+International Convention for the Prevention of Pollution From Ships
+(MARPOL)
+ 
+note - abbreviated as Ship Pollution
+ 
+date opened for signature - 1973/78
+ 
+objective - to preserve the marine environment by achieving the
+complete elimination of pollution by oil and other harmful substances
+and the minimization of accidental discharge of such substances
+ 
+parties - (83) Algeria, Antigua and Barbuda, Argentina, Australia,
+Austria, The Bahamas, Belgium, Brazil, Brunei, Bulgaria, Burma, Canada,
+China, Colombia, Cote d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic,
+Denmark, Djibouti, Ecuador, Egypt, Estonia, Finland, France, Gabon,
+Gambia, Germany, Ghana, Greece, Hungary, Iceland, India, Indonesia,
+Israel, Italy, Jamaica, Japan, Kenya, North Korea, South Korea, Latvia,
+Lebanon, Liberia, Lithuania, Luxembourg, Malta, Marshall Islands,
+Mexico, Monaco, Morocco, Netherlands, Norway, Oman, Panama, Papua New
+Guinea, Peru, Poland, Portugal, Romania, Russia, Saint Vincent and the
+Grenadines, Seychelles, Singapore, Slovenia, South Africa, Spain,
+Suriname, Sweden, Switzerland, Syria, Togo, Tunisia, Turkey, Tuvalu,
+Ukraine, United Kingdom, United States, Uruguay, Vanuatu, Vietnam,
+former Yugoslavia
+-----
+International Convention for the Regulation of Whaling
+ 
+note - abbreviated as Whaling
+ 
+date opened for signature - 1946
+ 
+objective - to protect all species of whales from overfishing and
+safeguard for future generations the great natural resources
+represented by whale stocks; to establish a system of international
+regulation for the whale fisheries to ensure proper conservation and
+development of whale stocks
+ 
+parties - (39) Antigua and Barbuda, Argentina, Australia, Belize,
+Brazil,  Chile, China, Costa Rica, Denmark, Egypt, Finland, France,
+Germany, India, Ireland, Japan, Kenya, South Korea, Mauritius, Mexico,
+Monaco, Netherlands, Netherlands Antilles, New Zealand, Norway, Oman,
+Peru, Philippines, Saint Lucia, Saint Vincent and the Grenadines,
+Senegal, Seychelles, Solomon Islands, South Africa, Spain, Sweden,
+Switzerland, United Kingdom, United States
+-----
+International Tropical Timber Agreement
+ 
+note - abbreviated as Tropical Timber
+ 
+date opened for signature - 1983; a new agreement was opened for
+signature in 1994, but is not yet in force
+ 
+objective - to provide an effective framework for cooperation between
+tropical timber producers and consumers and to encourage the
+development of national policies aimed at sustainable utilization and
+conservation of tropical forests and their genetic resources
+ 
+parties - (45) Australia, Austria, Belgium, Burma, Cameroon, Canada,
+China, Colombia, Congo, Denmark, Ecuador, Egypt, Finland, France,
+Gabon, Germany, Ghana, Greece, Guyana, India, Indonesia, Ireland,
+Italy, Japan, South Korea, Liberia, Luxembourg, Malaysia, Nepal,
+Netherlands, New Zealand, Norway, Panama, Papua New Guinea, Portugal,
+Russia, Spain, Sweden, Switzerland, Thailand, Togo, Trinidad and
+Tobago, United Kingdom, United States, Zaire
+ 
+note - the following countries have signed, but not yet ratified the
+agreement:  Bolivia, Brazil, Cote d'Ivoire, European Union, Honduras,
+Peru, Philippines
+-----
+Law of the Sea
+ 
+see United Nations Convention on the Law of the Sea (LOS)
+-----
+Marine Dumping
+ 
+see Convention on the Prevention of Marine Pollution by Dumping Wastes
+and Other Matter (London Convention)
+-----
+Marine Life Conservation
+ 
+see Convention on Fishing and Conservation of Living Resources of the
+High Seas
+-----
+Montreal Protocol on Substances That Deplete the Ozone Layer
+ 
+note - abbreviated as Ozone Layer Protection
+ 
+date opened for signature - 1987
+ 
+objective - to protect the ozone layer by taking precautionary measures
+to control emissions of substances that deplete it
+ 
+parties - (136) Algeria, Antigua and Barbuda, Argentina, Australia,
+Austria, The Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium,
+Benin, Bosnia and Herzegovina, Botswana, Brazil, Brunei, Bulgaria,
+Burkina, Burma, Cameroon, Canada, Central African Republic, Chile,
+China, Colombia, Costa Rica, Cote d'Ivoire, Croatia, Cuba, Cyprus,
+Czech Republic, Denmark, Dominica, Dominican Republic, Ecuador, Egypt,
+El Salvador, European Union, Fiji, Finland, France, Gabon, The Gambia,
+Germany, Ghana, Greece, Grenada, Guatemala, Guinea, Guyana, Honduras,
+Hungary, Iceland, India, Indonesia, Iran, Ireland, Israel, Italy,
+Jamaica, Japan, Jordan, Kenya, Kiribati, South Korea, Kuwait, Lebanon,
+Lesotho, Libya, Liechtenstein, Luxembourg, Macau, Malawi, Malaysia,
+Maldives, Malta, Marshall Islands, Mauritius, Mexico, Monaco, Namibia,
+Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Panama,
+Papua New Guinea, Peru, Philippines, Poland, Portugal, Romania, Russia,
+Saint Kitts and Nevis, Saint Lucia, Saudi Arabia, Senegal, Seychelles,
+Singapore, Slovakia, Slovenia, Solomon Islands, South Africa, Spain,
+Sri Lanka, Sudan, Sweden, Switzerland, Syria, Tanzania, Thailand, The
+Former Yugoslav Republic of Macedonia, Togo, Trinidad and Tobago,
+Tunisia, Turkey, Turkmenistan, Tuvalu, Uganda, Ukraine, United Arab
+Emirates, United Kingdom, United States, Uruguay, Uzbekistan,
+Venezuela, Vietnam, Zambia
+ 
+note - the following countries have signed, but not yet ratified the
+protocol:  Congo, Morocco
+-----
+Nuclear Test Ban
+ 
+see Treaty Banning Nuclear Weapons Tests in the Atmosphere, in Outer
+Space, and Under Water
+-----
+Ozone Layer Protection
+ 
+see Montreal Protocol on Substances that Deplete the Ozone Layer
+-----
+Protocol on Environmental Protection to the Antarctic Treaty
+ 
+note - abbreviated as Antarctic-Environmental Protocol
+ 
+date opened for signature - 1991, but not yet in force
+ 
+objective - to enhance the protection of the Antarctic environment and
+dependent and associated ecosystems
+ 
+parties - (9) Argentina, Australia, Ecuador, France, Netherlands,
+Norway, Peru, Spain, Sweden
+ 
+note - the following countries have signed, but not yet ratified the
+protocol:  Austria, Belgium, Brazil, Bulgaria, Canada, Chile, China,
+Colombia, Cuba, Czech Republic, Denmark, Finland, Germany, Greece,
+Guatemala, Hungary, India, Italy, Japan, North Korea, South Korea, New
+Zealand, Papua New Guinea, Poland, Romania, Russia, Slovakia, South
+Africa, Switzerland, United Kingdom, United States, Uruguay
+-----
+Ship Pollution
+ 
+see International Convention for the Prevention of Pollution From Ships
+(MARPOL)
+-----
+Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space,
+and Under Water
+ 
+note - abbreviated as Nuclear Test Ban
+ 
+date opened for signature - 1963
+ 
+objective - to obtain an agreement on general and complete disarmament
+under strict international control in accordance with the objectives of
+the United Nations; to put an end to the armaments race and eliminate
+incentives for the production and testing of all kinds of weapons,
+including nuclear weapons
+ 
+parties - (112) Afghanistan, Argentina, Australia, Austria, Bangladesh,
+Belgium, Benin, Bhutan, Bolivia, Botswana, Brazil, Bulgaria, Burma,
+Canada, Cape Verde, Central African Republic, Chad, Chile, China,
+Colombia, Costa Rica, Cote d'Ivoire, Croatia, Cyprus, Denmark,
+Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea,
+Fiji, Finland, Gabon, The Gambia, Germany, Ghana, Greece, Guatemala,
+Guinea-Bissau, Honduras, Hungary, Iceland, India, Indonesia, Iran,
+Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kenya, South
+Korea, Kuwait, Laos, Lebanon, Liberia, Libya, Luxembourg, Madagascar,
+Malawi, Malaysia, Malta, Mauritania, Mauritius, Mexico, Mongolia,
+Morocco, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria,
+Norway, Pakistan, Panama, Papua New Guinea, Peru, Philippines, Poland,
+Romania, Rwanda, Senegal, Sierra Leone, Singapore, Slovakia, Slovenia,
+South Africa, Spain, Sri Lanka, Sudan, Suriname, Swaziland, Sweden,
+Switzerland, Syria, Tanzania, Thailand, Togo, Trinidad and Tobago,
+Tunisia, Turkey, Uganda, United Kingdom, United States, Uruguay,
+Venezuela, former Yugoslavia, Zaire, Zambia
+ 
+note - the following countries have signed, but not yet ratified the
+treaty:  Algeria, Burkina, Burundi, Cameroon, Ethiopia, Haiti, Mali,
+Paraguay, Portugal, Somalia, Vietnam
+-----
+Tropical Timber
+ 
+see International Tropical Timber Agreement
+-----
+United Nations Convention on the Law of the Sea (LOS)
+ 
+note - abbreviated as Law of the Sea
+ 
+date opened for signature - 1982, but not yet in force
+ 
+objective - to set up a comprehensive new legal regime for the sea and
+oceans and, as far as environmental provisions are concerned, to
+establish material rules concerning environmental standards as well as
+enforcement provisions dealing with pollution of the marine environment
+ 
+parties - (60) Angola, Antigua and Barbuda, The Bahamas, Bahrain,
+Barbados, Belize, Botswana, Brazil, Cameroon, Cape Verde, Costa Rica,
+Cote d'Ivoire, Cuba, Cyprus, Czech Republic, Djibouti, Dominica, Egypt,
+Fiji, The Gambia, Ghana, Grenada, Guinea, Guinea-Bissau, Guyana,
+Honduras, Iceland, Indonesia, Iraq, Jamaica, Kenya, Kuwait, Mali,
+Malta, Marshall Islands, Mexico, Federated States of Micronesia,
+Namibia, Nigeria, Oman, Paraguay, Philippines, Saint Kitts and Nevis,
+Saint Lucia, Saint Vincent and the Grenadines, Sao Tome and Principe,
+Senegal, Seychelles, Slovakia, Somalia, Sudan, Tanzania, Togo, Trinidad
+and Tobago, Tunisia, Uganda, Yemen, former Yugoslavia, Zaire, Zambia,
+Zimbabwe
+ 
+note - the following countries have signed, but not yet ratified the
+convention:  Afghanistan, Algeria, Argentina, Australia, Austria,
+Bangladesh, Belarus, Belgium, Benin, Bhutan, Bolivia, Brunei, Bulgaria,
+Burkina, Burma, Burundi, Cambodia, Canada, Central African Republic,
+Chad, Chile, China, Colombia, Comoros, Congo, Cook Islands, Denmark,
+Dominican Republic, El Salvador, Equatorial Guinea, Ethiopia, European
+Union, Finland, France, Gabon, Greece, Guatemala, Haiti, Hungary,
+India, Iran, Ireland, Italy, Japan, North Korea, South Korea, Laos,
+Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Luxembourg,
+Madagascar, Malawi, Malaysia, Maldives, Mauritania, Mauritius, Monaco,
+Mongolia, Morocco, Mozambique, Nauru, Nepal, Netherlands, New Zealand,
+Nicaragua, Niger, Niue, Norway, Pakistan, Panama, Papua New Guinea,
+Poland, Portugal, Qatar, Romania, Russia, Rwanda, Saudi Arabia, Sierra
+Leone, Singapore, Solomon Islands, South Africa, Spain, Sri Lanka,
+Suriname, Swaziland, Sweden, Switzerland, Thailand, Tuvalu, Ukraine,
+United Arab Emirates, Uruguay, Vanuatu, Vietnam, Western Samoa
+-----
+United Nations Framework Convention on Climate Change
+ 
+note - abbreviated as Climate Change
+ 
+date opened for signature - 1992
+ 
+objective-to achieve stabilization of greenhouse gas concentrations in
+the atmosphere at a low enough level to prevent dangerous anthropogenic
+interference with the climate system
+ 
+parties - (64) Algeria, Antigua and Barbuda, Argentina, Armenia,
+Australia, Austria, The Bahamas, Barbados, Botswana, Brazil, Burkina,
+Canada, China, Cook Islands, Cuba, Czech Republic, Denmark, Dominica,
+Ecuador, European Union, Fiji, France, Germany, Guinea, Hungary,
+Iceland, India, Japan, Jordan, South Korea, Maldives, Malta, Marshall
+Islands, Mauritania, Mauritius, Mexico, Federated States of Micronesia,
+Monaco, Mongolia, Nauru, Netherlands, New Zealand, Norway, Papua New
+Guinea, Paraguay, Peru, Portugal, Saint Kitts and Nevis, Saint Lucia,
+Seychelles, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Tunisia,
+Tuvulu, Uganda, United Kingdom, United States, Uzbekistan, Vanuatu,
+Zambia, Zimbabwe
+ 
+note - the following countries have signed, but not yet ratified the
+convention:  Afghanistan, Angola, Azerbaijan, Bahrain, Bangladesh,
+Belarus, Belgium, Belize, Benin, Bhutan, Bolivia, Bulgaria, Burma,
+Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Chile,
+Colombia, Comoros, Congo, Costa Rica, Cote d'Ivoire, Croatia, Cyprus,
+Djibouti, Dominican Republic, Egypt, El Salvador, Estonia, Ethiopia,
+Finland, Gabon, The Gambia, Ghana, Greece, Grenada, Guatemala, Guinea-
+Bissau, Guyana, Haiti, Honduras, Indonesia, Iran,  Ireland, Israel,
+Italy, Jamaica, Kazakhstan, Kenya, Kiribati, North Korea, Latvia,
+Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg,
+Madagascar, Malawi, Malaysia, Mali, Moldova, Morocco, Mozambique,
+Namibia, Nepal, Nicaragua, Niger, Nigeria, Oman, Pakistan, Panama,
+Philippines, Poland, Romania, Russia, Rwanda, San Marino, Sao Tome and
+Principe, Senegal, Sierra Leone, Singapore, Slovakia, Slovenia, Solomon
+Islands, South Africa, Suriname, Swaziland, Tanzania, Thailand, Togo,
+Trinidad and Tobago, Ukraine, Uruguay, Venezuela, Vietnam, Western
+Samoa, Yemen, former Yugoslavia, Zaire
+-----
+Wetlands
+ 
+see Convention on Wetlands of International Importance Especially As
+Waterfowl Habitat (Ramsar)
+-----
+Whaling
+see International Convention for the Regulation of Whaling
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

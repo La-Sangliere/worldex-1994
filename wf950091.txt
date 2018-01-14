@@ -1,0 +1,545 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0090
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Germany
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Germany 
+ 
+ 
+                                  Germany
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Europe, bordering the North Sea between France and Poland
+Map references:
+     Arctic Region, Europe, Standard Time Zones of the World
+Area:
+total area:
+     356,910 sq km
+land area:
+     349,520 sq km
+comparative area:
+     slightly smaller than Montana
+note:
+     includes the formerly separate Federal Republic of Germany, the German
+     Democratic Republic, and Berlin following formal unification on 3
+     October 1990
+Land boundaries:
+     total 3,621 km, Austria 784 km, Belgium 167 km, Czech Republic 646 km,
+     Denmark 68 km, France 451 km, Luxembourg 138 km, Netherlands 577 km,
+     Poland 456 km, Switzerland 334 km
+Coastline:
+     2,389 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm in North Sea and Schleswig-Holstein coast of Baltic Sea (extends,
+     at one point, to 16 nm in the Helgolander Bucht); 12 nm in remainder
+     of Baltic Sea
+International disputes:
+     none
+Climate:
+     temperate and marine; cool, cloudy, wet winters and summers;
+     occasional warm, tropical foehn wind; high relative humidity
+Terrain:
+     lowlands in north, uplands in center, Bavarian Alps in south
+Natural resources:
+     iron ore, coal, potash, timber, lignite, uranium, copper, natural gas,
+     salt, nickel
+Land use:
+arable land:
+     34%
+permanent crops:
+     1%
+meadows and pastures:
+     16%
+forest and woodland:
+     30%
+other:
+     19%
+ 
+ 
+Irrigated land:
+     4,800 sq km (1989 est.)
+Environment:
+current issues:
+     emissions from coal-burning utilities and industries in the southeast
+     and lead emissions from vehicle exhausts (the result of continued use
+     of leaded fuels) contribute to air pollution; acid rain, resulting
+     from sulfur dioxide emissions, is damaging forests; heavy pollution in
+     the Baltic Sea from raw sewage and industrial effluents from rivers in
+     eastern Germany
+natural hazards:
+     NA
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Antarctic Treaty, Biodiversity, Climate Change,
+     Endangered Species, Environmental Modification, Marine Dumping,
+     Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical
+     Timber, Wetlands, Whaling; signed, but not ratified - Air
+     Pollution-Volatile Organic Compounds, Antarctic-Environmental
+     Protocol, Hazardous Wastes
+Note:
+     strategic location on North European Plain and along the entrance to
+     the Baltic Sea
+ 
+                                  People
+ 
+Population:
+     81,087,506 (July 1994 est.)
+Population growth rate:
+     0.36% (1994 est.)
+Birth rate:
+     11.04 births/1,000 population (1994 est.)
+Death rate:
+     10.89 deaths/1,000 population (1994 est.)
+Net migration rate:
+     3.39 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     6.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     76.34 years
+male:
+     73.22 years
+female:
+     79.64 years (1994 est.)
+Total fertility rate:
+     1.47 children born/woman (1994 est.)
+Nationality:
+noun:
+     German(s)
+adjective:
+     German
+ 
+ 
+Ethnic divisions:
+     German 95.1%, Turkish 2.3%, Italians 0.7%, Greeks 0.4%, Poles 0.4%,
+     other 1.1% (made up largely of people fleeing the war in the former
+     Yugoslavia)
+Religions:
+     Protestant 45%, Roman Catholic 37%, unaffiliated or other 18%
+Languages:
+     German
+Literacy:
+     age 15 and over can read and write (1977 est.)
+total population:
+     99%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     36.75 million
+by occupation:
+     industry 41%, agriculture 6%, other 53% (1987)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Federal Republic of Germany
+conventional short form:
+local long form:
+     Bundesrepublik Deutschland
+local short form:
+     Deutschland
+Digraph:
+     GM
+Type:
+     federal republic
+Capital:
+     Berlin
+note:
+     the shift from Bonn to Berlin will take place over a period of years
+     with Bonn retaining many administrative functions and several
+     ministries
+Administrative divisions:
+     16 states (laender, singular - land); Baden-Wurttemberg, Bayern,
+     Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern,
+     Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland,
+     Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thuringen
+ 
+ 
+Independence:
+     18 January 1871 (German Empire unification); divided into four zones
+     of occupation (UK, US, USSR, and later, France) in 1945 following
+     World War II; Federal Republic of Germany (FRG or West Germany)
+     proclaimed 23 May 1949 and included the former UK, US, and French
+     zones; German Democratic Republic (GDR or East Germany) proclaimed 7
+     October 1949 and included the former USSR zone; unification of West
+     Germany and East Germany took place 3 October 1990; all four power
+     rights formally relinquished 15 March 1991
+National holiday:
+     German Unity Day (Day of Unity), 3 October (1990)
+Constitution:
+     23 May 1949, known as Basic Law; became constitution of the united
+     German people 3 October 1990
+Legal system:
+     civil law system with indigenous concepts; judicial review of
+     legislative acts in the Federal Constitutional Court; has not accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Dr. Richard von WEIZSACKER (since 1 July 1984); note -
+     presidential elections were held on 23 May 1994; Roman HERZOG was the
+     winner and will be inaugurated 1 July 1994
+head of government:
+     Chancellor Dr. Helmut KOHL (since 4 October 1982)
+cabinet:
+     Cabinet; appointed by the president upon the proposal of the
+     chancellor
+Legislative branch:
+     bicameral chamber (no official name for the two chambers as a whole)
+Federal Assembly (Bundestag):
+     last held 2 December 1990 (next to be held by 16 October 1994);
+     results - CDU 36.7%, SPD 33.5%, FDP 11.0%, CSU 7.1%, Green Party (West
+     Germany) 3.9%, PDS 2.4%, Republikaner 2.1%, Alliance 90/Green Party
+     (East Germany) 1.2%, other 2.1%; seats - (662 total) CDU 268, CSU 51,
+     SPD 239, FDP 79, PDS 17, Greens/Alliance '90 8; elected by direct
+     popular vote under a system combining direct and proportional
+     representation; a party must win 5% of the national vote or 3 direct
+     mandates to gain representation
+Federal Council (Bundesrat):
+     State governments are directly represented by votes; each has 3 to 6
+     votes depending on size and are required to vote as a block; current
+     composition: votes - (68 total) SPD-led states 37, CDU-led states 31
+Judicial branch:
+     Federal Constitutional Court (Bundesverfassungsgericht)
+Political parties and leaders:
+     Christian Democratic Union (CDU), Helmut KOHL, chairman; Christian
+     Social Union (CSU), Theo WAIGEL, chairman; Free Democratic Party
+     (FDP), Klaus KINKEL, chairman; Social Democratic Party (SPD), Rudolf
+     SCHARPING, chairman; Alliance '90/Greens, Ludger VOLMER, Marianne
+     BIRTHLER, co-chairmen; Party of Democratic Socialism (PDS), Lothar
+     BISKY, chairman; Republikaner, Franz SCHOENHUBER; National Democratic
+     Party (NPD), Guenter DECKERT; Communist Party (DKP), Rolf PRIEMER
+ 
+ 
+Other political or pressure groups:
+     expellee, refugee, and veterans groups
+Member of:
+     AfDB, AG (observer), AsDB, Australian Group, BDEAC, BIS, CBSS, CCC,
+     CDB (non-regional), CE, CERN, COCOM, CSCE, EBRD, EC, ECE, EIB, ESA,
+     FAO, G-5, G-7, G-10, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA,
+     IEA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM,
+     ISO, ITU, LORCS, MTCR, NACC, NAM (guest), NATO, NEA, NSG, OAS
+     (observer), OECD, PCA, UN, UNCTAD, UNESCO, UNIDO, UNHCR, UNOMIG,
+     UNOSOM, UNTAC, UPU, WEU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Immo STABREIT
+chancery:
+     4645 Reservoir Road NW, Washington, DC 20007
+telephone:
+     (202) 298-4000
+FAX:
+     (202) 298-4249
+consulate(s) general:
+     Atlanta, Boston, Chicago, Detroit, Houston, Los Angeles, Miami, New
+     York, San Francisco, Seattle
+consulate(s):
+     Manila (Trust Territories of the Pacific Islands) and Wellington
+     (America Samoa)
+US diplomatic representation:
+chief of mission:
+     Ambassador Richard C. HOLBROOKE
+embassy:
+     Deichmanns Avenue 29, 53170 Bonn
+mailing address:
+     Unit 21701, Bonn; APO AE 09080
+telephone:
+     [49] (228) 3391
+FAX:
+     [49] (228) 339-2663
+branch office:
+     Berlin
+consulate(s) general:
+     Frankfurt, Hamburg, Leipzig, Munich, and Stuttgart
+Flag:
+     three equal horizontal bands of black (top), red, and yellow
+ 
+                                  Economy
+ 
+ 
+Overview:
+     With the collapse of communism in Eastern Europe in 1989, prospects
+     seemed bright for a fairly rapid incorporation of East Germany into
+     the highly successful West German economy. The Federal Republic,
+     however, continues to experience difficulties in integrating and
+     modernizing eastern Germany, and the tremendous costs of unification
+     pushed western Germany into its deepest recession since World War II.
+     The western German economy shrank by 1.9% in 1993 as the Bundesbank
+     maintained high interest rates to offset the inflationary effects of
+     large government deficits and high wage settlements. Eastern Germany
+     grew by 7.1% in 1993 but this was from a shrunken base. Despite
+     government transfers to the east amounting to nearly $110 billion
+     annually, a self-sustaining economy in the region is still some years
+     away. The bright spots are eastern Germany's construction,
+     transportation, telecommunications, and service sectors, which have
+     experienced strong growth. Western Germany has an advanced market
+     economy and is a world leader in exports. It has a highly urbanized
+     and skilled population that enjoys excellent living standards,
+     abundant leisure time, and comprehensive social welfare benefits.
+     Western Germany is relatively poor in natural resources, coal being
+     the most important mineral. Western Germany's world-class companies
+     manufacture technologically advanced goods. The region's economy is
+     mature: services and manufacturing account for the dominant share of
+     economic activity, and raw materials and semimanufactured goods
+     constitute a large portion of imports. In recent years, manufacturing
+     has accounted for about 31% of GDP, with other sectors contributing
+     lesser amounts. Gross fixed investment in 1993 accounted for about
+     20.5% of GDP. GDP in the western region is now $19,400 per capita, or
+     78% of US per capita GDP. Eastern Germany's economy appears to be
+     changing from one anchored on manufacturing into a more
+     service-oriented economy. The German government, however, is intent on
+     maintaining a manufacturing base in the east and is considering a
+     policy for subsidizing industrial cores in the region. Eastern
+     Germany's share of all-German GDP is only 8% and eastern productivity
+     is just 30% that of the west even though eastern wages are at roughly
+     70% of western levels. The privatization agency for eastern Germany,
+     Treuhand, has privatized more than 90% of the 13,000 firms under its
+     control and will likely wind down operations in 1994. Private
+     investment in the region continues to be lackluster, resulting
+     primarily from the deepening recession in western Germany and
+     excessively high eastern wages. Eastern Germany has one of the world's
+     largest reserves of low-grade lignite coal but little else in the way
+     of mineral resources. The quality of statistics from eastern Germany
+     is improving, yet many gaps remain; the federal government began
+     producing all-German data for select economic statistics at the start
+     of 1992. The most challenging economic problem is promoting eastern
+     Germany's economic reconstruction - specifically, finding the right
+     mix of fiscal, monetary, regulatory, and tax policies that will spur
+     investment in eastern Germany - without destabilizing western
+     Germany's economy or damaging relations with West European partners.
+     The government hopes a "solidarity pact" among labor unions, business,
+     state governments, and the SPD opposition will provide the right mix
+     of wage restraints, investment incentives, and spending cuts to
+     stimulate eastern recovery. Finally, the homogeneity of the German
+     economic culture has been changed by the admission of large numbers of
+ 
+ 
+     immigrants.
+National product:
+Germany:
+     GDP - purchasing power equivalent - $1.331 trillion (1993)
+western:
+     GDP - purchasing power equivalent - $1.218 trillion (1993)
+eastern:
+     GDP - purchasing power equivalent - $112.7 billion (1993)
+National product real growth rate:
+Germany:
+     -1.2% (1993)
+western:
+     -1.9% (1993)
+eastern:
+     7.1% (1993)
+National product per capita:
+Germany:
+     $16,500 (1993)
+western:
+     $19,400 (1993)
+eastern:
+     $6,300 (1993)
+Inflation rate (consumer prices):
+western:
+     4.2% (1993)
+eastern:
+     8.9% (1993 est.)
+Unemployment rate:
+western:
+     8.1% (December 1993)
+eastern:
+     15.4% (December 1993)
+Budget:
+revenues:
+     $918 billion
+expenditures:
+     $972 billion, including capital expenditures of $NA (1992)
+Exports:
+     $392 billion (f.o.b., 1993)
+commodities:
+     manufactures 89.0% (including machines and machine tools, chemicals,
+     motor vehicles, iron and steel products), agricultural products 5.4%,
+     raw materials 2.2%, fuels 1.3% (1922)
+partners:
+     EC 51.3% (France 11.1%, Netherlands 8.3%, Italy 8.2%, UK 7.9%,
+     Belgium-Luxembourg 7.5%), EFTA 13.3%, US 6.8%, Eastern Europe 5.0%,
+     OPEC 3.3% (1993)
+Imports:
+     $374.6 billion (f.o.b., 1993)
+commodities:
+     manufactures 74.9%, agricultural products 10.3%, fuels 7.4%, raw
+     materials 5.5% (1992)
+ 
+ 
+partners:
+     EC 49.7 (France 11.0%, Netherlands 9.2%, Italy 8.8%, UK 6.6%,
+     Belgium-Luxembourg 6.7%), EFTA 12.7%, US 5.9%, Japan 5.2%, Eastern
+     Europe 4.8%, OPEC 2.6% (1993)
+External debt:
+     $NA
+Industrial production:
+western:
+     growth rate -7% (1993)
+eastern:
+     growth rate $NA
+Electricity:
+capacity:
+     134,000,000 kW
+production:
+     580 billion kWh
+consumption per capita:
+     7,160 kWh (1992)
+Industries:
+western:
+     among world's largest producers of iron, steel, coal, cement,
+     chemicals, machinery, vehicles, machine tools, electronics; food and
+     beverages
+eastern:
+     metal fabrication, chemicals, brown coal, shipbuilding, machine
+     building, food and beverages, textiles, petroleum refining
+Agriculture:
+western:
+     accounts for about 2% of GDP (including fishing and forestry);
+     diversified crop and livestock farming; principal crops and livestock
+     include potatoes, wheat, barley, sugar beets, fruit, cabbage, cattle,
+     pigs, poultry; net importer of food
+eastern:
+     accounts for about 10% of GDP (including fishing and forestry);
+     principal crops - wheat, rye, barley, potatoes, sugar beets, fruit;
+     livestock products include pork, beef, chicken, milk, hides and skins;
+     net importer of food
+Illicit drugs:
+     source of precursor chemicals for South American cocaine processors;
+     transshipment point for Southwest Asian heroin and Latin American
+     cocaine for West European markets
+Economic aid:
+western-donor:
+     ODA and OOF commitments (1970-89), $75.5 billion
+eastern-donor:
+     bilateral to non-Communist less developed countries (1956-89) $4
+     billion
+Currency:
+     1 deutsche mark (DM) = 100 pfennige
+Exchange rates:
+     deutsche marks (DM) per US$1 - 1.7431 (January 1994), 1.6533 (1993),
+     1.5617 (1992), 1.6595 (1991), 1.6157 (1990), 1.8800 (1989)
+Fiscal year:
+     calendar year
+ 
+ 
+                              Communications
+ 
+Railroads:
+western:
+     31,443 km total; 27,421 km government owned, 1.435-meter standard
+     gauge (12,491 km double track, 11,501 km electrified); 4,022 km
+     nongovernment owned, including 3,598 km 1.435-meter standard gauge
+     (214 km electrified) and 424 km 1.000-meter gauge (186 km electrified)
+eastern:
+     14,025 km total; 13,750 km 1.435-meter standard gauge, 275 km
+     1.000-meter or other narrow gauge; 3,830 (est.) km 1.435-meter
+     standard gauge double-track; 3,475 km overhead electrified (1988)
+Highways:
+total:
+     625,600 km (1991 est.); western - 501,000 km (1990 est.); eastern -
+     124,600 km (1988 est.)
+paved:
+     543,200 km, including 10,814 km of expressways; western - 495,900 km,
+     including 8,959 km of expressways; eastern - 47,300 km, including
+     1,855 km of expressways
+unpaved:
+     82,400 km; western - 5,000 km earth; eastern - 77,400 km gravel and
+     earth
+Inland waterways:
+western:
+     5,222 km, of which almost 70% are usable by craft of 1,000-metric-ton
+     capacity or larger; major rivers include the Rhine and Elbe; Kiel
+     Canal is an important connection between the Baltic Sea and North Sea
+eastern:
+     2,319 km (1988)
+Pipelines:
+     crude oil 3,644 km; petroleum products 3,946 km; natural gas 97,564 km
+     (1988)
+Ports:
+     coastal - Bremerhaven, Brunsbuttel, Cuxhaven, Emden, Bremen, Hamburg,
+     Kiel, Lubeck, Wilhelmshaven, Rostock, Wismar, Stralsund, Sassnitz;
+     inland - 31 major on Rhine and Elbe rivers
+Merchant marine:
+     485 ships (1,000 GRT or over) totaling 4,541,441 GRT/5,835,511 DWT,
+     barge carrier 7, bulk 11, cargo 241, chemical tanker 20, combination
+     bulk 6, combination ore/oil 5, container 132, liquefied gas tanker 16,
+     oil tanker 7, passenger 3, railcar carrier 5, refrigerated cargo 7,
+     roll-on/roll-off cargo 20, short-sea passenger 5
+note:
+     the German register includes ships of the former East and West Germany
+Airports:
+total:
+     590
+usable:
+     583
+with permanent-surface runways:
+     308
+with runways over 3,659 m:
+     5
+ 
+ 
+with runways 2,440-3,659 m:
+     85
+with runways 1,220-2,439 m:
+     97
+Telecommunications:
+western:
+     highly developed, modern telecommunication service to all parts of the
+     country; fully adequate in all respects; 40,300,000 telephones;
+     intensively developed, highly redundant cable and microwave radio
+     relay networks, all completely automatic; broadcast stations - 80 AM,
+     470 FM, 225 (6,000 repeaters) TV; 6 submarine coaxial cables;
+     satellite earth stations - 12 Atlantic Ocean INTELSAT antennas, 2
+     Indian Ocean INTELSAT antennas, EUTELSAT, and domestic systems; 2 HF
+     radiocommunication centers; tropospheric links
+eastern:
+     badly needs modernization; 3,970,000 telephones; broadcast stations -
+     23 AM, 17 FM, 21 TV (15 Soviet TV repeaters); 6,181,860 TVs; 6,700,000
+     radios; 1 satellite earth station operating in INTELSAT and
+     Intersputnik systems
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force
+Manpower availability:
+     males age 15-49 20,253,482; fit for military service 17,506,468; reach
+     military age (18) annually 418,124 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $37.3 billion, 2% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

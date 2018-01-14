@@ -1,0 +1,370 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0134
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Kuwait
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Kuwait 
+ 
+ 
+                                  Kuwait
+ 
+ 
+                                 Geography
+ 
+Location:
+     Middle East, at the head of the Persian Gulf, between Iraq and Saudi
+     Arabia
+Map references:
+     Africa, Middle East, Standard Time Zones of the World
+Area:
+total area:
+     17,820 sq km
+land area:
+     17,820 sq km
+comparative area:
+     slightly smaller than New Jersey
+Land boundaries:
+     total 464 km, Iraq 242 km, Saudi Arabia 222 km
+Coastline:
+     499 km
+Maritime claims:
+continental shelf:
+     not specified
+territorial sea:
+     12 nm
+International disputes:
+     in April 1991 Iraq officially accepted UN Security Council Resolution
+     687, which demands that Iraq accept the inviolability of the boundary
+     set forth in its 1963 agreement with Kuwait, ending earlier claims to
+     Bubiyan and Warbah islands, or to all of Kuwait; the 20 May 1993 final
+     report of the UN Iraq/Kuwait Boundary Demarcation Commission was
+     welcomed by the Security Council in Resolution 833 of 27 May 1993,
+     which also reaffirmed that the decisions of the commission on the
+     boundary were final, bringing to a completion the official demarcation
+     of the Iraq-Kuwait boundary; Iraqi officials still refuse to
+     unconditionally recognize Kuwaiti sovereignty of the inviolability of
+     the UN demarcated border; ownership of Qaruh and Umm al Maradim
+     islands disputed by Saudi Arabia
+Climate:
+     dry desert; intensely hot summers; short, cool winters
+Terrain:
+     flat to slightly undulating desert plain
+Natural resources:
+     petroleum, fish, shrimp, natural gas
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     8%
+forest and woodland:
+     0%
+other:
+     92%
+ 
+ 
+Irrigated land:
+     20 sq km (1989 est.)
+Environment:
+current issues:
+     some of world's largest and most sophisticated desalination facilities
+     provide much of the water; air and water pollution; desertification
+natural hazards:
+     NA
+international agreements:
+     party to - Environmental Modification, Hazardous Wastes, Law of the
+     Sea, Nuclear Test Ban, Ozone Layer Protection; signed, but not
+     ratified - Biodiversity, Endangered Species, Marine Dumping
+Note:
+     strategic location at head of Persian Gulf
+ 
+                                  People
+ 
+Population:
+     1,819,322 (July 1994 est.)
+Population growth rate:
+     5.24% (1994 est.)
+note:
+     this rate reflects the continued post-Gulf crisis return of nationals
+     and expatriates
+Birth rate:
+     29.43 births/1,000 population (1994 est.)
+Death rate:
+     2.37 deaths/1,000 population (1994 est.)
+Net migration rate:
+     25.35 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     12.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     74.99 years
+male:
+     72.83 years
+female:
+     77.25 years (1994 est.)
+Total fertility rate:
+     4 children born/woman (1994 est.)
+Nationality:
+noun:
+     Kuwaiti(s)
+adjective:
+     Kuwaiti
+Ethnic divisions:
+     Kuwaiti 45%, other Arab 35%, South Asian 9%, Iranian 4%, other 7%
+Religions:
+     Muslim 85% (Shi'a 30%, Sunni 45%, other 10%), Christian, Hindu, Parsi,
+     and other 15%
+Languages:
+     Arabic (official), English widely spoken
+Literacy:
+     age 15 and over can read and write (1990 est.)
+ 
+ 
+total population:
+     73%
+male:
+     77%
+female:
+     67%
+Labor force:
+     566,000 (1986)
+by occupation:
+     services 45.0%, construction 20.0%, trade 12.0%, manufacturing 8.6%,
+     finance and real estate 2.6%, agriculture 1.9%, power and water 1.7%,
+     mining and quarrying 1.4%
+note:
+     70% of labor force non-Kuwaiti (1986)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     State of Kuwait
+conventional short form:
+local long form:
+     Dawlat al Kuwayt
+local short form:
+     Al Kuwayt
+Digraph:
+     KU
+Type:
+     nominal constitutional monarchy
+Capital:
+Administrative divisions:
+     5 governorates (muhafazat, singular - muhafazah); Al 'Ahmadi, Al
+     Jahrah, Al Kuwayt, Hawalli, Al Farwaniyah
+Independence:
+     19 June 1961 (from UK)
+National holiday:
+     National Day, 25 February (1948)
+Constitution:
+     16 November 1962 (some provisions suspended since 29 August 1962)
+Legal system:
+     civil law system with Islamic law significant in personal matters; has
+     not accepted compulsory ICJ jurisdiction
+Suffrage:
+     adult males who resided in Kuwait before 1920 and their male
+     descendants at age 21
+note:
+     only 10% of all citizens are eligible to vote
+Executive branch:
+chief of state:
+     Amir Shaykh JABIR al-Ahmad al-Jabir Al Sabah (since 31 December 1977)
+ 
+ 
+head of government:
+     Prime Minister and Crown Prince SAAD al-Abdallah al-Salim Al Sabah
+     (since 8 February 1978); Deputy Prime Minister SABAH al-Ahmad al-Jabir
+     Al Sabah (since 17 October 1992)
+cabinet:
+     Council of Ministers; appointed by the Prime Minister and approved by
+     the Amir
+Legislative branch:
+     unicameral
+National Assembly (Majlis al-umma):
+     dissolved 3 July 1986; new elections were held on 5 October 1992 with
+     a second election in the 14th and 16th constituencies held February
+     1993
+Judicial branch:
+     High Court of Appeal
+Political parties and leaders:
+     none
+Other political or pressure groups:
+     small, clandestine leftist and Shi'a fundamentalist groups are active;
+     several groups critical of government policies are publicly active
+Member of:
+     ABEDA, AfDB, AFESD, AL, AMF, BDEAC, CAEU, ESCWA, FAO, G-77, GATT, GCC,
+     IAEA, IBRD, ICAO, ICC, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INMARSAT,
+     INTELSAT, INTERPOL, IOC, ISO (correspondent), ITU, LORCS, NAM, OAPEC,
+     OIC, OPEC, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador MUHAMMAD al-Sabah al-Salim al-Sabah
+chancery:
+     2940 Tilden Street NW, Washington, DC 20008
+telephone:
+     (202) 966-0702
+FAX:
+     (202) 966-0517
+US diplomatic representation:
+chief of mission:
+     Ambassador-designate Ryan CROCKER
+embassy:
+     Bneid al-Gar (opposite the Kuwait International Hotel), Kuwait City
+mailing address:
+     P.O. Box 77 SAFAT, 13001 SAFAT, Kuwait; Unit 69000, Kuwait; APO AE
+     09880-9000
+telephone:
+     [965] 242-4151 through 4159
+FAX:
+     [956] 244-2855
+Flag:
+     three equal horizontal bands of green (top), white, and red with a
+     black trapezoid based on the hoist side
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Kuwait is a small and relatively open economy with proven crude oil
+     reserves of about 94 billion barrels - 10% of world reserves. Kuwait
+     has rebuilt its war-ravaged petroleum sector; its crude oil production
+     reached at least 2.0 million barrels per day by the end of 1993. The
+     government ran a sizable fiscal deficit in 1993. Petroleum accounts
+     for nearly half of GDP and 90% of export and government revenues.
+National product:
+     GDP - purchasing power equivalent - $25.7 billion (1993 est.)
+National product real growth rate:
+     15% (1993 est.)
+National product per capita:
+     $15,100 (1993 est.)
+Inflation rate (consumer prices):
+     3% (1993)
+Unemployment rate:
+     NEGL% (1992 est.)
+Budget:
+revenues:
+     $9 billion
+expenditures:
+     $13 billion, including capital expenditures of $NA (FY93)
+Exports:
+     $10.5 billion (f.o.b., 1993 est.)
+commodities:
+     oil
+partners:
+     France 16%, Italy 15%, Japan 12%, UK 11%
+Imports:
+     $6 billion (f.o.b., 1993 est.)
+commodities:
+     food, construction materials, vehicles and parts, clothing
+partners:
+     US 35%, Japan 12%, UK 9%, Canada 9%
+External debt:
+     $7.2 billion (December 1989 est.)
+note:
+     external debt has grown substantially in 1991 and 1992 to pay for
+     restoration of war damage
+Industrial production:
+     growth rate NA%; accounts for NA% of GDP
+Electricity:
+capacity:
+     6,873,000 kW available out of 7,398,000 kW due to Persian Gulf war
+production:
+     12.264 billion kWh
+consumption per capita:
+     8,890 kWh (1992)
+Industries:
+     petroleum, petrochemicals, desalination, food processing, building
+     materials, salt, construction
+Agriculture:
+     practically none; dependent on imports for food; about 75% of potable
+     water must be distilled or imported
+ 
+ 
+Economic aid:
+donor:
+     pledged bilateral aid to less developed countries (1979-89), $18.3
+     billion
+Currency:
+     1 Kuwaiti dinar (KD) = 1,000 fils
+Exchange rates:
+     Kuwaiti dinars (KD) per US$1 - 0.2982 (January 1994), 0.3017 (1993),
+     0.2934 (1992), 0.2843 (1991), 0.2915 (1990), 0.2937 (1989)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Railroads:
+     none
+Highways:
+total:
+     3,900 km
+paved:
+     bituminous 3,000 km
+unpaved:
+     gravel, sand, earth 900 km
+Pipelines:
+     crude oil 877 km; petroleum products 40 km; natural gas 165 km
+Ports:
+     Ash Shu'aybah, Ash Shuwaykh, Mina' al Ahmadi, Mina' 'Abd Allah, Mina'
+     Su'ud
+Merchant marine:
+     46 ships (1,000 GRT or over), totaling 2,153,693 GRT/3,561,568 DWT,
+     cargo 10, container 2, liquefied gas 7, livestock carrier 4, oil
+     tanker 23
+Airports:
+total:
+     7
+usable:
+     4
+with permanent-surface runways:
+     4
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     4
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     civil network suffered extensive damage as a result of the Gulf war
+     and reconstruction is still under way with some restored international
+     and domestic capabilities; broadcast stations - 3 AM, 0 FM, 3 TV;
+     satellite earth stations - destroyed during Gulf war and not rebuilt
+     yet; temporary mobile satellite ground stations provide international
+     telecommunications; coaxial cable and microwave radio relay to Saudi
+     Arabia; service to Iraq is nonoperational
+ 
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, National Police Force, National Guard
+Manpower availability:
+     males age 15-49 537,696; fit for military service 321,767; reach
+     military age (18) annually 15,354 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $2.5 billion, 7.3% of GDP (FY92/93)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

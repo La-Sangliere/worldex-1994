@@ -1,0 +1,334 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0083
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: French Guiana
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | French Guiana 
+ 
+ 
+                               French Guiana
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (overseas department of France)
+ 
+                                 Geography
+ 
+Location:
+     Northern South America, bordering on the North Atlantic Ocean between
+     Suriname and Brazil
+Map references:
+     South America, Standard Time Zones of the World
+Area:
+total area:
+     91,000 sq km
+land area:
+     89,150 sq km
+comparative area:
+     slightly smaller than Indiana
+Land boundaries:
+     total 1,183 km, Brazil 673 km, Suriname 510 km
+Coastline:
+     378 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     Suriname claims area between Riviere Litani and Riviere Marouini (both
+     headwaters of the Lawa)
+Climate:
+     tropical; hot, humid; little seasonal temperature variation
+Terrain:
+     low-lying coastal plains rising to hills and small mountains
+Natural resources:
+     bauxite, timber, gold (widely scattered), cinnabar, kaolin, fish
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     82%
+other:
+     18%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+ 
+ 
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     mostly an unsettled wilderness
+ 
+                                  People
+ 
+Population:
+     139,299 (July 1994 est.)
+Population growth rate:
+     4.27% (1994 est.)
+Birth rate:
+     25.83 births/1,000 population (1994 est.)
+Death rate:
+     4.67 deaths/1,000 population (1994 est.)
+Net migration rate:
+     21.54 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     15.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     75.2 years
+male:
+     71.93 years
+female:
+     78.63 years (1994 est.)
+Total fertility rate:
+     3.5 children born/woman (1994 est.)
+Nationality:
+noun:
+     French Guianese (singular and plural)
+adjective:
+     French Guianese
+Ethnic divisions:
+     black or mulatto 66%, Caucasian 12%, East Indian, Chinese, Amerindian
+     12%, other 10%
+Religions:
+     Roman Catholic
+Languages:
+     French
+Literacy:
+     age 15 and over can read and write (1982)
+total population:
+     82%
+male:
+     81%
+female:
+     83%
+Labor force:
+     23,265
+by occupation:
+     services, government, and commerce 60.6%, industry 21.2%, agriculture
+     18.2% (1980)
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Department of Guiana
+conventional short form:
+local long form:
+     none
+local short form:
+     Guyane
+Digraph:
+     FG
+Type:
+     overseas department of France
+Capital:
+     Cayenne
+Administrative divisions:
+     none (overseas department of France)
+Independence:
+     none (overseas department of France)
+National holiday:
+     National Day, Taking of the Bastille, 14 July (1789)
+Constitution:
+     28 September 1958 (French Constitution)
+Legal system:
+     French legal system
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Francois MITTERRAND (since 21 May 1981)
+head of government:
+     Prefect Jean-Francois CORDET (since NA 1992); President of the General
+     Council Elie CASTOR (since NA); President of the Regional Council
+     Antoine KARAM (22 March 1993)
+cabinet:
+     Council of Ministers
+Legislative branch:
+     unicameral General Council and a unicameral Regional Council
+General Council:
+     elections last held 25 September and 8 October 1988 (next to be held
+     NA); results - percent of vote by party NA; seats - (19 total) PSG 12,
+     URC 7
+Regional Council:
+     elections last held 22 March 1992 (next to be held NA); results -
+     percent of vote by party NA; seats - (31 total) PSG 16
+French Senate:
+     elections last held 24 September 1989 (next to be held September
+     1998); results - percent of vote by party NA; seats - (1 total) PSG 1
+French National Assembly:
+     elections last held 21 and 28 March 1993 (next to be held NA 1998);
+     results - percent of vote by party NA; seats - (2 total) RPR 1,
+     independent 1
+ 
+ 
+Judicial branch:
+     Court of Appeals (highest local court based in Martinique with
+     jurisdiction over Martinique, Guadeloupe, and French Guiana)
+Political parties and leaders:
+     Guianese Socialist Party (PSG), Elie CASTRO; Conservative Union for
+     the Republic (UPR), Leon BERTRAND; Rally for the Center Right (URC);
+     Rally for the Republic (RPR); Guyana Democratic Front (FDG), Georges
+     OTHILY; Walwari Committee, Christine TAUBIRA-DELANON
+Member of:
+     FZ, WCL
+Diplomatic representation in US:
+     none (overseas department of France)
+US diplomatic representation:
+     none (overseas department of France)
+Flag:
+     the flag of France is used
+ 
+                                  Economy
+ 
+Overview:
+     The economy is tied closely to that of France through subsidies and
+     imports. Besides the French space center at Kourou, fishing and
+     forestry are the most important economic activities, with exports of
+     fish and fish products (mostly shrimp) accounting for more than 60% of
+     total revenue in 1992. The large reserves of tropical hardwoods, not
+     fully exploited, support an expanding sawmill industry that provides
+     sawn logs for export. Cultivation of crops - rice, cassava, bananas,
+     and sugar cane - is limited to the coastal area, where the population
+     is largely concentrated. French Guiana is heavily dependent on imports
+     of food and energy. Unemployment is a serious problem, particularly
+     among younger workers.
+National product:
+     GDP - exchange rate conversion - $421 million (1986)
+National product real growth rate:
+     NA%
+National product per capita:
+     $4,390 (1986)
+Inflation rate (consumer prices):
+     4.1% (1987)
+Unemployment rate:
+     13% (1990)
+Budget:
+revenues:
+     $735 million
+expenditures:
+     $735 million, including capital expenditures of $NA (1987)
+Exports:
+     $59 million (f.o.b., 1992)
+commodities:
+     shrimp, timber, rum, rosewood essence
+partners:
+     France 52%, Spain 15%, US 5% (1992)
+Imports:
+     $1.5 billion (c.i.f., 1992)
+ 
+ 
+commodities:
+     food (grains, processed meat), other consumer goods, producer goods,
+     petroleum
+partners:
+     France 77%, Germany 11%, US 5% (1992)
+External debt:
+     $1.2 billion (1988)
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     92,000 kW
+production:
+     185 million kWh
+consumption per capita:
+     1,450 kWh (1992)
+Industries:
+     construction, shrimp processing, forestry products, rum, gold mining
+Agriculture:
+     some vegetables for local consumption; rice, corn, manioc, cocoa,
+     bananas, sugar; livestock - cattle, pigs, poultry
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $1.51 billion
+Currency:
+     1 French franc (F) = 100 centimes
+Exchange rates:
+     French francs (F) per US$1 - 5.9205 (January 1994), 5.6632 (1993),
+     5.2938 (1992), 5.6421 (1991), 5.4453 (1990), 6.3801 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     680 km
+paved:
+     510 km
+unpaved:
+     improved, unimproved earth 170 km
+Inland waterways:
+     460 km, navigable by small oceangoing vessels and river and coastal
+     steamers; 3,300 km navigable by native craft
+Ports:
+     Cayenne
+Airports:
+total:
+     10
+usable:
+     10
+with permanent-surface runways:
+     4
+ 
+ 
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     fair open-wire and microwave radio relay system; 18,100 telephones;
+     broadcast stations - 5 AM, 7 FM, 9 TV; 1 Atlantic Ocean INTELSAT earth
+     station
+ 
+                              Defense Forces
+ 
+Branches:
+     French Forces, Gendarmerie
+Manpower availability:
+     males age 15-49 40,506; fit for military service 26,394
+Defense expenditures:
+     $NA, NA% of GDP
+Note:
+     defense is the responsibility of France
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

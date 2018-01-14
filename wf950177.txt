@@ -1,0 +1,362 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0176
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Niger
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Niger 
+ 
+ 
+                                   Niger
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, between Algeria and Nigeria
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     1.267 million sq km
+land area:
+     1,266,700 sq km
+comparative area:
+     slightly less than twice the size of Texas
+Land boundaries:
+     total 5,697 km, Algeria 956 km, Benin 266 km, Burkina 628 km, Chad
+     1,175 km, Libya 354 km, Mali 821 km, Nigeria 1,497 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     Libya claims about 19,400 sq km in northern Niger; demarcation of
+     international boundaries in Lake Chad, the lack of which has led to
+     border incidents in the past, is completed and awaiting ratification
+     by Cameroon, Chad, Niger, and Nigeria; Burkina and Mali are proceeding
+     with boundary demarcation, including the tripoint with Niger
+Climate:
+     desert; mostly hot, dry, dusty; tropical in extreme south
+Terrain:
+     predominately desert plains and sand dunes; flat to rolling plains in
+     south; hills in north
+Natural resources:
+     uranium, coal, iron ore, tin, phosphates
+Land use:
+arable land:
+     3%
+permanent crops:
+     0%
+meadows and pastures:
+     7%
+forest and woodland:
+     2%
+other:
+     88%
+Irrigated land:
+     320 sq km (1989 est.)
+Environment:
+current issues:
+     overgrazing; soil erosion; deforestation; desertification; wildlife
+     populations (such as elephant, hippopotamus, and lion) threatened
+     because of poaching and habitat destruction
+natural hazards:
+     recurrent droughts
+ 
+ 
+international agreements:
+     party to - Endangered Species, Environmental Modification, Nuclear
+     Test Ban, Ozone Layer Protection, Wetlands; signed, but not ratified -
+     Biodiversity, Climate Change, Law of the Sea
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     8,971,605 (July 1994 est.)
+Population growth rate:
+     3.36% (1994 est.)
+Birth rate:
+     54.95 births/1,000 population (1994 est.)
+Death rate:
+     21.32 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     111 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     44.61 years
+male:
+     43.01 years
+female:
+     46.26 years (1994 est.)
+Total fertility rate:
+     7.35 children born/woman (1994 est.)
+Nationality:
+noun:
+     Nigerien(s)
+adjective:
+     Nigerien
+Ethnic divisions:
+     Hausa 56%, Djerma 22%, Fula 8.5%, Tuareg 8%, Beri Beri (Kanouri) 4.3%,
+     Arab, Toubou, and Gourmantche 1.2%, about 4,000 French expatriates
+Religions:
+     Muslim 80%, remainder indigenous beliefs and Christians
+Languages:
+     French (official), Hausa, Djerma
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     28%
+male:
+     40%
+female:
+     17%
+Labor force:
+     2.5 million wage earners (1982)
+by occupation:
+     agriculture 90%, industry and commerce 6%, government 4%
+ 
+ 
+note:
+     51% of population of working age (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Niger
+conventional short form:
+local long form:
+     Republique du Niger
+local short form:
+Digraph:
+     NG
+Type:
+     republic
+Capital:
+     Niamey
+Administrative divisions:
+     7 departments (departements, singular - departement); Agadez, Diffa,
+     Dosso, Maradi, Niamey, Tahoua, Zinder
+Independence:
+     3 August 1960 (from France)
+National holiday:
+     Republic Day, 18 December (1958)
+Constitution:
+     approved by national referendum 16 December 1992; promulgated January
+     1993
+Legal system:
+     based on French civil law system and customary law; has not accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Mahamane OUSMANE (since 16 April  1993)
+head of government:
+     Prime Minister Mahamadou ISSOUFOU (since 17 April 1993)
+cabinet:
+     Cabinet; appointed by the president on recommendation of the prime
+     minister
+Legislative branch:
+     unicameral
+National Assembly:
+     elected by proportional representation for 5 year terms; elections
+     last held 14 February 1993 (next election NA 1998); seats - (83 total)
+     MNSD 29, CDS 22, PNDS 13, ANDP-Z 11, UPDP 2, PPN/RDA 2, UDFP 2, PSDN
+     1, UDPS 1
+Judicial branch:
+     State Court (Cour d'Etat), Court of Appeal (Cour d'Apel)
+ 
+ 
+Political parties and leaders:
+     National Movement of the Development Society (MNSD-NASSARA), Kada
+     LABO, General Secretary; Democratic and Social Convention - Rahama
+     (CDS- Rahama), Mahamane OUSMANE; Nigerien Party for Democracy and
+     Socialism (PNDS), Mahamadou ISSOUFOU; Nigerien Alliance for Democracy
+     and Progress - Zamanlahia (ANDP-Z), Moumouni Adamou DJERMAKOYE; Union
+     of Patriots, Democrats, and Progressives (UPDP), Andre SALIFOU; Niger
+     Progressive Party - African Democratic Rally (PPN-RDA), Harou KOUKA;
+     Niger Social Democrat Party (PADN), Malam Adji WAZIRI; Union for
+     Democracy and Social Progress (UDPS), Akoli DAOUEL
+Member of:
+     ACCT, ACP, AfDB, CCC, CEAO, ECA, ECOWAS, Entente, FAO, FZ, G-77, GATT,
+     IAEA, IBRD, ICAO, IDA, IDB, IFAD, IFC, ILO, IMF, INTELSAT, INTERPOL,
+     IOC, ITU, LORCS, NAM, OAU, OIC, UN, UNCTAD, UNESCO, UNIDO, UPU, WADB,
+     WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Adamou SEYDOU
+chancery:
+     2204 R Street NW, Washington, DC 20008
+telephone:
+     (202) 483-4224 through 4227
+US diplomatic representation:
+chief of mission:
+     Ambassador John DAVISON
+embassy:
+     Rue Des Ambassades, Niamey
+mailing address:
+     B. P. 11201, Niamey
+telephone:
+     [227] 72-26-61 through 64
+FAX:
+     [227] 73-31-67
+Flag:
+     three equal horizontal bands of orange (top), white, and green with a
+     small orange disk (representing the sun) centered in the white band;
+     similar to the flag of India, which has a blue spoked wheel centered
+     in the white band
+ 
+                                  Economy
+ 
+Overview:
+     Niger's economy is centered on subsistence agriculture, animal
+     husbandry, and re-export trade, and increasingly less on uranium, its
+     major export throughout the 1970s and 1980s. Uranium revenues dropped
+     by almost 50% between 1983 and 1990. Terms of trade with Nigeria,
+     Niger's largest regional trade partner, have improved dramatically
+     since the 50% devaluation of the African franc in January 1994; this
+     devaluation boosted exports of livestock, peas, onions, and the
+     products of Niger's small cotton industry. The government relies on
+     bilateral and multilateral aid for operating expenses and public
+     investment, and is strongly induced to adhere to structural adjustment
+     programs designed by the IMF and the World Bank.
+National product:
+     GDP - purchasing power equivalent - $5.4 billion (1993 est.)
+ 
+ 
+National product real growth rate:
+     1.9% (1991 est.)
+National product per capita:
+     $650 (1993 est.)
+Inflation rate (consumer prices):
+     1.3% (1991 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $193 million
+expenditures:
+     $355 million, including capital expenditures of $106 million (1991
+     est.)
+Exports:
+     $294 million (f.o.b., 1991)
+commodities:
+     uranium ore 60%, livestock products 20%, cowpeas, onions
+partners:
+     France 77%, Nigeria 8%, Cote d'Ivoire, Italy
+Imports:
+     $346 million (c.i.f., 1991)
+commodities:
+     primary materials, machinery, vehicles and parts, electronic
+     equipment, cereals, petroleum products, pharmaceuticals, chemical
+     products, foodstuffs
+partners:
+     Germany 26%, Cote d'Ivoire 11%, France 5%, Italy 4%, Nigeria 2%
+External debt:
+     $1.2 billion (December 1991 est.)
+Industrial production:
+     growth rate -2.7% (1991 est.); accounts for 13% of GDP
+Electricity:
+capacity:
+     105,000 kW
+production:
+     230 million kWh
+consumption per capita:
+     30 kWh (1991)
+Industries:
+     cement, brick, textiles, food processing, chemicals, slaughterhouses,
+     and a few other small light industries; uranium mining began in 1971
+Agriculture:
+     accounts for roughly 40% of GDP and 90% of labor force; cash crops -
+     cowpeas, cotton, peanuts; food crops - millet, sorghum, cassava, rice;
+     livestock - cattle, sheep, goats; self-sufficient in food except in
+     drought years
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $380 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89),
+     $3.165 billion; OPEC bilateral aid (1979-89), $504 million; Communist
+     countries (1970-89), $61 million
+Currency:
+     1 CFA franc (CFAF) = 100 centimes
+ 
+ 
+Exchange rates:
+     Communaute Financiere Africaine francs (CFAF) per US$1 - 592.05
+     (January 1994), 283.16 (1993), 264.69 (1992), 282.11 (1991), 272.26
+     (1990), 319.01 (1989)
+note:
+     the official rate is pegged to the French franc, and beginning 12
+     January 1994, the CFA franc was devalued to CFAF 100 per French franc
+     from CFAF 50 at which it had been fixed since 1948
+Fiscal year:
+     1 October - 30 September
+ 
+                              Communications
+ 
+Highways:
+total:
+     39,970 km
+paved:
+     bituminous 3,170 km
+unpaved:
+     gravel, laterite 10,330 km; earth 3,470 km; tracks 23,000 km
+Inland waterways:
+     Niger River is navigable 300 km from Niamey to Gaya on the Benin
+     frontier from mid-December through March
+Airports:
+total:
+     30
+usable:
+     28
+with permanent-surface runways:
+     9
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     14
+Telecommunications:
+     small system of wire, radiocommunications, and radio relay links
+     concentrated in southwestern area; 14,260 telephones; broadcast
+     stations - 15 AM, 5 FM, 18 TV; satellite earth stations - 1 Atlantic
+     Ocean INTELSAT, 1 Indian Ocean INTELSAT, and 3 domestic, with 1
+     planned
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Air Force, Gendarmerie, National Police, Republican Guard
+Manpower availability:
+     males age 15-49 1,845,374; fit for military service 994,683; reach
+     military age (18) annually 91,595 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $27 million, 1.3% of GDP (1989)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

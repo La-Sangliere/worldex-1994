@@ -1,0 +1,407 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0171
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Netherlands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Netherlands 
+ 
+ 
+                                Netherlands
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Europe, bordering the North Sea, between Belgium and Germany
+Map references:
+     Europe, Standard Time Zones of the World
+Area:
+total area:
+     37,330 sq km
+land area:
+     33,920 sq km
+comparative area:
+     slightly less than twice the size of New Jersey
+Land boundaries:
+     total 1,027 km, Belgium 450 km, Germany 577 km
+Coastline:
+     451 km
+Maritime claims:
+continental shelf:
+     not specified
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     temperate; marine; cool summers and mild winters
+Terrain:
+     mostly coastal lowland and reclaimed land (polders); some hills in
+     southeast
+Natural resources:
+     natural gas, petroleum, fertile soil
+Land use:
+arable land:
+     26%
+permanent crops:
+     1%
+meadows and pastures:
+     32%
+forest and woodland:
+     9%
+other:
+     32%
+Irrigated land:
+     5,500 sq km (1989 est.)
+Environment:
+current issues:
+     water pollution in the form of heavy metals, organic compounds, and
+     nutrients such as nitrates and phosphates; air pollution from vehicles
+     and refining activities; acid rain
+natural hazards:
+     the extensive system of dikes and dams, protects nearly one-half of
+     the total area from being flooded
+ 
+ 
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Air Pollution-Volatile Organic Compounds,
+     Antarctic-Environmental Protocol, Antarctic Treaty, Climate Change,
+     Endangered Species, Environmental Modification, Hazardous Wastes,
+     Marine Dumping, Marine Life Conservation, Nuclear Test Ban, Ozone
+     Layer Protection, Ship Pollution, Tropical Timber, Wetlands, Whaling;
+     signed, but not ratified - Biodiversity, Law of the Sea
+Note:
+     located at mouths of three major European rivers (Rhine, Maas or
+     Meuse, Schelde)
+ 
+                                  People
+ 
+Population:
+     15,367,928 (July 1994 est.)
+Population growth rate:
+     0.58% (1994 est.)
+Birth rate:
+     12.62 births/1,000 population (1994 est.)
+Death rate:
+     8.5 deaths/1,000 population (1994 est.)
+Net migration rate:
+     1.68 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     6.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     77.75 years
+male:
+     74.69 years
+female:
+     80.97 years (1994 est.)
+Total fertility rate:
+     1.58 children born/woman (1994 est.)
+Nationality:
+noun:
+     Dutchman(men), Dutchwoman(women)
+adjective:
+     Dutch
+Ethnic divisions:
+     Dutch 96%, Moroccans, Turks, and other 4% (1988)
+Religions:
+     Roman Catholic 34%, Protestant 25%, Muslim 3%, other 2%, unaffiliated
+     36% (1991)
+Languages:
+     Dutch
+Literacy:
+     age 15 and over can read and write (1979 est.)
+total population:
+     99%
+male:
+     NA%
+female:
+     NA%
+ 
+ 
+Labor force:
+     6.7 million (1991)
+by occupation:
+     services 50.1%, manufacturing and construction 28.2%, government
+     15.9%, agriculture 5.8% (1986)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Kingdom of the Netherlands
+conventional short form:
+local long form:
+     Koninkrijk de Nederlanden
+local short form:
+     Nederland
+Digraph:
+     NL
+Type:
+     constitutional monarchy
+Capital:
+     Amsterdam; The Hague is the seat of government
+Administrative divisions:
+     12 provinces (provincien, singular - provincie); Drenthe, Flevoland,
+     Friesland, Gelderland, Groningen, Limburg, Noord-Brabant,
+     Noord-Holland, Overijssel, Utrecht, Zeeland, Zuid-Holland
+Dependent areas:
+     Aruba, Netherlands Antilles
+Independence:
+     1579 (from Spain)
+National holiday:
+     Queen's Day, 30 April (1938)
+Constitution:
+     17 February 1983
+Legal system:
+     civil law system incorporating French penal theory; judicial review in
+     the Supreme Court of legislation of lower order rather than Acts of
+     the States General; accepts compulsory ICJ jurisdiction, with
+     reservations
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen BEATRIX Wilhelmina Armgard (since 30 April 1980); Heir Apparent
+     WILLEM-ALEXANDER, Prince of Orange, son of Queen Beatrix (born 27
+     April 1967)
+head of government:
+     Prime Minister RUDOLPHUS (Ruud) F. M. LUBBERS (since 4 November 1982);
+     Vice Prime Minister Willem (Wim) KOK (since 2 November 1989) -
+     resigned after 3 May 1994 parliamentary elections; no new government
+     has been formed to date
+cabinet:
+     Ministry of General Affairs; appointed by the prime minister
+ 
+ 
+Legislative branch:
+     bicameral legislature (Staten Generaal)
+First Chamber (Eerste Kamer):
+     elections last held on 9 June l991 (next to be held 9 June 1995);
+     results - elected by the country's 12 provincial councils; seats - (75
+     total) percent of seats by party NA
+Second Chamber (Tweede Kamer):
+     elections last held on 3 May 1994 (next to be held in May 1999);
+     results - PvdA 24.3%, CDA 22.3%, VVD 20.4%, D'66 16.5%, other 16.5%;
+     seats - (150 total) PvdA 37, CDA 34, VVD 31, D'66 24, other 24
+Judicial branch:
+     Supreme Court (De Hoge Raad)
+Political parties and leaders:
+     Christian Democratic Appeal (CDA), Elco BRINKMAN; Labor (PvdA), Wim
+     KOK; Liberal (VVD), Frits BOLKESTEIN; Democrats '66 (D'66), Hans van
+     MIERLO; a host of minor parties
+Other political or pressure groups:
+     large multinational firms; Federation of Netherlands Trade Union
+     Movement (comprising Socialist and Catholic trade unions) and a
+     Protestant trade union; Federation of Catholic and Protestant
+     Employers Associations; the nondenominational Federation of
+     Netherlands Enterprises; and Interchurch Peace Council (IKV)
+Member of:
+     AfDB, AG (observer), AsDB, Australia Group, Benelux, BIS, CCC, CE,
+     CERN, COCOM, CSCE, EBRD, EC, ECE, ECLAC, EIB, ESA, ESCAP, FAO, G-10,
+     GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IEA, IFAD, IFC, ILO,
+     IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, LORCS,
+     MTCR, NACC, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, PCA,
+     UN, UNAVEM II, UNCTAD, UNESCO, UNHCR, UNIDO, UNOMUR, UNPROFOR, UNTAC,
+     UNTSO, UPU, WCL, WEU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Adriaan Pieter Roetert JACOBOVITS DE SZEGED
+chancery:
+     4200 Linnean Avenue NW, Washington, DC 20008
+telephone:
+     (202) 244-5300
+FAX:
+     (202) 362-3430
+consulate(s) general:
+     Chicago, Houston, Los Angeles, Manila (Trust Territories of the
+     Pacific Islands), New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Kirk Terry DORNBUSH
+embassy:
+     Lange Voorhout 102, 2514 EJ The Hague
+mailing address:
+     PSC 71, Box 1000, the Hague; APO AE 09715
+telephone:
+     [31] (70) 310-9209
+FAX:
+     [31] (70) 361-4688
+consulate(s) general:
+     Amsterdam
+ 
+ 
+Flag:
+     three equal horizontal bands of red (top), white, and blue; similar to
+     the flag of Luxembourg, which uses a lighter blue and is longer
+ 
+                                  Economy
+ 
+Overview:
+     This highly developed and affluent economy is based on private
+     enterprise. The government makes its presence felt, however, through
+     many regulations, permit requirements, and welfare programs affecting
+     most aspects of economic activity. The trade and financial services
+     sector contributes over 50% of GDP. Industrial activity provides about
+     25% of GDP and is led by the food-processing, oil-refining, and
+     metalworking industries. The highly mechanized agricultural sector
+     employs only 5% of the labor force, but provides large surpluses for
+     export and the domestic food-processing industry. Rising unemployment
+     and a sizable budget deficit are currently the most serious economic
+     problems. Many of the economic issues of the 1990s will reflect the
+     course of European economic integration.
+National product:
+     GDP - purchasing power equivalent - $262.8 billion (1993)
+National product real growth rate:
+     -0.2% (1993)
+National product per capita:
+     $17,200 (1993)
+Inflation rate (consumer prices):
+     3.5% (1992 est.)
+Unemployment rate:
+     9.1% (March 1994)
+Budget:
+revenues:
+     $109.9 billion
+expenditures:
+     $122.1 billion, including capital expenditures of $NA (1992 est.)
+Exports:
+     $139 billion (f.o.b., 1992)
+commodities:
+     metal products, chemicals, processed food and tobacco, agricultural
+     products
+partners:
+     EC 77% (Germany 27%, Belgium-Luxembourg 15%, UK 10%), US 4% (1991)
+Imports:
+     $130.3 billion (f.o.b., 1992)
+commodities:
+     raw materials and semifinished products, consumer goods,
+     transportation equipment, crude oil, food products
+partners:
+     EC 64% (Germany 26%, Belgium-Luxembourg 14%, UK 8%), US 8% (1991)
+External debt:
+     $0
+Industrial production:
+     growth rate -1.5% (1993 est.); accounts for 25% of GDP
+Electricity:
+capacity:
+     22,216,000 kW
+ 
+ 
+production:
+     63.5 billion kWh
+consumption per capita:
+     4,200 kWh (1992)
+Industries:
+     agroindustries, metal and engineering products, electrical machinery
+     and equipment, chemicals, petroleum, fishing, construction,
+     microelectronics
+Agriculture:
+     accounts for 4.6% of GDP; animal production predominates; crops -
+     grains, potatoes, sugar beets, fruits, vegetables; shortages of grain,
+     fats, and oils
+Illicit drugs:
+     gateway for cocaine, heroin, and hashish entering Europe; European
+     producer of illicit amphetamines and other synthetic drugs
+Economic aid:
+donor:
+     ODA and OOF commitments (1970-89), $19.4 billion
+Currency:
+     1 Netherlands guilder, gulden, or florin (f.) = 100 cents
+Exchange rates:
+     Netherlands guilders, gulden, or florins (f.) per US$1 - 1.9508
+     (January 1994), 1.8573 (1993), 1.7585 (1992), 1.8697 (1991), 1.8209
+     (1990), 2.1207 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     2,828 km 1.435-meter standard gauge operated by Netherlands Railways
+     (NS) (includes 1,957 km electrified and 1,800 km double track)
+Highways:
+total:
+     104,590 km
+paved:
+     92,525 km (including 2,185 km of expressway)
+unpaved:
+     gravel, crushed stone 12,065 km (1990)
+Inland waterways:
+     6,340 km, of which 35% is usable by craft of 1,000 metric ton capacity
+     or larger
+Pipelines:
+     crude oil 418 km; petroleum products 965 km; natural gas 10,230 km
+Ports:
+     coastal - Amsterdam, Delfzijl, Den Helder, Dordrecht, Eemshaven,
+     Ijmuiden, Rotterdam, Scheveningen, Terneuzen, Vlissingen; inland - 29
+     ports
+Merchant marine:
+     324 ships (1,000 GRT or over) totaling 2,507,112 GRT/3,208,838 DWT,
+     bulk 3, cargo 180, chemical tanker 21, combination bulk 3, container
+     32, liquefied gas 12, livestock carrier 1, multifunction large-load
+     carrier 4, oil tanker 27, railcar carrier 1, refrigerated cargo 20,
+     roll-on/roll-off cargo 15, short-sea passenger 3, specialized tanker 2
+ 
+ 
+note:
+     many Dutch-owned ships are also registered on the captive Netherlands
+     Antilles register
+Airports:
+total:
+     28
+usable:
+     28
+with permanent-surface runways:
+     19
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     10
+with runways 1,220-2,439 m:
+     7
+Telecommunications:
+     highly developed, well maintained, and integrated; extensive redundant
+     system of multiconductor cables, supplemented by microwave radio relay
+     microwave links; 9,418,000 telephones; broadcast stations - 3 (3
+     relays) AM, 12 (39 repeaters) FM, 8 (7 repeaters) TV; 5 submarine
+     cables; 1 communication satellite earth station operating in INTELSAT
+     (1 Indian Ocean and 2 Atlantic Ocean antenna) and EUTELSAT systems;
+     nationwide mobile phone system
+ 
+                              Defense Forces
+ 
+Branches:
+     Royal Netherlands Army, Royal Netherlands Navy (including Naval Air
+     Service and Marine Corps), Royal Netherlands Air Force, Royal
+     Constabulary
+Manpower availability:
+     males age 15-49 4,180,745; fit for military service 3,667,212; reach
+     military age (20) annually 98,479 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $6.8 billion, 2.3% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

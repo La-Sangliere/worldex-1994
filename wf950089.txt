@@ -1,0 +1,290 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0088
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Gaza Strip
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Gaza Strip 
+ 
+ 
+                                Gaza Strip
+ 
+ 
+                                  Header
+ 
+Note:
+     The war between Israel and Egypt, Syria, and Jordan in June 1967 ended
+     with Israel in control of the West Bank, East Jerusalem, the Gaza
+     Strip, the Sinai Peninsula, and the Golan Heights. Israel withdrew
+     from the Sinai Peninsula pursuant to a 1979 peace treaty with Egypt.
+     The Israeli-PLO Declaration of Principles on Interim Self-Government
+     Arrangements ("the DOP"), signed in Washington on 13 September 1993,
+     provides for a transitional period not exceeding five years of
+     Palestinian interim self-government in the Gaza Strip and the West
+     Bank. Under the DOP, final status negotiations are to begin no later
+     than the beginning of the third year of the transitional period.
+ 
+                                 Geography
+ 
+Location:
+     Middle East, bordering the eastern Mediterranean Sea, between Egypt
+     and Israel
+Map references:
+     Middle East
+Area:
+total area:
+     360 sq km
+land area:
+     360 sq km
+comparative area:
+     slightly more than twice the size of Washington, DC
+Land boundaries:
+     total 62 km, Egypt 11 km, Israel 51 km
+Coastline:
+     40 km
+Maritime claims:
+     Israeli occupied with status to be determined
+International disputes:
+     West Bank and Gaza Strip are Israeli occupied with interim status
+     subject to Israeli/Palestinian negotiations - final status to be
+     determined
+Climate:
+     temperate, mild winters, dry and warm to hot summers
+Terrain:
+     flat to rolling, sand- and dune-covered coastal plain
+Natural resources:
+     negligible
+Land use:
+arable land:
+     13%
+permanent crops:
+     32%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+ 
+ 
+other:
+     55%
+Irrigated land:
+     200 sq km
+Environment:
+current issues:
+     desertification
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     there are 24 Jewish settlements and civilian land use sites in the
+     Gaza Strip (April 1994)
+ 
+                                  People
+ 
+Population:
+     731,296 (July 1994 est.)
+note:
+     in addition, there are 4,500 Jewish settlers in the Gaza Strip (1994
+     est.)
+Population growth rate:
+     3.53% (1994 est.)
+Birth rate:
+     45.01 births/1,000 population (1994 est.)
+Death rate:
+     5.45 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -4.29 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     36.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     67.78 years
+male:
+     66.47 years
+female:
+     69.16 years (1994 est.)
+Total fertility rate:
+     7.39 children born/woman (1994 est.)
+Nationality:
+noun:
+     NA
+adjective:
+     NA
+Ethnic divisions:
+     Palestinian Arab and other 99.8%, Jewish 0.2%
+Religions:
+     Muslim (predominantly Sunni) 99%, Christian 0.7%, Jewish 0.3%
+Languages:
+     Arabic, Hebrew (spoken by Israeli settlers), English (widely
+     understood)
+ 
+ 
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+by occupation:
+     construction 33.4%, agriculture 20.0%, commerce, restaurants, and
+     hotels 14.9%, industry 10.0%, other services 21.7% (1991)
+note:
+     excluding Jewish settlers
+ 
+                                Government
+ 
+Note:
+     Under the Israeli-PLO Declaration of Principles on Interim
+     Self-Government Arragements ("the DOP"), Israel agreed to transfer
+     certain powers and responsibilities to the Palestinian Authority, and
+     subsequently to an elected Palestinian Council, as part of interim
+     self-governing arrangements in the West Bank and Gaza Strip. A
+     transfer of powers and responsibilities for the Gaza Strip and Jericho
+     has taken place pursuant to the Israel-PLO 4 May 1994 Cairo Agreement
+     on the Gaza Strip and the Jericho Area. The DOP provides that Israel
+     will retain responsibility during the transitional period for external
+     security and for internal security and public order of settlements and
+     Israelis. Final status is to be determined through direct negotiations
+     within five years.
+Names:
+conventional long form:
+     none
+conventional short form:
+local long form:
+     none
+local short form:
+     Qita Ghazzah
+Digraph:
+     GZ
+ 
+                                  Economy
+ 
+ 
+Overview:
+     In 1991 roughly 40% of Gaza Strip workers were employed across the
+     border by Israeli industrial, construction, and agricultural
+     enterprises, with worker remittances accounting for about one-third of
+     GNP. The construction, agricultural, and industrial sectors account
+     for about 18%, 16%, and 12% of GNP, respectively. Gaza depends upon
+     Israel for nearly 90% of its external trade. Aggravating the impact of
+     Israeli military administration, unrest in the territory since 1988
+     (intifadah) has raised unemployment and lowered the standard of living
+     of Gazans. The Persian Gulf crisis and its aftershocks also have dealt
+     blows to Gaza since August 1990. Worker remittances from the Gulf
+     states have dropped, unemployment has increased, and exports have
+     fallen. The withdrawal of Israel from the Gaza Strip in May 1994
+     brings a new set of adjustment problems.
+National product:
+     GNP - exchange rate conversion - $840 million (1991 est.)
+National product real growth rate:
+     1% (1991 est.)
+National product per capita:
+     $1,275 (1991 est.)
+Inflation rate (consumer prices):
+     7% (1991 est.)
+Unemployment rate:
+     20% (1991 est.)
+Budget:
+revenues:
+     $33.6 million
+expenditures:
+     $34.5 million, including capital expenditures of $NA (FY90)
+Exports:
+     $75 million (f.o.b., 1991 est.)
+commodities:
+     citrus
+partners:
+     Israel, Egypt
+Imports:
+     $370 million (c.i.f., 1991 est.)
+commodities:
+     food, consumer goods, construction materials
+partners:
+     Israel, Egypt
+External debt:
+     $NA
+Industrial production:
+     growth rate 11% (1991 est.); accounts for about 12% of GNP
+Electricity:
+     power supplied by Israel
+Industries:
+     generally small family businesses that produce textiles, soap,
+     olive-wood carvings, and mother-of-pearl souvenirs; the Israelis have
+     established some small-scale modern industries in an industrial center
+Agriculture:
+     accounts for about 16% of GNP; olives, citrus and other fruits,
+     vegetables, beef, dairy products
+ 
+ 
+Economic aid:
+     $NA
+Currency:
+     1 new Israeli shekel (NIS) = 100 new agorot
+Exchange rates:
+     new Israeli shekels (NIS) per US$1 - 2.9760 (February 1994), 2.8301
+     (1993), 2.4591 (1992), 2.2791 (1991), 2.0162 (1990), 1.9164 (1989)
+Fiscal year:
+     calendar year (since 1 January 1992)
+ 
+                              Communications
+ 
+Railroads:
+     one line, abandoned and in disrepair, some trackage remains
+Highways:
+total:
+     NA
+paved:
+     NA
+unpaved:
+     NA
+note:
+     small, poorly developed road network
+Ports:
+     facilities for small boats to service the city of Gaza
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     0
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     broadcast stations - no AM, no FM, no TV
+ 
+                              Defense Forces
+ 
+Branches:
+     NA
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

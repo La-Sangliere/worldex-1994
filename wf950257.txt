@@ -1,0 +1,169 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0256
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Wake Island
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Wake Island 
+ 
+ 
+                                Wake Island
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of the US)
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Micronesia, in the North Pacific Ocean, 3,700 km west of
+     Honolulu, about two-thirds of the way between Hawaii and the Northern
+     Mariana Islands
+Map references:
+     Oceania
+Area:
+total area:
+     6.5 sq km
+land area:
+     6.5 sq km
+comparative area:
+     about 11 times the size of The Mall in Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     19.3 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     claimed by the Republic of the Marshall Islands
+Climate:
+     tropical
+Terrain:
+     atoll of three coral islands built up on an underwater volcano;
+     central lagoon is former crater, islands are part of the rim; average
+     elevation less than 4 meters
+Natural resources:
+     none
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100%
+ 
+ 
+Irrigated land:
+     0 sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     subject to occasional typhoons
+international agreements:
+     NA
+Note:
+     strategic location in the North Pacific Ocean; emergency landing
+     location for transpacific flights
+ 
+                                  People
+ 
+Population:
+     302 (July 1994 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     WQ
+Type:
+     unincorporated territory of the US administered by the US Air Force
+     (under an agreement with the US Department of Interior) since 24 June
+     1972; presently administered by Base Commander, Major James ANDEL
+     until August 1994, when Willis ALLEY will take over until July 1995
+Capital:
+     none; administered from Washington, DC
+Independence:
+     none (territory of the US)
+Flag:
+     the US flag is used
+ 
+                                  Economy
+ 
+Overview:
+     Economic activity is limited to providing services to US military
+     personnel and contractors located on the island. All food and
+     manufactured goods must be imported.
+Electricity:
+     supplied by US military
+ 
+                              Communications
+ 
+Ports:
+     none; because of the reefs, there are only two offshore anchorages for
+     large ships
+ 
+ 
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     satellite communications; 1 Autovon circuit off the Overseas Telephone
+     System (OTS); Armed Forces Radio/Television Service (AFRTS) radio and
+     television service provided by satellite; broadcast station - closed
+     early 1992.
+Note:
+     formerly an important commercial aviation base, now used by US
+     military, some commercial cargo planes, as well as the US Army Space
+     and Strategic Defense Command for missile launches
+ 
+                              Defense Forces
+ 
+     defense is the responsibility of the US
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

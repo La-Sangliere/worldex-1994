@@ -1,0 +1,366 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0150
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Mali
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Mali 
+ 
+ 
+                                   Mali
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, between Mauritania and Niger
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     1.24 million sq km
+land area:
+     1.22 million sq km
+comparative area:
+     slightly less than twice the size of Texas
+Land boundaries:
+     total 7,243 km, Algeria 1,376 km, Burkina 1,000 km, Guinea 858 km,
+     Cote d'Ivoire 532 km, Mauritania 2,237 km, Niger 821 km, Senegal 419
+     km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     the disputed international boundary between Burkina and Mali was
+     submitted to the International Court of Justice (ICJ) in October 1983
+     and the ICJ issued its final ruling in December 1986, which both sides
+     agreed to accept; Burkina and Mali are proceeding with boundary
+     demarcation, including the tripoint with Niger
+Climate:
+     subtropical to arid; hot and dry February to June; rainy, humid, and
+     mild June to November; cool and dry November to February
+Terrain:
+     mostly flat to rolling northern plains covered by sand; savanna in
+     south, rugged hills in northeast
+Natural resources:
+     gold, phosphates, kaolin, salt, limestone, uranium, bauxite, iron ore,
+     manganese, tin, and copper deposits are known but not exploited
+Land use:
+arable land:
+     2%
+permanent crops:
+     0%
+meadows and pastures:
+     25%
+forest and woodland:
+     7%
+other:
+     66%
+Irrigated land:
+     50 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; soil erosion; desertification; inadequate supplies of
+     safe drinking water; poaching
+ 
+ 
+natural hazards:
+     hot, dust-laden harmattan haze common during dry seasons; recurring
+     droughts
+international agreements:
+     party to - Law of the Sea, Wetlands; signed, but not ratified -
+     Climate Change, Nuclear Test Ban
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     9,112,950 (July 1994 est.)
+Population growth rate:
+     2.78% (1994 est.)
+Birth rate:
+     51.79 births/1,000 population (1994 est.)
+Death rate:
+     20.36 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -3.66 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     106.2 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     45.91 years
+male:
+     44.29 years
+female:
+     47.57 years (1994 est.)
+Total fertility rate:
+     7.33 children born/woman (1994 est.)
+Nationality:
+noun:
+     Malian(s)
+adjective:
+     Malian
+Ethnic divisions:
+     Mande 50% (Bambara, Malinke, Sarakole), Peul 17%, Voltaic 12%, Songhai
+     6%, Tuareg and Moor 10%, other 5%
+Religions:
+     Muslim 90%, indigenous beliefs 9%, Christian 1%
+Languages:
+     French (official), Bambara 80%, numerous African languages
+Literacy:
+     age 15 and over can read and write (1990)
+total population:
+     17%
+male:
+     26%
+female:
+     9%
+Labor force:
+     2.666 million (1986 est.)
+ 
+ 
+by occupation:
+     agriculture 80%, services 19%, industry and commerce 1% (1981)
+note:
+     50% of population of working age (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Mali
+conventional short form:
+local long form:
+     Republique de Mali
+local short form:
+former:
+     French Sudan
+Digraph:
+     ML
+Type:
+     republic
+Capital:
+     Bamako
+Administrative divisions:
+     8 regions (regions, singular - region); Gao, Kayes, Kidal, Koulikoro,
+     Mopti, Segou, Sikasso, Tombouctou
+Independence:
+     22 September 1960 (from France)
+National holiday:
+     Anniversary of the Proclamation of the Republic, 22 September (1960)
+Constitution:
+     new constitution adopted in constitutional referendum in 12 January
+     1992
+Legal system:
+     based on French civil law system and customary law; judicial review of
+     legislative acts in Constitutional Court (which was formally
+     established on 9 March 1994); has not accepted compulsory ICJ
+     jurisdiction
+Suffrage:
+     21 years of age; universal
+Executive branch:
+chief of state:
+     President Alpha Oumar KONARE (since 8 June 1992); election last held
+     in April 1992 (next to be held NA 1997); Alpha KONARE was elected in
+     runoff race against Montaga TALL
+head of government:
+     Prime Minister Ibrahima Boubacar KEITA (since March 1994)
+cabinet:
+     Council of Ministers; appointed by the prime minister
+Legislative branch:
+     unicameral
+ 
+ 
+National Assembly:
+     elections last held on 8 March 1992 (next to be held NA); results -
+     percent of vote by party NA; seats - (total 116) Adema 76, CNID 9,
+     US/RAD 8, Popular Movement for the Development of the Republic of West
+     Africa 6, RDP 4, UDD 4, RDT 3, UFDP 3, PDP 2, UMDD 1
+Judicial branch:
+     Supreme Court (Cour Supreme)
+Political parties and leaders:
+     Association for Democracy (Adema), Alpha Oumar KONARE; National
+     Congress for Democratic Initiative (CNID), Mountaga TALL; Sudanese
+     Union/African Democratic Rally (US/RDA), Mamadou Madeira KEITA;
+     Popular Movement for the Development of the Republic of West Africa;
+     Rally for Democracy and Progress (RDP), Almamy SYLLA; Union for
+     Democracy and Development (UDD), Moussa Balla COULIBALY; Rally for
+     Democracy and Labor (RDT); Union of Democratic Forces for Progress
+     (UFDP), Dembo DIALLO; Party for Democracy and Progress (PDP), Idrissa
+     TRAORE; Malian Union for Democracy and Development (UMDD)
+Member of:
+     ACCT, ACP, AfDB, CCC, CEAO, ECA, ECOWAS, FAO, FZ, G-77, GATT, IAEA,
+     IBRD, ICAO, ICFTU, IDA, IDB, IFAD, IFC, ILO, IMF, INTELSAT, INTERPOL,
+     IOC, ISO (correspondent), ITU, LORCS, NAM, OAU, OIC, UN, UNCTAD,
+     UNESCO, UNIDO, UPU, WADB, WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Siragatou Ibrahim CISSE
+chancery:
+     2130 R Street NW, Washington, DC 20008
+telephone:
+     (202) 332-2249 or 939-8950
+US diplomatic representation:
+chief of mission:
+     Ambassador William H. DAMERON III
+embassy:
+     Rue Rochester NY and Rue Mohamed V., Bamako
+mailing address:
+     B. P. 34, Bamako
+telephone:
+     [223] 225470
+FAX:
+     [223] 228059
+Flag:
+     three equal vertical bands of green (hoist side), yellow, and red;
+     uses the popular pan-African colors of Ethiopia
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Mali is among the poorest countries in the world, with about 70% of
+     its land area desert or semidesert. Economic activity is largely
+     confined to the riverine area irrigated by the Niger. About 10% of the
+     population live as nomads and some 80% of the labor force is engaged
+     in agriculture and fishing. Industrial activity is concentrated on
+     processing farm commodities. In consultation with international
+     lending agencies, the government has adopted a structural adjustment
+     program for 1992-95, aiming at GDP annual growth of 4.6%, inflation of
+     no more than 2.5% on average, and a substantial reduction in the
+     external current account deficit.
+National product:
+     GDP - purchasing power equivalent - 5.8 billion (1993 est.)
+National product real growth rate:
+     -6.1% (1992 est.)
+National product per capita:
+     $650 (1993 est.)
+Inflation rate (consumer prices):
+     2% (1992 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $376 million
+expenditures:
+     $697 million, including capital expenditures of $NA (1992 est.)
+Exports:
+     $330 million (f.o.b., 1992 est.)
+commodities:
+     cotton, livestock, gold
+partners:
+     mostly franc zone and Western Europe
+Imports:
+     $682 million (f.o.b., 1992 est.)
+commodities:
+     machinery and equipment, foodstuffs, construction materials,
+     petroleum, textiles
+partners:
+     mostly franc zone and Western Europe
+External debt:
+     $2.6 billion (1991 est.)
+Industrial production:
+     growth rate -1.4% (1992 est.); accounts for 13.0% of GDP
+Electricity:
+capacity:
+     260,000 kW
+production:
+     750 million kWh
+consumption per capita:
+     90 kWh (1991)
+Industries:
+     small local consumer goods and processing, construction, phosphate,
+     gold, fishing
+ 
+ 
+Agriculture:
+     accounts for 50% of GDP; most production based on small subsistence
+     farms; cotton and livestock products account for over 70% of exports;
+     other crops - millet, rice, corn, vegetables, peanuts; livestock -
+     cattle, sheep, goats
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $349 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $3.02
+     billion; OPEC bilateral aid (1979-89), $92 million; Communist
+     countries (1970-89), $190 million
+Currency:
+     1 CFA franc (CFAF) = 100 centimes
+Exchange rates:
+     Communaute Financiere Africaine francs (CFAF) per US$1 - 592.05
+     (January 1994), 283.16 (1993), 264.69 (1992), 282.11 (1991), 272.26
+     (1990), 319.01 (1989)
+note:
+     beginning 12 January 1994, the CFA franc was devalued to CFAF 100 per
+     French franc from CFAF 50 at which it had been fixed since 1948
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     642 km 1.000-meter gauge; linked to Senegal's rail system through
+     Kayes
+Highways:
+total:
+     15,700 km
+paved:
+     1,670 km
+unpaved:
+     gravel, improved earth 3,670 km; unimproved earth 10,360 km
+Inland waterways:
+     1,815 km navigable
+Airports:
+total:
+     33
+usable:
+     27
+with permanent-surface runways:
+     8
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     5
+with runways 1,220-2,439 m:
+     11
+ 
+ 
+Telecommunications:
+     domestic system poor but improving; provides only minimal service with
+     radio relay, wire, and radio communications stations; expansion of
+     radio relay in progress; 11,000 telephones; broadcast stations - 2 AM,
+     2 FM, 2 TV; satellite earth stations - 1 Atlantic Ocean INTELSAT and 1
+     Indian Ocean INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Air Force, Gendarmerie, Republican Guard, National Police
+     (Surete Nationale)
+Manpower availability:
+     males age 15-49 1,803,301; fit for military service 1,027,780
+Defense expenditures:
+     exchange rate conversion - $41 million, 2% of GDP (1989)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

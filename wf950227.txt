@@ -1,0 +1,236 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0226
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Svalbard
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Svalbard 
+ 
+ 
+                                 Svalbard
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of Norway)
+ 
+                                 Geography
+ 
+Location:
+     Nordic State, Northern Europe in the Arctic Ocean where the Arctic
+     Ocean, Barents Sea, Greenland Sea, and Norwegian Sea meet, 445 km
+     north of Norway
+Map references:
+     Arctic Region, Asia, Standard Time Zones of the World
+Area:
+total area:
+     62,049 sq km
+land area:
+     62,049 sq km
+comparative area:
+     slightly smaller than West Virginia
+note:
+     includes Spitsbergen and Bjornoya (Bear Island)
+Land boundaries:
+     0 km
+Coastline:
+     3,587 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm unilaterally claimed by Norway but not recognized by Russia
+territorial sea:
+     4 nm
+International disputes:
+     focus of maritime boundary dispute in the Barents Sea between Norway
+     and Russia
+Climate:
+     arctic, tempered by warm North Atlantic Current; cool summers, cold
+     winters; North Atlantic Current flows along west and north coasts of
+     Spitsbergen, keeping water open and navigable most of the year
+Terrain:
+     wild, rugged mountains; much of high land ice covered; west coast
+     clear of ice about half the year; fjords along west and north coasts
+Natural resources:
+     coal, copper, iron ore, phosphate, zinc, wildlife, fish
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100% (no trees and the only bushes are crowberry and cloudberry)
+ 
+ 
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     ice floes often block up the entrance to Bellsund (a transit point for
+     coal export) on the west coast and occasionally make parts of the
+     northeastern coast inaccessible
+international agreements:
+     NA
+Note:
+     northernmost part of the Kingdom of Norway; consists of nine main
+     islands; glaciers and snowfields cover 60% of the total area
+ 
+                                  People
+ 
+Population:
+     3,018 (July 1994 est.)
+Population growth rate:
+     -3.5% (1994 est.)
+Birth rate:
+     NA
+Death rate:
+     NA
+Net migration rate:
+     NA
+Infant mortality rate:
+     NA
+Life expectancy at birth:
+     NA
+Total fertility rate:
+     NA
+Ethnic divisions:
+     Russian 64%, Norwegian 35%, other 1% (1981)
+Languages:
+     Russian, Norwegian
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+ 
+ 
+ 
+Digraph:
+     SV
+Type:
+     territory of Norway administered by the Ministry of Industry, Oslo,
+     through a governor (sysselmann) residing in Longyearbyen, Spitsbergen;
+     by treaty (9 February 1920) sovereignty was given to Norway
+Capital:
+     Longyearbyen
+Independence:
+     none (territory of Norway)
+National holiday:
+     NA
+Legal system:
+     NA
+Executive branch:
+Chief of State:
+     King HARALD V (since 17 January 1991)
+Head of Government:
+     Governor Odd BLOMDAL (since NA); Assistant Governor Jan-Atle HANSEN
+     (since NA September 1993)
+Member of:
+     none
+Flag:
+     the flag of Norway is used
+ 
+                                  Economy
+ 
+Overview:
+     Coal mining is the major economic activity on Svalbard. By treaty (9
+     February 1920), the nationals of the treaty powers have equal rights
+     to exploit mineral deposits, subject to Norwegian regulation. Although
+     US, UK, Dutch, and Swedish coal companies have mined in the past, the
+     only companies still mining are Norwegian and Russian. The settlements
+     on Svalbard are essentially company towns. The Norwegian state-owned
+     coal company employs nearly 60% of the Norwegian population on the
+     island, runs many of the local services, and provides most of the
+     local infrastructure. There is also some trapping of seal, polar bear,
+     fox, and walrus.
+Budget:
+revenues:
+     $13.3 million
+expenditures:
+     $13.3 million, including capital expenditures of $NA (1990 est.)
+Electricity:
+capacity:
+     21,000 kW
+production:
+     45 million kWh
+consumption per capita:
+     13,860 kWh (1992)
+Currency:
+     1 Norwegian krone (NKr) = 100 oere
+Exchange rates:
+     Norwegian kroner (NKr) per US$1 - 7.4840 (January 1994), 7.0941
+     (1993), 6.2145 (1992), 6.4829 (1991), 6.2597 (1990), 6.9045 (1989)
+ 
+ 
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     limited facilities - Ny-Alesund, Advent Bay
+Airports:
+total:
+     4
+usable:
+     4
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     5 meteorological/radio stations; local telephone service; broadcast
+     stations - 1 AM, 1 (2 repeaters) FM, 1 TV; satellite communication
+     with Norwegian mainland
+ 
+                              Defense Forces
+ 
+Note:
+     demilitarized by treaty (9 February 1920)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

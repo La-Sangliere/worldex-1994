@@ -1,0 +1,334 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0198
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Reunion
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Reunion 
+ 
+ 
+                                  Reunion
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (overseas department of France)
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, in the western Indian Ocean, 750 km east of
+     Madagascar
+Map references:
+     World
+Area:
+total area:
+     2,510 sq km
+land area:
+     2,500 sq km
+comparative area:
+     slightly smaller than Rhode Island
+Land boundaries:
+     0 km
+Coastline:
+     201 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical, but moderates with elevation; cool and dry from May to
+     November, hot and rainy from November to April
+Terrain:
+     mostly rugged and mountainous; fertile lowlands along coast
+Natural resources:
+     fish, arable land
+Land use:
+arable land:
+     20%
+permanent crops:
+     2%
+meadows and pastures:
+     4%
+forest and woodland:
+     35%
+other:
+     39%
+Irrigated land:
+     60 sq km (1989 est.)
+Environment:
+current issues:
+     NA
+ 
+ 
+natural hazards:
+     periodic, devastating cyclones
+international agreements:
+     NA
+ 
+                                  People
+ 
+Population:
+     652,857 (July 1994 est.)
+Population growth rate:
+     2.03% (1994 est.)
+Birth rate:
+     25.14 births/1,000 population (1994 est.)
+Death rate:
+     4.87 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     7.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     74.07 years
+male:
+     71 years
+female:
+     77.29 years (1994 est.)
+Total fertility rate:
+     2.78 children born/woman (1994 est.)
+Nationality:
+noun:
+     Reunionese (singular and plural)
+adjective:
+     Reunionese
+Ethnic divisions:
+     French, African, Malagasy, Chinese, Pakistani, Indian
+Religions:
+     Roman Catholic 94%
+Languages:
+     French (official), Creole widely used
+Literacy:
+     age 15 and over can read and write (1982)
+total population:
+     69%
+male:
+     67%
+female:
+     74%
+Labor force:
+     NA
+by occupation:
+     agriculture 30%, industry 21%, services 49% (1981)
+note:
+     63% of population of working age (1983)
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Department of Reunion
+conventional short form:
+local long form:
+     none
+local short form:
+     Ile de la Reunion
+Digraph:
+     RE
+Type:
+     overseas department of France
+Capital:
+     Saint-Denis
+Administrative divisions:
+     none (overseas department of France)
+Independence:
+     none (overseas department of France)
+National holiday:
+     Taking of the Bastille, 14 July (1789)
+Constitution:
+     28 September 1958 (French Constitution)
+Legal system:
+     French law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Francois MITTERRAND (since 21 May 1981)
+head of government:
+     Prefect of Reunion Island Hubert FOURNIER (since NA)
+cabinet:
+     Council of Ministers
+Legislative branch:
+     unicameral General Council and unicameral Regional Council
+General Council:
+     elections last held 22 March 1991 (next to be held March 1997);
+     results - percent of vote by party NA; seats - (44 total) seats by
+     party NA
+Regional Council:
+     elections last held 22 March 1992 (next to be held by NA March 1998);
+     results - UPF 25.6%, PCR 17.9%, PS 10.5%, Independent 33.4%, other
+     12.6%; seats - (45 total) Sudre 17, UPF 14, PCR 9, PS 5
+French Senate:
+     elections last held 24 September 1992 (next to be held NA); results -
+     percent of vote by party NA; seats - (3 total) RPR 1, FRA 1,
+     independent 1
+French National Assembly:
+     elections last held 21 and 28 March 1993 (next to be held NA 1998);
+     results - percent of vote by party NA; seats - (5 total) PS 1, PCR 1,
+     UPF 1, RPR 1, UDF-CDS 1; note - 5 members to the French National
+     Assembly who are voting members
+ 
+ 
+Judicial branch:
+     Court of Appeals (Cour d'Appel)
+Political parties and leaders:
+     Rally for the Republic (RPR), Francois MAS; Union for French Democracy
+     (UDF), Gilbert GERARD; Communist Party of Reunion (PCR), Elie HOARAU;;
+     France-Reunion Future (FRA), Andre THIEN AH KOON; Reunion Communist
+     Party (PCR); Socialist Party (PS), Jean-Claude FRUTEAU; Social
+     Democrats (CDS); other small parties
+Member of:
+     FZ, WFTU
+Diplomatic representation in US:
+     none (overseas department of France)
+US diplomatic representation:
+     none (overseas department of France)
+Flag:
+     the flag of France is used
+ 
+                                  Economy
+ 
+Overview:
+     The economy has traditionally been based on agriculture. Sugarcane has
+     been the primary crop for more than a century, and in some years it
+     accounts for 85% of exports. The government has been pushing the
+     development of a tourist industry to relieve high unemployment, which
+     recently amounted to one-third of the labor force. The gap in Reunion
+     between the well-off and the poor is extraordinary and accounts for
+     the persistent social tensions. The white and Indian communities are
+     substantially better off than other segments of the population, often
+     approaching European standards, whereas indigenous groups suffer the
+     poverty and unemployment typical of the poorer nations of the African
+     continent. The outbreak of severe rioting in February 1991 illustrates
+     the seriousness of socioeconomic tensions. The economic well-being of
+     Reunion depends heavily on continued financial assistance from France.
+National product:
+     GDP - purchasing power equivalent - $2.5 billion (1993 est.)
+National product real growth rate:
+     NA%
+National product per capita:
+     $3,900 (1993 est.)
+Inflation rate (consumer prices):
+     1.3% (1988)
+Unemployment rate:
+     35% (February 1991)
+Budget:
+revenues:
+     $358 million
+expenditures:
+     $914 million, including capital expenditures of $NA (1986 est.)
+Exports:
+     $166 million (f.o.b., 1988)
+commodities:
+     sugar 75%, rum and molasses 4%, perfume essences 4%, lobster 3%,
+     vanilla and tea 1%
+partners:
+     France, Mauritius, Bahrain, South Africa, Italy
+ 
+ 
+Imports:
+     $1.7 billion (c.i.f., 1988)
+commodities:
+     manufactured goods, food, beverages, tobacco, machinery and
+     transportation equipment, raw materials, and petroleum products
+partners:
+     France, Mauritius, Bahrain, South Africa, Italy
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%; about 25% of GDP
+Electricity:
+capacity:
+     245,000 kW
+production:
+     750 million kWh
+consumption per capita:
+     1,230 kWh (1991)
+Industries:
+     sugar, rum, cigarettes, several small shops producing handicraft items
+Agriculture:
+     accounts for 30% of labor force; dominant sector of economy; cash
+     crops - sugarcane, vanilla, tobacco; food crops - tropical fruits,
+     vegetables, corn; imports large share of food needs
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $14.8 billion
+Currency:
+     1 French franc (F) = 100 centimes
+Exchange rates:
+     French francs (F) per US$1 - 5.9205 (January 1994), 5.6632 (1993),
+     5.2938 (1992), 5.6421 (1991), 5.4453 (1990), 6.3801 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     2,800 km
+paved:
+     2,200 km
+unpaved:
+     gravel, crushed stone, stabilized earth 600 km
+Ports:
+     Pointe des Galets
+Airports:
+total:
+     2
+usable:
+     2
+with permanent-surface runways:
+     2
+ 
+ 
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     adequate system; modern open-wire and microwave network; principal
+     center Saint-Denis; radiocommunication to Comoros, France, Madagascar;
+     new microwave route to Mauritius; 85,900 telephones; broadcast
+     stations - 3 AM, 13 FM, 1 (18 repeaters) TV; 1 Indian Ocean INTELSAT
+     earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     French Forces (including Army, Navy, Air Force, Gendarmerie)
+Manpower availability:
+     males age 15-49 170,810; fit for military service 88,108; reach
+     military age (18) annually 5,867 (1994 est.)
+Note:
+     defense is the responsibility of France
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

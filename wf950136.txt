@@ -1,0 +1,389 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0135
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Kyrgyzstan
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Kyrgyzstan 
+ 
+ 
+                                Kyrgyzstan
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Asia, between China and Kazakhstan
+Map references:
+     Asia, Commonwealth of Independent States - Central Asian States,
+     Standard Time Zones of the World
+Area:
+total area:
+     198,500 sq km
+land area:
+     191,300 sq km
+comparative area:
+     slightly smaller than South Dakota
+Land boundaries:
+     total 3,878 km, China 858 km, Kazakhstan 1,051 km, Tajikistan 870 km,
+     Uzbekistan 1,099 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     territorial dispute with Tajikistan on southwestern boundary in Isfara
+     Valley area
+Climate:
+     dry continental to polar in high Tien Shan; subtropical in southwest
+     (Fergana Valley); temperate in northern foothill zone
+Terrain:
+     peaks of Tien Shan rise to 7,000 meters, and associated valleys and
+     basins encompass entire nation
+Natural resources:
+     small amounts of coal abundant hydroelectric potential; significant
+     deposits of gold and rare earth metals; locally exploitable coal, oil
+     and natural gas; other deposits of nepheline, mercury, bismuth, lead,
+     and zinc, natural gas, oil, nepheline, rare earth metals, mercury,
+     bismuth, gold, lead, zinc, hydroelectric power
+Land use:
+arable land:
+     7%
+permanent crops:
+     NEGL%
+meadows and pastures:
+     42%
+forest and woodland:
+     0%
+other:
+     51%
+Irrigated land:
+     10,320 sq km (1990)
+ 
+ 
+Environment:
+current issues:
+     water pollution; many people get their water directly from
+     contaminated streams and wells and as a result, water-borne diseases
+     are prevalent; increasing soil salinity from faulty irrigation
+     practices
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     4,698,108 (July 1994 est.)
+Population growth rate:
+     1.53% (1994 est.)
+Birth rate:
+     26.33 births/1,000 population (1994 est.)
+Death rate:
+     7.36 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -3.64 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     46.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     67.92 years
+male:
+     63.69 years
+female:
+     72.35 years (1994 est.)
+Total fertility rate:
+     3.35 children born/woman (1994 est.)
+Nationality:
+noun:
+     Kyrgyz(s)
+adjective:
+     Kyrgyz
+Ethnic divisions:
+     Kirghiz 52.4%, Russian 21.5%, Uzbek 12.9%, Ukrainian 2.5%, German
+     2.4%, other 8.3%
+Religions:
+     Muslim 70%, Russian Orthodox NA%
+Languages:
+     Kirghiz (Kyrgyz) - official language, Russian widely used
+Literacy:
+     age 9-49 can read and write (1970)
+total population:
+     100%
+male:
+     100%
+ 
+ 
+female:
+     100%
+Labor force:
+     1.836 million
+by occupation:
+     agriculture and forestry 38%, industry and construction 21%, other 41%
+     (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Kyrgyz Republic
+conventional short form:
+local long form:
+     Kyrgyz Respublikasy
+local short form:
+     none
+former:
+     Kirghiz Soviet Socialist Republic
+Digraph:
+     KG
+Type:
+     republic
+Capital:
+     Bishkek
+Administrative divisions:
+     6 oblasttar (singular - oblast); Chuy Oblasty, Jalal-Abad Oblasty,
+     Naryn Oblasty, Osh Oblasty, Talas Oblasty, Ysyk-Kol Oblasty
+note:
+     the administrative center for Chuy Oblasty is Bishkek; the
+     administrative center for Ysyk-Kol Oblasty may be Ksyk-Kol or Karakol;
+     all other oblasttar have administrative centers of the same name as
+     the oblast
+Independence:
+     31 August 1991 (from Soviet Union)
+National holiday:
+     National Day, 2 December; Independence Day, 31 August (1991)
+Constitution:
+     adopted 5 May 1993
+Legal system:
+     based on civil law system
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Askar AKAYEV (since 28 October 1990); election last held 12
+     October 1991 (next to be held NA 1996); results - Askar AKAYEV won in
+     uncontested election with 95% of vote and with 90% of electorate
+     voting; note - president elected by Supreme Soviet 28 October 1990,
+     then by popular vote 12 October 1991; note - AKAYEV won 96% of the
+     vote in a referendum on his status as president on 30 January 1993
+ 
+ 
+head of government:
+     Prime Minister Apas DZHUMAGULOV (since NA December 1993); First Deputy
+     Prime Minister Almambet MATURBRAIMOV (since NA)
+cabinet:
+     Cabinet of Ministers; subordinate to the president
+Legislative branch:
+     unicameral
+Zhogorku Keneshom:
+     elections last held 25 February 1990 for the Supreme Soviet (next to
+     be held no later than NA November 1994 for the Zhogorku Keneshom);
+     results - Communists 90%; seats - (350 total) Communists 310
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Social Democrats, Ishenbai KADYRBEKOV, chairman; Kyrgyzstan Democratic
+     Movement (KDM), Kazat AKHMATOV, chairman; National Unity, German
+     KUZNETSOV; Communist Party, Dzhumalbek AMANBAYEV, chairman; Erkin
+     (Free) Kyrgyzstan Party, Topchubek TURGUNALIYEV, chairman
+Other political or pressure groups:
+     National Unity Democratic Movement; Peasant Party; Council of Free
+     Trade Unions; Union of Entrepreneurs; Agrarian Party
+Member of:
+     CIS, CSCE, EBRD, ECE, ECO, ESCAP, IBRD, ICAO, IDA, IDB, IFAD, IFC,
+     ILO, IMF, IOC, NACC, OIC, PCA, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO
+Diplomatic representation in US:
+chief of mission:
+     (vacant)
+chancery:
+     (temporary) Suite 705, 1511 K Street NW, Washington, DC 20005
+telephone:
+     (202) 347-3732/3
+FAX:
+     (202) 347-3718
+US diplomatic representation:
+chief of mission:
+     Ambassador Edward HURWITZ
+embassy:
+     Erkindik Prospekt #66, Bishkek 720002
+mailing address:
+     use embassy street address
+telephone:
+     7-3312 22-29-20, 22-26-93, 22-29-89
+FAX:
+     7-3312 22-35-51
+Flag:
+     red field with a yellow sun in the center having 40 rays representing
+     the 40 Krygyz tribes; on the obverse side the rays run
+     counterclockwise, on the reverse, clockwise; in the center of the sun
+     is a red ring crossed by two sets of three lines, a stylized
+     representation of the roof of the traditional Kyrgyz yurt
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Kyrgyzstan is one of the smallest and poorest states of the former
+     Soviet Union. Its economy is heavily agricultural, producing cotton
+     and tobacco on irrigated land in the south, grain in the foothills of
+     the north, and sheep and goats on mountain pastures. Its small and
+     obsolescent industrial sector, concentrated around Bishkek, is heavily
+     dependent on Russia and other CIS countries for customers and for
+     inputs, including most of its fuel. Since 1990, the economy has
+     contracted by almost 40%. Kyrgyzstan's inflation was high in 1993,
+     about 23% per month, but rates were declining at the end of the year.
+     Kyrgyzstan introduced its national currency, the som, in May 1993, it
+     has privatized 28% of its former state assets, and plans call for a
+     massive voucher privatization in 1994. Although Kyrgyzstan will
+     receive relatively large flows of foreign aid, ongoing economic
+     restructuring will continue to be painful with an anticipated increase
+     in unemployment as uneconomic enterprises close. President AKAYEV will
+     be under strong political pressure to backtrack on some reform
+     measures.
+National product:
+     GDP - purchasing power equivalent - $11.3 billion (1993 estimate from
+     the UN International Comparison Program, as extended to 1991 and
+     published in the World Bank's World Development Report 1993; and as
+     extrapolated to 1993 using official Kirghiz statistics, which are very
+     uncertain because of major economic changes since 1990)
+National product real growth rate:
+     -13.4% (1993 est.)
+National product per capita:
+     $2,440 (1993 est.)
+Inflation rate (consumer prices):
+     23% per month (1993 est.)
+Unemployment rate:
+     0.2% includes officially registered unemployed; also large numbers of
+     unregistered unemployed and underemployed workers
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $100.4 million to countries outside the FSU (1993 est.)
+commodities:
+     wool, chemicals, cotton, ferrous and nonferrous metals, shoes,
+     machinery, tobacco
+partners:
+     Russia 70%, Ukraine, Uzbekistan, Kazakhstan, and others
+Imports:
+     $105.8 million from countries outside the FSU (1993 est.)
+commodities:
+     grain, lumber, industrial products, ferrous metals, fuel, machinery,
+     textiles, footwear
+partners:
+     other CIS republics
+External debt:
+     $NA
+ 
+ 
+Industrial production:
+     growth rate -27% (1993 est.)
+Electricity:
+capacity:
+     4,100,000 kW
+production:
+     11.8 billion kWh
+consumption per capita:
+     2,551 kWh (1992)
+Industries:
+     small machinery, textiles, food-processing industries, cement, shoes,
+     sawn logs, refrigerators, furniture, electric motors, gold, and rare
+     earth metals
+Agriculture:
+     wool, tobacco, cotton, livestock (sheep, goats, cattle), vegetables,
+     meat, grapes, fruits and berries, eggs, milk, potatoes
+Illicit drugs:
+     illicit cultivator of cannabis and opium poppy; mostly for CIS
+     consumption; limited government eradication program; used as
+     transshipment point for illicit drugs to Western Europe and North
+     America from Central and Southwest Asia
+Economic aid:
+recipient:
+     $80 million in 1993 and an anticipated $400 million in 1994
+Currency:
+     introduced national currency, the som (10 May 1993)
+Exchange rates:
+     NA
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     370 km; does not include industrial lines (1990)
+Highways:
+total:
+     30,300 km
+paved and graveled:
+     22,600 km
+unpaved:
+     earth 7,700 km (1990)
+Pipelines:
+     natural gas 200 km
+Ports:
+     none; landlocked
+Airports:
+total:
+     52
+usable:
+     27
+with permanent-surface runways:
+     12
+with runways over 3,659 m:
+     1
+ 
+ 
+with runways 2,440-3,659 m:
+     4
+with runways 1,060-2,439 m:
+     13
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     poorly developed; 342,000 telephones in 1991 (also about 100,000
+     unsatisfied applications for household telephones); 76 telephones per
+     1,000 persons (31 December 1991); microwave radio relay is principal
+     means of intercity telephone links; connections with other CIS
+     countries by landline or microwave and with other countries by leased
+     connections with Moscow international gateway switch and by satellite;
+     2 satellite earth stations - 1 GORIZONT and 1 INTELSAT (links through
+     Ankara to 200 other countries and receives Turkish broadcasts);
+     broadcast receivers - radios 825,000, TVs 875,000, radio receiver
+     systems with multiple speakers for program diffusion 748,000
+ 
+                              Defense Forces
+ 
+Branches:
+     National Guard, Security Forces (internal and border troops), Civil
+     Defense
+Manpower availability:
+     males age 15-49 1,123,959; fit for military service 912,516; reach
+     military age (18) annually 44,528 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

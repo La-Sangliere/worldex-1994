@@ -1,0 +1,371 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0103
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Guyana
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Guyana 
+ 
+ 
+                                  Guyana
+ 
+ 
+                                 Geography
+ 
+Location:
+     Northern South America, bordering the North Atlantic Ocean between
+     Suriname and Venezuela
+Map references:
+     South America, Standard Time Zones of the World
+Area:
+total area:
+     214,970 sq km
+land area:
+     196,850 sq km
+comparative area:
+     slightly smaller than Idaho
+Land boundaries:
+     total 2,462 km, Brazil 1,119 km, Suriname 600 km, Venezuela 743 km
+Coastline:
+     459 km
+Maritime claims:
+continental shelf:
+     200 nm or the outer edge of continental margin
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     all of the area west of the Essequibo River claimed by Venezuela;
+     Suriname claims area between New (Upper Courantyne) and
+     Courantyne/Kutari Rivers (all headwaters of the Courantyne)
+Climate:
+     tropical; hot, humid, moderated by northeast trade winds; two rainy
+     seasons (May to mid-August, mid-November to mid-January)
+Terrain:
+     mostly rolling highlands; low coastal plain; savanna in south
+Natural resources:
+     bauxite, gold, diamonds, hardwood timber, shrimp, fish
+Land use:
+arable land:
+     3%
+permanent crops:
+     0%
+meadows and pastures:
+     6%
+forest and woodland:
+     83%
+other:
+     8%
+Irrigated land:
+     1,300 sq km (1989 est.)
+Environment:
+current issues:
+     water pollution from sewage and agricultural and industrial chemicals;
+     deforestation
+ 
+ 
+natural hazards:
+     flash floods a constant threat during rainy seasons
+international agreements:
+     party to - Endangered Species, Law of the Sea, Ozone Layer Protection,
+     Tropical Timber; signed, but not ratifed - Biodiversity, Climate
+     Change
+ 
+                                  People
+ 
+Population:
+     729,425 (July 1994 est.)
+Population growth rate:
+     -0.75% (1994 est.)
+Birth rate:
+     19.95 births/1,000 population (1994 est.)
+Death rate:
+     7.36 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -20.03 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     48.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     64.9 years
+male:
+     61.66 years
+female:
+     68.3 years (1994 est.)
+Total fertility rate:
+     2.29 children born/woman (1994 est.)
+Nationality:
+noun:
+     Guyanese (singular and plural)
+adjective:
+     Guyanese
+Ethnic divisions:
+     East Indian 51%, black and mixed 43%, Amerindian 4%, European and
+     Chinese 2%
+Religions:
+     Christian 57%, Hindu 33%, Muslim 9%, other 1%
+Languages:
+     English, Amerindian dialects
+Literacy:
+     age 15 and over having ever attended school (1990 est.)
+total population:
+     95%
+male:
+     98%
+female:
+     96%
+Labor force:
+     268,000
+by occupation:
+     industry and commerce 44.5%, agriculture 33.8%, services 21.7%
+ 
+ 
+note:
+     public-sector employment amounts to 60-80% of the total labor force
+     (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Co-operative Republic of Guyana
+conventional short form:
+former:
+     British Guiana
+Digraph:
+     GY
+Type:
+     republic
+Capital:
+     Georgetown
+Administrative divisions:
+     10 regions; Barima-Waini, Cuyuni-Mazaruni, Demerara-Mahaica, East
+     Berbice-Corentyne, Essequibo Islands-West Demerara, Mahaica-Berbice,
+     Pomeroon-Supenaam, Potaro-Siparuni, Upper Demerara-Berbice, Upper
+     Takutu-Upper Essequibo
+Independence:
+     26 May 1966 (from UK)
+National holiday:
+     Republic Day, 23 February (1970)
+Constitution:
+     6 October 1980
+Legal system:
+     based on English common law with certain admixtures of Roman-Dutch
+     law; has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Executive President Cheddi JAGAN (since 5 October 1992); First Vice
+     President Sam HINDS (since 5 October 1992); election last held on 5
+     October 1992; results - Cheddi JAGAN was elected president since he
+     was leader of the party with the most votes in the National Assembly
+     elections
+head of government:
+     Prime Minister Sam HINDS (since 5 October 1992)
+cabinet:
+     Cabinet of Ministers; appointed by the president, responsible to the
+     legislature
+Legislative branch:
+     unicameral
+National Assembly:
+     elections last held on 5 October 1992 (next to be held in 1997);
+     results - PPP 53.4%, PNC 42.3%, WPA 2%, TUF 1.2%; seats - (65 total,
+     53 elected) PPP 36, PNC 26, WPA 2, TUF 1
+Judicial branch:
+     Supreme Court of Judicature
+ 
+ 
+Political parties and leaders:
+     People's Progressive Party (PPP), Cheddi JAGAN; People's National
+     Congress (PNC), Hugh Desmond HOYTE;; People's National Congress (PNC),
+     Hugh Desmond HOYTE; Working People's Alliance (WPA), Eusi KWAYANA,
+     Rupert ROOPNARINE; Democratic Labor Movement (DLM), Paul TENNASSEE;
+     People's Democratic Movement (PDM), Llewellyn JOHN; National
+     Democratic Front (NDF), Joseph BACCHUS; The United Force (TUF),
+     Manzoor NADIR; United Republican Party (URP), Leslie RAMSAMMY;
+     National Republican Party (NRP), Robert GANGADEEN; Guyana Labor Party
+     (GLP), Nanda GOPAUL
+Other political or pressure groups:
+     Trades Union Congress (TUC); Guyana Council of Indian Organizations
+     (GCIO); Civil Liberties Action Committee (CLAC)
+note:
+     the latter two organizations are small and active but not well
+     organized
+Member of:
+     ACP, C, CARICOM, CCC, CDB, ECLAC, FAO, G-77, GATT, IADB, IBRD, ICAO,
+     ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INTELSAT (nonsignatory user),
+     INTERPOL, IOC, ITU, LAES, LORCS, NAM, OAS, ONUSAL, UN, UNCTAD, UNESCO,
+     UNIDO, UPU, WCL, WFTU, WHO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Dr. Ali Odeen ISHMAEL
+chancery:
+     2490 Tracy Place NW, Washington, DC 20008
+telephone:
+     (202) 265-6900 through 6903
+US diplomatic representation:
+chief of mission:
+     Ambassador George F. Jones
+embassy:
+     99-100 Young and Duke Streets, Kingstown, Georgetown
+mailing address:
+     P. O. Box 10507, Georgetown
+telephone:
+     [592] (2) 54900 through 54909 and 57960 through 57969
+FAX:
+     [592] (2) 58497
+Flag:
+     green with a red isosceles triangle (based on the hoist side)
+     superimposed on a long yellow arrowhead; there is a narrow black
+     border between the red and yellow, and a narrow white border between
+     the yellow and the green
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Guyana, one of the poorest countries in the Western Hemisphere, has
+     pushed ahead strongly in 1991-93, at 7% average annual growth rate.
+     Favorable factors include recovery in the key agricultural and mining
+     sectors, a more favorable atmosphere for business initiative, a more
+     realistic exchange rate, a sharp drop in the inflation rate, and the
+     continued support of international organizations. Serious underlying
+     economic problems will continue. Electric power has been in short
+     supply and constitutes a major barrier to future gains in national
+     output. The government will have to persist in efforts to control
+     external debt and inflation and to extend the privatization program.
+National product:
+     GDP - purchasing power equivalent - $1.4 billion (1993 est.)
+National product real growth rate:
+     8.3% (1993 est.)
+National product per capita:
+     $1,900 (1993 est.)
+Inflation rate (consumer prices):
+     7% (1993
+Unemployment rate:
+     12% (1992 est.)
+Budget:
+revenues:
+     $121 million
+expenditures:
+     $225 million, including capital expenditures of $50 million (1990
+     est.)
+Exports:
+     $400 million (f.o.b., 1993 est.)
+commodities:
+     sugar, bauxite/alumina, rice, shrimp, molasses
+partners:
+     UK 33%, US 31%, Canada 9%, France 5%, Japan 3%, (1992)
+Imports:
+     $520 million (c.i.f., 1993 est.)
+commodities:
+     manufactures, machinery, petroleum, food
+partners:
+     US 37%, Trinidad and Tobago 13%, UK 11%, Italy 8%, Japan 5% (1992)
+External debt:
+     $1.9 billion including arrears (1992 est)
+Industrial production:
+     growth rate 11% (1991 est.); accounts for about 11% of GDP
+Electricity:
+capacity:
+     253,500 kW
+production:
+     276 million kWh
+consumption per capita:
+     370 kWh (1992)
+Industries:
+     bauxite mining, sugar, rice milling, timber, fishing (shrimp),
+     textiles, gold mining
+ 
+ 
+Agriculture:
+     most important sector, accounting for 25% of GDP and about half of
+     exports; sugar and rice are key crops; development potential exists
+     for fishing and forestry; not self-sufficient in food, especially
+     wheat, vegetable oils, and animal products
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $116 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $325
+     million; Communist countries 1970-89, $242 million
+Currency:
+     1 Guyanese dollar (G$) = 100 cents
+Exchange rates:
+     Guyanese dollars (G$) per US$1 - 130.7 (January 1994), 126.7 (1993),
+     125.0 (1992), 111.8 (1991), 39.533 (1990), 27.159 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     no public railroads; about 100 km of narrow gauge industrial railroads
+     to transport minerals, including bauxite
+Highways:
+total:
+     7,665 km
+paved:
+     550 km
+unpaved:
+     gravel 5,000 km; earth 2,115 km
+Inland waterways:
+     6,000 km total of navigable waterways; Berbice, Demerara, and
+     Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100
+     km, and 80 km, respectively
+Ports:
+     Georgetown, New Amsterdam
+Merchant marine:
+     1 cargo ship (1,000 GRT or over) totaling 1,317 GRT/2,558 DWT
+Airports:
+total:
+     53
+usable:
+     48
+with permanent-surface runways:
+     5
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     12
+Telecommunications:
+     fair system with radio relay network; over 27,000 telephones;
+     tropospheric scatter link to Trinidad; broadcast stations - 4 AM, 3
+     FM, no TV, 1 shortwave; 1 Atlantic Ocean INTELSAT earth station
+ 
+ 
+ 
+                              Defense Forces
+ 
+Branches:
+     Guyana Defense Force (GDF; including the Ground Forces, Coast Guard
+     and Air Corps), Guyana People's Militia (GPM), Guyana National Service
+     (GNS)
+Manpower availability:
+     males age 15-49 197,802; fit for military service 150,072
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

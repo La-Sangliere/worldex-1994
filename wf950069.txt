@@ -1,0 +1,319 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0068
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Dominica
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Dominica 
+ 
+ 
+                                 Dominica
+ 
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the eastern Caribbean Sea, about halfway between Puerto
+     Rico and Trinidad and Tobago
+Map references:
+     Central America and the Caribbean, South America, Standard Time Zones
+     of the World
+Area:
+total area:
+     750 sq km
+land area:
+     750 sq km
+comparative area:
+     slightly more than four times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     148 km
+Maritime claims:
+contiguous zone:
+     24 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; moderated by northeast trade winds; heavy rainfall
+Terrain:
+     rugged mountains of volcanic origin
+Natural resources:
+     timber
+Land use:
+arable land:
+     9%
+permanent crops:
+     13%
+meadows and pastures:
+     3%
+forest and woodland:
+     41%
+other:
+     34%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     flash floods are a constant threat; occasional hurricanes
+ 
+ 
+international agreements:
+     party to - Climate Change, Environmental Modification, Law of the Sea,
+     Ozone Layer Protection
+ 
+                                  People
+ 
+Population:
+     87,696 (July 1994 est.)
+Population growth rate:
+     1.32% (1994 est.)
+Birth rate:
+     20.46 births/1,000 population (1994 est.)
+Death rate:
+     4.98 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -2.23 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     10.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     76.96 years
+male:
+     74.12 years
+female:
+     79.95 years (1994 est.)
+Total fertility rate:
+     1.99 children born/woman (1994 est.)
+Nationality:
+noun:
+     Dominican(s)
+adjective:
+     Dominican
+Ethnic divisions:
+     black, Carib Indians
+Religions:
+     Roman Catholic 77%, Protestant 15% (Methodist 5%, Pentecostal 3%,
+     Seventh-Day Adventist 3%, Baptist 2%, other 2%), none 2%, unknown 1%,
+     other 5%
+Languages:
+     English (official), French patois
+Literacy:
+     age 15 and over having ever attended school (1970)
+total population:
+     94%
+male:
+     94%
+female:
+     94%
+Labor force:
+     25,000
+by occupation:
+     agriculture 40%, industry and commerce 32%, services 28% (1984)
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     Commonwealth of Dominica
+conventional short form:
+Digraph:
+     DO
+Type:
+     parliamentary democracy
+Capital:
+     Roseau
+Administrative divisions:
+     10 parishes; Saint Andrew, Saint David, Saint George, Saint John,
+     Saint Joseph, Saint Luke, Saint Mark, Saint Patrick, Saint Paul, Saint
+     Peter
+Independence:
+     3 November 1978 (from UK)
+National holiday:
+     Independence Day, 3 November (1978)
+Constitution:
+     3 November 1978
+Legal system:
+     based on English common law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Crispin Anselm SORHAINDO (since 25 October 1993) election
+     last held 4 October 1993 (next to be held NA October 1998); results -
+     President Crispin Anselm SORHAINDO was elected by the House of
+     Assembly to a five year term
+head of government:
+     Prime Minister (Mary) Eugenia CHARLES (since 21 July 1980, elected for
+     a third term 28 May 1990)
+cabinet:
+     Cabinet; appointed by the president on the advice of the prime
+     minister
+Legislative branch:
+     unicameral
+House of Assembly:
+     elections last held 28 May 1990 (next to be held May 1995); results -
+     percent of vote by party NA; seats - (30 total; 9 appointed senators
+     and 21 elected representatives) DFP 11, UWP 6, DLP 4
+Judicial branch:
+     Eastern Caribbean Supreme Court
+Political parties and leaders:
+     Dominica Freedom Party (DFP), Brian ALLEYNE; Dominica Labor Party
+     (DLP), Rosie DOUGLAS; United Workers Party (UWP), Edison JAMES
+Other political or pressure groups:
+     Dominica Liberation Movement (DLM), a small leftist group
+Member of:
+     ACCT, ACP, C, CARICOM, CDB, ECLAC, FAO, G-77, GATT, IBRD, ICFTU, IDA,
+     IFAD, IFC, ILO, IMF, IMO, INTERPOL, LORCS, NAM (observer), OAS, OECS,
+     UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WHO, WMO
+ 
+ 
+Diplomatic representation in US:
+     Dominica has no chancery in the US
+consulate(s) general:
+     New York
+US diplomatic representation:
+     no official presence since the Ambassador resides in Bridgetown
+     (Barbados), but travels frequently to Dominica
+Flag:
+     green with a centered cross of three equal bands - the vertical part
+     is yellow (hoist side), black, and white - the horizontal part is
+     yellow (top), black, and white; superimposed in the center of the
+     cross is a red disk bearing a sisserou parrot encircled by 10 green
+     five-pointed stars edged in yellow; the 10 stars represent the 10
+     administrative divisions (parishes)
+ 
+                                  Economy
+ 
+Overview:
+     The economy is dependent on agriculture and thus is highly vulnerable
+     to climatic conditions. Agriculture accounts for about 30% of GDP and
+     employs 40% of the labor force. Principal products include bananas,
+     citrus, mangoes, root crops, and coconuts. Development of the tourist
+     industry remains difficult because of the rugged coastline and the
+     lack of an international airport.
+National product:
+     GDP - purchasing power equivalent - $185 million (1992 est.)
+National product real growth rate:
+     2.6% (1992 est.)
+National product per capita:
+     $2,100 (1992 est.)
+Inflation rate (consumer prices):
+     5.2% (1992 est.)
+Unemployment rate:
+     15% (1992 est.)
+Budget:
+revenues:
+     $70 million
+expenditures:
+     $84 million, including capital expenditures of $26 million (FY91 est.)
+Exports:
+     $54.6 million (1992)
+commodities:
+     bananas, soap, bay oil, vegetables, grapefruit, oranges
+partners:
+     UK 50%, CARICOM countries, Italy, US
+Imports:
+     $97.5 million (1992)
+commodities:
+     manufactured goods, machinery and equipment, food, chemicals
+partners:
+     US 25%, CARICOM, UK, Canada
+External debt:
+     $92.8 million (1992)
+Industrial production:
+     growth rate 4.2% (1992); accounts for 7% of GDP
+ 
+ 
+Electricity:
+capacity:
+     7,000 kW
+production:
+     16 million kWh
+consumption per capita:
+     185 kWh (1992)
+Industries:
+     soap, coconut oil, tourism, copra, furniture, cement blocks, shoes
+Agriculture:
+     accounts for 30% of GDP; principal crops - bananas, citrus, mangoes,
+     root crops, coconuts; bananas provide the bulk of export earnings;
+     forestry and fisheries potential not exploited
+Illicit drugs:
+     transshipment point for cocaine and marijuana bound for the US and
+     Europe
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $120 million
+Currency:
+     1 EC dollar (EC$) = 100 cents
+Exchange rates:
+     East Caribbean dollars (EC$) per US$1 - 2.70 (fixed rate since 1976)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Highways:
+total:
+     750 km
+paved:
+     370 km
+unpaved:
+     gravel or earth 380 km
+Ports:
+     Roseau, Portsmouth
+Airports:
+total:
+     2
+usable:
+     2
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     4,600 telephones in fully automatic network; VHF and UHF link to Saint
+     Lucia; new SHF links to Martinique and Guadeloupe; broadcast stations
+     - 3 AM, 2 FM, 1 cable TV
+ 
+ 
+ 
+                              Defense Forces
+ 
+Branches:
+     Commonwealth of Dominica Police Force
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

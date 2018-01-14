@@ -1,0 +1,146 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0014
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Ashmore and Cartier Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Ashmore and Cartier Islands 
+ 
+ 
+                        Ashmore and Cartier Islands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of Australia)
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, in the Indian Ocean, 320 km off the northwest coast
+     of Australia, between Australia and Indonesia
+Map references:
+     Oceania, Southeast Asia
+Area:
+total area:
+     5 sq km
+land area:
+     5 sq km
+comparative area:
+     about 8.5 times the size of The Mall in Washington, DC
+note:
+     includes Ashmore Reef (West, Middle, and East Islets) and Cartier
+     Island
+Land boundaries:
+     0 km
+Coastline:
+     74.1 km
+Maritime claims:
+contiguous zone:
+     12 nm
+continental shelf:
+     200-m depth or to depth of exploration
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     tropical
+Terrain:
+     low with sand and coral
+Natural resources:
+     fish
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100% (all grass and sand)
+ 
+ 
+Irrigated land:
+     0 sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     surrounded by shoals and reefs
+international agreements:
+     NA
+Note:
+     Ashmore Reef National Nature Reserve established in August 1983
+ 
+                                  People
+ 
+Population:
+     no indigenous inhabitants; note - there are only seasonal caretakers
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Territory of Ashmore and Cartier Islands
+conventional short form:
+Digraph:
+     AT
+Type:
+     territory of Australia administered by the Australian Ministry for the
+     Environment, Sport, and Territories
+Capital:
+     none; administered from Canberra, Australia
+Administrative divisions:
+     none (territory of Australia)
+Independence:
+     none (territory of Australia)
+Legal system:
+     relevant laws of the Northern Territory of Australia
+Diplomatic representation in US:
+     none (territory of Australia)
+US diplomatic representation:
+     none (territory of Australia)
+ 
+                                  Economy
+ 
+Overview:
+     no economic activity
+ 
+                              Communications
+ 
+Ports:
+     none; offshore anchorage only
+ 
+                              Defense Forces
+ 
+ 
+Note:
+     defense is the responsibility of Australia; periodic visits by the
+     Royal Australian Navy and Royal Australian Air Force
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

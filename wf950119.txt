@@ -1,0 +1,443 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0118
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Israel
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Israel 
+ 
+ 
+                                  Israel
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (also see separate Gaza Strip and West Bank entries)
+Note:
+     The territories occupied by Israel since the 1967 war are not included
+     in the data below. In keeping with the framework established at the
+     Madrid Conference in October 1991, bilateral negotiations are being
+     conducted between Israel and Palestinian representatives, Syria, and
+     Jordan to determine the final status of the occupied territories. On
+     25 April 1982, Israel withdrew from the Sinai pursuant to the 1979
+     Israel-Egypt Peace treaty.
+ 
+                                 Geography
+ 
+Location:
+     Middle East, bordering the eastern Mediterranean Sea, between Egypt
+     and Lebanon
+Map references:
+     Africa, Middle East, Standard Time Zones of the World
+Area:
+total area:
+     20,770 sq km
+land area:
+     20,330 sq km
+comparative area:
+     slightly larger than New Jersey
+Land boundaries:
+     total 1,006 km, Egypt 255 km, Gaza Strip 51 km, Jordan 238 km, Lebanon
+     79 km, Syria 76 km, West Bank 307 km
+Coastline:
+     273 km
+Maritime claims:
+continental shelf:
+     to depth of exploitation
+territorial sea:
+     12 nm
+International disputes:
+     separated from Lebanon, Syria, and the West Bank by the 1949 Armistice
+     Line; differences with Jordan over the location of the 1949 Armistice
+     Line that separates the two countries; the Gaza Strip and Jericho,
+     formerly occupied by Israel, are now administered by the Palestinian
+     Authority; other areas of the West Bank outside Jericho are Israeli
+     occupied; Golan Heights is Israeli occupied; Israeli troops in
+     southern Lebanon since June 1982; water-sharing issues with Jordan
+Climate:
+     temperate; hot and dry in southern and eastern desert areas
+Terrain:
+     Negev desert in the south; low coastal plain; central mountains;
+     Jordan Rift Valley
+Natural resources:
+     copper, phosphates, bromide, potash, clay, sand, sulfur, asphalt,
+     manganese, small amounts of natural gas and crude oil
+ 
+ 
+Land use:
+arable land:
+     17%
+permanent crops:
+     5%
+meadows and pastures:
+     40%
+forest and woodland:
+     6%
+other:
+     32%
+Irrigated land:
+     2,140 sq km (1989)
+Environment:
+current issues:
+     limited arable land and freshwater resources pose serious constraints;
+     deforestation; air pollution from industrial and vehicle emissions;
+     groundwater pollution from industrial and domestic waste, chemical
+     fertilizers, and pesticides
+natural hazards:
+     sandstorms may occur during spring and summer
+international agreements:
+     party to - Biodiversity, Endangered Species, Nuclear Test Ban, Ozone
+     Layer Protection, Ship Pollution; signed, but not ratified - Climate
+     Change, Hazardous Wastes, Marine Life Conservation
+Note:
+     there are 200 Jewish settlements and civilian land use sites in the
+     West Bank, 40 in the Israeli-occupied Golan Heights, 24 in the Gaza
+     Strip, and 25 in East Jerusalem (April 1994)
+ 
+                                  People
+ 
+Population:
+     5,050,850 (July 1994 est.)
+note:
+     includes 110,500 Jewish settlers in the West Bank, 14,000 in the
+     Israeli-occupied Golan Heights, 4,500 in the Gaza Strip, and 144,100
+     in East Jerusalem (1994 est.)
+Population growth rate:
+     2.22% (1994 est.)
+Birth rate:
+     20.55 births/1,000 population (1994 est.)
+Death rate:
+     6.43 deaths/1,000 population (1994 est.)
+Net migration rate:
+     8.04 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     8.6 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     77.96 years
+male:
+     75.86 years
+female:
+     80.16 years (1994 est.)
+ 
+ 
+Total fertility rate:
+     2.83 children born/woman (1994 est.)
+Nationality:
+noun:
+     Israeli(s)
+adjective:
+     Israeli
+Ethnic divisions:
+     Jewish 83%, non-Jewish 17% (mostly Arab)
+Religions:
+     Judaism 82%, Islam 14% (mostly Sunni Muslim), Christian 2%, Druze and
+     other 2%
+Languages:
+     Hebrew (official), Arabic used officially for Arab minority, English
+     most commonly used foreign language
+Literacy:
+     age 15 and over can read and write (1983)
+total population:
+     92%
+male:
+     95%
+female:
+     89%
+Labor force:
+     1.9 million (1992)
+by occupation:
+     public services 29.3%, industry 22.1%, commerce 13.9%, finance and
+     business 10.4%, personal and other services 7.4%, construction 6.5%,
+     transport, storage, and communications 6.3%, agriculture, forestry,
+     and fishing 3.5%, other 0.6% (1992)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     State of Israel
+conventional short form:
+local long form:
+     Medinat Yisra'el
+local short form:
+     Yisra'el
+Digraph:
+     IS
+Type:
+     republic
+Capital:
+     Jerusalem
+note:
+     Israel proclaimed Jerusalem its capital in 1950, but the US, like
+     nearly all other countries, maintains its Embassy in Tel Aviv
+Administrative divisions:
+     6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem,
+     Northern, Southern, Tel Aviv
+ 
+Independence:
+     14 May 1948 (from League of Nations mandate under British
+     administration)
+National holiday:
+     Independence Day, 14 May 1948 (Israel declared independence on 14 May
+     1948, but the Jewish calendar is lunar and the holiday may occur in
+     April or May)
+Constitution:
+     no formal constitution; some of the functions of a constitution are
+     filled by the Declaration of Establishment (1948), the basic laws of
+     the parliament (Knesset), and the Israeli citizenship law
+Legal system:
+     mixture of English common law, British Mandate regulations, and, in
+     personal matters, Jewish, Christian, and Muslim legal systems; in
+     December 1985, Israel informed the UN Secretariat that it would no
+     longer accept compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Ezer WEIZMAN (since 13 May 1993) election last held 24 March
+     1993 (next to be held NA March 1999); results - Ezer WEIZMAN elected
+     by Knesset
+head of government:
+     Prime Minister Yitzhak RABIN (since NA July 1992)
+cabinet:
+     Cabinet; selected from and approved by the Knesset
+Legislative branch:
+     unicameral
+parliament (Knesset):
+     elections last held NA June 1992 (next to be held by NA 1996); results
+     - percent of vote by party NA; seats - (120 total) Labor Party 44,
+     Likud bloc 32, Meretz 12, Tzomet 8, National Religious Party 6, Shas
+     6, United Torah Jewry 4, Democratic Front for Peace and Equality
+     (Hadash) 3, Moledet 3, Arab Democratic Party 2; note - in 1994 three
+     new parties were formed, Yi'ud (from Tzomet), Histadrut List (from the
+     Labor Party), and Peace Guard (from Moledet), resulting in the
+     following new distribution of seats - Labor Party 41, Likud bloc 32,
+     Meretz 12, National Religious Party 6, Shas 6, Tzomet 5, United Torah
+     Jewry 4, Democratic Front for Peace and Equality (Hadash) 3, Yi'ud 3,
+     Histadrut List 3, Moledet 2, Arab Democratic Party 2, Peace Guard 1
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+members of the government:
+     Labor Party, Prime Minister Yitzhak RABIN; MERETZ, Minister of
+     Communications Shulamit ALONI
+not in coalition, but voting with the government:
+     SHAS, Arieh DERI; Democratic Front for Peace and Equality (Hadash),
+     Hashim MAHAMID; Arab Democratic Party, Abd al Wahab DARAWSHAH;
+     Histadrut List, Haim RAMON
+opposition parties:
+     Likud Party, Binyamin NETANYAHU; Tzomet, Rafael EITAN; National
+     Religious Party, Zevulun HAMMER; United Torah Jewry, Avraham SHAPIRA;
+     Moledet, Rehavam ZEEVI; Yi'ud, Gonen SEGEV; Peace Guard, Shoul GUTMAN
+ 
+ 
+note:
+     Israel currently has a coalition government comprising 3 parties that
+     hold 56 seats of the Knesset's 120 seats
+Other political or pressure groups:
+     Gush Emunim, Jewish nationalists advocating Jewish settlement on the
+     West Bank and Gaza Strip; Peace Now, critical of government's West
+     Bank/Gaza Strip and Lebanon policies
+Member of:
+     AG (observer), CCC, CE (observer), CERN (oberver), EBRD, ECE, FAO,
+     GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IFAD, IFC, ILO, IMF,
+     IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, OAS (observer),
+     PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Itamar RABINOVICH
+chancery:
+     3514 International Drive NW, Washington, DC 20008
+telephone:
+     (202) 364-5500
+FAX:
+     (202) 364-5610
+consulate(s) general:
+     Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York,
+     Philadelphia, and San Francisco
+US diplomatic representation:
+chief of mission:
+     Ambassador Edward DJEREJIAN (expected to resign in August 1994)
+embassy:
+     71 Hayarkon Street, Tel Aviv
+mailing address:
+     PSC 98, Box 100, Tel Aviv; APO AE 09830
+telephone:
+     [972] (3) 517-4338
+FAX:
+     [972] (3) 663-449
+Flag:
+     white with a blue hexagram (six-pointed linear star) known as the
+     Magen David (Shield of David) centered between two equal horizontal
+     blue bands near the top and bottom edges of the flag
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Israel has a market economy with substantial government participation.
+     It depends on imports of crude oil, grains, raw materials, and
+     military equipment. Despite limited natural resources, Israel has
+     intensively developed its agricultural and industrial sectors over the
+     past 20 years. Industry employs about 22% of Israeli workers,
+     construction 6.5%, agriculture, forestry, and fishing 3.5%, and
+     services most of the rest. Diamonds, high-technology equipment, and
+     agricultural products (fruits and vegetables) are leading exports.
+     Israel usually posts current account deficits, which are covered by
+     large transfer payments from abroad and by foreign loans. Roughly half
+     of the government's external debt is owed to the United States, which
+     is its major source of economic and military aid. To earn needed
+     foreign exchange, Israel has been targeting high-technology niches in
+     international markets, such as medical scanning equipment. The influx
+     of Jewish immigrants from the former USSR, which topped 450,000 during
+     the period 1990-93, increased unemployment, intensified housing
+     problems, and strained the government budget. At the same time, the
+     immigrants bring to the economy valuable scientific and professional
+     expertise. Economic problems have eased as immigration has declined,
+     but activity has slowed as the economy shifts from housing to
+     export-driven growth.
+National product:
+     GDP - purchasing power equivalent - $65.7 billion (1993 est.)
+National product real growth rate:
+     3.5% (1993 est.)
+National product per capita:
+     $13,350 (1993 est.)
+Inflation rate (consumer prices):
+     11.3% (1993 est.)
+Unemployment rate:
+     10.4% (1993 est.)
+Budget:
+revenues:
+     $33.4 billion
+expenditures:
+     $36.3 billion, including capital expenditures of $9.4 billion (FY93)
+Exports:
+     $14.1 billion (f.o.b., 1993 est.)
+commodities:
+     machinery and equipment, cut diamonds, chemicals, textiles and
+     apparel, agricultural products, metals
+partners:
+     US, EC, Japan
+Imports:
+     $20.3 billion (c.i.f., 1993 est.)
+commodities:
+     military equipment, investment goods, rough diamonds, oil, other
+     productive inputs, consumer goods
+partners:
+     US, EC
+External debt:
+     $24.8 billion (December 1993 est.)
+Industrial production:
+     growth rate 6.5% (1993 est.); accounts for about 30% of GDP
+ 
+ 
+Electricity:
+capacity:
+     5,835,000 kW
+production:
+     21.84 billion kWh
+consumption per capita:
+     4,600 kWh (1992)
+Industries:
+     food processing, diamond cutting and polishing, textiles and apparel,
+     chemicals, metal products, military equipment, transport equipment,
+     electrical equipment, miscellaneous machinery, potash mining,
+     high-technology electronics, tourism
+Agriculture:
+     accounts for about 7% of GDP; largely self-sufficient in food
+     production, except for grains; principal products - citrus and other
+     fruits, vegetables, cotton; livestock products - beef, dairy, poultry
+Illicit drugs:
+     increasingly concerned about cocaine and heroin abuse and trafficking
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-90), $18.2 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $2.8
+     billion
+Currency:
+     1 new Israeli shekel (NIS) = 100 new agorot
+Exchange rates:
+     new Israeli shekels (NIS) per US$1 - 2.9760 (February 1994), 2.8301
+     (1993), 2.4591 (1992), 2.2791 (1991), 2.0162 (1990), 1.9164 (1989)
+Fiscal year:
+     calendar year (since 1 January 1992)
+ 
+                              Communications
+ 
+Railroads:
+     600 km 1.435-meter gauge, single track; diesel operated
+Highways:
+total:
+     13,300 km
+paved:
+     13,300 km
+Pipelines:
+     crude oil 708 km; petroleum products 290 km; natural gas 89 km
+Ports:
+     Ashdod, Haifa
+Merchant marine:
+     33 ships (1,000 GRT or over) totaling 637,097 GRT/737,762 DWT, cargo
+     8, container 22, refrigerated cargo 2, roll-on/roll-off cargo 1
+note:
+     Israel also maintains a significant flag of convenience fleet, which
+     is normally at least as large as the Israeli flag fleet; the Israeli
+     flag of convenience fleet typically includes all of its oil tankers
+Airports:
+total:
+     55
+ 
+ 
+usable:
+     48
+with permanent-surface runways:
+     30
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     6
+with runways 1,220-2,439 m:
+     13
+Telecommunications:
+     most highly developed in the Middle East although not the largest;
+     good system of coaxial cable and microwave radio relay; 1,800,000
+     telephones; broadcast stations - 14 AM, 21 FM, 20 TV; 3 submarine
+     cables; satellite earth stations - 2 Atlantic Ocean INTELSAT and 1
+     Indian Ocean INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Israel Defense Forces (including ground, naval, and air components)
+note:
+     historically, there have been no separate Israeli military services
+Manpower availability:
+     males age 15-49 1,257,345; females age 15-49 1,280,899; males fit for
+     military service 1,026,699; females fit for military service
+     1,049,998; males reach military age (18) annually 47,297 (1994 est.);
+     females reach military age (18) annually 45,214 (1994 est.); both
+     sexes are liable for military service
+Defense expenditures:
+     exchange rate conversion - $12.5 billion, 18% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

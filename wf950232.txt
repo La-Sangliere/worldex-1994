@@ -1,0 +1,388 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0231
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Tajikistan
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Tajikistan 
+ 
+ 
+                                Tajikistan
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Asia, between Uzbekistan and China
+Map references:
+     Asia, Commonwealth of Independent States - Central Asian States,
+     Standard Time Zones of the World
+Area:
+total area:
+     143,100 sq km
+land area:
+     142,700 sq km
+comparative area:
+     slightly smaller than Wisconsin
+Land boundaries:
+     total 3,651 km, Afghanistan 1,206 km, China 414 km, Kyrgyzstan 870 km,
+     Uzbekistan 1,161 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     boundary with China in dispute; territorial dispute with Kyrgyzstan on
+     northern boundary in Isfara Valley area; Afghanistan's and other
+     foreign support to Tajik rebels based in northern Afghanistan
+Climate:
+     midlatitude continental, hot summers, mild winters; semiarid to polar
+     in Pamir Mountains
+Terrain:
+     Pamir and Alay Mountains dominate landscape; western Fergana Valley in
+     north, Kofarnihon and Vakhsh Valleys in southwest
+Natural resources:
+     significant hydropower potential, some petroleum, uranium, mercury,
+     brown coal, lead, zinc, antimony, tungsten
+Land use:
+arable land:
+     6%
+permanent crops:
+     0%
+meadows and pastures:
+     23%
+forest and woodland:
+     0%
+other:
+     71%
+Irrigated land:
+     6,940 sq km (1990)
+Environment:
+current issues:
+     inadequate sanitation facilities; increasing levels of soil salinity;
+     industrial pollution; excessive pesticides; Tajikistan is part of the
+     basin of the shrinking Aral Sea which suffers from severe
+     overutilization of available water for irrigation and associated
+     pollution
+ 
+ 
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     5,995,469 (July 1994 est.)
+Population growth rate:
+     2.67% (1994 est.)
+Birth rate:
+     34.79 births/1,000 population (1994 est.)
+Death rate:
+     6.71 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -1.43 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     62 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     68.76 years
+male:
+     65.88 years
+female:
+     71.79 years (1994 est.)
+Total fertility rate:
+     4.62 children born/woman (1994 est.)
+Nationality:
+noun:
+     Tajik(s)
+adjective:
+     Tajik
+Ethnic divisions:
+     Tajik 64.9%, Uzbek 25%, Russian 3.5% (declining because of
+     emigration), other 6.6%
+Religions:
+     Sunni Muslim 80%, Shi'a Muslim 5%
+Languages:
+     Tajik (official), Russian widely used in government and business
+Literacy:
+     age 9-49 can read and write (1970)
+total population:
+     100%
+male:
+     100%
+female:
+     99%
+Labor force:
+     1.95 million (1992)
+by occupation:
+     agriculture and forestry 43%, government and services 24%, industry
+     14%, trade and communications 11%, construction 8% (1990)
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Tajikistan
+conventional short form:
+local long form:
+     Respublika i Tojikiston
+local short form:
+     none
+former:
+     Tajik Soviet Socialist Republic
+Digraph:
+     TI
+Type:
+     republic
+Capital:
+     Dushanbe
+Administrative divisions:
+     2 oblasts (viloyotho, singular - viloyat) and one autonomous oblast*
+     (viloyati avtonomii); Viloyati Avtonomii Badakhshoni Kuni* (Khorugh -
+     formerly Khorog), Viloyati Khatlon (Qurghonteppa - formerly
+     Kurgan-Tyube), Viloyati Leninobad (Khujand - formerly Leninabad)
+note:
+     the administrative center names are in parentheses
+Independence:
+     9 September 1991 (from Soviet Union)
+National holiday:
+     National Day, 9 September (1991)
+Constitution:
+     a referendum on new constitution planned for June 1994
+Legal system:
+     based on civil law system; no judicial review of legislative acts
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Head of State and Assembly Chairman Emomili RAKHMONOV (since NA
+     November 1992); election last held 27 October 1991 (next to be held NA
+     September 1994); results - Rakhman NABIYEV, Communist Party 60%;
+     Davlat KHUDONAZAROV, Democratic Party, Islamic Rebirth Party and
+     Rastokhoz Party 30%
+head of government:
+     Prime Minister Abdujalil SAMADOV (since 27 December 993)
+cabinet:
+     Council of Ministers
+note:
+     the presidency was abolished in November 1992, when RAKHMANOV became
+     head of state; a referendum on presidential or parliamentary system is
+     planned for June 1994
+Legislative branch:
+     unicameral
+ 
+ 
+Supreme Soviet:
+     elections last held 25 February 1990 (next to be held NA September
+     1994); results - Communist Party 99%, other 1%; seats - (230 total)
+     Communist Party 227, other 3
+Judicial branch:
+     Prosecutor General
+Political parties and leaders:
+     Communist Party (Tajik Socialist Party - TSP), Shodi SHABDOLOV,
+     chairman; Tajik Democratic Party (TDP), Shodmon YUSUF; Islamic Revival
+     Party (IRP), Mohammed Sharif HIMOTZODA, Davat OUSMAN; Rastokhez
+     Movement, Tohir ABDUJABBAR; Lali Badakhshan Society, Atobek AMIRBEK
+note:
+     all the above-listed parties but the Communist Party were banned in
+     June 1993
+Other political or pressure groups:
+     Tajikistan Opposition Movement based in northern Afghanistan
+Member of:
+     CIS, CSCE, EBRD, ECO, ESCAP, IBRD, IDA, IDB, IMF, INTELSAT
+     (nonsignatory user), IOC, NACC, OIC, UN, UNCTAD, UNESCO, UNIDO, WHO,
+     WMO
+Diplomatic representation in US:
+chief of mission:
+     NA
+chancery:
+     NA
+telephone:
+     NA
+US diplomatic representation:
+chief of mission:
+     Ambassador Stanley T. ESCUDERO
+embassy:
+     Hotel October, 105A Rudaki Prospect, Dushanbe
+mailing address:
+     use embassy street address
+telephone:
+     [7] (3772) 21-03-56 and 21-03-60
+Flag:
+     three horizontal stripes of red (top), a wider stripe of white, and
+     green; a crown surmounted by seven five-pointed stars is located in
+     the center of the white stripe
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Tajikistan had the lowest per capita GDP in the former USSR, the
+     highest rate of population growth, and the lowest standard of living.
+     Its economy at the start of 1994 is producing at roughly the 1989
+     level and faces urgent reconstruction tasks from the 1992 civil war.
+     Tajikistan's economy was severely disrupted by the breakup of the
+     Soviet economy, which provided guaranteed trade relations and heavy
+     subsidies and in which specialized tasks were assigned to each
+     republic. Its economy is highly agricultural (43% of the work force);
+     it has specialized in growing cotton for export and must import a
+     large share of its food. Its industry (14% of the work force) produces
+     aluminum, hydropower, machinery, and household appliances. Nearly all
+     petroleum products must be imported. Constant political turmoil and
+     continued dominance of former Communist officials have slowed the
+     process of economic reform and brought near economic collapse while
+     limiting foreign assistance. Tajikistan is in the midst of a prolonged
+     monetary crisis in which it is attempting to continue to use the
+     Russian ruble as its currency while its neighbors have switched to new
+     independent currencies; Russia is unwilling to advance sufficient
+     rubles without attaching stringent reform conditions.
+National product:
+     GDP - purchasing power equivalent - $6.9 billion (1993 estimate from
+     the UN International Comparison Program, as extended to 1991 and
+     published in the World Bank's World Development Report 1993; and as
+     extrapolated to 1993 using official Tajik statistics, which are very
+     uncertain because of major economic changes since 1990)
+National product real growth rate:
+     -21% (1993 est.)
+National product per capita:
+     $1,180 (1993 est.)
+Inflation rate (consumer prices):
+     38% per month (1993 average)
+Unemployment rate:
+     1.1% includes only officially registered unemployed; also large
+     numbers of underemployed workers and unregistered unemployed people
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $263 million to outside the FSU countries (1993)
+commodities:
+     cotton, aluminum, fruits, vegetable oil, textiles
+partners:
+     Russia, Kazakhstan, Ukraine, Uzbekistan, Turkmenistan
+Imports:
+     $371 million from outside the FSU countries (1993)
+commodities:
+     fuel, chemicals, machinery and transport equipment, textiles,
+     foodstuffs
+partners:
+     Russia, Uzbekistan, Kazakhstan
+External debt:
+     $NA
+ 
+ 
+Industrial production:
+     growth rate -20% (1993 est.)
+Electricity:
+capacity:
+     4,585,000 kW
+production:
+     16.8 billion kWh
+consumption per capita:
+     2,879 kWh (1992)
+Industries:
+     aluminum, zinc, lead, chemicals and fertilizers, cement, vegetable
+     oil, metal-cutting machine tools, refrigerators and freezers
+Agriculture:
+     cotton, grain, fruits, grapes, vegetables; cattle, sheep and goats
+Illicit drugs:
+     illicit cultivation of cannabis and opium poppy; mostly for CIS
+     consumption; limited government eradication programs; used as
+     transshipment points for illicit drugs from Southwest Asia to Western
+     Europe and North America
+Economic aid:
+recipient:
+     Russia reportedly provided substantial general assistance throughout
+     1993 and continues to provide assistance in 1994; Western aid and
+     credits promised through the end of 1993 were $700 million but
+     disbursements were only $104 million; large scale development loans
+     await IMF approval of a reform and stabilization plan
+Currency:
+     1 ruble (R) = 100 kopeks; acquiring new Russian rubles as currency
+     under December 1993 agreement
+Exchange rates:
+     NA
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     480 km; does not include industrial lines (1990)
+Highways:
+total:
+     29,900 km
+paved:
+     21,400 km
+unpaved:
+     earth 8,500 km (1990)
+Pipelines:
+     natural gas 400 km (1992)
+Ports:
+     none; landlocked
+Airports:
+total:
+     58
+usable:
+     30
+ 
+ 
+with permanent-surface runways:
+     12
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     4
+with runways 1,060-2,439 m:
+     13
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     poorly developed and not well maintained; many towns are not reached
+     by the national network; 303,000 telephone circuits (December 1991);
+     telephone density about 55 per 1000 persons(1951); linked by cable and
+     microwave to other CIS republics, and by leased connections to the
+     Moscow international gateway switch; Dushanbe linked by INTELSAT to
+     international gateway switch in Ankara; satellite earth stations - 1
+     Orbita and 2 INTELSAT (one INTELSAT earth station provides TV
+     receive-only service from Turkey)
+ 
+                              Defense Forces
+ 
+Branches:
+     Army (being formed), National Guard, Security Forces (internal and
+     border troops)
+Manpower availability:
+     males age 15-49 1,361,143; fit for military service 1,116,246; reach
+     military age (18) annually 57,681 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,414 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0062
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Croatia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Croatia 
+ 
+ 
+                                  Croatia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Balkan State, Southeastern Europe, on the Balkan Peninsula, bordering
+     the Adriatic Sea, between Slovenia and Bosnia and Herzegovina
+Map references:
+     Africa, Ethnic Groups in Eastern Europe, Europe, Standard Time Zones
+     of the World
+Area:
+total area:
+     56,538 sq km
+land area:
+     56,410 sq km
+comparative area:
+     slightly smaller than West Virginia
+Land boundaries:
+     total 2,028 km, Bosnia and Herzegovina 932 km, Hungary 329 km, Serbia
+     and Montenegro 266 km (241 km with Serbia; 25 km with Montenego),
+     Slovenia 501 km
+Coastline:
+     5,790 km (mainland 1,778 km, islands 4,012 km)
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     12 nm
+exclusive fishing zone:
+     12 nm
+territorial sea:
+     12 nm
+International disputes:
+     Serbs have occupied UN protected areas in eastern Croatia and along
+     the western Bosnia and Herzegovinian border; dispute with Slovenia
+     over fishing rights in Adriatic
+Climate:
+     Mediterranean and continental; continental climate predominant with
+     hot summers and cold winters; mild winters, dry summers along coast
+Terrain:
+     geographically diverse; flat plains along Hungarian border, low
+     mountains and highlands near Adriatic coast, coastline, and islands
+Natural resources:
+     oil, some coal, bauxite, low-grade iron ore, calcium, natural asphalt,
+     silica, mica, clays, salt
+Land use:
+arable land:
+     32%
+permanent crops:
+     20%
+meadows and pastures:
+     18%
+forest and woodland:
+     15%
+other:
+     15%
+ 
+ 
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     air pollution from metallurgical plants is damaging the forests;
+     coastal pollution from industrial and domestic waste; widespread
+     casualties and destruction of infrastructure in border areas affected
+     by civil strife
+natural hazards:
+     subject to frequent and destructive earthquakes
+international agreements:
+     party to - Air Pollution, Marine Dumping, Nuclear Test Ban, Ozone
+     Layer Protection, Ship Pollution; signed, but not ratified -
+     Biodiversity, Climate Change
+Note:
+     controls most land routes from Western Europe to Aegean Sea and
+     Turkish Straits
+ 
+                                  People
+ 
+Population:
+     4,697,614 (July 1994 est.)
+Population growth rate:
+     0.07% (1994 est.)
+Birth rate:
+     11.27 births/1,000 population (1994 est.)
+Death rate:
+     10.54 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     8.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     73.6 years
+male:
+     70.14 years
+female:
+     77.26 years (1994 est.)
+Total fertility rate:
+     1.65 children born/woman (1994 est.)
+Nationality:
+noun:
+     Croat(s)
+adjective:
+     Croatian
+Ethnic divisions:
+     Croat 78%, Serb 12%, Muslim 0.9%, Hungarian 0.5%, Slovenian 0.5%,
+     others 8.1%
+Religions:
+     Catholic 76.5%, Orthodox 11.1%, Slavic Muslim 1.2%, Protestant 0.4%,
+     others and unknown 10.8%
+Languages:
+     Serbo-Croatian 96%, other 4%
+ 
+ 
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     1,509,489
+by occupation:
+     industry and mining 37%, agriculture 16% (1981 est.), government NA%,
+     other
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Croatia
+conventional short form:
+local long form:
+     Republika Hrvatska
+local short form:
+     Hrvatska
+Digraph:
+     HR
+Type:
+     parliamentary democracy
+Capital:
+     Zagreb
+Administrative divisions:
+     21 counties (zupanijas, zupanija - singular): Bjelovar-Bilogora, City
+     of Zagreb, Dubrovnik-Neretva, Istra, Karlovac, Koprivnica-Krizevci,
+     Krapina-Zagorje, Lika-Senj, Medimurje, Osijek-Baranja,
+     Pozega-Slavonija, Primorje-Gorski Kotar, Sibenik, Sisak-Moslavina,
+     Slavonski Brod-Posavina, Split-Dalmatia, Varazdin,
+     Virovitica-Podravina, Vukovar-Srijem, Zadar-Knin, Zagreb
+Independence:
+     NA June 1991 (from Yugoslavia)
+National holiday:
+     Statehood Day, 30 May (1990)
+Constitution:
+     adopted on 2 December 1990
+Legal system:
+     based on civil law system
+Suffrage:
+     16 years of age, if employed;  18 years of age, universal
+Executive branch:
+chief of state:
+     President Franjo TUDJMAN (since 30 May 1990); election last held 4
+     August 1992 (next to be held NA 1995); Franjo TUDJMAN reelected with
+     about 56% of the vote; his opponent Dobroslav PARAGA got 5% of the
+     vote
+ 
+ 
+head of government:
+     Prime Minister Nikica VALENTIC (since 3 April 1993); Deputy Prime
+     Ministers Mato GRANIC (since 8 September 1992), Ivica KOSTOVIC (since
+     NA), Vladimir SEKS (since September 1992), Borislav SKEGRO (since NA)
+cabinet:
+     Council of Ministers; appointed by the president
+Legislative branch:
+     bicameral parliament Assembly (Sabor)
+House of Districts (Zupanije Dom):
+     elections last held 7 and 21 February 1993 (next to be held NA
+     February 1997); seats - (68 total; 63 elected, 5 presidentially
+     appointed) HDZ 37, HSLS 16, HSS 5, Istrian Democratic Assembly 3,
+     SPH-SDP 1, HNS 1
+House of Representatives (Predstavnicke Dom):
+     elections last held 2 August 1992 (next to be held NA August 1996);
+     seats - (138 total) HDZ 85, HSLS 14, SPH-SDP 11, HNS 6, Dalmatian
+     Action/Istrian Democratic Assembly/ Rijeka Democratic Alliance
+     coalition 6, HSP 5, HSS 3, SNS 3, independents 5
+Judicial branch:
+     Supreme Court, Constitutional Court
+Political parties and leaders:
+     Croatian Democratic Union (HDZ), Stjepan MESIC, chairman of the
+     executive council; Croatian People's Party (HNS), Savka
+     DABCEVIC-KUCAR, president; Serbian People's Party (SNS), Milan DUKIC;
+     Croatian Party of Rights (HSP), leader NA; Croatian Social Liberal
+     Party (HSLS), Drazen BUDISA, president; Croatian Peasant Party (HSS),
+     leader NA; Dalmatian Action/Istrian Democratic Assembly/Rijecka
+     Democratic Alliance coalition; Social Democratic Party of
+     Croatia-Party of Democratic Changes (SPH-SDP), Ivica RACAN
+Other political or pressure groups:
+     NA
+Member of:
+     CE (guest), CEI, CSCE, ECE, IAEA, IBRD, ICAO, IDA, IFC, ILO, IMF, IMO,
+     INMARSAT, INTELSAT, INTERPOL, IOC, IOM (observer), ITU, NAM
+     (observer), UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Petr A. SARCEVIC
+chancery:
+     (temporary) 236 Massachusetts Avenue NE, Washington, DC 20002
+telephone:
+     (202) 543-5580
+US diplomatic representation:
+chief of mission:
+     Ambassador Peter W. GALBRAITH
+embassy:
+     Andrije Hebranga 2, Zagreb
+mailing address:
+     US Embassy, Zagreb, Unit 1345, APO AE 09213-1345
+telephone:
+     [385] (41) 444-800
+FAX:
+     [385] (41) 45 85 85
+ 
+ 
+Flag:
+     red, white, and blue horizontal bands with Croatian coat of arms (red
+     and white checkered)
+ 
+                                  Economy
+ 
+Overview:
+     Before the dissolution of Yugoslavia, the republic of Croatia, after
+     Slovenia, was the most prosperous and industrialized area, with a per
+     capita output roughly comparable to that of Portugal and perhaps
+     one-third above the Yugoslav average. At present, Croatian Serb
+     Nationalists control approximately one-third of the Croatian
+     territory, and one of the overriding determinants of Croatia's
+     long-term political and economic prospects will be the resolution of
+     this territorial dispute. Croatia faces monumental economic problems
+     stemming from: the legacy of longtime Communist mismanagement of the
+     economy; large foreign debt; damage during the fighting to bridges,
+     factories, power lines, buildings, and houses; the large refugee
+     population, both Croatian and Bosnian; and the disruption of economic
+     ties to Serbia and the other former Yugoslav republics, as well as
+     within its own territory. At the minimum, extensive Western aid and
+     investment, especially in the tourist and oil industries, would seem
+     necessary to salvage a desperate economic situation. However, peace
+     and political stability must come first; only then will recent
+     government moves toward a "market-friendly" economy reverse the sharp
+     drop in output. As of May 1994, fighting continues among Croats,
+     Serbs, and Muslims, and national boundaries and final political
+     arrangements are still in doubt.
+National product:
+     GDP - purchasing power equivalent - $21.8 billion (1992 est.)
+National product real growth rate:
+     -19% (1992 est.)
+National product per capita:
+     $4,500 (1992 est.)
+Inflation rate (consumer prices):
+     26% monthly average (1993 est.)
+Unemployment rate:
+     21% (December 1993)
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $3.9 billion (f.o.b., 1993)
+commodities:
+     machinery and transport equipment 30%, other manufacturers 37%,
+     chemicals 11%, food and live animals 9%, raw materials 6.5%, fuels and
+     lubricants 5% (1990)
+partners:
+     EC countries, Slovenia
+Imports:
+     $4.7 billion (c.i.f., 1993)
+ 
+ 
+commodities:
+     machinery and transport equipment 21%, fuels and lubricants 19%, food
+     and live animals 16%, chemicals 14%, manufactured goods 13%,
+     miscellaneous manufactured articles 9%, raw materials 6.5%, beverages
+     and tobacco 1% (1990)
+partners:
+     EC countries, Slovenia, FSU countries
+External debt:
+     $2.6 billion (December 1993)
+Industrial production:
+     growth rate -5.9% (1993 est.)
+Electricity:
+capacity:
+     3,570,000 kW
+production:
+     11.5 billion kWh
+consumption per capita:
+     2,400 kWh (1992)
+Industries:
+     chemicals and plastics, machine tools, fabricated metal, electronics,
+     pig iron and rolled steel products, aluminum reduction, paper, wood
+     products (including furniture), building materials (including cement),
+     textiles, shipbuilding, petroleum and petroleum refining, food
+     processing and beverages
+Agriculture:
+     Croatia normally produces a food surplus; most agricultural land in
+     private hands and concentrated in Croat-majority districts in Slavonia
+     and Istria; much of Slavonia's land has been put out of production by
+     fighting; wheat, corn, sugar beets, sunflowers, alfalfa, and clover
+     are main crops in Slavonia; central Croatian highlands are less
+     fertile but support cereal production, orchards, vineyards, livestock
+     breeding, and dairy farming; coastal areas and offshore islands grow
+     olives, citrus fruits, and vegetables
+Economic aid:
+     $NA
+Currency:
+     1 Croatian dinar (CD) = 100 paras; a new currency, the kuna, replaced
+     the dinar on 30 May 1994
+Exchange rates:
+     Croatian dinar per US $1 - 6,544 (January 1994), 3,637 (15 July 1993),
+     60.00 (April 1992)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     2,592 km of standard guage (1.435 m) of which 864 km are electrified
+     (1992); note - disrupted by territorial dispute
+Highways:
+total:
+     32,071 km
+paved:
+     23,305 km
+ 
+ 
+unpaved:
+     gravel 8,439 km; earth 327 km (1990)
+Inland waterways:
+     785 km perennially navigable
+Pipelines:
+     crude oil 670 km; petroleum products 20 km; natural gas 310 km (1992);
+     note - now disrupted because of territorial dispute
+Ports:
+     coastal - Omisalj (oil), Ploce, Rijeka, Split; inland - Osijek,
+     Slavonski Samac, Vukovar, Zupanja
+Merchant marine:
+     28 ships (1,000 GRT or over) totaling 108,194 GRT/131,880 DWT, cargo
+     18, container 1, oil tanker 1, passenger 2, refrigerated cargo 1,
+     roll-on/roll-off cargo 2, short-sea passenger 3
+note:
+     also controlled by Croatian shipowners are 151 ships (1,000 GRT or
+     over) under flags of convenience - primarily Malta and St. Vincent -
+     totaling 2,221,931 GRT/3,488,263 DWT; includes cargo 60, roll-on/
+     roll-off 8, refrigerated cargo 4, container 12, multifunction large
+     load carriers 3, bulk 45, oil tanker 9, liquified gas 1, chemical
+     tanker 4, service vessel 5
+Airports:
+total:
+     75
+usable:
+     70
+with permanent-surface runways:
+     16
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     7
+with runways 1,220-2,439 m:
+     5
+Telecommunications:
+     350,000 telephones; broadcast stations - 14 AM, 8 FM, 12 (2 repeaters)
+     TV; 1,100,000 radios; 1,027,000 TVs; satellite ground stations - none
+ 
+                              Defense Forces
+ 
+Branches:
+     Ground Forces, Naval Forces, Air and Air Defense Forces
+Manpower availability:
+     males age 15-49 1,182,767; fit for military service 946,010; reach
+     military age (19) annually 33,166 (1994 est.)
+Defense expenditures:
+     337 billion-393 billion Croatian dinars, NA% of GDP (1993 est.); note
+     - conversion of defense expenditures into US dollars using the current
+     exchange rate could produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

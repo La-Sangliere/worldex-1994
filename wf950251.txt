@@ -1,0 +1,372 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0250
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Uruguay
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Uruguay 
+ 
+ 
+                                  Uruguay
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern South America, bordering the South Atlantic Ocean between
+     Argentina and Brazil
+Map references:
+     South America, Standard Time Zones of the World
+Area:
+total area:
+     176,220 sq km
+land area:
+     173,620 sq km
+comparative area:
+     slightly smaller than Washington State
+Land boundaries:
+     total 1,564 km, Argentina 579 km, Brazil 985 km
+Coastline:
+     660 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+territorial sea:
+     200 nm; overflight and navigation permitted beyond 12 nm
+International disputes:
+     short section of boundary with Argentina is in dispute; two short
+     sections of the boundary with Brazil are in dispute - Arroyo de la
+     Invernada (Arroio Invernada) area of the Rio Quarai and the islands at
+     the confluence of the Rio Cuareim (Rio Quarai) and the Uruguay River
+Climate:
+     warm temperate; freezing temperatures almost unknown
+Terrain:
+     mostly rolling plains and low hills; fertile coastal lowland
+Natural resources:
+     soil, hydropower potential, minor minerals
+Land use:
+arable land:
+     8%
+permanent crops:
+     0%
+meadows and pastures:
+     78%
+forest and woodland:
+     4%
+other:
+     10%
+Irrigated land:
+     1,100 sq km (1989 est.)
+Environment:
+current issues:
+     NA
+natural hazards:
+     subject to seasonally high winds, droughts, floods
+ 
+ 
+international agreements:
+     party to - Antarctic Treaty, Biodiversity, Endangered Species,
+     Environmental Modification, Hazardous Wastes, Nuclear Test Ban, Ozone
+     Layer Protection, Ship Pollution, Wetlands; signed, but not ratified -
+     Antarctic-Environmental Protocol, Climate Change, Law of the Sea,
+     Marine Dumping, Marine Life Conservation
+ 
+                                  People
+ 
+Population:
+     3,198,910 (July 1994 est.)
+Population growth rate:
+     0.75% (1994 est.)
+Birth rate:
+     17.7 births/1,000 population (1994 est.)
+Death rate:
+     9.39 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.84 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     17.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     74.09 years
+male:
+     70.88 years
+female:
+     77.47 years (1994 est.)
+Total fertility rate:
+     2.44 children born/woman (1994 est.)
+Nationality:
+noun:
+     Uruguayan(s)
+adjective:
+     Uruguayan
+Ethnic divisions:
+     white 88%, mestizo 8%, black 4%
+Religions:
+     Roman Catholic 66% (less than half adult population attends church
+     regularly), Protestant 2%, Jewish 2%, nonprofessing or other 30%
+Languages:
+     Spanish, Brazilero (Portuguese-Spanish mix on the Brazilian frontier)
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     96%
+male:
+     97%
+female:
+     96%
+Labor force:
+     1.355 million (1991 est.)
+ 
+ 
+by occupation:
+     government 25%, manufacturing 19%, agriculture 11%, commerce 12%,
+     utilities, construction, transport, and communications 12%, other
+     services 21% (1988 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Oriental Republic of Uruguay
+conventional short form:
+local long form:
+     Republica Oriental del Uruguay
+local short form:
+Digraph:
+     UY
+Type:
+     republic
+Capital:
+     Montevideo
+Administrative divisions:
+     19 departments (departamentos, singular - departamento); Artigas,
+     Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja,
+     Maldonado, Montevideo, Paysandu, Rio Negro, Rivera, Rocha, Salto, San
+     Jose, Soriano, Tacuarembo, Treinta y Tres
+Independence:
+     25 August 1828 (from Brazil)
+National holiday:
+     Independence Day, 25 August (1828)
+Constitution:
+     27 November 1966, effective February 1967, suspended 27 June 1973, new
+     constitution rejected by referendum 30 November 1980
+Legal system:
+     based on Spanish civil law system; accepts compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal and compulsory
+Executive branch:
+chief of state and head of government:
+     President Luis Alberto LACALLE (since 1 March 1990); Vice President
+     Gonzalo AGUIRRE Ramirez (since 1 March 1990); election last held 26
+     November 1989 (next to be held NA November 1994); results - Luis
+     Alberto LACALLE Herrera (Blanco) 37%, Jorge BATLLE Ibanez (Colorado)
+     29%, Liber SEREGNI Mosquera (Broad Front) 20%
+cabinet:
+     Council of Ministers; appointed by the president
+Legislative branch:
+     bicameral General Assembly (Asamblea General)
+Chamber of Senators (Camara de Senadores):
+     elections last held 26 November 1989 (next to be held NA November
+     1994); results - Blanco 40%, Colorado 30%, Broad Front 23% New Space
+     7%; seats - (30 total) Blanco 12, Colorado 9, Broad Front 7, New Space
+     2
+ 
+ 
+Chamber of Representatives (Camera de Representantes):
+     elections last held NA November 1989 (next to be held NA November
+     1994); results - Blanco 39%, Colorado 30%, Broad Front 22%, New Space
+     8%, other 1%; seats - (99 total) number of seats by party NA
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     National (Blanco) Party; Colorado Party, Jorge BATLLE; Broad Front
+     Coalition, Gen. Liber SEREGNI Mosquera; New Space Coalition, Hugo
+     BATALLA
+Member of:
+     AG (observer), CCC, ECLAC, FAO, G-11, G-77, GATT, IADB, IAEA, IBRD,
+     ICAO, ICC, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, IOM,
+     ISO, ITU, LAES, LAIA, LORCS, MERCOSUR, NAM (observer), OAS, OPANAL,
+     PCA, RG, UN, UNCTAD, UNESCO, UNIDO, UNIKOM, UNMOGIP, UNOMOZ, UNTAC,
+     UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Eduardo MACGILLYCUDDY
+chancery:
+     1918 F Street NW, Washington, DC 20006
+telephone:
+     telephone (202) 331-1313 through 1316
+consulate(s) general:
+     Los Angeles, Miami, and New York
+consulate(s):
+     New Orleans
+US diplomatic representation:
+chief of mission:
+     Ambassador Thomas DODD
+embassy:
+     Lauro Muller 1776, Montevideo
+mailing address:
+     APO AA 34035
+telephone:
+     [598] (2) 23-60-61 or 48-77-77
+FAX:
+     [598] (2) 48-86-11
+Flag:
+     nine equal horizontal stripes of white (top and bottom) alternating
+     with blue; there is a white square in the upper hoist-side corner with
+     a yellow sun bearing a human face known as the Sun of May and 16 rays
+     alternately triangular and wavy
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Uruguay is a small economy with favorable climate, good soils, and
+     solid hydropower potential. Economic development has been held back by
+     excessive government regulation of economic detail and 50% to 130%
+     inflation. After several years of sluggish growth, real GDP jumped by
+     about 7.5% in 1992. The rise is attributable mainly to an increase in
+     Argentine demand for Uruguayan exports, particularly agricultural
+     products and electricity. In a major step toward greater regional
+     economic cooperation, Uruguay in 1991 had joined Brazil, Argentina,
+     and Paraguay in forming the Southern Cone Common Market (Mercosur). A
+     referendum in December 1992 overturned key portions of landmark
+     privatization legislation, dealing a serious blow to President
+     LACALLE's broad economic reform plan. Hampered by a slowdown in the
+     agricultural sector, the economy grew at only 2% in 1993 compared with
+     7.5% in 1992. Although inflation declined for the second consecutive
+     year, a surge in the money supply, rising food prices, a record trade
+     deficit, and an increase in the government deficit toward the end of
+     the year foreshadowed troubles ahead in 1994.
+National product:
+     GDP - purchasing power equivalent - $19 billion (1993 est.)
+National product real growth rate:
+     2% (1993 est.)
+National product per capita:
+     $6,000 (1993 est.)
+Inflation rate (consumer prices):
+     50% (1993 est.)
+Unemployment rate:
+     8.8% (1993 est.)
+Budget:
+revenues:
+     $2.9 billion
+expenditures:
+     $3 billion, including capital expenditures of $388 million (1991 est.)
+Exports:
+     $1.6 billion (f.o.b., 1993 est.)
+commodities:
+     wool and textile manufactures, beef and other animal products,
+     leather, rice
+partners:
+     Brazil, Argentina, US, China, Italy
+Imports:
+     $2 billion (f.o.b., 1993 est.)
+commodities:
+     machinery and equipment, vehicles, chemicals, minerals, plastics
+partners:
+     Brazil, Argentina, US, Nigeria
+External debt:
+     $4.2 billion (1993)
+Industrial production:
+     growth rate 4.2% (1992 est.), accounts for almost 25% of GDP
+Electricity:
+capacity:
+     2,168,000 kW
+production:
+     5.96 billion kWh
+ 
+ 
+consumption per capita:
+     1,900 kWh (1992)
+Industries:
+     meat processing, wool and hides, sugar, textiles, footwear, leather
+     apparel, tires, cement, fishing, petroleum refining, wine
+Agriculture:
+     accounts for 12% of GDP; large areas devoted to livestock grazing;
+     wheat, rice, corn, sorghum; self-sufficient in most basic foodstuffs
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-88), $105 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $420
+     million; Communist countries (1970-89), $69 million
+Currency:
+     1 Uruguayan peso ($Ur) = 100 centesimos
+Exchange rates:
+     Uruguayan pesos ($Ur) per US$1 - 4.4710 (January 1994), 3.9484 (1993);
+     new Uruguayan pesos (N$Ur) per US$1 - 3,457.5 (December 1992), 3,026.9
+     (1992), 2,489 (1991), 1,594 (1990), 805 (1989)
+note:
+     on 1 March 1993 the former New Peso (N$Ur) was replaced as Uruguay's
+     unit of currency by the Peso which is equal to 1,000 of the New Pesos;
+     consequently there is a major change in the peso/dollar exchange rate
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     3,000 km, all 1.435-meter (standard) gauge and government owned
+Highways:
+total:
+     49,900 km
+paved:
+     6,700 km
+unpaved:
+     gravel 3,000 km; earth 40,200 km
+Inland waterways:
+     1,600 km; used by coastal and shallow-draft river craft
+Ports:
+     Montevideo, Punta del Este, Colonia
+Merchant marine:
+     4 ships (1,000 GRT or over) totaling 84,797 GRT/132,296 DWT, cargo 1,
+     container 2, oil tanker 1
+Airports:
+total:
+     87
+usable:
+     80
+with permanent-surface runways:
+     16
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+ 
+ 
+with runways 1,220-2,439 m:
+     14
+Telecommunications:
+     most modern facilities concentrated in Montevideo; new nationwide
+     microwave network; 337,000 telephones; broadcast stations - 99 AM, no
+     FM, 26 TV, 9 shortwave; 2 Atlantic Ocean INTELSAT earth stations
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy (including Naval Air Arm, Coast Guard, Marines), Air Force,
+     Grenadier Guards, Police
+Manpower availability:
+     males age 15-49 765,490; fit for military service 621,629
+Defense expenditures:
+     exchange rate conversion - $216 million, 2.3% of GDP (1991 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

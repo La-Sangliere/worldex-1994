@@ -1,0 +1,298 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0258
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: West Bank
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | West Bank 
+ 
+ 
+                                 West Bank
+ 
+ 
+                                  Header
+ 
+     The war between Israel and Egypt, Syria, and Jordan in June 1967 ended
+     with Israel in control of the West Bank, East Jerusalem, the Gaza
+     Strip, the Sinai Peninsula, and the Golan Heights. Israel withdrew
+     from the Sinai Peninsula pursuant to a 1979 peace treaty with Egypt.
+     The Israeli-PLO Declaration of Principles on Interim Self-Government
+     Arrangements ("the DOP"), signed in Washington on 13 September 1993,
+     provides for a transitional period not exceeding five years of
+     Palestinian interim self-government in the Gaza Strip and the West
+     Bank. Under the DOP, final status negotiations are to begin no later
+     than the beginning of the third year of the transitional period.
+ 
+                                 Geography
+ 
+Location:
+     Middle East, between Jordan and Israel
+Map references:
+     Middle East
+Area:
+total area:
+     5,860 sq km
+land area:
+     5,640 sq km
+comparative area:
+     slightly larger than Delaware
+note:
+     includes West Bank, East Jerusalem, Latrun Salient, Jerusalem No Man's
+     Land, and the northwest quarter of the Dead Sea, but excludes Mt.
+     Scopus
+Land boundaries:
+     total 404 km, Israel 307 km, Jordan 97 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     West Bank and Gaza Strip are Israeli occupied with interim status
+     subject to Israeli/Palestinian negotiations - final status to be
+     determined
+Climate:
+     temperate, temperature and precipitation vary with altitude, warm to
+     hot summers, cool to mild winters
+Terrain:
+     mostly rugged dissected upland, some vegetation in west, but barren in
+     east
+Natural resources:
+     negligible
+Land use:
+arable land:
+     27%
+permanent crops:
+     0%
+ 
+ 
+meadows and pastures:
+     32%
+forest and woodland:
+     1%
+other:
+     40%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     landlocked; highlands are main recharge area for Israel's coastal
+     aquifers; there are 200 Jewish settlements and civilian land use sites
+     in the West Bank and 25 in East Jerusalem (April 1994)
+ 
+                                  People
+ 
+Population:
+     1,443,790 (July 1994 est.)
+note:
+     in addition, there are 110,500 Jewish settlers in the West Bank and
+     144,100 in East Jerusalem (1994 est.)
+Population growth rate:
+     2.68% (1994 est.)
+Birth rate:
+     32.48 births/1,000 population (1994 est.)
+Death rate:
+     5.11 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.59 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     33.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     70.39 years
+male:
+     68.88 years
+female:
+     71.98 years (1994 est.)
+Total fertility rate:
+     4.2 children born/woman (1994 est.)
+Nationality:
+noun:
+     NA
+adjective:
+     NA
+Ethnic divisions:
+     Palestinian Arab and other 88%, Jewish 12%
+Religions:
+     Muslim 80% (predominantly Sunni), Jewish 12%, Christian and other 8%
+ 
+ 
+Languages:
+     Arabic, Hebrew spoken by Israeli settlers, English widely understood
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+by occupation:
+     construction 28.2%, agriculture 21.8%, industry 14.5%, commerce,
+     restaurants, and hotels 12.6%, other services 22.9% (1991)
+note:
+     excluding Jewish settlers
+ 
+                                Government
+ 
+Note:
+     Under the Israeli-PLO Declaration of Principles on Interim
+     Self-Government Arragements ("the DOP"), Israel agreed to transfer
+     certain powers and responsibilities to the Palestinian Authority, and
+     subsequently to an elected Palestinian Council, as part of interim
+     self-governing arrangements in the West Bank and Gaza Strip. A
+     transfer of powers and responsibilities for the Gaza Strip and Jericho
+     has taken place pursuant to the Israel-PLO 4 May 1994 Cairo Agreement
+     on the Gaza Strip and the Jericho Area. The DOP provides that Israel
+     will retain responsibility during the transitional period for external
+     security and for internal security and public order of settlements and
+     Israelis. Final status is to be determined through direct negotiations
+     within five years.
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     WE
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Economic progress in the West Bank has been hampered by Israeli
+     military administration and the effects of the Palestinian uprising
+     (intifadah). Industries using advanced technology or requiring sizable
+     investment have been discouraged by a lack of local capital and
+     restrictive Israeli policies. Capital investment consists largely of
+     residential housing, not productive assets that would enable local
+     Palestinian firms to compete with Israeli industry. A major share of
+     GNP has traditionally been derived from remittances of workers
+     employed in Israel and Persian Gulf states. Such transfers from the
+     Gulf dropped after Iraq invaded Kuwait in August 1990. In the wake of
+     the Persian Gulf crisis, many Palestinians have returned to the West
+     Bank, increasing unemployment, and export revenues have dropped
+     because of the decline of markets in Jordan and the Gulf states.
+     Israeli measures to curtail the intifadah also have added to
+     unemployment and lowered living standards. The area's economic
+     situation has worsened since Israel's partial closure of the
+     territories in 1993.
+National product:
+     GNP - exchange rate conversion - $2 billion (1991 est.)
+National product real growth rate:
+     -7% (1991 est.)
+National product per capita:
+     $2,050 (1991 est.)
+Inflation rate (consumer prices):
+     12% (1991 est.)
+Unemployment rate:
+     15% (1991 est.)
+Budget:
+revenues:
+     $43.4 million
+expenditures:
+     $43.7 million, including capital expenditures of $NA (FY90)
+Exports:
+     $175 million (f.o.b., 1991 est.)
+commodities:
+     olives, fruit, vegetables
+partners:
+     Jordan, Israel
+Imports:
+     $775 million (c.i.f., 1991 est.)
+commodities:
+     food, consumer goods, construction materials
+partners:
+     Jordan, Israel
+External debt:
+     $NA
+Industrial production:
+     growth rate -1% (1991); accounts for about 6% of GNP
+Electricity:
+     power supplied by Israel
+ 
+ 
+Industries:
+     generally small family businesses that produce cement, textiles, soap,
+     olive-wood carvings, and mother-of-pearl souvenirs; the Israelis have
+     established some small-scale modern industries in the settlements and
+     industrial centers
+Agriculture:
+     accounts for about 23% of GNP; olives, citrus and other fruits,
+     vegetables, beef, and dairy products
+Economic aid:
+     $NA
+Currency:
+     1 new Israeli shekel (NIS) = 100 new agorot; 1 Jordanian dinar (JD) =
+     1,000 fils
+Exchange rates:
+     new Israeli shekels (NIS) per US$1 - 2.9760 (February 1994), 2.8301
+     (1993), 2.4591 (1992), 2.2791 (1991), 2.0162 (1990), 1.9164 (1989);
+     Jordanian dinars (JD) per US$1 - 0.7019 (February 1994), 0.6928
+     (1993), 0.6797 (1992), 0.6808 (1991), 0.6636 (1990), 0.5704 (1989)
+Fiscal year:
+     calendar year (since 1 January 1992)
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+paved:
+     NA
+unpaved:
+     NA
+note:
+     small road network, Israelis developing east-west axial highways to
+     service new settlements
+Airports:
+total:
+     2
+usable:
+     2
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     open-wire telephone system currently being upgraded; broadcast
+     stations - no AM, no FM, no TV
+ 
+                              Defense Forces
+ 
+Branches:
+     NA
+ 
+ 
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

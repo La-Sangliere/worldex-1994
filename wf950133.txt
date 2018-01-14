@@ -1,0 +1,385 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0132
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Korea, North
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Korea, North 
+ 
+ 
+                               Korea, North
+ 
+ 
+                                 Geography
+ 
+Location:
+     Eastern Asia, between China and South Korea
+Map references:
+     Asia, Standard Time Zones of the World
+Area:
+total area:
+     120,540 sq km
+land area:
+     120,410 sq km
+comparative area:
+     slightly smaller than Mississippi
+Land boundaries:
+     total 1,673 km, China 1,416 km, South Korea 238 km, Russia 19 km
+Coastline:
+     2,495 km
+Maritime claims:
+territorial sea:
+     12 nm
+exclusive economic zone:
+     200 nm
+military boundary line:
+     50 nm in the Sea of Japan and the exclusive economic zone limit in the
+     Yellow Sea where all foreign vessels and aircraft without permission
+     are banned
+International disputes:
+     short section of boundary with China is indefinite; Demarcation Line
+     with South Korea
+Climate:
+     temperate with rainfall concentrated in summer
+Terrain:
+     mostly hills and mountains separated by deep, narrow valleys; coastal
+     plains wide in west, discontinuous in east
+Natural resources:
+     coal, lead, tungsten, zinc, graphite, magnesite, iron ore, copper,
+     gold, pyrites, salt, fluorspar, hydropower
+Land use:
+arable land:
+     18%
+permanent crops:
+     1%
+meadows and pastures:
+     0%
+forest and woodland:
+     74%
+other:
+     7%
+Irrigated land:
+     14,000 sq km (1989)
+Environment:
+current issues:
+     localized air pollution attributable to inadequate industrial controls
+ 
+ 
+natural hazards:
+     late spring droughts often followed by severe flooding; subject to
+     occasional typhoons which occur during the early fall
+international agreements:
+     party to - Antarctic Treaty, Environmental Modification, Ship
+     Pollution; signed, but not ratified - Antarctic-Environmental
+     Protocol, Biodiversity, Climate Change, Law of the Sea
+Note:
+     strategic location bordering China, South Korea, and Russia;
+     mountainous interior is isolated, nearly inaccessible, and sparsely
+     populated
+ 
+                                  People
+ 
+Population:
+     23,066,573 (July 1994 est.)
+Population growth rate:
+     1.83% (1994 est.)
+Birth rate:
+     23.75 births/1,000 population (1994 est.)
+Death rate:
+     5.5 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     27.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     69.78 years
+male:
+     66.69 years
+female:
+     73.02 years (1994 est.)
+Total fertility rate:
+     2.37 children born/woman (1994 est.)
+Nationality:
+noun:
+     Korean(s)
+adjective:
+     Korean
+Ethnic divisions:
+     racially homogeneous
+Religions:
+     Buddhism and Confucianism, some Christianity and syncretic Chondogyo
+note:
+     autonomous religious activities now almost nonexistent;
+     government-sponsored religious groups exist to provide illusion of
+     religious freedom
+Languages:
+     Korean
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     99%
+ 
+ 
+male:
+     99%
+female:
+     99%
+Labor force:
+     9.615 million
+by occupation:
+     agricultural 36%, nonagricultural 64%
+note:
+     shortage of skilled and unskilled labor (mid-1987 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Democratic People's Republic of Korea
+conventional short form:
+     North Korea
+local long form:
+     Choson-minjujuui-inmin-konghwaguk
+local short form:
+     none
+Abbreviation:
+     DPRK
+Digraph:
+     KN
+Type:
+     Communist state; Stalinist dictatorship
+Capital:
+     P'yongyang
+Administrative divisions:
+     9 provinces (do, singular and plural) and 3 special cities* (jikhalsi,
+     singular and plural); Chagang-do (Chagang Province), Hamgyong-bukto
+     (North Hamgyong Province), Hamgyong-namdo (South Hamgyong Province),
+     Hwanghae-bukto (North Hwanghae Province), Hwanghae-namdo (South
+     Hwanghae Province), Kaesong-si* (Kaesong City), Kangwon-do (Kangwon
+     Province), Namp'o-si* (Namp'o City), P'yongan-bukto (North P'yongan
+     Province), P'yongan-namdo (South P'yongan Province), P'yongyang-si*
+     (P'yongyang City), Yanggang-do (Yanggang Province)
+Independence:
+     9 September 1948
+note:
+     15 August 1945, date of independence from the Japanese and celebrated
+     in North Korea as National Liberation Day
+National holiday:
+     DPRK Foundation Day, 9 September (1948)
+Constitution:
+     adopted 1948, completely revised 27 December 1972, revised again in
+     April 1992
+Legal system:
+     based on German civil law system with Japanese influences and
+     Communist legal theory; no judicial review of legislative acts; has
+     not accepted compulsory ICJ jurisdiction
+Suffrage:
+     17 years of age; universal
+ 
+ 
+Executive branch:
+chief of state:
+     President KIM Il-song (national leader since 1948, president since 28
+     December 1972); designated successor KIM Chong-il (son of president,
+     born 16 February 1942); election last held 24 May 1990 (next to be
+     held by NA 1995); results - President KIM Il-song was reelected
+     without opposition
+head of government:
+     Premier KANG Song-san (since December 1992)
+cabinet:
+     State Administration Council; appointed by the Supreme People's
+     Assembly
+Legislative branch:
+     unicameral
+Supreme People's Assembly (Ch'oego Inmin Hoeui):
+     elections last held on 7-9 April 1993 (next to be held NA); results -
+     percent of vote by party NA; seats - (687 total) the KWP approves a
+     single list of candidates who are elected without opposition; minor
+     parties hold a few seats
+Judicial branch:
+     Central Court
+Political parties and leaders:
+     major party - Korean Workers' Party (KWP), KIM Il-song, general
+     secretary, and his son, KIM Chong-il, secretary, Central Committee;
+     Korean Social Democratic Party, KIM Pyong-sik, chairman; Chondoist
+     Chongu Party, YU Mi-yong, chairwoman
+Member of:
+     ESCAP, FAO, G-77, ICAO, IFAD, IMF (observer), IMO, INTELSAT
+     (nonsignatory user), IOC, ISO, ITU, LORCS, NAM, UN, UNCTAD, UNESCO,
+     UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+     none
+US diplomatic representation:
+     none
+Flag:
+     three horizontal bands of blue (top), red (triple width), and blue;
+     the red band is edged in white; on the hoist side of the red band is a
+     white disk with a red five-pointed star
+ 
+                                  Economy
+ 
+ 
+Overview:
+     More than 90% of this command economy is socialized; agricultural land
+     is collectivized; and state-owned industry produces 95% of
+     manufactured goods. State control of economic affairs is unusually
+     tight even for a Communist country because of the small size and
+     homogeneity of the society and the strict rule of KIM Il-song and his
+     son, KIM Chong-il. Economic growth during the period 1984-88 averaged
+     2%-3%, but output declined by 3%-5% annually during 1989-92 because of
+     systemic problems and disruptions in socialist-style economic
+     relations with the former USSR and China. In 1992, output dropped
+     sharply, by perhaps 7%-9%, as the economy felt the cumulative effect
+     of the reduction in outside support. The leadership insisted on
+     maintaining its high level of military outlays from a shrinking
+     economic pie. Moreover, a serious drawdown in inventories and critical
+     shortages in the energy sector have led to increasing interruptions in
+     industrial production. Abundant mineral resources and hydropower have
+     formed the basis of industrial development since WWII. Output of the
+     extractive industries includes coal, iron ore, magnesite, graphite,
+     copper, zinc, lead, and precious metals. Manufacturing is centered on
+     heavy industry, including military industry, with light industry
+     lagging far behind. Despite the use of improved seed varieties,
+     expansion of irrigation, and the heavy use of fertilizers, North Korea
+     has not yet become self-sufficient in food production. Six consecutive
+     years of poor harvests, coupled with distribution problems, have led
+     to chronic food shortages. North Korea remains far behind South Korea
+     in economic development and living standards.
+National product:
+     GDP - purchasing power equivalent - $22 billion (1992 est.)
+National product real growth rate:
+     -7 to -9% (1992 est.)
+National product per capita:
+     $1,000 (1992 est.)
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $19.3 billion
+expenditures:
+     $19.3 billion, including capital expenditures of $NA (1992 est.)
+Exports:
+     $1.3 billion (f.o.b., 1992 est.)
+commodities:
+     minerals, metallurgical products, agricultural and fishery products,
+     manufactures (including armaments)
+partners:
+     China, Japan, Russia, South Korea, Germany, Hong Kong, Mexico
+Imports:
+     $1.9 billion (f.o.b., 1992 est.)
+commodities:
+     petroleum, grain, coking coal, machinery and equipment, consumer goods
+partners:
+     China, Russia, Japan, Hong Kong, Germany, Singapore
+ 
+ 
+External debt:
+     $8 billion (1992 est.)
+Industrial production:
+     growth rate -7% to -9% (1992 est.)
+Electricity:
+capacity:
+     7,300,000 kW
+production:
+     26 billion kWh
+consumption per capita:
+     1,160 kWh (1992)
+Industries:
+     machine building, military products, electric power, chemicals,
+     mining, metallurgy, textiles, food processing
+Agriculture:
+     accounts for about 25% of GNP and 36% of work force; principal crops -
+     rice, corn, potatoes, soybeans, pulses; livestock and livestock
+     products - cattle, hogs, pork, eggs; not self-sufficient in grain
+Economic aid:
+recipient:
+     Communist countries, $1.4 billion a year in the 1980s, but very little
+     now
+Currency:
+     1 North Korean won (Wn) = 100 chon
+Exchange rates:
+     North Korean won (Wn) per US$1 - 2.15 (May 1994), 2.13 (May 1992),
+     2.14 (September 1991), 2.1 (January 1990), 2.3 (December 1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     4,915 km total; 4,250 km 1.435-meter standard gauge, 665 km
+     0.762-meter narrow gauge; 159 km double track; 3,084 km electrified;
+     government owned (1989)
+Highways:
+total:
+     30,000 km
+paved:
+     1,440 km
+unpaved:
+     gravel, crushed stone, earth 28,560 km (1991)
+Inland waterways:
+     2,253 km; mostly navigable by small craft only
+Pipelines:
+     crude oil 37 km
+Ports:
+     primary - Ch'ongjin, Hungnam (Hamhung), Najin, Namp'o, Wonsan;
+     secondary - Haeju, Kimch'aek, Kosong, Sinuiju, Songnim, Sonbong
+     (formerly Unggi), Ungsang
+Merchant marine:
+     83 ships (1,000 GRT and over) totaling 706,497 GRT/1,114,827 DWT, bulk
+     9, cargo 67, combination bulk 1, oil tanker 2, passenger 1,
+     passenger-cargo 2, short-sea passenger 1
+ 
+ 
+Airports:
+total:
+     55
+usable:
+     55 (est.)
+with permanent-surface runways:
+     about 30
+with runways over 3,659 m:
+     fewer than 5
+with runways 2,440-3,659 m:
+     20
+with runways 1,220-2,439 m:
+     30
+Telecommunications:
+     broadcast stations - 18 AM, no FM, 11 TV; 300,000 TV sets (1989);
+     3,500,000 radio receivers; 1 Indian Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Korean People's Army (including the Army, Navy, Air Force), Civil
+     Security Forces
+Manpower availability:
+     males age 15-49 6,658,529; fit for military service 4,044,355; reach
+     military age (18) annually 196,763 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - about $5 billion, 20%-25% of GNP (1991
+     est.); note - the officially announced but suspect figure is $2.2
+     billion (1994), about 12% of total spending
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

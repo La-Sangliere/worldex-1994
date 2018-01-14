@@ -1,0 +1,385 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0117
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Ireland
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Ireland 
+ 
+ 
+                                  Ireland
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Europe, in the North Atlantic Ocean, across the Irish Sea from
+     Great Britain
+Map references:
+     Europe, Standard Time Zones of the World
+Area:
+total area:
+     70,280 sq km
+land area:
+     68,890 sq km
+comparative area:
+     slightly larger than West Virginia
+Land boundaries:
+     total 360 km, UK 360 km
+Coastline:
+     1,448 km
+Maritime claims:
+continental shelf:
+     not specified
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     Northern Ireland question with the UK; Rockall continental shelf
+     dispute involving Denmark, Iceland, and the UK (Ireland and the UK
+     have signed a boundary agreement in the Rockall area)
+Climate:
+     temperate maritime; modified by North Atlantic Current; mild winters,
+     cool summers; consistently humid; overcast about half the time
+Terrain:
+     mostly level to rolling interior plain surrounded by rugged hills and
+     low mountains; sea cliffs on west coast
+Natural resources:
+     zinc, lead, natural gas, petroleum, barite, copper, gypsum, limestone,
+     dolomite, peat, silver
+Land use:
+arable land:
+     14%
+permanent crops:
+     0%
+meadows and pastures:
+     71%
+forest and woodland:
+     5%
+other:
+     10%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     water pollution, especially of lakes, from agricultural runoff
+ 
+ 
+natural hazards:
+     NA
+international agreements:
+     party to - Air Pollution, Environmental Modification, Hazardous
+     Wastes, Marine Dumping, Nuclear Test Ban, Ozone Layer Protection,
+     Tropical Timber, Wetlands, Whaling; signed, but not ratified - Air
+     Pollution-Nitrogen Oxides, Biodiversity, Climate Change, Endangered
+     Species, Law of the Sea, Marine Life Conservation
+Note:
+     strategic location on major air and sea routes between North American
+     and northern Europe; over 40% of the population resides within 60
+     miles of Dublin
+ 
+                                  People
+ 
+Population:
+     3,539,296 (July 1994 est.)
+Population growth rate:
+     0.3% (1994 est.)
+Birth rate:
+     14.21 births/1,000 population (1994 est.)
+Death rate:
+     8.59 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -2.67 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     7.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     75.68 years
+male:
+     72.85 years
+female:
+     78.68 years (1994 est.)
+Total fertility rate:
+     1.99 children born/woman (1994 est.)
+Nationality:
+noun:
+     Irishman(men), Irishwoman(men), Irish (collective plural)
+adjective:
+     Irish
+Ethnic divisions:
+     Celtic, English
+Religions:
+     Roman Catholic 93%, Anglican 3%, none 1%, unknown 2%, other 1% (1981)
+Languages:
+     Irish (Gaelic), spoken mainly in areas located along the western
+     seaboard, English is the language generally used
+Literacy:
+     age 15 and over can read and write (1981 est.)
+total population:
+     98%
+male:
+     NA%
+ 
+ 
+female:
+     NA%
+Labor force:
+     1.37 million
+by occupation:
+     services 57.0%, manufacturing and construction 28%, agriculture,
+     forestry, and fishing 13.5%, energy and mining 1.5% (1992)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     EI
+Type:
+     republic
+Capital:
+     Dublin
+Administrative divisions:
+     26 counties; Carlow, Cavan, Clare, Cork, Donegal, Dublin, Galway,
+     Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth,
+     Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford,
+     Westmeath, Wexford, Wicklow
+Independence:
+     6 December 1921 (from UK)
+National holiday:
+     Saint Patrick's Day, 17 March
+Constitution:
+     29 December 1937; adopted 1 July 1937 by plebecite
+Legal system:
+     based on English common law, substantially modified by indigenous
+     concepts; judicial review of legislative acts in Supreme Court; has
+     not accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Mary Bourke ROBINSON (since 9 November 1990); election last
+     held 9 November 1990 (next to be held November 1997); results - Mary
+     Bourke ROBINSON 52.8%, Brian LENIHAN 47.2%
+head of government:
+     Prime Minister Albert REYNOLDS (since 11 February 1992)
+cabinet:
+     Cabinet; appointed by president with previous nomination of the prime
+     minister and approval of the House of Representatives
+Legislative branch:
+     bicameral Parliament (Oireachtas)
+Senate (Seanad Eireann):
+     elections last held on NA February 1992 (next to be held February
+     1997); results - percent of vote by party NA; seats - (60 total, 49
+     elected) Fianna Fail 26, Fine Gael 16, Labor 9, Progressive Democrats
+     2, Democratic Left 1, independents 6
+ 
+ 
+House of Representatives (Dail Eireann):
+     elections last held on 25 November 1992 (next to be held by June
+     1995); results - Fianna Fail 39.1%, Fine Gael 24.5%, Labor Party
+     19.3%, Progressive Democrats 4.7%, Democratic Left 2.8%, Sinn Fein
+     1.6%, Workers' Party 0.7%, independents 5.9%; seats - (166 total)
+     Fianna Fail 68, Fine Gael 45, Labor Party 33, Progressive Democrats
+     10, Democratic Left 4, Greens 1, independents 5
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Democratic Left, Proinsias DE ROSSA; Fianna Fail, Albert REYNOLDS;
+     Labor Party, Richard SPRING; Fine Gael, John BRUTON; Communist Party
+     of Ireland, Michael O'RIORDAN; Sinn Fein, Gerry ADAMS; Progressive
+     Democrats, Desmond O'MALLEY
+note:
+     Prime Minister REYNOLDS heads a coalition consisting of the Fianna
+     Fail and the Labor Party
+Member of:
+     Australian Group, BIS, CCC, CE, COCOM (cooperating), CSCE, EBRD, EC,
+     ECE, EIB, ESA, FAO, GATT, IAEA, IBRD, ICAO, ICC, IDA, IEA, IFAD, IFC,
+     ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ISO, ITU, LORCS, MINURSO,
+     MTCR, NEA, NSG, OECD, ONUSAL, UN, UNAVEM II, UNCTAD, UNESCO, UNFICYP,
+     UNIDO, UNIFIL, UNIKOM, UNOSOM, UNPROFRO, UNTAC, UNTSO, UPU, WEU
+     (observer), WHO, WIPO, WMO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Dermot A. GALLAGHER
+chancery:
+     2234 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 462-3939
+consulate(s) general:
+     Boston, Chicago, New York, and San Francisco
+US diplomatic representation:
+chief of mission:
+     Ambassador Jean Kennedy SMITH
+embassy:
+     42 Elgin Road, Ballsbridge, Dublin
+mailing address:
+     use embassy street address
+telephone:
+     [353] (1) 6687122
+FAX:
+     [353] (1) 6689946
+Flag:
+     three equal vertical bands of green (hoist side), white, and orange;
+     similar to the flag of the Cote d'Ivoire, which is shorter and has the
+     colors reversed - orange (hoist side), white, and green; also similar
+     to the flag of Italy, which is shorter and has colors of green (hoist
+     side), white, and red
+ 
+                                  Economy
+ 
+ 
+Overview:
+     The economy is small and trade dependent. Agriculture, once the most
+     important sector, is now dwarfed by industry, which accounts for 37%
+     of GDP, about 80% of exports, and employs 28% of the labor force.
+     Since 1987, real GDP growth, led by exports, has averaged 4% annually.
+     Over the same period, inflation has fallen sharply and chronic trade
+     deficits have been transformed into annual surpluses. Unemployment
+     remains a serious problem, however, and job creation is the main focus
+     of government policy. To ease unemployment, Dublin aggressively courts
+     foreign investors and recently created a new industrial development
+     agency to aid small indigenous firms. Government assistance is
+     constrained by Dublin's continuing deficit reduction measures.
+National product:
+     GDP - purchasing power equivalent - $46.3 billion (1993)
+National product real growth rate:
+     2.7% (1993)
+National product per capita:
+     $13,100 (1993)
+Inflation rate (consumer prices):
+     2.7% (1994 est.)
+Unemployment rate:
+     16% (1994 est.)
+Budget:
+revenues:
+     $16 billion
+expenditures:
+     $16.6 billion, including capital expenditures of $1.6 billion (1992
+     est.)
+Exports:
+     $28.3 billion (f.o.b., 1992)
+commodities:
+     chemicals, data processing equipment, industrial machinery, live
+     animals, animal products
+partners:
+     EC 75% (UK 32%, Germany 13%, France 10%), US 9%
+Imports:
+     $23.3 billion (c.i.f., 1992)
+commodities:
+     food, animal feed, data processing equipment, petroleum and petroleum
+     products, machinery, textiles, clothing
+partners:
+     EC 66% (UK 41%, Germany 8%, Netherlands 4%), US 15%
+External debt:
+     $17.6 billion (1992)
+Industrial production:
+     growth rate 11.5% (1992); accounts for 37% of GDP
+Electricity:
+capacity:
+     5,000,000 kW
+production:
+     14.5 billion kWh
+consumption per capita:
+     4,120 kWh (1992)
+ 
+ 
+Industries:
+     food products, brewing, textiles, clothing, chemicals,
+     pharmaceuticals, machinery, transportation equipment, glass and
+     crystal
+Agriculture:
+     accounts for 8% of GDP and 13% of the labor force; principal crops -
+     turnips, barley, potatoes, sugar beets, wheat; livestock - meat and
+     dairy products; 85% self-sufficient in food; food shortages include
+     bread grain, fruits, vegetables
+Illicit drugs:
+     transshipment point for hashish from North Africa to the UK and
+     Netherlands
+Economic aid:
+donor:
+     ODA commitments (1980-89), $90 million
+Currency:
+     1 Irish pound (#Ir) = 100 pence
+Exchange rates:
+     Irish pounds (#Ir) per US$1 - 0.6978 (January 1994), 0.6816 (1993),
+     0.5864 (1992), 0.6190 (1991), 0.6030 (1990), 0.7472 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     Irish National Railways (CIE) operates 1,947 km 1.602-meter gauge,
+     government owned; 485 km double track; 37 km electrified
+Highways:
+total:
+     92,294 km
+paved:
+     87,422 km
+unpaved:
+     gravel, crushed stone 4,872 km
+Inland waterways:
+     limited for commercial traffic
+Pipelines:
+     natural gas 225 km
+Ports:
+     Cork, Dublin, Waterford
+Merchant marine:
+     53 ships (1,000 GRT or over) totaling 139,278 GRT/173,325 DWT, bulk 4,
+     cargo 32, chemical tanker 2, container 4, oil tanker 3, refrigerated
+     cargo 2, short-sea passenger 3, specialized tanker 3
+Airports:
+total:
+     44
+usable:
+     42
+with permanent-surface runways:
+     14
+with runways over 3,659 m:
+     0
+ 
+ 
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     7
+Telecommunications:
+     modern system using cable and digital microwave circuits; 900,000
+     telephones; broadcast stations - 9 AM, 45 FM, 86 TV; 2 coaxial
+     submarine cables; 1 Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army (including Naval Service and Air Corps), National Police (Garda
+     Siochana)
+Manpower availability:
+     males age 15-49 914,052; fit for military service 739,288; reach
+     military age (17) annually 33,809 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $500 million, 1.3% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

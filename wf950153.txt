@@ -1,0 +1,312 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0152
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Man, Isle of
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Man, Isle of 
+ 
+ 
+                               Man, Isle of
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (British crown dependency)
+ 
+                                 Geography
+ 
+Location:
+     Western Europe, in the Irish Sea, between Ireland and Great Britain
+Map references:
+     Europe
+Area:
+total area:
+     588 sq km
+land area:
+     588 sq km
+comparative area:
+     nearly 3.5 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     113 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     cool summers and mild winters; humid; overcast about half the time
+Terrain:
+     hills in north and south bisected by central valley
+Natural resources:
+     lead, iron ore
+Land use:
+arable land:
+     NA%
+permanent crops:
+     NA%
+meadows and pastures:
+     NA%
+forest and woodland:
+     NA%
+other:
+     NA% (extensive arable land and forests)
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     NA
+Note:
+     one small islet, the Calf of Man, lies to the southwest, and is a bird
+     sanctuary
+ 
+                                  People
+ 
+Population:
+     72,017 (July 1994 est.)
+Population growth rate:
+     1.04% (1994 est.)
+Birth rate:
+     13.69 births/1,000 population (1994 est.)
+Death rate:
+     12.58 deaths/1,000 population (1994 est.)
+Net migration rate:
+     9.25 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     8.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     76.25 years
+male:
+     73.51 years
+female:
+     79.2 years (1994 est.)
+Total fertility rate:
+     1.8 children born/woman (1994 est.)
+Nationality:
+noun:
+     Manxman, Manxwoman
+adjective:
+     Manx
+Ethnic divisions:
+     Manx (Norse-Celtic descent), Briton
+Religions:
+     Anglican, Roman Catholic, Methodist, Baptist, Presbyterian, Society of
+     Friends
+Languages:
+     English, Manx Gaelic
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     25,864 (1981)
+by occupation:
+     NA
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+     Isle of Man
+Digraph:
+     IM
+Type:
+     British crown dependency
+Capital:
+     Douglas
+Administrative divisions:
+     none (British crown dependency)
+Independence:
+     none (British crown dependency)
+National holiday:
+     Tynwald Day, 5 July
+Constitution:
+     1961, Isle of Man Constitution Act
+Legal system:
+     English law and local statute
+Suffrage:
+     21 years of age; universal
+Executive branch:
+chief of state:
+     Lord of Mann Queen ELIZABETH II (since 6 February 1952), represented
+     by Lieutenant Governor Air Marshal Sir Laurence JONES (since NA 1990)
+head of government:
+     President of the Legislative Council Sir Charles KERRUISH (since NA
+     1990)
+cabinet:
+     Council of Ministers
+Legislative branch:
+     bicameral Tynwald
+Legislative Council:
+     consists of a 10-member body composed of the Lord Bishop of Sodor and
+     Man, a nonvoting attorney general, and 8 others named by the House of
+     Keys
+House of Keys:
+     elections last held in 1991 (next to be held NA 1996); results -
+     percent of vote NA; seats - (24 total) independents 24
+Judicial branch:
+     Court of Tynwald
+Political parties and leaders:
+     there is no party system and members sit as independents
+Member of:
+     none
+Diplomatic representation in US:
+     none (British crown dependency)
+US diplomatic representation:
+     none (British crown dependency)
+ 
+ 
+Flag:
+     red with the Three Legs of Man emblem (Trinacria), in the center; the
+     three legs are joined at the thigh and bent at the knee; in order to
+     have the toes pointing clockwise on both sides of the flag, a
+     two-sided emblem is used
+ 
+                                  Economy
+ 
+Overview:
+     Offshore banking, manufacturing, and tourism are key sectors of the
+     economy. The government's policy of offering incentives to
+     high-technology companies and financial institutions to locate on the
+     island has paid off in expanding employment opportunities in
+     high-income industries. As a result, agriculture and fishing, once the
+     mainstays of the economy, have declined in their shares of GNP.
+     Banking now contributes about 45% to GNP. Trade is mostly with the UK.
+     The Isle of Man enjoys free access to European Union markets.
+National product:
+     GNP - exchange rate conversion - $490 million (1988)
+National product real growth rate:
+     NA%
+National product per capita:
+     $7,500 (1988)
+Inflation rate (consumer prices):
+     7% (1992 est.)
+Unemployment rate:
+     1% (1992 est.)
+Budget:
+revenues:
+     $130.4 million
+expenditures:
+     $114.4 million, including capital expenditures of $18.1 million (1985
+     est.)
+Exports:
+     $NA
+commodities:
+     tweeds, herring, processed shellfish, meat
+partners:
+     UK
+Imports:
+     $NA
+commodities:
+     timber, fertilizers, fish
+partners:
+     UK
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     61,000 kW
+production:
+     190 million kWh
+ 
+ 
+consumption per capita:
+     2,965 kWh (1992)
+Industries:
+     an important offshore financial center; financial services, light
+     manufacturing, tourism
+Agriculture:
+     cereals and vegetables; cattle, sheep, pigs, poultry
+Economic aid:
+     $NA
+Currency:
+     1 Manx pound (#M) = 100 pence
+Exchange rates:
+     Manx pounds (#M) per US$1 - 0.6699 (January 1994), 0.6658 (1993),
+     0.5664 (1992), 0.5652 (1991), 0.5603 (1990), 0.6099 (1989); the Manx
+     pound is at par with the British pound
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Railroads:
+     60 km; 36 km electric track, 24 km steam track
+Highways:
+total:
+     640 km
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     Douglas, Ramsey, Peel
+Merchant marine:
+     67 ships (1,000 GRT or over) totaling 1,359,951 GRT/2,316,628 DWT,
+     bulk 11, cargo 10, chemical tanker 5, container 5, liquefied gas 7,
+     oil tanker 17, roll-on/roll-off cargo 9, vehicle carrier 3
+note:
+     a captive register of the United Kingdom, although not all ships on
+     the register are British owned
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     24,435 telephones; broadcast stations - 1 AM, 4 FM, 4 TV
+ 
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

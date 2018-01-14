@@ -1,0 +1,381 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0140
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Liberia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Liberia 
+ 
+ 
+                                  Liberia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, bordering the North Pacific Ocean between Cote
+     d'Ivoire and Sierra Leone
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     111,370 sq km
+land area:
+     96,320 sq km
+comparative area:
+     slightly larger than Tennessee
+Land boundaries:
+     total 1,585 km, Guinea 563 km, Cote d'Ivoire 716 km, Sierra Leone 306
+     km
+Coastline:
+     579 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+territorial sea:
+     200 nm
+International disputes:
+     none
+Climate:
+     tropical; hot, humid; dry winters with hot days and cool to cold
+     nights; wet, cloudy summers with frequent heavy showers
+Terrain:
+     mostly flat to rolling coastal plains rising to rolling plateau and
+     low mountains in northeast
+Natural resources:
+     iron ore, timber, diamonds, gold
+Land use:
+arable land:
+     1%
+permanent crops:
+     3%
+meadows and pastures:
+     2%
+forest and woodland:
+     39%
+other:
+     55%
+Irrigated land:
+     20 sq km (1989 est.)
+Environment:
+current issues:
+     West Africa's largest tropical rain forest, subject to deforestation;
+     soil erosion; loss of biodiversity
+natural hazards:
+     dust-laden harmattan winds blow from the Sahara (December to March)
+ 
+ 
+international agreements:
+     party to - Endangered Species, Nuclear Test Ban, Ship Pollution,
+     Tropical Timber; signed, but not ratified - Biodiversity, Climate
+     Change, Environmental Modification, Law of the Sea, Marine Dumping,
+     Marine Life Conservation
+ 
+                                  People
+ 
+Population:
+     2,972,766 (July 1994 est.)
+Population growth rate:
+     3.33% (1994 est.)
+Birth rate:
+     43.48 births/1,000 population (1994 est.)
+Death rate:
+     12.34 deaths/1,000 population (1994 est.)
+Net migration rate:
+     2.16 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     113.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     57.73 years
+male:
+     55.27 years
+female:
+     60.25 years (1994 est.)
+Total fertility rate:
+     6.36 children born/woman (1994 est.)
+Nationality:
+noun:
+     Liberian(s)
+adjective:
+     Liberian
+Ethnic divisions:
+     indigenous African tribes 95% (including Kpelle, Bassa, Gio, Kru,
+     Grebo, Mano, Krahn, Gola, Gbandi, Loma, Kissi, Vai, and Bella),
+     Americo-Liberians 5% (descendants of repatriated slaves)
+Religions:
+     traditional 70%, Muslim 20%, Christian 10%
+Languages:
+     English 20% (official), Niger-Congo language group about 20 local
+     languages come from this group
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     40%
+male:
+     50%
+female:
+     29%
+Labor force:
+     510,000 including 220,000 in the monetary economy
+ 
+ 
+by occupation:
+     agriculture 70.5%, services 10.8%, industry and commerce 4.5%, other
+     14.2%
+note:
+     non-African foreigners hold about 95% of the top-level management and
+     engineering jobs; 52% of population of working age
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Liberia
+conventional short form:
+Digraph:
+     LI
+Type:
+     republic
+Capital:
+     Monrovia
+Administrative divisions:
+     13 counties; Bomi, Bong, Grand Bassa, Cape Mount, Grand Gedeh, Grand
+     Kru, Lofa, Margibi, Maryland, Montserrado, Nimba, River Cess, Sinoe
+Independence:
+     26 July 1847
+National holiday:
+     Independence Day, 26 July (1847)
+Constitution:
+     6 January 1986
+Legal system:
+     dual system of statutory law based on Anglo-American common law for
+     the modern sector and customary law based on unwritten tribal
+     practices for indigenous sector
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     Chairman of the Council of State David KPOMAKPOR (since March 1994);
+     election last held on 15 October 1985 (next scheduled to be held
+     September 1994); results - Gen. Dr. Samuel Kanyon DOE (NDPL) 50.9%,
+     Jackson DOE (LAP) 26.4%, other 22.7%; note - President Doe was killed
+     by rebel forces on 9 September 1990
+cabinet:
+     Cabinet; selected by the leaders of the major factions in the civil
+     war
+note:
+     a transitional coalition government was formed as part of a July 1993
+     Cotonou Peace Treaty negotiated under UN auspices by the leaders of
+     the major factions in the civil war; elections now scheduled for
+     September 1994
+Legislative branch:
+     unicameral Transitional Legislative Assembly, the members of which are
+     appointed by the leaders of the major factions in the civil war
+ 
+ 
+note:
+     the former bicameral legislature no longer exists and there is no
+     assurance that it will ever be reconstituted
+Judicial branch:
+      Supreme Court
+Political parties and leaders:
+     National Democratic Party of Liberia (NDPL), Augustus CAINE, chairman;
+     Liberian Action Party (LAP), Emmanuel KOROMAH, chairman; Unity Party
+     (UP), Joseph KOFA, chairman; United People's Party (UPP), Gabriel
+     Baccus MATTHEWS, chairman; National Patriotic Party (NPP), Charles
+     TAYLOR, chairman; Liberian Peoples Party (LPP), Dusty WOLOKOLLIE,
+     chairman
+Member of:
+     ACP, AfDB, CCC, ECA, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICFTU, IDA,
+     IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT (nonsignatory user),
+     INTERPOL, IOC, ITU, LORCS, NAM, OAU, UN, UNCTAD, UNESCO, UNIDO, UPU,
+     WCL, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     (vacant); Charge d'Affaires Konah K. BLACKETT
+chancery:
+     5201 16th Street NW, Washington, DC 20011
+telephone:
+     (202) 723-0437 through 0440
+consulate(s) general:
+     New York
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge d' Affaires William P. TWADDELL
+embassy:
+     111 United Nations Drive, Monrovia
+mailing address:
+     P. O. Box 100098, Mamba Point, Monrovia, or APO AE 09813
+telephone:
+     [231] 222991 through 222994
+FAX:
+     [231] 223710
+Flag:
+     11 equal horizontal stripes of red (top and bottom) alternating with
+     white; there is a white five-pointed star on a blue square in the
+     upper hoist-side corner; the design was based on the US flag
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Civil war since 1990 has destroyed much of Liberia's economy,
+     especially the infrastructure in and around Monrovia. Businessmen have
+     fled the country, taking capital and expertise with them. Many will
+     not return. Richly endowed with water, mineral resources, forests, and
+     a climate favorable to agriculture, Liberia had been a producer and
+     exporter of basic products, while local manufacturing, mainly foreign
+     owned, had been small in scope. Political instability threatens
+     prospects for economic reconstruction and repatriation of some 750,000
+     Liberian refugees who have fled to neighboring countries. The
+     political impasse between the interim government and rebel leader
+     Charles Taylor has prevented restoration of normal economic life,
+     including the re-establishment of a strong central government with
+     effective economic development programs.
+National product:
+     GDP - purchasing power equivalent - $2.3 billion (1993 est.)
+National product real growth rate:
+     1.5% (1988)
+National product per capita:
+     $800 (1993 est.)
+Inflation rate (consumer prices):
+     12% (1989)
+Unemployment rate:
+     43% urban (1988)
+Budget:
+revenues:
+     $242.1 million
+expenditures:
+     $435.4 million, including capital expenditures of $29.5 million (1989
+     est.)
+Exports:
+     $505 million (f.o.b., 1989 est.)
+commodities:
+     iron ore 61%, rubber 20%, timber 11%, coffee
+partners:
+     US, EC, Netherlands
+Imports:
+     $394 million (c.i.f., 1989 est.)
+commodities:
+     rice, mineral fuels, chemicals, machinery, transportation equipment,
+     other foodstuffs
+partners:
+     US, EC, Japan, China, Netherlands, ECOWAS
+External debt:
+     $2.1 billion (September 1993 est.)
+Industrial production:
+     growth rate NA% (1993-94); much industrial damage caused by factional
+     warfare
+Electricity:
+capacity:
+     410,000 kW
+production:
+     750 million kWh
+consumption per capita:
+     275 kWh (1991)
+ 
+ 
+Industries:
+     rubber processing, food processing, construction materials, furniture,
+     palm oil processing, mining (iron ore, diamonds)
+Agriculture:
+     accounts for about 40% of GDP (including fishing and forestry);
+     principal products - rubber, timber, coffee, cocoa, rice, cassava,
+     palm oil, sugarcane, bananas, sheep, goats; not self-sufficient in
+     food, imports 25% of rice consumption
+Illicit drugs:
+     increasingly a transshipment point for heroin and cocaine
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $665 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $870
+     million; OPEC bilateral aid (1979-89), $25 million; Communist
+     countries (1970-89), $77 million
+Currency:
+     1 Liberian dollar (L$) = 100 cents
+Exchange rates:
+     Liberian dollars (L$) per US$1 - 1.00 (officially fixed rate since
+     1940); unofficial parallel exchange rate of L$7 = US$1, January 1992
+     (unofficial rate floats against the US dollar)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     480 km total; 328 km 1.435-meter standard gauge, 152 km 1.067-meter
+     narrow gauge; all lines single track; rail systems owned and operated
+     by foreign steel and financial interests in conjunction with Liberian
+     Government
+Highways:
+total:
+     10,087 km
+paved:
+     603 km
+unpaved:
+     gravel 5,171 km (includes 2323km of private roads of rubber and timber
+     firms, open to the public); earth 4,313 km
+Ports:
+     Monrovia, Buchanan, Greenville, Harper (or Cape Palmas)
+Merchant marine:
+     1,595 ships (1,000 GRT or over) totaling 56,923,236 GRT/97,692,316
+     DWT, barge carrier 3, bulk 423, cargo 126, chemical 122, combination
+     bulk 30, combination ore/oil 64, container 112, liquefied gas 67, oil
+     tanker 468, passenger 32, refrigerated cargo 61, roll-on/roll-off
+     cargo 19, short-sea passenger 2, specialized tanker 7, vehicle carrier
+     59
+note:
+     a flag of convenience registry; all ships are foreign owned; the top 4
+     owning flags are US 14%, Japan 13%, Norway 10%, and Hong Kong 8%
+Airports:
+total:
+     59
+ 
+ 
+usable:
+     41
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     4
+Telecommunications:
+     telephone and telegraph service via radio relay network; main center
+     is Monrovia; broadcast stations - 3 AM, 4 FM, 5 TV; 1 Atlantic Ocean
+     INTELSAT earth station; most telecommunications services inoperable
+     due to insurgency movement
+ 
+                              Defense Forces
+ 
+Branches:
+     the ultimate structure of the Liberian military force will depend on
+     who is the victor in the ongoing civil war
+Manpower availability:
+     males age 15-49 707,927; fit for military service 377,950
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

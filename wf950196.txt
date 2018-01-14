@@ -1,0 +1,414 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0195
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Portugal
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Portugal 
+ 
+ 
+                                 Portugal
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southwestern Europe, bordering the North Atlantic Ocean west of Spain
+Map references:
+     Africa, Europe, Standard Time Zones of the World
+Area:
+total area:
+     92,080 sq km
+land area:
+     91,640 sq km
+comparative area:
+     slightly smaller than Indiana
+note:
+     includes Azores and Madeira Islands
+Land boundaries:
+     total 1,214 km, Spain 1,214 km
+Coastline:
+     1,793 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     sovereignty over Timor Timur (East Timor Province) disputed with
+     Indonesia
+Climate:
+     maritime temperate; cool and rainy in north, warmer and drier in south
+Terrain:
+     mountainous north of the Tagus, rolling plains in south
+Natural resources:
+     fish, forests (cork), tungsten, iron ore, uranium ore, marble
+Land use:
+arable land:
+     32%
+permanent crops:
+     6%
+meadows and pastures:
+     6%
+forest and woodland:
+     40%
+other:
+     16%
+Irrigated land:
+     6,340 sq km (1989 est.)
+Environment:
+current issues:
+     soil erosion; air pollution caused by industrial and vehicle
+     emissions; water pollution, especially in coastal areas
+natural hazards:
+     Azores subject to severe earthquakes
+ 
+ 
+international agreements:
+     party to - Air Pollution, Biodiversity, Climate Change, Endangered
+     Species, Hazardous Wastes, Marine Dumping, Marine Life Conservation,
+     Ozone Layer Protection, Ship Pollution, Tropical Timber, Wetlands;
+     signed, but not ratified - Air Pollution-Volatile Organic Compounds,
+     Environmental Modification, Law of the Sea, Nuclear Test Ban
+Note:
+     Azores and Madeira Islands occupy strategic locations along western
+     sea approaches to Strait of Gibraltar
+ 
+                                  People
+ 
+Population:
+     10,524,210 (July 1994 est.)
+Population growth rate:
+     0.36% (1994 est.)
+Birth rate:
+     11.66 births/1,000 population (1994 est.)
+Death rate:
+     9.7 deaths/1,000 population (1994 est.)
+Net migration rate:
+     1.67 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     9.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     75.2 years
+male:
+     71.77 years
+female:
+     78.86 years (1994 est.)
+Total fertility rate:
+     1.46 children born/woman (1994 est.)
+Nationality:
+noun:
+     Portuguese (singular and plural)
+adjective:
+     Portuguese
+Ethnic divisions:
+     homogeneous Mediterranean stock in mainland, Azores, Madeira Islands;
+     citizens of black African descent who immigrated to mainland during
+     decolonization number less than 100,000
+Religions:
+     Roman Catholic 97%, Protestant denominations 1%, other 2%
+Languages:
+     Portuguese
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     85%
+male:
+     89%
+female:
+     82%
+ 
+ 
+Labor force:
+     4,605,700
+by occupation:
+     services 45%, industry 35%, agriculture 20% (1988)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Portuguese Republic
+conventional short form:
+local long form:
+     Republica Portuguesa
+local short form:
+Digraph:
+     PO
+Type:
+     republic
+Capital:
+     Lisbon
+Administrative divisions:
+     18 districts (distritos, singular - distrito) and 2 autonomous
+     regions* (regioes autonomas, singular - regiao autonoma); Aveiro,
+     Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra,
+     Evora, Faro, Guarda, Leiria, Lisboa, Madeira*, Portalegre, Porto,
+     Santarem, Setubal, Viana do Castelo, Vila Real, Viseu
+Dependent areas:
+     Macau (scheduled to become a Special Administrative Region of China on
+     20 December 1999)
+Independence:
+     1140 (independent republic proclaimed 5 October 1910)
+National holiday:
+     Day of Portugal, 10 June (1580)
+Constitution:
+     25 April 1976, revised 30 October 1982 and 1 June 1989
+Legal system:
+     civil law system; the Constitutional Tribunal reviews the
+     constitutionality of legislation; accepts compulsory ICJ jurisdiction,
+     with reservations
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Dr. Mario Alberto Nobre Lopes SOARES (since 9 March 1986);
+     election last held 13 February 1991 (next to be held NA February
+     1996); results - Dr. Mario Lopes SOARES 70%, Basilio HORTA 14%, Carlos
+     CARVALHAS 13%, Carlos MARQUES 3%
+head of government:
+     Prime Minister Anibal CAVACO SILVA (since 6 November 1985)
+Council of State:
+     acts as a consultative body to the president
+ 
+ 
+cabinet:
+     Council of Ministers; appointed by the president on recommendation of
+     the prime minister
+Legislative branch:
+     unicameral
+Assembly of the Republic (Assembleia da Republica):
+     elections last held 6 October 1991 (next to be held NA October 1995);
+     results - PSD 50.4%, PS 29.3%, CDU 8.8%, Center Democrats 4.4%,
+     National Solidarity Party 1.7%, PRD 0.6%, other 4.8%; seats - (230
+     total) PSD 136, PS 71, CDU 17, Center Democrats 5, National Solidarity
+     Party 1
+Judicial branch:
+     Supreme Tribunal of Justice (Supremo Tribunal de Justica)
+Political parties and leaders:
+     Social Democratic Party (PSD), Anibal CAVACO Silva; Portuguese
+     Socialist Party (PS), Antonio GUTERRES; Party of Democratic Renewal
+     (PRD), Pedro CANAVARRO; Portuguese Communist Party (PCP), Carlos
+     CARVALHAS; Social Democratic Center (CDS), Manuel MONTEIRO; National
+     Solidarity Party (PSN), Manuel SERGIO; Center Democratic Party (CDS);
+     United Democratic Coalition (CDU; Communists)
+Member of:
+     AfDB, Australian Group, BIS, CCC, CE, CERN, COCOM, CSCE, EBRD, EC,
+     ECE, ECLAC, EIB, FAO, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA,
+     IEA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM,
+     ISO, ITU, LAIA (observer), LORCS, MTCR, NACC, NAM (guest), NATO, NEA,
+     NSG, OAS (observer), OECD, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOMOZ,
+     UNPROFOR, UPU, WCL, WEU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Francisco Jose Laco Treichler KNOPFLI
+chancery:
+     2125 Kalorama Road NW, Washington, DC 20008
+telephone:
+     (202) 328-8610
+FAX:
+     (202) 462-3726
+consulate(s) general:
+     Boston, New York, Newark (New Jersey), and San Francisco
+consulate(s):
+     Los Angeles, New Bedford (Massachusetts), and Providence (Rhode
+     Island)
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge d'Affaires Sharon P. WILKINSON
+embassy:
+     Avenida das Forcas Armadas, 1600 Lisbon
+mailing address:
+     PSC 83, Lisbon; APO AE 09726
+telephone:
+     [351] (1) 726-6600 or 6659, 8670, 8880
+FAX:
+     [351] (1) 726-9109
+consulate(s):
+     Ponta Delgada (Azores)
+ 
+ 
+Flag:
+     two vertical bands of green (hoist side, two-fifths) and red
+     (three-fifths) with the Portuguese coat of arms centered on the
+     dividing line
+ 
+                                  Economy
+ 
+Overview:
+     Portugal's economy registered only 1.1% growth in 1992 and contracted
+     by 0.4% in 1993, in contrast to the 4.5% average of the fast-paced
+     1986-90 period. Recession in the European Union, which accounts for
+     75% of Portugal's international trade, is the key factor in the
+     downturn. The government's long-run economic goal is the modernization
+     of Portuguese markets, industry, infrastructure, and workforce in
+     order to catch up with productivity and income levels of the more
+     advanced EU countries. Per capita income now equals only 55% of the EU
+     average. The government's medium-term economic objective is to be in
+     the first tier of EU countries eligible to join the economic and
+     monetary union (EMU) as early as 1997. Economic policy in 1993 focused
+     on reducing inflationary pressures by lowering the fiscal deficit,
+     maintaining a stable escudo, moderating wage increases, and
+     encouraging increased competition. Resumption of growth in the short
+     run depends on the revival of growth in Europe as a whole, not a
+     likely prospect in the immediate future.
+National product:
+     GDP - purchasing power equivalent - $91.5 billion (1993)
+National product real growth rate:
+     -0.4% (1993)
+National product per capita:
+     $8,700 (1993)
+Inflation rate (consumer prices):
+     7% (1993 est.)
+Unemployment rate:
+     7% (1993 est.)
+Budget:
+revenues:
+     $27.3 billion
+expenditures:
+     $33.2 billion, including capital expenditures of $4.5 billion (1991
+     est.)
+Exports:
+     $17.5 billion (f.o.b., 1993 est.)
+commodities:
+     cotton textiles, cork and paper products, canned fish, wine, timber
+     and timber products, resin, machinery, appliances
+partners:
+     EC 75.4%, other developed countries 12.4%, US 3.8% (1992)
+Imports:
+     $28 billion (c.i.f., 1993 est.)
+commodities:
+     machinery and transport equipment, agricultural products, chemicals,
+     petroleum, textiles
+partners:
+     EC 72%, other developed countries 10.9% less developed countries
+     12.9%, US 3.4%
+ 
+ 
+External debt:
+     $20 billion (1993 est.)
+Industrial production:
+     growth rate 9.1% (1990); accounts for 40% of GDP
+Electricity:
+capacity:
+     6,624,000 kW
+production:
+     26.4 billion kWh
+consumption per capita:
+     2,520 kWh (1992)
+Industries:
+     textiles and footwear; wood pulp, paper, and cork; metalworking; oil
+     refining; chemicals; fish canning; wine; tourism
+Agriculture:
+     accounts for 6.1% of GDP and 20% of labor force; small, inefficient
+     farms; imports more than half of food needs; major crops - grain,
+     potatoes, olives, grapes; livestock sector - sheep, cattle, goats,
+     poultry, meat, dairy products
+Illicit drugs:
+     increasingly important gateway country for Latin American cocaine
+     entering the European market; transshipment point for hashish from
+     North Africa to Europe
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $1.8 billion
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $1.2 billion
+Currency:
+     1 Portuguese escudo (Esc) = 100 centavos
+Exchange rates:
+     Portuguese escudos (Esc) per US$1 - 176.16 (January 1994), 160.80
+     (1993), 135.00 (1992), 144.48 (1991), 142.55 (1990), 157.46 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     3,625 km total; state-owned Portuguese Railroad Co. (CP) operates
+     2,858 km 1.665-meter gauge (434 km electrified and 426 km double
+     track), 755 km 1.000-meter gauge; 12 km (1.435-meter gauge)
+     electrified, double track, privately owned
+Highways:
+total:
+     73,661 km
+paved and gravel:
+     61,599 km (including 453 km of expressways)
+unpaved:
+     earth 12,062 km
+Inland waterways:
+     820 km navigable; relatively unimportant to national economy, used by
+     shallow-draft craft limited to 300-metric-ton cargo capacity
+Pipelines:
+     crude oil 22 km; petroleum products 58 km
+ 
+ 
+Ports:
+     Leixoes, Lisbon, Porto, Ponta Delgada (Azores), Velas (Azores),
+     Setubal, Sines
+Merchant marine:
+     61 ships (1,000 GRT or over) totaling 962,293 GRT/1,779,855 DWT, bulk
+     3, cargo 25, chemical tanker 4, container 3, liquified gas 2, oil
+     tanker 18, refrigerated cargo 3, roll-on/roll-off cargo 1, short-sea
+     passenger 2
+note:
+     Portugal has created a captive register on Madeira (MAR) for
+     Portuguese-owned ships that will have the taxation and crewing
+     benefits of a flag of convenience; although only one ship currently is
+     known to fly the Portuguese flag on the MAR register, it is likely
+     that a majority of Portuguese flag ships will transfer to this
+     subregister in a few years
+Airports:
+total:
+     65
+usable:
+     63
+with permanent-surface runways:
+     37
+with runways over 3,659 m:
+     2
+with runways 2,440-3,659 m:
+     10
+with runways 1,220-2,439 m:
+     11
+Telecommunications:
+     generally adequate integrated network of coaxial cables, open wire and
+     microwave radio relay; 2,690,000 telephones; broadcast stations - 57
+     AM, 66 (22 repeaters) FM, 66 (23 repeaters) TV; 6 submarine cables; 3
+     INTELSAT earth stations (2 Atlantic Ocean, 1 Indian Ocean), EUTELSAT,
+     domestic satellite systems (mainland and Azores); tropospheric link to
+     Azores
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy (including Marines), Air Force, National Republican Guard,
+     Fiscal Guard, Public Security Police
+Manpower availability:
+     males age 15-49 2,723,987; fit for military service 2,207,637; reach
+     military age (20) annually 89,380 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $2.1 billion, 2.9% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

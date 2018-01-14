@@ -1,0 +1,448 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0185
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Pakistan
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Pakistan 
+ 
+ 
+                                 Pakistan
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Asia, along the Arabian Sea, between India and Afghanistan
+Map references:
+     Asia, Standard Time Zones of the World
+Area:
+total area:
+     803,940 sq km
+land area:
+     778,720 sq km
+comparative area:
+     slightly less than twice the size of California
+Land boundaries:
+     total 6,774 km, Afghanistan 2,430 km, China 523 km, India 2,912 km,
+     Iran 909 km
+Coastline:
+     1,046 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200 nm or the edge of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     status of Kashmir with India; border question with Afghanistan (Durand
+     Line); water-sharing problems (Wular Barrage) over the Indus with
+     upstream riparian India
+Climate:
+     mostly hot, dry desert; temperate in northwest; arctic in north
+Terrain:
+     flat Indus plain in east; mountains in north and northwest;
+     Balochistan plateau in west
+Natural resources:
+     land, extensive natural gas reserves, limited petroleum, poor quality
+     coal, iron ore, copper, salt, limestone
+Land use:
+arable land:
+     26%
+permanent crops:
+     0%
+meadows and pastures:
+     6%
+forest and woodland:
+     4%
+other:
+     64%
+Irrigated land:
+     162,200 sq km (1989)
+ 
+ 
+Environment:
+current issues:
+     water pollution from untreated sewage, industrial wastes, and
+     agricultural runoff; water scarcity; a majority of the population does
+     not have access to safe drinking water; deforestation; soil erosion;
+     desertification
+natural hazards:
+     frequent earthquakes, occasionally severe especially in north and
+     west; flooding along the Indus after heavy rains (July and August)
+international agreements:
+     party to - Endangered Species, Environmental Modification, Nuclear
+     Test Ban, Wetlands; signed, but not ratified - Biodiversity, Climate
+     Change, Law of the Sea, Marine Life Conservation
+Note:
+     controls Khyber Pass and Bolan Pass, traditional invasion routes
+     between Central Asia and the Indian Subcontinent
+ 
+                                  People
+ 
+Population:
+     128,855,965 (July 1994 est.)
+Population growth rate:
+     2.86% (1994 est.)
+Birth rate:
+     42.22 births/1,000 population (1994 est.)
+Death rate:
+     12.38 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -1.21 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     101.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     57.41 years
+male:
+     56.79 years
+female:
+     58.06 years (1994 est.)
+Total fertility rate:
+     6.43 children born/woman (1994 est.)
+Nationality:
+noun:
+     Pakistani(s)
+adjective:
+     Pakistani
+Ethnic divisions:
+     Punjabi, Sindhi, Pashtun (Pathan), Baloch, Muhajir (immigrants from
+     India and their descendents)
+Religions:
+     Muslim 97% (Sunni 77%, Shi'a 20%), Christian, Hindu, and other 3%
+Languages:
+     Urdu (official), English (official; lingua franca of Pakistani elite
+     and most government ministries), Punjabi 64%, Sindhi 12%, Pashtu 8%,
+     Urdu 7%, Balochi and other 9%
+ 
+ 
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     35%
+male:
+     47%
+female:
+     21%
+Labor force:
+     28.9 million
+by occupation:
+     agriculture 54%, mining and manufacturing 13%, services 33%, extensive
+     export of labor (1987 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Islamic Republic of Pakistan
+conventional short form:
+former:
+     West Pakistan
+Digraph:
+     PK
+Type:
+     republic
+Capital:
+     Islamabad
+Administrative divisions:
+     4 provinces, 1 territory*, and 1 capital territory**; Balochistan,
+     Federally Administered Tribal Areas*, Islamabad Capital Territory**,
+     North-West Frontier, Punjab, Sindh
+note:
+     the Pakistani-administered portion of the disputed Jammu and Kashmir
+     region includes Azad Kashmir and the Northern Areas
+Independence:
+     14 August 1947 (from UK)
+National holiday:
+     Pakistan Day, 23 March (1956) (proclamation of the republic)
+Constitution:
+     10 April 1973, suspended 5 July 1977 restored with amendments, 30
+     December 1985
+Legal system:
+     based on English common law with provisions to accommodate Pakistan's
+     stature as an Islamic state; accepts compulsory ICJ jurisdiction, with
+     reservations
+Suffrage:
+     21 years of age; universal; separate electorates and reserved
+     parliamentary seats for non-Muslims
+Executive branch:
+chief of state:
+     President Sardar Farooq LEGHARI election last held on 13 November 1993
+     (next to be held no later than 14 October 1998); results - LEGHARI was
+     elected by Parliament and the four provincial assemblies
+ 
+ 
+head of government:
+     Prime Minister Benazir BHUTTO
+cabinet:
+     Cabinet
+Legislative branch:
+     bicameral Parliament (Majlis-e-Shoora)
+Senate:
+     elections last held NA March 1994 (next to be held NA March 1997);
+     results - seats (87 total) Pakistan People's Party (PPP) 22, Pakistan
+     Muslim League, Nawaz Sharif faction (PML/N) 17; Tribal Area
+     Representatives (nonparty) 8, Awami National Party (ANP) 6, Pakistan
+     Muslim League, Junejo faction (PML/J) 5, Jamhoori Watan Party (JWP) 5,
+     Mohajir Quami Movement, Altaf faction (MQM/A) 5, Jamiat Ulema-i-Islam,
+     Fazlur Rehman group (JUI/F) 2, Pakhtun Khwa Milli Awami Party (PKMAP)
+     2, Jamaat-i-Islami (JI) 2, National People's Party (NPP) 2,
+     Balochistan National Movement, Hayee Group (BNM/H) 1, Balochistan
+     National Movement, Mengal Group (BNM/M) 1, Jamiat Ulema-i-Pakistan,
+     Niazi faction (JUP/NI) 1, Jamiat Ulema-i-Pakistan, Noorani faction
+     (JUP/NO) 1, Jamiat-al-Hadith (JAH) 1, Jamiat Ulema-i-Islam,
+     Sami-ul-Haq faction (JUI/S) 1, Pakistan Muslim League, Functional
+     Group (PML/F) 1, Pakistan National Party (PNP) 1, independents 2,
+     vacant 1
+National Assembly:
+     elections last held 6 October 1993 (next to be held by October 1998);
+     results - seats (217 total); Pakistan People's Party (PPP) 92;
+     Pakistan Muslim League, Nawaz Sharif faction (PML/N) 75; Pakistan
+     Muslim League, Junejo faction (PML/J) 6; Islami-Jamhoori-Mahaz
+     (IJM-Islamic Democratic Front) 4; Awami National Party (ANP) 3;
+     Pakhtun Khwa Milli Awami Party (PKMAP) 4; Pakistan Islamic Front (PIF)
+     3; Jamhoori Watan Party (JWP) 2; Mutaheda Deeni Mahaz (MDM) 2;
+     Balochistan National Movement, Hayee Group (BNM/H) 1; Balochistan
+     National Movement, Mengal Group (BNM/M) 1; National Democratic
+     Alliance (NDA) 1; National People's Party (NPP) 1; Pakhtun Quami Party
+     (PKQP) 1; Religious minorities 10 reserved seats; independents, 9;
+     results pending, 2
+Judicial branch:
+     Supreme Court, Federal Islamic (Shari'at) Court
+Political parties and leaders:
+government:
+     Pakistan People's Party (PPP), Benazir BHUTTO; Pakistan Muslim League,
+     Junejo faction (PML/J), Hamid Nasir CHATTHA; National People's Party
+     (NPP), Ghulam Mustapha JATOI; Pakhtun Khwa Milli Awami Party (PKMAP),
+     Mahmood Khan ACHAKZAI; Balochistan National Movement, Hayee Group
+     (BNM/H), Dr. HAYEE Baluch; National Democratic Alliance (NDA), Maulana
+     Kausar NIAZI; Pakhtun Quami Party (PKQP), Mohammed AFZAL Khan;
+     Jamhoori Watan Party (JWP), Akbar Khan BUGTI
+opposition:
+     Pakistan Muslim League, Nawaz Sharif faction (PML/N), Nawaz SHARIF;
+     Awami National Party (ANP), Khan Abdul WALI KHAN; Pakistan Islamic
+     Front (PIF), Qazi Hussain AHMED; Balochistan National Movement, Mengal
+     Group (BNM/M), Sardar Akhtar MENGAL; Mohajir Quami Movement, Altaf
+     faction (MQM/A); Jamaat-i-Islami (JI); Jamiat-al-Hadith (JAH)
+ 
+ 
+frequently shifting:
+     Mutaheda Deeni Mahaz (MDM), Maulana Sami-ul-HAQ, the MDM includes
+     Jamiat Ulema-i-Pakistan, Niazi faction (JUP/NI) and Anjuman
+     Sepah-i-Sahaba Pakistan (ASSP); Islami-Jamhoori-Mahaz (IJM-Islamic
+     Democratic Party), the IJM includes Jamiat Ulema-i-Islami, Fazlur
+     Rehman group (JUI/F); Jamiat Ulema-i-Pakistan, Noorani faction
+     (JUP/NO); Jamiat Ulema-i-Islam, Sami-ul-Haq faction (JUI/S); Pakistan
+     Muslim League, Functional Group (PML/F); Pakistan National Party (PNP)
+note:
+     most Pakistani political groups are motivated primarily by opportunism
+     and political alliances can shift frequently
+Other political or pressure groups:
+     military remains important political force; ulema (clergy),
+     landowners, industrialists, and small merchants also influential
+Member of:
+     AsDB, C, CCC, CP, ECO, ESCAP, FAO, G-19, G-24, G-77, GATT, IAEA, IBRD,
+     ICAO, ICC, ICFTU, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INMARSAT,
+     INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, LORCS, MINURSO, NAM, OAS
+     (observer), OIC, PCA, SAARC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIKOM,
+     UNOSOM, UNTAC, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Maleeha LODHI
+chancery:
+     2315 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 939-6205
+FAX:
+     (202) 387-0484
+consulate(s) general:
+     Los Angeles and New York
+US diplomatic representation:
+chief of mission:
+     Ambassador John MONJO
+embassy:
+     Diplomatic Enclave, Ramna 5, Islamabad
+mailing address:
+     P. O. Box 1048, PSC 1212, Box 2000, Unit 6220,Islamabad or APO AE
+     09812-2000
+telephone:
+     [92] (51) 826161 through 79
+FAX:
+     [92] (51) 214222
+consulate(s) general:
+     Karachi, Lahore
+consulate(s):
+     Peshawar
+Flag:
+     green with a vertical white band (symbolizing the role of religious
+     minorities) on the hoist side; a large white crescent and star are
+     centered in the green field; the crescent, star, and color green are
+     traditional symbols of Islam
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Pakistan is a poor Third World country faced with the usual problems
+     of rapidly increasing population, sizable government deficits, and
+     heavy dependence on foreign aid. In addition, the economy must support
+     a large military establishment. Rapid economic growth, averaging 5%-6%
+     over the past decade has helped Pakistan cope with these problems.
+     However, growth slumped to 3% in FY93 because of severe flooding,
+     which damaged the key export crop, cotton. Almost all agriculture and
+     small-scale industry is in private hands. In 1990, Pakistan embarked
+     on a sweeping economic liberalization program to boost foreign and
+     domestic private investment and lower foreign aid dependence. The
+     SHARIF government denationalized several state-owned firms and
+     attracted some foreign investment. Pakistan likely will have
+     difficulty raising living standards because of its rapidly expanding
+     population. At the current rate of growth, population would double in
+     25 years.
+National product:
+     GNP - purchasing power equivalent - $239 billion (1993 est.)
+National product real growth rate:
+     3% (FY93 est.)
+National product per capita:
+     $1,900 (1993 est.)
+Inflation rate (consumer prices):
+     12.7% (FY91)
+Unemployment rate:
+     10% (FY91 est.)
+Budget:
+revenues:
+     $9.4 billion
+expenditures:
+     $10.9 billion, including capital expenditures of $3.1 billion (1993
+     est.)
+Exports:
+     $6.8 billion (f.o.b., FY92)
+commodities:
+     cotton, textiles, clothing, rice, leather, carpets
+partners:
+     US, Japan, Hong Kong, Germany, UK
+Imports:
+     $9.1 billion (f.o.b., FY92)
+commodities:
+     petroleum, petroleum products, machinery, transportation equipment,
+     vegetable oils, animal fats, chemicals
+partners:
+     Japan, US, Germany, UK, Saudi Arabia
+External debt:
+     $24 billion (1993 est.)
+Industrial production:
+     growth rate 7.3% (FY92); accounts for 23% of GDP
+Electricity:
+capacity:
+     10,000,000 kW
+production:
+     43 billion kWh
+ 
+ 
+consumption per capita:
+     350 kWh (1992)
+Industries:
+     textiles, food processing, beverages, construction materials,
+     clothing, paper products, shrimp
+Agriculture:
+     22% of GDP, over 50% of labor force; world's largest contiguous
+     irrigation system; major crops - cotton, wheat, rice, sugarcane,
+     fruits, vegetables; livestock products - milk, beef, mutton, eggs;
+     self-sufficient in food grain
+Illicit drugs:
+     major illicit producer of opium and hashish for the international drug
+     trade; despite some success in reducing cultivation, remains world's
+     fourth largest opium producer (140 metric tons in 1993)
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $4.5 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1980-89), $91
+     billion; OPEC bilateral aid (1979-89), $2.3 billion; Communist
+     countries (1970-89), $3.2 billion
+note:
+     including Bangladesh prior to 1972
+Currency:
+     1 Pakistani rupee (PRe) = 100 paisa
+Exchange rates:
+     Pakistani rupees (PRs) per US$1 - 30.214 (January 1994), 28.107
+     (1993), 25.083 (1992), 23.801 (1991), 21.707 (1990), 20.541 (1989)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Railroads:
+     8,773 km total; 7,718 km broad gauge, 445 km 1-meter gauge, and 610 km
+     less than 1-meter gauge; 1,037 km broad-gauge double track; 286 km
+     electrified; all government owned (1985)
+Highways:
+total:
+     110,677 km
+paved:
+     58,677 km
+unpaved:
+     gravel 23,000 km; improved earth 29,000 km (1988)
+Pipelines:
+     crude oil 250 km; petroleum products 885 km; natural gas 4,044 km
+     (1987)
+Ports:
+     Gwadar, Karachi, Port Muhammad bin Qasim
+Merchant marine:
+     30 ships (1,000 GRT or over) totaling 352,189 GRT/532,782 DWT, bulk 1,
+     cargo 25, oil tanker 1, passenger-cargo 3
+Airports:
+total:
+     110
+ 
+ 
+usable:
+     104
+with permanent-surface runways:
+     75
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     30
+with runways 1,220-2,439 m:
+     43
+Telecommunications:
+     the domestic telephone system is poor, adequate only for government
+     and business use; about 7 telephones per 1,000 persons; the system for
+     international traffic is better and employs both microwave radio relay
+     and satellites; satellite ground stations - 1 Atlantic Ocean INTELSAT
+     and 2 Indian Ocean INTELSAT; broadcast stations - 19 AM, 8 FM, 29 TV
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, Civil Armed Forces, National Guard,
+     paramilitary/security forces
+Manpower availability:
+     males age 15-49 29,548,746; fit for military service 18,134,013; reach
+     military age (17) annually 1,391,258 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $3.0 billion, 5.7% of GNP (FY93/94)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

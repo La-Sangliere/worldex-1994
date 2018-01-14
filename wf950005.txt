@@ -1,0 +1,306 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0005
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Andorra
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Andorra 
+ 
+ 
+                                  Andorra
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southwestern Europe, between France and Spain
+Map references:
+     Europe, Standard Time Zones of the World
+Area:
+total area:
+     450 sq km
+land area:
+     450 sq km
+comparative area:
+     slightly more than 2.5 times the size of Washington, DC
+Land boundaries:
+     total 125 km, France 60 km, Spain 65 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     temperate; snowy, cold winters and cool, dry summers
+Terrain:
+     rugged mountains dissected by narrow valleys
+Natural resources:
+     hydropower, mineral water, timber, iron ore, lead
+Land use:
+arable land:
+     2%
+permanent crops:
+     0%
+meadows and pastures:
+     56%
+forest and woodland:
+     22%
+other:
+     20%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     deforestation; overgrazing; soil erosion
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     63,930 (July 1994 est.)
+ 
+ 
+Population growth rate:
+     2.99% (1994 est.)
+Birth rate:
+     13.34 births/1,000 population (1994 est.)
+Death rate:
+     7.12 deaths/1,000 population (1994 est.)
+Net migration rate:
+     23.65 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     7.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     78.37 years
+male:
+     75.5 years
+female:
+     81.5 years (1994 est.)
+Total fertility rate:
+     1.73 children born/woman (1994 est.)
+Nationality:
+noun:
+     Andorran(s)
+adjective:
+     Andorran
+Ethnic divisions:
+     Spanish 61%, Andorran 30%, French 6%, other 3%
+Religions:
+     Roman Catholic (predominant)
+Languages:
+     Catalan (official), French, Castilian
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Principality of Andorra
+conventional short form:
+local long form:
+     Principat d'Andorra
+local short form:
+Digraph:
+     AN
+ 
+ 
+Type:
+     parliamentary democracy (since March 1993) that retains as its heads
+     of state a co-principality; the two princes are the president of
+     France and Spanish bishop of Seo de Urgel, who are represented locally
+     by officials called veguers
+Capital:
+     Andorra la Vella
+Administrative divisions:
+     7 parishes (parroquies, singular - parroquia); Andorra, Canillo,
+     Encamp, La Massana, Les Escaldes, Ordino, Sant Julia de Loria
+Independence:
+     1278
+National holiday:
+     Mare de Deu de Meritxell, 8 September
+Constitution:
+     Andorra's first written constitution was drafted in 1991; adopted 14
+     March 1993
+Legal system:
+     based on French and Spanish civil codes; no judicial review of
+     legislative acts; has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age, universal
+Executive branch:
+chiefs of state:
+     French Co-Prince Francois MITTERRAND (since 21 May 1981), represented
+     by Veguer de Franca Jean Pierre COURTOIS (since NA); Spanish Episcopal
+     Co-Prince Mgr. Juan MARTI Alanis (since 31 January 1971), represented
+     by Veguer Episcopal Francesc BADIA Bata - two co-princes (President
+     Francois MITTERRAND of France, since 21 May 1981, and Bishop of Seo de
+     Urgel Juan MARTI Alanis in Spain, since 31 January 1971), two
+     designated representatives (France - Veguer de Franca Jean Pierre
+     COURTOIS, since NA, and Spain - Veguer Episcopal Francesc BADIA Bata,
+     since NA), two permanent delegates (French Prefect Pierre STEINMETZ
+     for the department of Pyrenees-Orientales, since NA, and Spanish Vicar
+     General Nemesi MARQUES Oste for the Seo de Urgel diocese, since NA)
+head of government:
+     Executive Council President Oscar RIBAS Reig (since 10 December 1993)
+     elected by Parliament
+cabinet:
+     Executive Council; designated by the executive council president
+Legislative branch:
+     unicameral
+General Council of the Valleys:
+     (Consell General de las Valls); elections last held 12 December 1993
+     (next to be held NA); yielded no clear winner; results - percent of
+     vote by party NA; seats - (28 total) number of seats by party NA
+Judicial branch:
+     Supreme Court of Andorra at Perpignan (France) for civil cases, the
+     Ecclesiastical Court of the bishop of Seo de Urgel (Spain) for civil
+     cases, Tribunal of the Courts (Tribunal des Cortes) for criminal cases
+ 
+ 
+Political parties and leaders:
+     National Democratic Group (AND), Oscar RIBAS Reig and Jordi FARRAS;
+     Liberal Union (UL), Francesc CERQUEDA; New Democracy (ND), Jaume
+     BARTOMEU; Andorran National Coalition (CNA), Antoni CERQUEDA; National
+     Democratic Initiative (IDN), Vincenc MATEU; Liberal Union (UL),
+     Francesc CERQUEDA
+note:
+     there are two other small parties
+Member of:
+     ECE, INTERPOL, IOC, UN
+Diplomatic representation in US:
+     Andorra has no mission in the US
+US diplomatic representation:
+     Andorra is included within the Barcelona (Spain) Consular District,
+     and the US Consul General visits Andorra periodically
+Flag:
+     three equal vertical bands of blue (hoist side), yellow, and red with
+     the national coat of arms centered in the yellow band; the coat of
+     arms features a quartered shield; similar to the flags of Chad and
+     Romania that do not have a national coat of arms in the center
+ 
+                                  Economy
+ 
+Overview:
+     Tourism, the mainstay of Andorra's economy, accounts for roughly 80%
+     of GDP. An estimated 13 million tourists visit annually, attracted by
+     Andorra's duty-free status and by its summer and winter resorts. The
+     banking sector, with its "tax haven" status, also contributes
+     substantially to the economy. Agricultural production is limited by a
+     scarcity of arable land, and most food has to be imported. The
+     principal livestock activity is sheep raising. Manufacturing consists
+     mainly of cigarettes, cigars, and furniture. Andorra is a member of
+     the EU Customs Union; it is unclear what effect the European Single
+     Market will have on the advantages Andorra obtains from its duty-free
+     status.
+National product:
+     GDP - purchasing power equivalent - $760 million (1992 est.)
+National product real growth rate:
+     NA%
+National product per capita:
+     $14,000 (1992 est.)
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     0%
+Budget:
+revenues:
+     $138 million
+expenditures:
+     $177 million, Including capital expenditures of $NA (1993)
+Exports:
+     $30 million (f.o.b., 1993 est.)
+commodities:
+     electricity, tobacco products, furniture
+ 
+ 
+partners:
+     France, Spain
+Imports:
+     $NA
+commodities:
+     consumer goods, food
+partners:
+     France, Spain
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     35,000 kW
+production:
+     140 million kWh
+consumption per capita:
+     2,570 kWh (1992)
+Industries:
+     tourism (particularly skiing), sheep, timber, tobacco, banking
+Agriculture:
+     sheep raising; small quantities of tobacco, rye, wheat, barley, oats,
+     and some vegetables
+Economic aid:
+     none
+Currency:
+     1 French franc (F) = 100 centimes; 1 peseta (Pta) = 100 centimos; the
+     French and Spanish currencies are used
+Exchange rates:
+     French francs (F) per US$1 - 5.9205 (January 1994), 5.6632 (1993),
+     5.2938 (1992), 5.6421 (1991), 5.4453 (1990), 6.3801 (1989); Spanish
+     pesetas (Ptas) per US$1 - 143.04 (January 1994), 127.26 (1993), 102.38
+     (1992), 103.91 (1991), 101.93 (1990), 118.38 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     96 km
+paved:
+     NA
+unpaved:
+     NA
+Telecommunications:
+     international digital microwave network; international landline
+     circuits to France and Spain; broadcast stations - 1 AM, no FM, no TV;
+     17,700 telephones
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of France and Spain
+ 
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

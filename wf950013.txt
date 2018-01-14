@@ -1,0 +1,390 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0012
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Armenia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Armenia 
+ 
+ 
+                                  Armenia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southwestern Asia, between Turkey and Azerbaijan
+Map references:
+     Africa, Asia, Commonwealth of Independent States - European States,
+     Middle East, Standard Time Zones of the World
+Area:
+total area:
+     29,800 sq km
+land area:
+     28,400 sq km
+comparative area:
+     slightly larger than Maryland
+Land boundaries:
+     total 1,254 km, Azerbaijan (east) 566 km, Azerbaijan (south) 221 km,
+     Georgia 164 km, Iran 35 km, Turkey 268 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     violent and longstanding dispute with Azerbaijan over ethnically
+     Armenian exclave of Nagorno-Karabakh; traditional demands on former
+     Armenian lands in Turkey have greatly subsided
+Climate:
+     highland continental, hot summers, cold winters
+Terrain:
+     high Armenian Plateau with mountains; little forest land; fast flowing
+     rivers; good soil in Aras River valley
+Natural resources:
+     small deposits of gold, copper, molybdenum, zinc, alumina
+Land use:
+arable land:
+     17%
+permanent crops:
+     3%
+meadows and pastures:
+     20%
+forest and woodland:
+     0%
+other:
+     60%
+Irrigated land:
+     3,050 sq km (1990)
+Environment:
+current issues:
+     soil pollution from toxic chemicals such as DDT; energy blockade, the
+     result of conflict with Azerbaijan, has led to deforestation as
+     citizens scavenge for firewood; pollution of Hrazdan (Razdan) and Aras
+     Rivers; the draining of Lake Sevan, a result of its use as a source
+     for hydropower, threatens drinking water supplies; air pollution in
+     Yerevan
+ 
+ 
+natural hazards:
+     occasionally severe earthquakes (25,000 people killed in major quake
+     in 1988); subject to drought
+international agreements:
+     party to - Biodiversity, Climate Change
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     3,521,517 (July 1994 est.)
+Population growth rate:
+     1.08% (1994 est.)
+Birth rate:
+     24.21 births/1,000 population (1994 est.)
+Death rate:
+     6.72 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -6.72 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     27.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     72.07 years
+male:
+     68.65 years
+female:
+     75.65 years (1994 est.)
+Total fertility rate:
+     3.19 children born/woman (1994 est.)
+Nationality:
+noun:
+     Armenian(s)
+adjective:
+     Armenian
+Ethnic divisions:
+     Armenian 93%, Azeri 3%, Russian 2%, other 2%
+Religions:
+     Armenian Orthodox 94%
+Languages:
+     Armenian 96%, Russian 2%, other 2%
+Literacy:
+     age 9-49 can read and write (1970)
+total population:
+     100%
+male:
+     100%
+female:
+     100%
+Labor force:
+     1.578 million
+by occupation:
+     industry and construction 34%, agriculture and forestry 31%, other 35%
+     (1992)
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Armenia
+conventional short form:
+local long form:
+     Hayastani Hanrapetut'yun
+local short form:
+     Hayastan
+former:
+     Armenian Soviet Socialist Republic; Armenian Republic
+Digraph:
+     AM
+Type:
+     republic
+Capital:
+     Yerevan
+Administrative divisions:
+     none (all rayons are under direct republic jurisdiction)
+Independence:
+     28 May 1918 (First Armenian Republic);  23 September 1991 (from Soviet
+     Union)
+National holiday:
+     Referendum Day, 21 September
+Constitution:
+     adopted NA April 1978; post-Soviet constitution not yet adopted
+Legal system:
+     based on civil law system
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Levon Akopovich TER-PETROSYAN (since 16 October 1991), Vice
+     President Gagik ARUTYUNYAN (since 16 October 1991); election last held
+     16 October 1991 (next to be held NA); results - Levon Akopovich
+     TER-PETROSYAN 86%; radical nationalists about 7%; note - Levon
+     Akopovich TER-PETROSYAN was elected Chairman of the Armenian Supreme
+     Soviet 4 August 1990 before becoming president
+head of government:
+     Prime Minister Hrant BAGRATYAN (since 16 February 1993); First Deputy
+     Prime Minister Vigen CHITECHYAN (since 16 February 1993)
+cabinet:
+     Council of Ministers; appointed by the president
+Legislative branch:
+     unicameral
+Supreme Soviet:
+     elections last held 20 May 1990 (next to be held NA); results -
+     percent of vote by party NA; seats - (260 total) non-aligned 125, ANM
+     52, DPA 23, Democratic Liberal Party 17, ARF 17, NDU 9, Christian
+     Democratic Party 1, Constitutional Rights Union 1, UNSD 1, Republican
+     Party 1, Nagorno-Karabakh representatives 13
+ 
+ 
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Armenian National Movement (ANM), Ter-Husik LAZARYAN, chairman;
+     National Democratic Union (NDU), David VARTANYAN, chairman; Armenian
+     Revolutionary Federation (ARF, Dashnaktsutyun), Arutyun ALISTAKESYAN,
+     chairman; Democratic Party of Armenia (DPA; Communist Party), Aram
+     SARKISYAN, chairman; Christian Democratic Party, Azat ARSHAKYAN,
+     chairman; Greens Party, Hakob SANASARIAN, chairman; Democratic Liberal
+     Party, Rouben MIRZAKHANYAN, chairman; Republican Party, Ashot
+     NAVARSARDYAN, chairman; Union for Self-Determination (UNSD), Paruir
+     AIRIKYAN, chairman
+Member of:
+     BSEC, CCC, CIS, CSCE, EBRD, ECE, IAEA, IBRD, ICAO, IDA, IFAD, ILO,
+     IMF, INTELSAT, INTERPOL, IOC, ITU, NACC, NAM (observer), UN, UNCTAD,
+     UNESCO, UNIDO, UPU, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Rouben Robert SHUGARIAN
+chancery:
+     Suite 210, 1660 L Street NW, Washington, DC 20036
+telephone:
+     (202) 628-5766
+US diplomatic representation:
+chief of mission:
+     Ambassador Harry J. GILMORE
+embassy:
+     18 Gen Bagramian, Yerevan
+mailing address:
+     use embassy street address
+telephone:
+     7-8852-151-144 or 8852-524-661
+FAX:
+     7-8852-151-138
+Flag:
+     three equal horizontal bands of red (top), blue, and gold
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Under the old central planning system, Armenia had built up a
+     developed industrial sector, supplying machine building equipment,
+     textiles, and other manufactured goods to sister republics in exchange
+     for raw materials and energy resources. Armenia is a large food
+     importer and its mineral deposits (gold, bauxite) are small. The
+     economic decline in the past three years (1991-93) has been
+     particularly severe due to the ongoing conflict over the Armenian
+     enclave of Nagorno-Karabakh in Azerbaijan. Azerbaijan and Turkey have
+     blockaded pipeline and railroad traffic to Armenia for its support of
+     the Karabakh Armenians. This has left Armenia with only sporadic
+     deliveries of natural gas through unstable Georgia, while other fuel
+     and raw materials are in critical short supply. Inflation, roughly 14%
+     per month in the first nine months of 1993, surged even higher in the
+     fourth quarter. In late 1993, most industrial enterprises were either
+     shut down or operating at drastically reduced levels. Only small
+     quantities of food were available (mostly humanitarian aid), heat was
+     nonexistent, and electricity strictly rationed. An economic recovery
+     cannot be expected until the Nagorno-Karabakh conflict is settled and
+     until transportation through Georgia improves.
+National product:
+     GDP - purchasing power equivalent - $7.1 billion (1993 estimate from
+     the UN International Comparison Program, as extended to 1991 and
+     published in the World Bank's World Development Report 1993; and as
+     extrapolated to 1993 using official Armenian statistics, which are
+     very uncertain because of major economic changes since 1990)
+National product real growth rate:
+     -9.9% (1993 est.)
+National product per capita:
+     $2,040 (1993 est.)
+Inflation rate (consumer prices):
+     14% per month average (first 9 months, 1993)
+Unemployment rate:
+     6.5% of officially registered unemployed but large numbers of
+     underemployed (1993 est.)
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $31 million to countries outside the FSU (f.o.b., 1993)
+commodities:
+     machinery and transport equipment, light industrial products,
+     processed food items, alcoholic products (1991)
+partners:
+     NA
+Imports:
+     $87 million from countries outside the FSU (c.i.f., 1993)
+commodities:
+     grain, other foods, fuel, other energy (1991)
+partners:
+     Russia, US, EC
+External debt:
+     $NA
+ 
+ 
+Industrial production:
+     growth rate -11% (1993 est.)
+Electricity:
+capacity:
+     2,875,000 kW
+production:
+     9 billion kWh
+consumption per capita:
+     2,585 kWh (1992)
+Industries:
+     traditionally diverse, including (as a percent of output of former
+     USSR) metalcutting machine tools (5.5%), forging-pressing machines
+     (1.9%), electric motors (9%), tires (1.5%), knitted wear (4.4%),
+     hosiery (3.0%), shoes (2.2%), silk fabric (0.8%), washing machines
+     (2.0%), chemicals, trucks, watches, instruments, and microelectronics
+     (1990); currently, much of industry is shut down
+Agriculture:
+     accounts for about 45% of GDP; only 17% of land area is arable;
+     employs 20%-30% of labor force as residents increasingly turn to
+     subsistence agriculture; fruits (especially grapes) and vegetable
+     farming, minor livestock sector; vineyards near Yerevan are famous for
+     brandy and other liqueurs
+Illicit drugs:
+     illicit cultivator of cannabis mostly for domestic consumption; used
+     as a transshipment point for illicit drugs to Western Europe
+Economic aid:
+recipient:
+     considerable humanitarian aid, mostly food and energy products, from
+     US and EC; Russia has granted 60 billion rubles in technical credits
+Currency:
+     1 dram = 100 luma; introduced separate currency in November 1993
+Exchange rates:
+     NA
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     840 km; does not include industrial lines (1990)
+Highways:
+total:
+     11,300 km
+paved:
+     10,500 km
+unpaved:
+     earth 800 km (1990)
+Inland waterways:
+     NA km
+Pipelines:
+     natural gas 900 km (1991)
+Ports:
+     none; landlocked
+ 
+ 
+Airports:
+total:
+     12
+usable:
+     10
+with permanent-surface runways:
+     6
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     3
+with runways 1,060-2,439 m:
+     2
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     progress on installation of fiber optic cable and construction of
+     facilities for mobile cellular phone service remains in the
+     negotiation phase for joint venture agreement; Armenia has about
+     650,000 telephones; average telephone density is 17.7 per 100 persons;
+     international connections to other former republics of the USSR are by
+     landline or microwave and to other countries by satellite and by
+     leased connection through the Moscow international gateway switch;
+     broadcast stations - 100% of population receives Armenian and Russian
+     TV programs; satellite earth station - INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Air Force, National Guard, Security Forces (internal and border
+     troops)
+Manpower availability:
+     males age 15-49 862,921; fit for military service 690,113; reach
+     military age (18) annually 28,458 (1994 est.)
+Defense expenditures:
+     250 million rubles, NA% of GDP (1992 est.); note - conversion of the
+     military budget into US dollars using the current exchange rate could
+     produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

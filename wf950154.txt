@@ -1,0 +1,332 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0153
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Marshall Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Marshall Islands 
+ 
+ 
+                             Marshall Islands
+ 
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Micronesia, in the North Pacific Ocean, about two-thirds of
+     the way between Hawaii and Papua New Guinea
+Map references:
+     Oceania, Standard Time Zones of the World
+Area:
+total area:
+     181.3 sq km
+land area:
+     181.3 sq km
+comparative area:
+     slightly larger than Washington, DC
+note:
+     includes the atolls of Bikini, Eniwetak, and Kwajalein
+Land boundaries:
+     0 km
+Coastline:
+     370.4 km
+Maritime claims:
+contiguous zone:
+     24 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     claims US territory of Wake Island
+Climate:
+     wet season May to November; hot and humid; islands border typhoon belt
+Terrain:
+     low coral limestone and sand islands
+Natural resources:
+     phosphate deposits, marine products, deep seabed minerals
+Land use:
+arable land:
+     0%
+permanent crops:
+     60%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     40%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     inadequate supplies of safe drinking water
+natural hazards:
+     occasionally subject to typhoons
+ 
+ 
+international agreements:
+     party to - Biodiversity, Climate Change, Law of the Sea, Ozone Layer
+     Protection, Ship Pollution
+Note:
+     two archipelagic island chains of 30 atolls and 1,152 islands; Bikini
+     and Eniwetak are former US nuclear test sites; Kwajalein, the famous
+     World War II battleground, is now used as a US missile test range
+ 
+                                  People
+ 
+Population:
+     54,031 (July 1994 est.)
+Population growth rate:
+     3.86% (1994 est.)
+Birth rate:
+     46.31 births/1,000 population (1994 est.)
+Death rate:
+     7.68 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     49.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     63.13 years
+male:
+     61.6 years
+female:
+     64.74 years (1994 est.)
+Total fertility rate:
+     6.94 children born/woman (1994 est.)
+Nationality:
+noun:
+     Marshallese (singular and plural)
+adjective:
+     Marshallese
+Ethnic divisions:
+     Micronesian
+Religions:
+     Christian (mostly Protestant)
+Languages:
+     English (universally spoken and is the official language), two major
+     Marshallese dialects from the Malayo-Polynesian family, Japanese
+Literacy:
+     age 15 and over can read and write (1980)
+total population:
+     93%
+male:
+     100%
+female:
+     88%
+Labor force:
+     4,800 (1986)
+by occupation:
+     NA
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of the Marshall Islands
+conventional short form:
+former:
+     Marshall Islands District (Trust Territory of the Pacific Islands)
+Digraph:
+     RM
+Type:
+     constitutional government in free association with the US; the Compact
+     of Free Association entered into force 21 October 1986
+Capital:
+     Majuro
+Administrative divisions:
+     none
+Independence:
+     21 October 1986 (from the US-administered UN trusteeship)
+National holiday:
+     Proclamation of the Republic of the Marshall Islands, 1 May (1979)
+Constitution:
+     1 May 1979
+Legal system:
+     based on adapted Trust Territory laws, acts of the legislature,
+     municipal, common, and customary laws
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President Amata KABUA (since 1979); election last held 6 January 1992
+     (next to be held NA; results - President Amata KABUA was reelected)
+cabinet:
+     Cabinet; president selects from the parliament
+Legislative branch:
+     unicameral
+Parliament (Nitijela):
+     elections last held 18 November 1991 (next to be held November 1995);
+     results - percent of vote NA; seats - (33 total)
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     no formal parties; President KABUA is chief political (and
+     traditional) leader
+Member of:
+     AsDB, ESCAP, IBRD, ICAO, IDA, IFC, IMF, INTELSAT (nonsignatory user),
+     INTERPOL, SPARTECA, SPC, SPF, UN, UNCTAD, WHO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Wilfred I. KENDALL
+chancery:
+     2433 Massachusetts Avenue NW, Washington, DC 20008
+ 
+ 
+telephone:
+     (202) 234-5414
+FAX:
+     (202) 232-3236
+consulate(s) general:
+     Honolulu and Los Angeles
+US diplomatic representation:
+chief of mission:
+     Ambassador David C. FIELDS
+embassy:
+     NA address, Majuro
+mailing address:
+     P. O. Box 1379, Majuro, Republic of the Marshall Islands 96960-1379
+telephone:
+     (692) 625-4011
+FAX:
+     (692) 625-4012
+Flag:
+     blue with two stripes radiating from the lower hoist-side corner -
+     orange (top) and white; there is a white star with four large rays and
+     20 small rays on the hoist side above the two stripes
+ 
+                                  Economy
+ 
+Overview:
+     Agriculture and tourism are the mainstays of the economy. Agricultural
+     production is concentrated on small farms, and the most important
+     commercial crops are coconuts, tomatoes, melons, and breadfruit. A few
+     cattle ranches supply the domestic meat market. Small-scale industry
+     is limited to handicrafts, fish processing, and copra. The tourist
+     industry is the primary source of foreign exchange and employs about
+     10% of the labor force. The islands have few natural resources, and
+     imports far exceed exports. In 1987 the US Government provided grants
+     of $40 million out of the Marshallese budget of $55 million.
+National product:
+     GDP - purchasing power equivalent - $63 million (1989 est.)
+National product real growth rate:
+     6% (1992)
+National product per capita:
+     $1,500 (1992 est)
+Inflation rate (consumer prices):
+     7% (1992 est)
+Unemployment rate:
+     16% (1991 est)
+Budget:
+revenues:
+     $55 million
+expenditures:
+     $NA, including capital expenditures of $NA (1987 est.)
+Exports:
+     $3.9 million (f.o.b., 1992 est)
+commodities:
+     coconut oil, fish, live animals, trichus shells
+partners:
+     US, Japan, Australia
+ 
+ 
+Imports:
+     $62.9 million (c.i.f., 1992 est)
+commodities:
+     foodstuffs, machinery and equipment, beverages and tobacco, fuels
+partners:
+     US, Japan, Australia
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     42,000 kW
+production:
+     80 million kWh
+consumption per capita:
+     1,840 kWh (1990)
+Industries:
+     copra, fish, tourism; craft items from shell, wood, and pearls;
+     offshore banking (embryonic)
+Agriculture:
+     coconuts, cacao, taro, breadfruit, fruits, pigs, chickens
+Economic aid:
+recipient:
+     under the terms of the Compact of Free Association, the US is to
+     provide approximately $40 million in aid annually
+Currency:
+     1 United States dollar (US$) = 100 cents
+Exchange rates:
+     US currency is used
+Fiscal year:
+     1 October - 30 September
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+note:
+     paved roads on major islands (Majuro, Kwajalein), otherwise stone-,
+     coral-, or laterite-surfaced roads and tracks
+Ports:
+     Majuro
+Merchant marine:
+     40 ships (1,000 GRT or over) totaling 2,255,348 GRT/4,351,997 DWT,
+     bulk carrier 23, cargo 2, combination ore/oil 1, container 1, oil
+     tanker 13
+note:
+     a flag of convenience registry
+Airports:
+total:
+     16
+usable:
+     16
+ 
+ 
+with permanent-surface runways:
+     4
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     8
+Telecommunications:
+     telephone network - 570 lines (Majuro) and 186 (Ebeye); telex
+     services; islands interconnected by shortwave radio (used mostly for
+     government purposes); broadcast stations - 1 AM, 2 FM, 1 TV, 1
+     shortwave; 2 Pacific Ocean INTELSAT earth stations; US Government
+     satellite communications system on Kwajalein
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of the US
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

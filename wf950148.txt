@@ -1,0 +1,354 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0147
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Malawi
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Malawi 
+ 
+ 
+                                  Malawi
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, between Mozambique and Zambia
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     118,480 sq km
+land area:
+     94,080 sq km
+comparative area:
+     slightly larger than Pennsylvania
+Land boundaries:
+     total 2,881 km, Mozambique 1,569 km, Tanzania 475 km, Zambia 837 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi)
+Climate:
+     tropical; rainy season (November to May); dry season (May to November)
+Terrain:
+     narrow elongated plateau with rolling plains, rounded hills, some
+     mountains
+Natural resources:
+     limestone, unexploited deposits of uranium, coal, and bauxite
+Land use:
+arable land:
+     25%
+permanent crops:
+     0%
+meadows and pastures:
+     20%
+forest and woodland:
+     50%
+other:
+     5%
+Irrigated land:
+     200 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; land degradation; water pollution from agricultural
+     runoff, sewage, industrial wastes; siltation of spawning grounds
+     endangers fish population
+natural hazards:
+     NA
+international agreements:
+     party to - Biodiversity, Endangered Species, Environmental
+     Modification, Marine Life Conservation, Nuclear Test Ban, Ozone Layer
+     Protection; signed, but not ratified - Climate Change, Law of the Sea
+Note:
+     landlocked
+ 
+ 
+ 
+                                  People
+ 
+Population:
+     9,732,409 (July 1994 est.)
+Population growth rate:
+     -1.09% (1994 est.)
+Birth rate:
+     50.42 births/1,000 population (1994 est.)
+Death rate:
+     23.19 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -38.1 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     141.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     39.73 years
+male:
+     38.93 years
+female:
+     40.55 years (1994 est.)
+Total fertility rate:
+     7.43 children born/woman (1994 est.)
+Nationality:
+noun:
+     Malawian(s)
+adjective:
+     Malawian
+Ethnic divisions:
+     Chewa, Nyanja, Tumbuko, Yao, Lomwe, Sena, Tonga, Ngoni, Ngonde, Asian,
+     European
+Religions:
+     Protestant 55%, Roman Catholic 20%, Muslim 20%, traditional indigenous
+     beliefs
+Languages:
+     English (official), Chichewa (official), other languages important
+     regionally
+Literacy:
+     age 15 and over can read and write (1966)
+total population:
+     22%
+male:
+     34%
+female:
+     12%
+Labor force:
+     428,000 wage earners
+by occupation:
+     agriculture 43%, manufacturing 16%, personal services 15%, commerce
+     9%, construction 7%, miscellaneous services 4%, other permanently
+     employed 6% (1986)
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     Republic of Malawi
+conventional short form:
+former:
+     Nyasaland
+Digraph:
+     MI
+Type:
+     multiparty democracy following a referendum on 14 June 1993; formerly
+     a one-party republic
+Capital:
+     Lilongwe
+Administrative divisions:
+     24 districts; Blantyre, Chikwawa, Chiradzulu, Chitipa, Dedza, Dowa,
+     Karonga, Kasungu, Lilongwe, Machinga (Kasupe), Mangochi, Mchinji,
+     Mulanje, Mwanza, Mzimba, Ntcheu, Nkhata Bay, Nkhotakota, Nsanje,
+     Ntchisi, Rumphi, Salima, Thyolo, Zomba
+Independence:
+     6 July 1964 (from UK)
+National holiday:
+     Independence Day, 6 July (1964)
+Constitution:
+     6 July 1966; republished as amended January 1974
+Legal system:
+     based on English common law and customary law; judicial review of
+     legislative acts in the Supreme Court of Appeal; has not accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     21 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President Bakili MULUZI (since 21 May 1994), leader of the United
+     Democratic Front
+cabinet:
+     Cabinet; named by the president
+Legislative branch:
+     unicameral
+National Assembly:
+     elections last held 17 May 1994 (next to be held NA); seats - (177
+     total) UDF 84, AFORD 33, MCP 55, others 5
+Judicial branch:
+     High Court, Supreme Court of Appeal
+Political parties and leaders:
+ruling party:
+     United Democratic Front (UDF), Bakili MULUZI
+opposition groups:
+     Malawi Congress Party (MCP), Gwanda CHAKUAMBA Phiri, secretary general
+     (top party position); Alliance for Democracy (Aford), Chakufwa
+     CHIHANA; Socialist League of Malawi (Lesoma), Kapote MWAKUSULA,
+     secretary general; Malawi Democratic Union (MDU), Harry BWANAUSI;
+     Congress for the Second Republic (CSR), Kanyama CHIUME; Malawi
+     Socialist Labor Party (MSLP), Stanford SAMBANEMANJA
+ 
+ 
+Member of:
+     ACP, AfDB, C, CCC, ECA, FAO, G-77, GATT, IBRD, ICAO, ICFTU, IDA, IFAD,
+     IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ISO (correspondent), ITU,
+     LORCS, NAM, OAU, SADC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO,
+     WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Robert B. MBAYA
+chancery:
+     2408 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 797-1007
+US diplomatic representation:
+chief of mission:
+     Ambassador Michael T. F. PISTOR
+embassy:
+     address NA, in new capital city development area in Lilongwe
+mailing address:
+     P. O. Box 30016, Lilongwe 3, Malawi
+telephone:
+     [265] 783-166
+FAX:
+     [265] 780-471
+Flag:
+     three equal horizontal bands of black (top), red, and green with a
+     radiant, rising, red sun centered in the black band; similar to the
+     flag of Afghanistan, which is longer and has the national coat of arms
+     superimposed on the hoist side of the black and red bands
+ 
+                                  Economy
+ 
+Overview:
+     Landlocked Malawi ranks among the world's least developed countries.
+     The economy is predominately agricultural, with about 90% of the
+     population living in rural areas. Agriculture accounts for 40% of GDP
+     and 90% of export revenues. After two years of weak performance,
+     economic growth improved significantly in 1988-91 as a result of good
+     weather and a broadly based economic adjustment effort by the
+     government. Drought cut overall output sharply in 1992. The economy
+     depends on substantial inflows of economic assistance from the IMF,
+     the World Bank, and individual donor nations.
+National product:
+     GDP - purchasing power equivalent $6 billion (1993 est.)
+National product real growth rate:
+     -8% (1992 est.)
+National product per capita:
+     $600 (1993 est.)
+Inflation rate (consumer prices):
+     21% (1992 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $416 million
+ 
+ 
+expenditures:
+     $498 million, including capital expenditures of $NA (1992 est.)
+Exports:
+     $413 million (f.o.b., 1992)
+commodities:
+     tobacco, tea, sugar, coffee, peanuts, wood products
+partners:
+     US, UK, Zambia, South Africa, Germany
+Imports:
+     $737 million (c.i.f., 1992)
+commodities:
+     food, petroleum products, semimanufactures, consumer goods,
+     transportation equipment
+partners:
+     South Africa, Japan, US, UK, Zimbabwe
+External debt:
+     $1.8 billion (December 1991 est.)
+Industrial production:
+     growth rate 3.5% (1992 est.); accounts for about 15% of GDP (1992
+     est.)
+Electricity:
+capacity:
+     190,000 kW
+production:
+     620 million kWh
+consumption per capita:
+     65 kWh (1992)
+Industries:
+     agricultural processing (tea, tobacco, sugar), sawmilling, cement,
+     consumer goods
+Agriculture:
+     accounts for 40% of GDP; cash crops - tobacco, sugarcane, cotton, tea,
+     and corn; subsistence crops - potatoes, cassava, sorghum, pulses;
+     livestock - cattle, goats
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $215 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $2.15
+     billion
+Currency:
+     1 Malawian kwacha (MK) = 100 tambala
+Exchange rates:
+     Malawian kwacha (MK) per US$1 - 4.4598 (November 1993), 3.6033 (1992),
+     2.8033 (1991), 2.7289 (1990), 2.7595 (1989)
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Railroads:
+     789 km 1.067-meter gauge
+Highways:
+total:
+     13,135 km
+ 
+ 
+paved:
+     2,364 km
+unpaved:
+     gravel, crushed stone, stabilized earth 251 km; earth, improved earth
+     10,520 km
+Inland waterways:
+     Lake Nyasa (Lake Malawi); Shire River, 144 km
+Ports:
+     Chipoka, Monkey Bay, Nkhata Bay, and Nkotakota - all on Lake Nyasa
+     (Lake Malawi)
+Airports:
+total:
+     47
+usable:
+     41
+with permanent-surface runways:
+     6
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     10
+Telecommunications:
+     fair system of open-wire lines, radio relay links, and radio
+     communications stations; 42,250 telephones; broadcast stations - 10
+     AM, 17 FM, no TV; satellite earth stations - 1 Indian Ocean INTELSAT
+     and 1 Atlantic Ocean INTELSAT
+Note:
+     a majority of exports would normally go through Mozambique on the
+     Beira, Nacala, and Limgogo railroads, but now most go through South
+     Africa because of insurgent activity and damage to rail lines
+ 
+                              Defense Forces
+ 
+Branches:
+     Army (including Air Wing and Naval Detachment), Police (including
+     paramilitary Mobile Force Unit),
+Manpower availability:
+     males age 15-49 2,046,413; fit for military service 1,043,674
+Defense expenditures:
+     exchange rate conversion - $22 million, 1.6% of GDP (1989 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

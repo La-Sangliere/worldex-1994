@@ -1,0 +1,433 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0241
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Turkey
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Turkey 
+ 
+ 
+                                  Turkey
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southwestern Asia (that part west of the Bosporus is sometimes
+     included with Europe), bordering the Mediterranean Sea and Black Sea,
+     between Bulgaria and Iran
+Map references:
+     Africa, Europe, Middle East, Standard Time Zones of the World
+Area:
+total area:
+     780,580 sq km
+land area:
+     770,760 sq km
+comparative area:
+     slightly larger than Texas
+Land boundaries:
+     total 2,627 km, Armenia 268 km, Azerbaijan 9 km, Bulgaria 240 km,
+     Georgia 252 km, Greece 206 km, Iran 499 km, Iraq 331 km, Syria 822 km
+Coastline:
+     7,200 km
+Maritime claims:
+exclusive economic zone:
+     in Black Sea only - to the maritime boundary agreed upon with the
+     former USSR
+territorial sea:
+     6 nm in the Aegean Sea,
+     12 nm in the Black Sea and in the Mediterranean Sea
+International disputes:
+     complex maritime and air (but not territorial) disputes with Greece in
+     Aegean Sea; Cyprus question; Hatay question with Syria; ongoing
+     dispute with downstream riparians (Syria and Iraq) over water
+     development plans for the Tigris and Euphrates Rivers
+Climate:
+     temperate; hot, dry summers with mild, wet winters; harsher in
+     interior
+Terrain:
+     mostly mountains; narrow coastal plain; high central plateau
+     (Anatolia)
+Natural resources:
+     antimony, coal, chromium, mercury, copper, borate, sulphur, iron ore
+Land use:
+arable land:
+     30%
+permanent crops:
+     4%
+meadows and pastures:
+     12%
+forest and woodland:
+     26%
+other:
+     28%
+Irrigated land:
+     22,200 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     water pollution from dumping of chemicals and detergents; air
+     pollution; deforestation
+natural hazards:
+     subject to very severe earthquakes, especially in northern Turkey,
+     along an arc extending from the Sea of Marmara to Lake Van
+international agreements:
+     party to - Air Pollution, Nuclear Test Ban, Ozone Layer Protection,
+     Ship Pollution; signed, but not ratified - Biodiversity, Environmental
+     Modification, Hazardous Wastes,
+Note:
+     strategic location controlling the Turkish Straits (Bosporus, Sea of
+     Marmara, Dardanelles) that link Black and Aegean Seas
+ 
+                                  People
+ 
+Population:
+     62,153,898 (July 1994 est.)
+Population growth rate:
+     2.02% (1994 est.)
+Birth rate:
+     25.98 births/1,000 population (1994 est.)
+Death rate:
+     5.8 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     48.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     70.94 years
+male:
+     68.61 years
+female:
+     73.38 years (1994 est.)
+Total fertility rate:
+     3.21 children born/woman (1994 est.)
+Nationality:
+noun:
+     Turk(s)
+adjective:
+     Turkish
+Ethnic divisions:
+     Turkish 80%, Kurdish 20%
+Religions:
+     Muslim 99.8% (mostly Sunni), other 0.2% (Christian and Jews)
+Languages:
+     Turkish (official), Kurdish, Arabic
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     81%
+male:
+     90%
+ 
+ 
+female:
+     71%
+Labor force:
+     20.8 million
+by occupation:
+     agriculture 48%, services 32%, industry 20%
+note:
+     about 1,800,000 Turks work abroad (1993)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Turkey
+conventional short form:
+local long form:
+     Turkiye Cumhuriyeti
+local short form:
+     Turkiye
+Digraph:
+     TU
+Type:
+     republican parliamentary democracy
+Capital:
+     Ankara
+Administrative divisions:
+     73 provinces (iller, singular - il); Adana, Adiyaman, Afyon, Agri,
+     Aksaray, Amasya, Ankara, Antalya, Artvin, Aydin, Balikesir, Batman,
+     Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale,
+     Cankiri, Corum, Denizli, Diyarbakir, Edirne, Elazig, Erzincan,
+     Erzurum, Eskisehir, Gazi Antep, Giresun, Gumushane, Hakkari, Hatay,
+     Icel, Isparta, Istanbul, Izmir, Kahraman Maras, Karaman, Kars,
+     Kastamonu, Kayseri, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya,
+     Kutahya, Malatya, Manisa, Mardin, Mugla, Mus, Nevsehir, Nigde, Ordu,
+     Rize, Sakarya, Samsun, Sanli Urfa, Siirt, Sinop, Sirnak, Sivas,
+     Tekirdag, Tokat, Trabzon, Tunceli, Usak, Van, Yozgat, Zonguldak
+Independence:
+     29 October 1923 (successor state to the Ottoman Empire)
+National holiday:
+     Anniversary of the Declaration of the Republic, 29 October (1923)
+Constitution:
+     7 November 1982
+Legal system:
+     derived from various continental legal systems; accepts compulsory ICJ
+     jurisdiction, with reservations
+Suffrage:
+     21 years of age; universal
+Executive branch:
+chief of state:
+     President Suleyman DEMIREL (since 16 May 1993)
+head of government:
+     Prime Minister Tansu CILLER (since 5 July 1993)
+National Security Council:
+     advisory body to the President and the Cabinet
+ 
+ 
+cabinet:
+     Council of Ministers; appointed by the president on nomination of the
+     prime minister
+Legislative branch:
+     unicameral
+Turkish Grand National Assembly:
+      (Turkiye Buyuk Millet Meclisi) elections last held 20 October 1991
+     (next to be held NA October 1996); results - DYP 27.03%, ANAP 24.01%,
+     SHP 20.75%, RP 16.88%, DSP 10.75%, SBP 0.44%, independent 0.14%; seats
+     - (450 total) DYP 178, ANAP 115, SHP 86, RP 40, MCP 19, DSP 7, other 5
+note:
+     seats held by various parties are subject to change due to defections,
+     creation of new parties, and ouster or death of sitting deputies;
+     present seats by party are as follows: DYP 178, ANAP 101, SHP 55, RP
+     39, CHP 18, MHP 13, DEP 13, BBP 7, DSP 3, YP 3, MP 2, independents 10,
+     vacant 8
+Judicial branch:
+     Court of Cassation
+Political parties and leaders:
+     Correct Way Party (DYP), Tansu CILLER; Motherland Party (ANAP), Mesut
+     YILMAZ; Social Democratic Populist Party (SHP), Murat KARAYALCIN;
+     Welfare Party (RP), Necmettin ERBAKAN; Democratic Left Party (DSP),
+     Bulent ECEVIT; Nationalist Action Party (MHP), Alparslan TURKES;
+     Democracy Party (DEP), Hatip DICLE; Socialist Unity Party (SBP), Sadun
+     AREN; New Party (YP), Yusuf Bozkurt OZAL; Republican People's Party
+     (CHP), Deniz BAYKAL; Labor Party (IP), Dogu PERINCEK; National Party
+     (MP), Aykut EDIBALI; Democrat Party (DP), Aydin MENDERES; Grand Unity
+     Party (BBP), Muhsin YAZICIOGLU; Rebirth Party (YDP), Hasan Celal
+     GUZEL; People's Democracy Party (HADEP), Murat BOZLAK; Main Path Party
+     (ANAYOL), Gurcan BASER; Democratic Target Party, Abdul Kadir Yasar
+     TURK
+Other political or pressure groups:
+     Turkish Confederation of Labor (TURK-IS), Bayram MERAL
+Member of:
+     AsDB, BIS, BSEC, CCC, CE, CERN (observer), COCOM, CSCE, EBRD, ECE,
+     ECO, FAO, GATT, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IDB, IEA, IFAD,
+     IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM (observer),
+     ISO, ITU, LORCS, NACC, NATO, NEA, OECD, OIC, PCA, UN, UNCTAD, UNESCO,
+     UNHCR, UNIDO, UNIKOM, UNOSOM, UNRWA, UPU, WEU (associate), WFTU, WHO,
+     WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Nuzhet KANDEMIR
+chancery:
+     1714 Massachusetts Avenue NW, Washington, DC 20036
+telephone:
+     (202) 659-8200
+consulate(s) general:
+     Chicago, Houston, Los Angeles, and New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Richard C. BARKLEY
+embassy:
+     110 Ataturk Boulevard, Ankara
+ 
+ 
+mailing address:
+     PSC 93, Box 5000, Ankara, or APO AE 09823
+telephone:
+     [90] (312) 468-6110 through 6128
+FAX:
+     [90] (312) 467-0019
+consulate(s) general:
+     Istanbul
+consulate(s):
+     Adana
+Flag:
+     red with a vertical white crescent (the closed portion is toward the
+     hoist side) and white five-pointed star centered just outside the
+     crescent opening
+ 
+                                  Economy
+ 
+Overview:
+     In early 1994, after an impressive economic performance through most
+     of the 1980s, Turkey faces its most damaging economic crisis in the
+     last 15 years. Sparked by the downgrading in mid-January of Turkey's
+     international credit rating by two US credit rating agencies, the
+     crisis stems from two years of loose fiscal and monetary policies that
+     have exacerbated inflation and allowed the public debt, money supply,
+     and current account deficit to explode. Under Prime Minister CILLER,
+     Ankara has followed seriously flawed policies that have destroyed
+     public confidence in the government's ability to manage the economy.
+     Inflation is now running at an annual rate of 107% and the public
+     sector deficit is equivalent to 16% of GDP. Turkish firms have been
+     hurt by high interest rates and a dramatic drop in consumer demand.
+     Three Turkish banks have folded and the stock market has fallen 48%
+     since the beginning of the year. Economic growth may drop to between
+     0% and 2% in 1994, compared to 7.3% in 1993. Moreover, the government
+     is facing a severe cash crunch. In March 1994, the treasury came close
+     to defaulting on a loan, and official foreign currency reserves are
+     equal to less than two months' worth of imports. The unprecedented
+     effort by the Kurdistan Workers' Party (PKK) to raise the economic
+     costs of its insurgency against the Turkish state is adding to
+     Turkey's economic problems. Attacks against the tourism industry have
+     cut tourist revenues, which account for about 3% of GDP, while
+     economic activity in southeastern Turkey, where most of the violence
+     occurs, has dropped considerably. To cope with the economic crisis and
+     instill domestic and international investor confidence in the fragile
+     coalition government, CILLER has asked the IMF to endorse a
+     stabilization package she introduced in early April 1994. Negotiations
+     are underway for a standby agreement, which would give Turkey access
+     to $450 million this year and enable her cash-starved government to
+     return to the foreign capital markets.
+National product:
+     GDP - purchasing power equivalent - $312.4 billion (1993)
+National product real growth rate:
+     7.3% (1993)
+National product per capita:
+     $5,100 (1993)
+ 
+ 
+Inflation rate (consumer prices):
+     65% (1993)
+Unemployment rate:
+     12.2% (1993)
+Budget:
+revenues:
+     $36.5 billion
+expenditures:
+     $47.6 billion, including capital expenditures of $5 billion (1994)
+Exports:
+     $14.9 billion (f.o.b., 1992)
+commodities:
+     manufactured products 72%, foodstuffs 23%, mining products 4%
+partners:
+     EC countries 53%, US 6%, Russia 4%, Saudi Arabia 3%
+Imports:
+     $22.9 billion (c.i.f., 1992)
+commodities:
+     manufactured products 68%, fuels 17%, foodstuffs 4%
+partners:
+     EC countries 44%, US 11%, Saudi Arabia 7%, Russia 5%
+External debt:
+     $59.4 billion (1993)
+Industrial production:
+     growth rate 4.3% (1992); accounts for 28% of GDP
+Electricity:
+capacity:
+     14,400,000 kW
+production:
+     44 billion kWh
+consumption per capita:
+     750 kWh (1991)
+Industries:
+     textiles, food processing, mining (coal, chromite, copper, boron
+     minerals), steel, petroleum, construction, lumber, paper
+Agriculture:
+     accounts for 16% of GDP and employs about half of working force;
+     products - tobacco, cotton, grain, olives, sugar beets, pulses, citrus
+     fruit, variety of animal products; self-sufficient in food most years
+Illicit drugs:
+     major transit route for Southwest Asian heroin and hashish to Western
+     Europe and the US via air, land, and sea routes; major Turkish,
+     Iranian, and other international trafficking organizations operate out
+     of Istanbul; laboratories to convert imported morphine base into
+     heroin are in remote regions of Turkey as well as near Istanbul;
+     government maintains strict controls over areas of legal opium poppy
+     cultivation and output of poppy straw concentrate
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $2.3 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $10.1
+     billion; OPEC bilateral aid (1979-89), $665 million; Communist
+     countries (1970-89), $4.5 billion
+ 
+ 
+note:
+     aid for Persian Gulf war efforts from coalition allies (1991), $4.1
+     billion; aid pledged for Turkish Defense Fund, $2.5 billion
+Currency:
+     1 Turkish lira (TL) = 100 kurus
+Exchange rates:
+     Turkish liras (TL) per US$1 - 15,196.1 (January 1994), 10,983.3
+     (1993), 6,872.4 (1992), 4,171.8 (1991), 2,608.6 (1990), 2,121.7 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     8,429 km 1.435-meter gauge (including 795 km electrified)
+Highways:
+total:
+     320,611 km
+paved:
+     27,000 km (including 138 km of expressways)
+unpaved:
+     gravel 18,500 km; earth 275,111 km (1988)
+Inland waterways:
+     about 1,200 km
+Pipelines:
+     crude oil 1,738 km; petroleum products 2,321 km; natural gas 708 km
+Ports:
+     Iskenderun, Istanbul, Mersin, Izmir
+Merchant marine:
+     390 ships (1,000 GRT or over) totaling 4,664,205 GRT/8,163,379 DWT,
+     bulk 103, cargo 195, chemical tanker 10, combination bulk 5,
+     combination ore/oil 12, container 2, liquefied gas 4, livestock
+     carrier 1, oil tanker 41, passenger-cargo 1, refrigerated cargo 2,
+     roll-on/roll-off cargo 5, short-sea passenger 7, specialized tanker 2
+Airports:
+total:
+     113
+usable:
+     105
+with permanent-surface runways:
+     69
+with runways over 3,659 m:
+     3
+with runways 2,440-3,659 m:
+     32
+with runways 1,220-2,439 m:
+     27
+Telecommunications:
+     fair domestic and international systems; trunk radio relay microwave
+     network; limited open wire network; 3,400,000 telephones; broadcast
+     stations - 15 AM; 94 FM; 357 TV; 1 satellite ground station operating
+     in the INTELSAT (2 Atlantic Ocean antennas) and EUTELSAT systems; 1
+     submarine cable
+ 
+ 
+                              Defense Forces
+ 
+Branches:
+     Land Forces, Navy (including Naval Air and Naval Infantry), Air Force,
+     Coast Guard, Gendarmerie
+Manpower availability:
+     males age 15-49 16,112,783; fit for military service 9,828,853; reach
+     military age (20) annually 614,252 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $14 billion, 5.6% of GDP (1994 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

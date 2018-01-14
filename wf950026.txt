@@ -1,0 +1,402 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0025
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Belarus
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Belarus 
+ 
+ 
+                                  Belarus
+ 
+ 
+                                 Geography
+ 
+Location:
+     Eastern Europe, between Poland and Russia
+Map references:
+     Asia, Commonwealth of Independent States - European States, Europe,
+     Standard Time Zones of the World
+Area:
+total area:
+     207,600 sq km
+land area:
+     207,600 sq km
+comparative area:
+     slightly smaller than Kansas
+Land boundaries:
+     total 3,098 km, Latvia 141 km, Lithuania 502 km, Poland 605 km, Russia
+     959 km, Ukraine 891 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     cold winters, cool and moist summers; transitional between continental
+     and maritime
+Terrain:
+     generally flat and contains much marshland
+Natural resources:
+     forest land, peat deposits
+Land use:
+arable land:
+     29%
+permanent crops:
+     1%
+meadows and pastures:
+     15%
+forest and woodland:
+     0%
+other:
+     55%
+Irrigated land:
+     1,490 sq km (1990)
+Environment:
+current issues:
+     soil pollution from pesticide use; southern part of Belarus
+     contaminated with fallout from 1986 nuclear reactor accident at
+     Chornobyl'
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Biodiversity, Environmental Modification, Marine
+     Dumping, Ozone Layer Protection; signed, but not ratified - Climate
+     Change, Law of the Sea
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     10,404,862 (July 1994 est.)
+Population growth rate:
+     0.32% (1994 est.)
+Birth rate:
+     13.12 births/1,000 population (1994 est.)
+Death rate:
+     11.16 deaths/1,000 population (1994 est.)
+Net migration rate:
+     1.27 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     18.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     70.88 years
+male:
+     66.2 years
+female:
+     75.79 years (1994 est.)
+Total fertility rate:
+     1.88 children born/woman (1994 est.)
+Nationality:
+noun:
+     Belarusian(s)
+adjective:
+     Belarusian
+Ethnic divisions:
+     Byelorussian 77.9%, Russian 13.2%, Polish 4.1%, Ukrainian 2.9%, other
+     1.9%
+Religions:
+     Eastern Orthodox, other
+Languages:
+     Byelorussian, Russian, other
+Literacy:
+     age 9-49 can read and write (1979)
+total population:
+     100%
+male:
+     100%
+female:
+     100%
+Labor force:
+     4.887 million
+ 
+ 
+by occupation:
+     industry and construction 40%, agriculture and forestry 21%, other 39%
+     (1992)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Belarus
+conventional short form:
+local long form:
+     Respublika Byelarus'
+local short form:
+     none
+former:
+     Belorussian (Byelorussian) Soviet Socialist Republic
+Digraph:
+     BO
+Type:
+     republic
+Capital:
+     Minsk
+Administrative divisions:
+     6 voblastsi (singular - voblasts') and one municipality* (harady,
+     singular - horad); Brestskaya (Brest), Homyel'skaya (Homyel'), Horad
+     Minsk*, Hrodzyenskaya (Hrodna), Mahilyowskaya (Mahilyow), Minskaya,
+     Vitsyebskaya (Vitsyebsk)
+note:
+     the administrative centers of the voblastsi are included in
+     parentheses
+Independence:
+     25 August 1991 (from Soviet Union)
+National holiday:
+     Independence Day, 27 July (1990)
+Constitution:
+     adopted 15 March 1994; replaces constitution of April 1978
+Legal system:
+     based on civil law system
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President-elect Aleksandr LUKASHENKO (elected 10 July 1994, but not
+     yet inaugurated) election held June 24 and 10 July 1994 (next to be
+     held NA); Aleksandr LUKASHENKO 80%, Vyacheslav KEBICH 14%
+head of government:
+     Prime Minister Vyacheslav F. KEBICH (since NA April 1990; offered his
+     resignation on the election of LUCHASHENKO), First Deputy Prime
+     Minister Mikhail MYASNIKOVICH (since NA 1991)
+cabinet:
+     Council of Ministers
+note:
+     first presidential elections took place in June-July 1994
+ 
+ 
+Legislative branch:
+     unicameral
+Supreme Soviet:
+     elections last held 4 April 1990 (next to be held NA); results -
+     Communists 87%; seats - (360 total) number of seats by party NA; note
+     - 50 seats are for public bodies; the Communist Party obtained an
+     overwhelming majority
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Belarusian Popular Front (BPF), Zenon PAZNYAK, chairman; United
+     Democratic Party of Belarus (UDPB), Aleksandr DOBROVOLSKIY, chairman;
+     Social Democratic Party of Belarus (SDBP), Mikhail TKACHEV, chairman;
+     Belarus Workers Union, Mikhail SOBOL, Chairman; Belarus Peasants
+     Party; Party of People's Unity, Gennadiy KARPENKO; Movement for
+     Democracy, Social Progress, and Justice (DSPS; includes the Communist
+     Party), Viktor CHIKIN, chairman
+Member of:
+     CBSS (observer), CE (guest), CEI (participating), CIS, CSCE, ECE,
+     IAEA, IBRD, ICAO, IFC, ILO, IMF, INMARSAT, INTELSAT (nonsignatory
+     user), IOC, ITU, NACC, PCA, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO,
+     WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Sergey Nikolayevich MARTYNOV
+chancery:
+     1619 New Hampshire Avenue NW, Washington, DC 20009
+telephone:
+     (202) 986-1604
+FAX:
+     (202) 986-1805)
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge d'Affaires George KROL
+embassy:
+     Starovilenskaya #46, Minsk
+mailing address:
+     use embassy street address
+telephone:
+     7-0172-34-65-37
+Flag:
+     three horizontal bands of white (top), red, and white
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Belarus ranks among the most developed of the former Soviet states,
+     with a relatively modern - by Soviet standards - and diverse machine
+     building sector and a robust agriculture sector. It also serves as a
+     transport link for Russian oil exports to the Baltic states and
+     Eastern and Western Europe. The breakup of the Soviet Union and its
+     command economy has resulted in a sharp economic contraction as
+     traditional trade ties have collapsed. At the same time, the
+     Belarusian Government has lagged behind most other former Soviet
+     states in economic reform; privatization has barely begun; the
+     agriculture sector remains highly subsidized; the state retains
+     control over many prices; and the system of state orders and
+     distribution persists. Meanwhile, the national bank continues to pour
+     credits into inefficient enterprises, fueling inflation and weakening
+     incentives to improve performance. The government is pinning its hopes
+     on reintegration with the Russian economy, but such a path would only
+     partially restore traditional trade ties. Until economic reform is
+     embraced, Belarus will continue in its economic morass.
+National product:
+     GDP - purchasing power equivalent - $61 billion (1993 estimate from
+     the UN International Comparison Program, as extended to 1991 and
+     published in the World Bank's World Development Report 1993; and as
+     extrapolated to 1993 using official Belarusian statistics, which are
+     very uncertain because of major economic changes since 1990)
+National product real growth rate:
+     -9% (1993 est.)
+National product per capita:
+     $5,890 (1993 est.)
+Inflation rate (consumer prices):
+     30% per month (1993)
+Unemployment rate:
+     1.4% officially registered unemployed (December 1993); large numbers
+     of underemployed workers
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $710 million to outside of the FSU countries (f.o.b., 1993)
+commodities:
+     machinery and transport equipment, chemicals, foodstuffs
+partners:
+     Russia, Ukraine, Poland, Bulgaria
+Imports:
+     $743 million from outside the FSU countries (c.i.f., 1993)
+commodities:
+     fuel, industrial raw materials, textiles, sugar
+partners:
+     Russia, Ukraine, Poland
+External debt:
+     $NA
+Industrial production:
+     growth rate -11% (1993); accounts for about 40% of GDP (1992)
+ 
+ 
+Electricity:
+capacity:
+     8,025,000 kW
+production:
+     37.6 billion kWh
+consumption per capita:
+     3,626 kWh (1992)
+Industries:
+     employ about 40% of labor force and produce a wide variety of products
+     including (in percent share of total output of former Soviet Union):
+     tractors (12%); metal-cutting machine tools (11%); off-highway dump
+     trucks up to 110-metric-ton load capacity (100%); wheel-type
+     earthmovers for construction and mining (100%); eight-wheel-drive,
+     high-flotation trucks with cargo capacity of 25 metric tons for use in
+     tundra and roadless areas (100%); equipment for animal husbandry and
+     livestock feeding (25%); motorcycles (21.3%); television sets (11%);
+     chemical fibers (28%); fertilizer (18%); linen fabric (11%); wool
+     fabric (7%); radios; refrigerators; and other consumer goods
+Agriculture:
+     accounts for almost 25% of GDP and 5.7% of total agricultural output
+     of former Soviet Union; employs 21% of the labor force; in 1988
+     produced the following (in percent of total Soviet production): grain
+     (3.6%), potatoes (12.2%), vegetables (3.0%), meat (6.0%), milk (7.0%);
+     net exporter of meat, milk, eggs, flour, potatoes
+Illicit drugs:
+     illicit cultivator of opium poppy and cannabis; mostly for the
+     domestic market; transshipment point for illicit drugs to Western
+     Europe
+Economic aid:
+     $NA
+Currency:
+     Belarusian rubel
+note:
+     the government signed a framework agreement with Russia for a monetary
+     union in January 1994, but a schedule and mechanism for merging the
+     two monetary systems and replacing Belarusian rubels with Russian
+     rubles have not been worked out
+Exchange rates:
+     NA
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     5,570 km; does not include industrial lines (1990)
+Highways:
+total:
+     98,200 km
+paved:
+     66,100 km
+unpaved:
+     earth 32,100 km (1990)
+Inland waterways:
+     NA km
+ 
+ 
+Pipelines:
+     crude oil 1,470 km; refined products 1,100 km; natural gas 1,980 km
+     (1992)
+Ports:
+     none; landlocked
+Merchant marine:
+     claims 5% of former Soviet fleet
+Airports:
+total:
+     124
+usable:
+     55
+with permanent-surface runways:
+     31
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     28
+with runways 1,060-2,439 m:
+     20
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     telephone service in Belarus is inadequate for the purposes of either
+     business or the population; total number of telephones 1,849,000 (31
+     December 1991); telephone density - 18 for each 100 persons; about 70%
+     of the telephones are in homes; over 750,000 applications from
+     households for telephones remain unsatisfied (1992); new investment
+     centers on international connections and business needs; the new
+     BelCel NMT 450 cellular system (a joint venture) is now operating in
+     Minsk but progress has been slower in establishing an INTELSAT earth
+     station; international traffic still relies on the Moscow
+     international gateway switch; broadcast receivers - television
+     3,538,000, radio 3,140,000, radio receivers with multiple speaker
+     systems for program diffusion 5,615,000
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Air Forces, Air Defense Forces, Security Forces (internal and
+     border troops)
+Manpower availability:
+     males age 15-49 2,520,487; fit for military service 1,981,749; reach
+     military age (18) annually 71,922 (1994 est.)
+Defense expenditures:
+     56.5 billion rubles, NA% of GDP (1993 est.); note - conversion of the
+     military budget into US dollars using the current exchange rate could
+     produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

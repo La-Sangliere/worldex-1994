@@ -1,0 +1,388 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0057
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Congo
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Congo 
+ 
+ 
+                                   Congo
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, bordering the South Atlantic Ocean between Gabon and
+     Zaire
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     342,000 sq km
+land area:
+     341,500 sq km
+comparative area:
+     slightly smaller than Montana
+Land boundaries:
+     total 5,504 km, Angola 201 km, Cameroon 523 km, Central African
+     Republic 467 km, Gabon 1,903 km, Zaire 2,410 km
+Coastline:
+     169 km
+Maritime claims:
+territorial sea:
+     200 nm
+International disputes:
+     long segment of boundary with Zaire along the Congo River is
+     indefinite (no division of the river or its islands has been made)
+Climate:
+     tropical; rainy season (March to June); dry season (June to October);
+     constantly high temperatures and humidity; particularly enervating
+     climate astride the Equator
+Terrain:
+     coastal plain, southern basin, central plateau, northern basin
+Natural resources:
+     petroleum, timber, potash, lead, zinc, uranium, copper, phosphates,
+     natural gas
+Land use:
+arable land:
+     2%
+permanent crops:
+     0%
+meadows and pastures:
+     29%
+forest and woodland:
+     62%
+other:
+     7%
+Irrigated land:
+     40 sq km (1989)
+Environment:
+current issues:
+     air pollution from vehicle emissions; water pollution from the dumping
+     of raw sewage; deforestation
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     party to - Endangered Species, Tropical Timber; signed, but not
+     ratified - Biodiversity, Climate Change, Law of the Sea, Ozone Layer
+     Protection
+Note:
+     about 70% of the population lives in Brazzaville, Pointe Noire, or
+     along the railroad between them
+ 
+                                  People
+ 
+Population:
+     2,446,902 (July 1994 est.)
+Population growth rate:
+     2.38% (1994 est.)
+Birth rate:
+     40.27 births/1,000 population (1994 est.)
+Death rate:
+     16.49 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     111 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     47.56 years
+male:
+     45.76 years
+female:
+     49.41 years (1994 est.)
+Total fertility rate:
+     5.3 children born/woman (1994 est.)
+Nationality:
+noun:
+     Congolese (singular and plural)
+adjective:
+     Congolese or Congo
+Ethnic divisions:
+south:
+     Kongo 48%
+north:
+     Sangha 20%, M'Bochi 12%
+center:
+     Teke 17%, Europeans 8,500 (mostly French)
+Religions:
+     Christian 50%, animist 48%, Muslim 2%
+Languages:
+     French (official), African languages (Lingala and Kikongo are the most
+     widely used)
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     57%
+male:
+     70%
+ 
+ 
+female:
+     44%
+Labor force:
+     79,100 wage earners
+by occupation:
+     agriculture 75%, commerce, industry, and government 25%
+note:
+     51% of population of working age; 40% of population economically
+     active (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of the Congo
+conventional short form:
+local long form:
+     Republique Populaire du Congo
+local short form:
+former:
+     Congo/Brazzaville
+Digraph:
+     CF
+Type:
+     republic
+Capital:
+     Brazzaville
+Administrative divisions:
+     9 regions (regions, singular - region) and 1 commune*; Bouenza,
+     Brazzaville*, Cuvette, Kouilou, Lekoumou, Likouala, Niari, Plateaux,
+     Pool, Sangha
+Independence:
+     15 August 1960 (from France)
+National holiday:
+     Congolese National Day, 15 August (1960)
+Constitution:
+     new constitution approved by referendum March 1992
+Legal system:
+     based on French civil law system and customary law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Pascal LISSOUBA (since August 1992); election last held 2-16
+     August 1992 (next to be held August 1997); results - President Pascal
+     LISSOUBA won with 61% of the vote
+head of government:
+     Prime Minister Jacques Joachim YHOMBI-OPANGO (since 23 June 1993)
+cabinet:
+     Council of Ministers; named by the president
+Legislative branch:
+     bicameral
+ 
+ 
+National Assembly (Assemblee Nationale):
+     election last held 3 October 1993; results - percentage vote by party
+     NA; seats - (125 total) UPADS 64, URD/PCT 58, others 3
+Senate:
+     election last held 26 July 1992 (next to be held July 1998); results -
+     percentage vote by party NA; seats - (60 total) UPADS 23, MCDDI 14,
+     RDD 8, RDPS 5, PCT 2, others 8
+Judicial branch:
+     Supreme Court (Cour Supreme)
+Political parties and leaders:
+     Congolese Labor Party (PCT), Denis SASSOU-NGUESSO, president;
+     Pan-African Union for Social Development (UPADS), Pascal LISSOUBA,
+     leader; Association for Democracy and Development (RDD) - Joachim
+     Yhombi OPANGO, president; Congolese Movement for Democracy and
+     Integral Development (MCDDI), Bernard KOLELAS, leader; Association for
+     Democracy and Social Progress (RDPS), Jean-Pierre Thystere TCHICAYA,
+     president; Union of Democratic Forces (UFD), David Charles GANAO,
+     leader; Union for Development and Social Progress (UDPS), Jean-Michael
+     BOKAMBA-YANGOUMA, leader
+note:
+     Congo has many political parties of which these are among the most
+     important
+Other political or pressure groups:
+     Union of Congolese Socialist Youth (UJSC); Congolese Trade Union
+     Congress (CSC); Revolutionary Union of Congolese Women (URFC); General
+     Union of Congolese Pupils and Students (UGEEC)
+Member of:
+     ACCT, ACP, AfDB, BDEAC, CCC, CEEAC, ECA, FAO, FZ, G-77, GATT, IBRD,
+     ICAO, IDA, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ITU,
+     LORCS, NAM, OAU, UDEAC, UN, UNAVEM II, UNCTAD, UNESCO, UNIDO, UPU,
+     WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Pierre Damien BOUSSOUKOU-BOUMBA
+chancery:
+     4891 Colorado Avenue NW, Washington, DC 20011
+telephone:
+     (202) 726-5500 or 5501
+US diplomatic representation:
+chief of mission:
+     Ambassador William RAMSEY
+embassy:
+     Avenue Amilcar Cabral, Brazzaville
+mailing address:
+     B. P. 1015, Brazzaville
+telephone:
+     (242) 83-20-70
+FAX:
+     [242] 83-63-38
+Flag:
+     red, divided diagonally from the lower hoist side by a yellow band;
+     the upper triangle (hoist side) is green and the lower triangle is
+     red; uses the popular pan-African colors of Ethiopia
+ 
+ 
+                                  Economy
+ 
+Overview:
+     Congo's economy is a mixture of village agriculture and handicrafts,
+     an industrial sector based largely on oil, support services, and a
+     government characterized by budget problems and overstaffing. A reform
+     program, supported by the IMF and World Bank, ran into difficulties in
+     1990-91 because of problems in changing to a democratic political
+     regime and a heavy debt-servicing burden. Oil has supplanted forestry
+     as the mainstay of the economy, providing about two-thirds of
+     government revenues and exports. In the early 1980s rapidly rising oil
+     revenues enabled Congo to finance large-scale development projects
+     with growth averaging 5% annually, one of the highest rates in Africa.
+     Subsequently, growth has slowed to an average of roughly 1.5%
+     annually, only half the population growth rate. Political turmoil and
+     misguided government investment have derailed economic reform programs
+     sponsored by the IMF and World Bank.
+National product:
+     GDP - purchasing power equivalent - $7 billion (1993 est.)
+National product real growth rate:
+     NA
+National product per capita:
+     $2,900 (1993 est.)
+Inflation rate (consumer prices):
+     -0.6% (1991 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $765 million
+expenditures:
+     $952 million, including capital expenditures of $65 million (1990)
+Exports:
+     $1.1 billion (f.o.b., 1990)
+commodities:
+     crude oil 72%, lumber, plywood, coffee, cocoa, sugar, diamonds
+partners:
+     US, France, other EC countries
+Imports:
+     $704 million (c.i.f., 1990)
+commodities:
+     foodstuffs, consumer goods, intermediate manufactures, capital
+     equipment
+partners:
+     France, Germany, Italy, Spain, other EC countries, US, Japan, Brazil
+External debt:
+     $4.1 billion (1991)
+Industrial production:
+     growth rate 1.2% (1989); accounts for 33% of GDP; includes petroleum
+Electricity:
+capacity:
+     140,000 kW
+production:
+     315 million kWh
+ 
+ 
+consumption per capita:
+     135 kWh (1991)
+Industries:
+     petroleum, cement, lumbering, brewing, sugar milling, palm oil, soap,
+     cigarette
+Agriculture:
+     accounts for 13% of GDP (including fishing and forestry); cassava
+     accounts for 90% of food output; other crops - rice, corn, peanuts,
+     vegetables; cash crops include coffee and cocoa; forest products
+     important export earner; imports over 90% of food needs
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-90), $63 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-90), $2.5
+     billion; OPEC bilateral aid (1979-89), $15 million; Communist
+     countries (1970-89),  $338 million
+Currency:
+     1 CFA franc (CFAF) = 100 centimes
+Exchange rates:
+     Communaute Financiere Africaine francs (CFAF) per US$1 - 592.05
+     (January 1994), 283.16 (1993), 264.69 (1992), 282.11 (1991), 272.26
+     (1990), 319.01 (1989)
+note:
+     beginning 12 January 1994, the CFA franc was devalued to CFAF 100 per
+     French franc from CFAF 50 at which it had been fixed since 1948
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     797 km, 1.067-meter gauge, single track (includes 285 km that are
+     privately owned)
+Highways:
+total:
+     11,960 km
+paved:
+     560 km
+unpaved:
+     gravel or crushed stone 850 km; improved earth 5,350 km; unimproved
+     earth 5,200 km
+Inland waterways:
+     the Congo and Ubangi (Oubangui) Rivers provide 1,120 km of
+     commercially navigable water transport; the rest are used for local
+     traffic only
+Pipelines:
+     crude oil 25 km
+Ports:
+     Pointe-Noire (ocean port), Brazzaville (river port)
+Airports:
+total:
+     41
+usable:
+     37
+ 
+ 
+with permanent-surface runways:
+     5
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     16
+Telecommunications:
+     services adequate for government use; primary network is composed of
+     radio relay routes and coaxial cables; key centers are Brazzaville,
+     Pointe-Noire, and Loubomo; 18,100 telephones; broadcast stations - 4
+     AM, 1 FM, 4 TV; 1 Atlantic Ocean satellite earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy (including Marines), Air Force, National Police
+Manpower availability:
+     males age 15-49 551,151; fit for military service 280,372; reach
+     military age (20) annually 24,441 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,346 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0213
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Sierra Leone
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Sierra Leone 
+ 
+ 
+                               Sierra Leone
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, bordering the North Atlantic Ocean between Guinea and
+     Liberia
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     71,740 sq km
+land area:
+     71,620 sq km
+comparative area:
+     slightly smaller than South Carolina
+Land boundaries:
+     total 958 km, Guinea 652 km, Liberia 306 km
+Coastline:
+     402 km
+Maritime claims:
+territorial sea:
+     200 nm
+International disputes:
+     none
+Climate:
+     tropical; hot, humid; summer rainy season (May to December); winter
+     dry season (December to April)
+Terrain:
+     coastal belt of mangrove swamps, wooded hill country, upland plateau,
+     mountains in east
+Natural resources:
+     diamonds, titanium ore, bauxite, iron ore, gold, chromite
+Land use:
+arable land:
+     25%
+permanent crops:
+     2%
+meadows and pastures:
+     31%
+forest and woodland:
+     29%
+other:
+     13%
+Irrigated land:
+     340 sq km (1989 est.)
+Environment:
+current issues:
+     rapid population growth pressuring the environment; overharvesting of
+     timber, expansion of cattle grazing, and slash-and-burn agriculture
+     have resulted in deforestation and soil exhaustion; civil war
+     depleting natural resources
+natural hazards:
+     dry, sand-laden harmattan winds blow from the Sahara (November to May)
+ 
+ 
+international agreements:
+     party to - Marine Life Conservation, Nuclear Test Ban; signed, but not
+     ratified - Climate Change, Environmental Modification, Law of the Sea
+ 
+                                  People
+ 
+Population:
+     4,630,037 (July 1994 est.)
+Population growth rate:
+     2.62% (1994 est.)
+Birth rate:
+     45.06 births/1,000 population (1994 est.)
+Death rate:
+     18.87 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     141.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     46.4 years
+male:
+     43.58 years
+female:
+     49.3 years (1994 est.)
+Total fertility rate:
+     5.96 children born/woman (1994 est.)
+Nationality:
+noun:
+     Sierra Leonean(s)
+adjective:
+     Sierra Leonean
+Ethnic divisions:
+     13 native African tribes 99% (Temne 30%, Mende 30%, other 39%),
+     Creole, European, Lebanese, and Asian 1%
+Religions:
+     Muslim 60%, indigenous beliefs 30%, Christian 10%
+Languages:
+     English (official; regular use limited to literate minority), Mende
+     principal vernacular in the south, Temne principal vernacular in the
+     north, Krio the language of the re-settled ex-slave population of the
+     Freetown area and is lingua franca
+Literacy:
+     age 15 and over can read and write English, Merde, Temne, or Arabic
+     (1990 est.)
+total population:
+     21%
+male:
+     31%
+female:
+     11%
+Labor force:
+     1.369 million (1981 est.)
+by occupation:
+     agriculture 65%, industry 19%, services 16% (1981 est.)
+ 
+ 
+note:
+     only about 65,000 wage earners (1985); 55% of population of working
+     age
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Sierra Leone
+conventional short form:
+Digraph:
+     SL
+Type:
+     military government
+Capital:
+     Freetown
+Administrative divisions:
+     3 provinces and 1 area*; Eastern, Northern, Southern, Western*
+Independence:
+     27 April 1961 (from UK)
+National holiday:
+     Republic Day, 27 April (1961)
+Constitution:
+     1 October 1991; suspended following 19 April 1992 coup
+Legal system:
+     based on English law and customary laws indigenous to local tribes;
+     has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     Chairman of the Supreme Council of State Capt. Valentine E. M.
+     STRASSER (since 29 April 1992)
+cabinet:
+     Council of Secretaries; responsible to the NPRC
+Legislative branch:
+     unicameral House of Representatives (suspended after coup of 29 April
+     1992); Chairman STRASSER promises multi-party elections sometime in
+     1995
+Judicial branch:
+     Supreme Court (suspended after coup of 29 April 1992)
+Political parties and leaders:
+     status of existing political parties is unknown following 29 April
+     1992 coup
+Member of:
+     ACP, AfDB, C, CCC, ECA, ECOWAS, FAO, G-77, GATT, IAEA, IBRD, ICAO,
+     ICFTU, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INTELSAT (nonsignatory
+     user), INTERPOL, IOC, ITU, LORCS, NAM, OAU, OIC, UN, UNCTAD, UNESCO,
+     UNIDO, UNOMIG, UPU, WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Thomas Kahota KARGBO
+chancery:
+     1701 19th Street NW, Washington, DC 20009
+ 
+ 
+telephone:
+     (202) 939-9261
+US diplomatic representation:
+chief of mission:
+     Ambassador Lauralee M. PETERS
+embassy:
+     Walpole and Siaka Stevens Street, Freetown
+mailing address:
+     use embassy street address
+telephone:
+     [232] (22) 226-481
+FAX:
+     [232] (22) 225-471
+Flag:
+     three equal horizontal bands of light green (top), white, and light
+     blue
+ 
+                                  Economy
+ 
+Overview:
+     The economic and social infrastructure is not well developed.
+     Subsistence agriculture dominates the economy, generating about
+     one-third of GDP and employing about two-thirds of the working
+     population. Manufacturing, which accounts for roughly 10% of GDP,
+     consists mainly of the processing of raw materials and of light
+     manufacturing for the domestic market. Diamond mining provides an
+     important source of hard currency. In 1990-93, the government, with
+     the support of the IMF and the World Bank, has made substantial
+     progress toward structural reform and better fiscal management. The
+     government readily met all IMF/WB targets in December 1993. The budget
+     deficit had been dramatically reduced; the government workforce had
+     been cut by 25%; large amounts of domestic debt had been retired;
+     arrears to the IMF, World Bank, and other creditors had been reduced.
+     On the negative side, continued incursions by the Liberian rebels,
+     bandits, and army deserters in southern and eastern Sierra Leone have
+     severely strained the economy and threaten economically critical
+     regions of the country.
+National product:
+     GDP - purchasing power equivalent - $4.5 billion (FY93 est.)
+National product real growth rate:
+     NA
+National product per capita:
+     $1,000 (1993 est.)
+Inflation rate (consumer prices):
+     35% (1992)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $68 million
+expenditures:
+     $118 million, including capital expenditures of $28 million (1992
+     est.)
+Exports:
+     $149 million (f.o.b., FY92)
+ 
+ 
+commodities:
+     rutile 51%, bauxite 19%, diamonds 15%, coffee 5%
+partners:
+     US, UK, Belgium, Germany, other Western Europe
+Imports:
+     $131 million (c.i.f., FY92)
+commodities:
+     foodstuffs 33%, machinery and equipment 19%, fuels 16%
+partners:
+     US, EC countries, Japan, China, Nigeria
+External debt:
+     $633 million (FY92 est.)
+Industrial production:
+     growth rate -1.2% (FY91); accounts for 11% of GDP
+Electricity:
+capacity:
+     85,000 kW
+production:
+     185 million kWh
+consumption per capita:
+     45 kWh (1991)
+Industries:
+     mining (diamonds, bauxite, rutile), small-scale manufacturing
+     (beverages, textiles, cigarettes, footwear), petroleum refinery
+Agriculture:
+     accounts for over 30% of GDP and two-thirds of the labor force;
+     largely subsistence farming; cash crops - coffee, cocoa, palm kernels;
+     harvests of food staple rice meets 80% of domestic needs; annual fish
+     catch averages 53,000 metric tons
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $161 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $848
+     million; OPEC bilateral aid (1979-89), $18 million; Communist
+     countries (1970-89), $101 million
+Currency:
+     1 leone (Le) = 100 cents
+Exchange rates:
+     leones (Le) per US$1 - 578.17 (January 1994), 567.46 (1993), 499.44
+     (1992), 295.34 (1991), 144.9275 (1990), 58.1395 (1989)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Railroads:
+     84 km 1.067-meter narrow-gauge mineral line is used on a limited basis
+     because the mine at Marampa is closed
+Highways:
+total:
+     7,400 km
+paved:
+     1,150 km
+unpaved:
+     crushed stone, gravel 490 km; improved earth 5,760 km
+ 
+ 
+Inland waterways:
+     800 km; 600 km navigable year round
+Ports:
+     Freetown, Pepel, Bonthe
+Merchant marine:
+     1 cargo ship (over 1,000 GRT) totaling 5,592 GRT/9,107 DWT
+Airports:
+total:
+     11
+usable:
+     7
+with permanent-surface runways:
+     3
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     3
+Telecommunications:
+     marginal telephone and telegraph service; national microwave radio
+     relay system unserviceable at present; 23,650 telephones; broadcast
+     stations - 1 AM, 1 FM, 1 TV; 1 Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Police, Security Forces
+Manpower availability:
+     males age 15-49 1,006,280; fit for military service 487,158
+Defense expenditures:
+     exchange rate conversion - $6 million, 0.7% of GDP (1988 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

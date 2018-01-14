@@ -1,0 +1,354 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0040
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Burkina
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Burkina 
+ 
+ 
+                                  Burkina
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, between Ghana and Mali
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     274,200 sq km
+land area:
+     273,800 sq km
+comparative area:
+     slightly larger than Colorado
+Land boundaries:
+     total 3,192 km, Benin 306 km, Ghana 548 km, Cote d'Ivoire 584 km, Mali
+     1,000 km, Niger 628 km, Togo 126 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     the disputed international boundary between Burkina and Mali was
+     submitted to the International Court of Justice (ICJ) in October 1983
+     and the ICJ issued its final ruling in December 1986, which both sides
+     agreed to accept; Burkina and Mali are proceeding with boundary
+     demarcation, including the tripoint with Niger
+Climate:
+     tropical; warm, dry winters; hot, wet summers
+Terrain:
+     mostly flat to dissected, undulating plains; hills in west and
+     southeast
+Natural resources:
+     manganese, limestone, marble; small deposits of gold, antimony,
+     copper, nickel, bauxite, lead, phosphates, zinc, silver
+Land use:
+arable land:
+     10%
+permanent crops:
+     0%
+meadows and pastures:
+     37%
+forest and woodland:
+     26%
+other:
+     27%
+Irrigated land:
+     160 sq km (1989 est.)
+Environment:
+current issues:
+     recent droughts and desertification severely affecting agricultural
+     activities, population distribution, and the economy; overgrazing;
+     soil degradation; deforestation
+natural hazards:
+     recurring droughts
+ 
+ 
+international agreements:
+     party to - Biodiversity, Climate Change, Endangered Species, Marine
+     Life Conservation, Ozone Layer Protection, Wetlands; signed, but not
+     ratified - Law of the Sea, Nuclear Test Ban
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     10,134,661 (July 1994 est.)
+Population growth rate:
+     2.81% (1994 est.)
+Birth rate:
+     48.42 births/1,000 population (1994 est.)
+Death rate:
+     18.2 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -2.08 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     118.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     47.03 years
+male:
+     46.18 years
+female:
+     47.9 years (1994 est.)
+Total fertility rate:
+     6.94 children born/woman (1994 est.)
+Nationality:
+noun:
+     Burkinabe (singular and plural)
+adjective:
+     Burkinabe
+Ethnic divisions:
+     Mossi (about 2.5 million), Gurunsi, Senufo, Lobi, Bobo, Mande, Fulani
+Religions:
+     indigenous beliefs 40%, Muslim 50%, Christian (mainly Roman Catholic)
+     10%
+Languages:
+     French (official), tribal languages belong to Sudanic family, spoken
+     by 90% of the population
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     18%
+male:
+     28%
+female:
+     9%
+Labor force:
+     NA (most adults are employed in subsistance agriculture; 52% of
+     population is 15 years of age or older)
+ 
+ 
+by occupation:
+     agriculture 80%, industry 15%, commerce, services, and government 5%
+note:
+     20% of male labor force migrates annually to neighboring countries for
+     seasonal employment (1984)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Burkina Faso
+conventional short form:
+former:
+     Upper Volta
+Digraph:
+     UV
+Type:
+     parliamentary
+Capital:
+     Ouagadougou
+Administrative divisions:
+     30 provinces; Bam, Bazega, Bougouriba, Boulgou, Boulkiemde,
+     Ganzourgou, Gnagna, Gourma, Houet, Kadiogo, Kenedougou, Komoe, Kossi,
+     Kouritenga, Mouhoun, Namentenga, Naouri, Oubritenga, Oudalan, Passore,
+     Poni, Sanguie, Sanmatenga, Seno, Sissili, Soum, Sourou, Tapoa,
+     Yatenga, Zoundweogo
+Independence:
+     5 August 1960 (from France)
+National holiday:
+     Anniversary of the Revolution, 4 August (1983)
+Constitution:
+     2 June 1991
+Legal system:
+     based on French civil law system and customary law
+Suffrage:
+     none
+Executive branch:
+chief of state:
+     President Captain Blaise COMPAORE (since 15 October 1987); election
+     last held December 1991
+head of government:
+     Prime Minister Roch KABORE (since March 1994)
+cabinet:
+     Council of Ministers;  appointed by the president
+Legislative branch:
+     unicameral
+Assembly of People's Deputies:
+     elections last held 24 May 1992 (next to be held NA); results -
+     percent of vote by party NA; seats - (107 total), ODP-MT 78, CNPP-PSD
+     12, RDA 6, ADF 4, other 7
+note:
+     the current law also provides for a second consultative chamber, which
+     had not been formally constituted as of 1 July 1992
+ 
+ 
+Judicial branch:
+     Appeals Court
+Political parties and leaders:
+     Organization for People's Democracy- Labor Movement (ODP-MT), ruling
+     party, Simon COMPAORE, Secretary General; National Convention of
+     Progressive Patriots-Social Democratic Party (CNPP-PSD), Moussa BOLY;
+     African Democratic Rally (RDA), Gerard Kango OUEDRAOGO; Alliance for
+     Democracy and Federation (ADF), Amadou Michel NANA
+Other political or pressure groups:
+     committees for the defense of the revolution; watchdog/political
+     action groups throughout the country in both organizations and
+     communities
+Member of:
+     ACCT, ACP, AfDB, CCC, CEAO, ECA, ECOWAS, Entente, FAO, FZ, G-77, GATT,
+     IBRD, ICAO, ICC, ICFTU, IDA, IDB, IFAD, IFC, ILO, IMF, INTELSAT,
+     INTERPOL, IOC, ITU, LORCS, NAM, OAU, OIC, PCA, UN, UNCTAD, UNESCO,
+     UNIDO, UPU, WADB, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     (vacant); Charge d'Affaires Thomas Yara KAMBOU
+chancery:
+     2340 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 332-5577 or 6895
+US diplomatic representation:
+chief of mission:
+     Ambassador Donald J. McCONNELL
+embassy:
+     Avenue Raoul Follerau, Ouagadougou
+mailing address:
+     01 B. P. 35, Ouagadougou
+telephone:
+     [226] 30-67- 23 through 25
+FAX:
+     [226] 31-23-68
+Flag:
+     two equal horizontal bands of red (top) and green with a yellow
+     five-pointed star in the center; uses the popular pan-African colors
+     of Ethiopia
+ 
+                                  Economy
+ 
+Overview:
+     One of the poorest countries in the world, Burkina has a high
+     population density, few natural resources, and relatively infertile
+     soil. Economic development is hindered by a poor communications
+     network within a landlocked country. Agriculture provides about 40% of
+     GDP and is entirely of a subsistence nature. Industry, dominated by
+     unprofitable government-controlled corporations, accounts for about
+     15% of GDP.
+National product:
+     GDP - purchasing power equivalent - $7 billion (1993 est.)
+National product real growth rate:
+     0.7% (1992)
+ 
+ 
+National product per capita:
+     $700 (1993 est.)
+Inflation rate (consumer prices):
+     -0.8% (1992)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $483 million
+expenditures:
+     $548 million, including capital expenditures of $189 million (1992)
+Exports:
+     $300 million (f.o.b., 1992)
+commodities:
+     cotton, gold, animal products
+partners:
+     EC 42%, Cote d'Ivoire 11%, Taiwan 15%
+Imports:
+     $685 million (f.o.b., 1992)
+commodities:
+     machinery, food products, petroleum
+partners:
+     EC 49%, Africa 24%, Japan 6%
+External debt:
+     $865 million (December 1991 est.)
+Industrial production:
+     growth rate 6.7% (1992); accounts for about 15% of GDP
+Electricity:
+capacity:
+     120,000 kW
+production:
+     320 million kWh
+consumption per capita:
+     40 kWh (1991)
+Industries:
+     cotton lint, beverages, agricultural processing, soap, cigarettes,
+     textiles, gold mining and extraction
+Agriculture:
+     accounts for about 40% of GDP; cash crops - peanuts, shea nuts,
+     sesame, cotton; food crops - sorghum, millet, corn, rice; livestock;
+     not self-sufficient in food grains
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $294 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $2.9
+     billion; Communist countries (1970-89),  $113 million
+Currency:
+     1 CFA franc (CFAF) = 100 centimes
+Exchange rates:
+     CFA francs (CFAF) per US$1 - 592.05 (January 1994), 283.16 (1993),
+     264.69 (1992), 282.11 (1991), 272.26 (1990), 319.01 (1989)
+note:
+     beginning 12 January 1994 the CFA franc was devalued to CFAF 100 per
+     French franc from CFAF 50 at which it had been fixed since 1948
+ 
+ 
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     620 km total; 520 km Ouagadougou to Cote d'Ivoire border and 100 km
+     Ouagadougou to Kaya; all 1.00-meter gauge and single track
+Highways:
+total:
+     16,500 km
+paved:
+     1,300 km
+unpaved:
+     improved earth 7,400 km; unimproved earth 7,800 km (1985)
+Airports:
+total:
+     48
+usable:
+     38
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     8
+Telecommunications:
+     all services only fair; microwave radio relay, wire, and radio
+     communication stations in use; broadcast stations - 2 AM, 1 FM, 2 TV;
+     1 Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Air Force, National Gendarmerie, National Police, People's
+     Militia
+Manpower availability:
+     males age 15-49 2,013,763; fit for military service 1,029,960
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,381 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0049
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Chad
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Chad 
+ 
+ 
+                                   Chad
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Africa, between the Central African Republic and Libya
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     1.284 million sq km
+land area:
+     1,259,200 sq km
+comparative area:
+     slightly more than three times the size of California
+Land boundaries:
+     total 5,968 km, Cameroon 1,094 km, Central African Republic 1,197 km,
+     Libya 1,055 km, Niger 1,175 km, Nigeria 87 km, Sudan 1,360 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     the International Court of Justice (ICJ) ruled in February 1994 that
+     the 100,000 sq km Aozou Strip between Chad and Libya belongs to Chad,
+     and that Libya must withdraw from it by 31 May 1994; Libya had
+     withdrawn its forces in response to the ICJ ruling, but as of June
+     1994 still maintained an airfield in the disputed area; demarcation of
+     international boundaries in Lake Chad, the lack of which has led to
+     border incidents in the past, is completed and awaiting ratification
+     by Cameroon, Chad, Niger, and Nigeria
+Climate:
+     tropical in south, desert in north
+Terrain:
+     broad, arid plains in center, desert in north, mountains in northwest,
+     lowlands in south
+Natural resources:
+     petroleum (unexploited but exploration under way), uranium, natron,
+     kaolin, fish (Lake Chad)
+Land use:
+arable land:
+     2%
+permanent crops:
+     0%
+meadows and pastures:
+     36%
+forest and woodland:
+     11%
+other:
+     51%
+Irrigated land:
+     100 sq km (1989 est.)
+Environment:
+current issues:
+     desertification
+ 
+ 
+natural hazards:
+     hot, dry, dusty harmattan winds occur in north; periodic droughts;
+     subject to locust plagues
+international agreements:
+     party to - Endangered Species, Nuclear Test Ban, Wetlands; signed, but
+     not ratified - Biodiversity, Climate Change, Law of the Sea, Marine
+     Dumping
+Note:
+     landlocked; Lake Chad is the most significant water body in the Sahel
+ 
+                                  People
+ 
+Population:
+     5,466,771 (July 1994 est.)
+Population growth rate:
+     2.15% (1994 est.)
+Birth rate:
+     42.12 births/1,000 population (1994 est.)
+Death rate:
+     20.59 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     131.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     40.79 years
+male:
+     39.7 years
+female:
+     41.94 years (1994 est.)
+Total fertility rate:
+     5.33 children born/woman (1994 est.)
+Nationality:
+noun:
+     Chadian(s)
+adjective:
+     Chadian
+Ethnic divisions:
+north and center:
+     Muslims (Arabs, Toubou, Hadjerai, Fulbe, Kotoko, Kanembou, Baguirmi,
+     Boulala, Zaghawa, and Maba)
+south:
+     non-Muslims (Sara, Ngambaye, Mbaye, Goulaye, Moundang, Moussei, Massa)
+     nonindigenous 150,000, of whom 1,000 are French
+Religions:
+     Muslim 50%, Christian 25%, indigenous beliefs, animism 25%
+Languages:
+     French (official), Arabic (official), Sara (in south), Sango (in
+     south), more than 100 different languages and dialects are spoken
+Literacy:
+     age 15 and over can read and write French or Arabic (1990 est.)
+total population:
+     30%
+ 
+ 
+male:
+     42%
+female:
+     18%
+Labor force:
+     NA
+by occupation:
+     agriculture 85% (engaged in unpaid subsistence farming, herding, and
+     fishing)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Chad
+conventional short form:
+local long form:
+     Republique du Tchad
+local short form:
+     Tchad
+Digraph:
+     CD
+Type:
+     republic
+Capital:
+     N'Djamena
+Administrative divisions:
+     14 prefectures (prefectures, singular - prefecture); Batha, Biltine,
+     Borkou-Ennedi-Tibesti, Chari-Baguirmi, Guera, Kanem, Lac, Logone
+     Occidental, Logone Oriental, Mayo-Kebbi, Moyen-Chari, Ouaddai,
+     Salamat, Tandjile
+Independence:
+     11 August 1960 (from France)
+National holiday:
+     Independence Day 11 August (1960)
+Constitution:
+     22 December 1989, suspended 3 December 1990; Provisional National
+     Charter 1 March 1991; constitutional commission drafting new
+     constitution to submit to transitional parliament for ratification in
+     April 1994
+Legal system:
+     based on French civil law system and Chadian customary law; has not
+     accepted compulsory ICJ jurisdiction
+Suffrage:
+     universal at age NA
+Executive branch:
+chief of state:
+     President Col. Idriss DEBY, since 4 December 1990 (after seizing power
+     on 3 December 1990 - transitional government's mandate expires April
+     1995)
+head of government:
+     Prime Minister Kassire Delwa KOUMAKOYE (since 17 November 1993)
+ 
+ 
+cabinet:
+     Council of State; appointed by the president on recommendation of the
+     prime minister
+Legislative branch:
+     unicameral
+National Consultative Council (Conceil National
+Consultatif):
+     elections last held 8 July 1990; disbanded 3 December 1990 and
+     replaced by the Provisional Council of the Republic having 30 members
+     appointed by President DEBY on 8 March 1991; this, in turn, was
+     replaced by a 57-member Higher Transitional Council (Conseil Superieur
+     de Transition) elected by a specially convened Sovereign National
+     Conference on 6 April 1993
+Judicial branch:
+     Court of Appeal
+Political parties and leaders:
+     Patriotic Salvation Movement (MPS; former dissident group), Idriss
+     DEBY, chairman
+note:
+     President DEBY, who promised political pluralism, a new constitution,
+     and free elections by April 1994, has postponed these initiatives for
+     another year; there are numerous dissident groups and 26 opposition
+     political parties
+Other political or pressure groups:
+     NA
+Member of:
+     ACCT, ACP, AfDB, BDEAC, CEEAC, ECA, FAO, FZ, G-77, GATT, IBRD, ICAO,
+     ICFTU, IDA, IDB, IFAD, ILO, IMF, INTELSAT, INTERPOL, IOC, ITU, LORCS,
+     NAM, OAU, OIC, UDEAC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WHO, WIPO,
+     WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     (vacant); Ambassador KOUMBARIA Laoumaye Mekonyo died on 16 May 1994
+chancery:
+     2002 R Street NW, Washington, DC 20009
+telephone:
+     (202) 462-4009
+FAX:
+     (202) 265-1937
+US diplomatic representation:
+chief of mission:
+     Ambassador Lawrence POPE
+embassy:
+     Avenue Felix Eboue, N'Djamena
+mailing address:
+     B. P. 413, N'Djamena
+telephone:
+     [235] (51) 62-18, 40-09, or 62-11
+FAX:
+     [235] (51) 33-72
+Flag:
+     three equal vertical bands of blue (hoist side), yellow, and red;
+     similar to the flag of Romania; also similar to the flag of Andorra,
+     which has a national coat of arms featuring a quartered shield
+     centered in the yellow band; design was based on the flag of France
+ 
+ 
+ 
+                                  Economy
+ 
+Overview:
+     Climate, geographic remoteness, poor resource endowment, and lack of
+     infrastructure make Chad one of the most underdeveloped countries in
+     the world. Its economy is hobbled by political turmoil, conflict with
+     Libya, drought, and food shortages. Consequently the economy has shown
+     little progress in recent years in overcoming a severe setback brought
+     on by civil war in the late 1980s. Over 80% of the work force is
+     involved in subsistence farming and fishing. Cotton is the major cash
+     crop, accounting for at least half of exports. Chad is highly
+     dependent on foreign aid, especially food credits, given chronic
+     shortages in several regions. The government hopes that discovery of
+     several oil deposits near Lake Chad will lead to economic revival and
+     a windfall in government revenues by 2000.
+National product:
+     GDP - purchasing power equivalent - $2.7 billion (1993 est.)
+National product real growth rate:
+     8.4% (1991 est.)
+National product per capita:
+     $500 (1993 est.)
+Inflation rate (consumer prices):
+     2%-3% (1991 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $115 million
+expenditures:
+     $412 million, including capital expenditures of $218 million (1991
+     est.)
+Exports:
+     $193.9 million (f.o.b., 1991)
+commodities:
+     cotton 48%, cattle 35%, textiles 5%, fish
+partners:
+     France, Nigeria, Cameroon
+Imports:
+     $294.1 million (f.o.b., 1991)
+commodities:
+     machinery and transportation equipment 39%, industrial goods 20%,
+     petroleum products 13%, foodstuffs 9%; note - excludes military
+     equipment
+partners:
+     US, France, Nigeria, Cameroon
+External debt:
+     $492 million (December 1990 est.)
+Industrial production:
+     growth rate 12.9% (1989 est.); accounts for nearly 15% of GDP
+Electricity:
+capacity:
+     40,000 kW
+production:
+     70 million kWh
+ 
+ 
+consumption per capita:
+     15 kWh (1991)
+Industries:
+     cotton textile mills, slaughterhouses, brewery, natron (sodium
+     carbonate), soap, cigarettes
+Agriculture:
+     accounts for about 45% of GDP; largely subsistence farming; cotton
+     most important cash crop; food crops include sorghum, millet, peanuts,
+     rice, potatoes, manioc; livestock - cattle, sheep, goats, camels;
+     self-sufficient in food in years of adequate rainfall
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $198 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $1.5
+     billion; OPEC bilateral aid (1979-89), $28 million; Communist
+     countries (1970-89), $80 million
+Currency:
+     1 CFA franc (CFAF) = 100 centimes
+Exchange rates:
+     Communaute Financiere Africaine Francs (CFAF) per US$1 - 592.05
+     (January 1994), 283.16 (1993), 264.69 (1992), 282.11 (1991), 272.26
+     (1990), 319.01 (1989)
+note:
+     beginning 12 January 1994 the CFA franc was devalued to CFAF 100 per
+     French franc from CFAF 50 at which it had been fixed since 1948
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     31,322 km
+paved:
+     bituminous 32 km
+unpaved:
+     gravel, crushed stone 7,300 km; earth 23,990 km
+Inland waterways:
+     2,000 km navigable
+Airports:
+total:
+     68
+usable:
+     58
+with permanent-surface runways:
+     5
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     3
+with runways 1,220-2,439 m:
+     27
+ 
+ 
+Telecommunications:
+     fair system of radiocommunication stations for intercity links;
+     broadcast stations - 6 AM, 1 FM, limited TV service; many facilities
+     are inoperative; 1 Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army (includes Ground Forces, Air Force, and Gendarmerie), Republican
+     Guard
+Manpower availability:
+     males age 15-49 1,276,167; fit for military service 663,326; reach
+     military age (20) annually 54,027 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $58 million, 5.6% of GDP (1989)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

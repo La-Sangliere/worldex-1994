@@ -1,0 +1,351 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0038
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Brunei
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Brunei 
+ 
+ 
+                                  Brunei
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, on the northern coast of Borneo almost completely
+     surrounded by Malaysia
+Map references:
+     Asia, Oceania, Southeast Asia, Standard Time Zones of the World
+Area:
+total area:
+     5,770 sq km
+land area:
+     5,270 sq km
+comparative area:
+     slightly larger than Delaware
+Land boundaries:
+     total 381 km, Malysia 381 km
+Coastline:
+     161 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     may wish to purchase the Malaysian salient that divides the country;
+     all of the Spratly Islands are claimed by China, Taiwan, and Vietnam;
+     parts of them are claimed by Malaysia and the Philippines; in 1984,
+     Brunei established an exclusive fishing zone that encompasses Louisa
+     Reef, but has not publicly claimed the island
+Climate:
+     tropical; hot, humid, rainy
+Terrain:
+     flat coastal plain rises to mountains in east; hilly lowland in west
+Natural resources:
+     petroleum, natural gas, timber
+Land use:
+arable land:
+     1%
+permanent crops:
+     1%
+meadows and pastures:
+     1%
+forest and woodland:
+     79%
+other:
+     18%
+Irrigated land:
+     10 sq km (1989 est.)
+Environment:
+current issues:
+     NA
+international agreements:
+     party to - Ozone Layer Protection, Ship Pollution; signed, but not
+     ratified - Law of the Sea
+ 
+ 
+natural hazards:
+     typhoons, earthquakes, and severe flooding are rare
+Note:
+     close to vital sea lanes through South China Sea linking Indian and
+     Pacific Oceans; two parts physically separated by Malaysia; almost an
+     enclave of Malaysia
+ 
+                                  People
+ 
+Population:
+     284,653 (July 1994 est.)
+Population growth rate:
+     2.7% (1994 est.)
+Birth rate:
+     26.18 births/1,000 population (1994 est.)
+Death rate:
+     5.04 deaths/1,000 population (1994 est.)
+Net migration rate:
+     5.81 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     25.2 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     71.1 years
+male:
+     69.46 years
+female:
+     72.78 years (1994 est.)
+Total fertility rate:
+     3.43 children born/woman (1994 est.)
+Nationality:
+noun:
+     Bruneian(s)
+adjective:
+     Bruneian
+Ethnic divisions:
+     Malay 64%, Chinese 20%, other 16%
+Religions:
+     Muslim (official) 63%, Buddhism 14%, Christian 8%, indigenous beliefs
+     and other 15% (1981)
+Languages:
+     Malay (official), English, Chinese
+Literacy:
+     age 15 and over can read and write (1981)
+total population:
+     77%
+male:
+     85%
+female:
+     69%
+Labor force:
+     89,000 (includes members of the Army)
+by occupation:
+     government 47.5%, production of oil, natural gas, services, and
+     construction 41.9%, agriculture, forestry, and fishing 3.8% (1986)
+ 
+ 
+note:
+     33% of labor force is foreign (1988)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Negara Brunei Darussalam
+conventional short form:
+Digraph:
+     BX
+Type:
+     constitutional sultanate
+Capital:
+     Bandar Seri Begawan
+Administrative divisions:
+     4 districts (daerah-daerah, singular - daerah); Belait, Brunei and
+     Muara, Temburong, Tutong
+Independence:
+     1 January 1984 (from UK)
+National holiday:
+     National Day 23 February (1984)
+Constitution:
+     29 September 1959 (some provisions suspended under a State of
+     Emergency since December 1962, others since independence on 1 January
+     1984)
+Legal system:
+     based on Islamic law
+Suffrage:
+     none
+Executive branch:
+chief of state and head of government:
+     Sultan and Prime Minister His Majesty Paduka Seri Baginda Sultan Haji
+     HASSANAL Bolkiah Mu'izzaddin Waddaulah (since 5 October 1967)
+cabinet:
+     Council of Cabinet Ministers; composed chiefly of members of the royal
+     family
+Legislative branch:
+     unicameral
+Legislative Council (Majlis Masyuarat Megeri):
+     elections last held in March 1962; in 1970 the Council was changed to
+     an appointive body by decree of the sultan; an elected legislative
+     Council is being considered as part of constitution reform, but
+     elections are unlikely for several years
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Brunei United National Party (inactive), Anak HASANUDDIN, chairman;
+     Brunei National Democratic Party (the first legal political party and
+     now banned), leader NA
+Member of:
+     APEC, ASEAN, C, ESCAP, FAO, G-77, GATT, ICAO, IDB, IMO, INTELSAT
+     (nonsignatory user), INTERPOL, IOC, ISO (correspondent), ITU, NAM,
+     OIC, UN, UNCTAD, UPU, UNTAC, WHO, WMO
+ 
+ 
+Diplomatic representation in US:
+chief of mission:
+     Ambassador JAYA bin Abdul Latif
+chancery:
+     2600 Virginia Avenue NW, Suite 300, Washington, DC 20037
+telephone:
+     (202) 342-0159
+FAX:
+     (202) 342-0158
+US diplomatic representation:
+chief of mission:
+     Ambassador Theresa A. TULL
+embassy:
+     Third Floor, Teck Guan Plaza, Jalan Sultan, Bandar Seri Begawan
+mailing address:
+     American Embassy Box B, APO AP 96440
+telephone:
+     [673] (2) 229-670
+FAX:
+     [673] (2) 225-293
+Flag:
+     yellow with two diagonal bands of white (top, almost double width) and
+     black starting from the upper hoist side; the national emblem in red
+     is superimposed at the center; the emblem includes a swallow-tailed
+     flag on top of a winged column within an upturned crescent above a
+     scroll and flanked by two upraised hands
+ 
+                                  Economy
+ 
+Overview:
+     The economy is a mixture of foreign and domestic entrepreneurship,
+     government regulation and welfare measures, and village tradition. It
+     is almost totally supported by exports of crude oil and natural gas,
+     with revenues from the petroleum sector accounting for more than 50%
+     of GDP. Per capita GDP is among the highest in the Third World, and
+     substantial income from overseas investment supplements domestic
+     production. The government provides for all medical services and
+     subsidizes food and housing.
+National product:
+     GDP - exchange rate conversion - $2.5 billion (1991 est.)
+National product real growth rate:
+     1% (1991)
+National product per capita:
+     $9,000 (1991 est.)
+Inflation rate (consumer prices):
+     2% (1993 est.)
+Unemployment rate:
+     3.7% (1989)
+Budget:
+revenues:
+     $1.3 billion
+expenditures:
+     $1.5 billion, including capital expenditures of $255 million (1989
+     est.)
+ 
+ 
+Exports:
+     $2.3 billion (f.o.b., 1992 est.)
+commodities:
+     crude oil, liquefied natural gas, petroleum products
+partners:
+     Japan 53%, UK 12%, South Korea 9%, Thailand 7%, Singapore 5% (1990)
+Imports:
+     $2 billion (c.i.f., 1992 est.)
+commodities:
+     machinery and transport equipment, manufactured goods, food, chemicals
+partners:
+     Singapore 35%, UK 26%, Switzerland 9%, US 9%, Japan 5% (1990)
+External debt:
+     $0
+Industrial production:
+     growth rate 12.9% (1987); accounts for 52.4% of GDP
+Electricity:
+capacity:
+     310,000 kW
+production:
+     890 million kWh
+consumption per capita:
+     3,300 kWh (1990)
+Industries:
+     petroleum, petroleum refining, liquefied natural gas, construction
+Agriculture:
+     imports about 80% of its food needs; principal crops and livestock
+     include rice, cassava, bananas, buffaloes, and pigs
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-87), $20.6 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89),  $153
+     million
+Currency:
+     1 Bruneian dollar (B$) = 100 cents
+Exchange rates:
+     Bruneian dollars (B$) per US$1 - 1.6032 (January 1994), 1.6158 (1993),
+     1.6290 (1992), 1.7276 (1991), 1.8125 (1990), 1.9503 (1989); note - the
+     Bruneian dollar is at par with the Singapore dollar
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     13 km 0.610-meter narrow-gauge private line
+Highways:
+total:
+     1,090 km
+paved:
+     bituminous 370 km (with another 52 km under construction)
+unpaved:
+     gravel or earth 720 km
+Inland waterways:
+     209 km; navigable by craft drawing less than 1.2 meters
+ 
+ 
+Pipelines:
+     crude oil 135 km; petroleum products 418 km; natural gas 920 km
+Ports:
+     Kuala Belait, Muara
+Merchant marine:
+     7 liquefied gas carriers (1,000 GRT or over) totaling 348,476
+     GRT/340,635 DWT
+Airports:
+total:
+     2
+usable:
+     2
+with permanent-surface runways:
+     1
+with runway over 3,659 m:
+     1
+with runway 2,440-3,659 m:
+     0
+with runway 1,220-2,439 m:
+     1
+Telecommunications:
+     service throughout country is adequate for present needs;
+     international service good to adjacent Malaysia; radiobroadcast
+     coverage good; 33,000 telephones (1987); broadcast stations - 4 AM/FM,
+     1 TV; 74,000 radio receivers (1987); satellite earth stations - 1
+     Indian Ocean INTELSAT and 1 Pacific Ocean INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Land Force, Navy, Air Force, Royal Brunei Police
+Manpower availability:
+     males age 15-49 79,486; fit for military service 46,258; reach
+     military age (18) annually 2,756 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $300 million, 9% of GDP (1990)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

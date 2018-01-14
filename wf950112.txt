@@ -1,0 +1,394 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0111
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Iceland
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Iceland 
+ 
+ 
+                                  Iceland
+ 
+ 
+                                 Geography
+ 
+Location:
+     Nordic State, Northern Europe, in the North Atlantic Ocean, between
+     Greenland and Norway
+Map references:
+     Arctic Region, Europe, North America, Standard Time Zones of the World
+Area:
+total area:
+     103,000 sq km
+land area:
+     100,250 sq km
+comparative area:
+     slightly smaller than Kentucky
+Land boundaries:
+     0 km
+Coastline:
+     4,988 km
+Maritime claims:
+continental shelf:
+     200 nm or the edge of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     Rockall continental shelf dispute involving Denmark, Ireland, and the
+     UK (Ireland and the UK have signed a boundary agreement in the Rockall
+     area)
+Climate:
+     temperate; moderated by North Atlantic Current; mild, windy winters;
+     damp, cool summers
+Terrain:
+     mostly plateau interspersed with mountain peaks, icefields; coast
+     deeply indented by bays and fiords
+Natural resources:
+     fish, hydropower, geothermal power, diatomite
+Land use:
+arable land:
+     1%
+permanent crops:
+     0%
+meadows and pastures:
+     20%
+forest and woodland:
+     1%
+other:
+     78%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     water pollution from fertilizer runoff; inadequate wastewater
+     treatment
+ 
+ 
+natural hazards:
+     subject to earthquakes and volcanic activity
+international agreements:
+     party to - Air Pollution, Climate Change, Law of the Sea, Marine
+     Dumping, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution,
+     Wetlands; signed, but not ratified - Biodiversity, Environmental
+     Modification, Marine Life Conservation
+Note:
+     strategic location between Greenland and Europe; westernmost European
+     country; more land covered by glaciers than in all of continental
+     Europe
+ 
+                                  People
+ 
+Population:
+     263,599 (July 1994 est.)
+note:
+     population data estimates based on average growth rate may differ
+     slightly from official population data because of volatile migration
+     rates
+Population growth rate:
+     0.9% (1994 est.)
+Birth rate:
+     16.41 births/1,000 population (1994 est.)
+Death rate:
+     6.72 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.73 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     78.83 years
+male:
+     76.57 years
+female:
+     81.21 years (1994 est.)
+Total fertility rate:
+     2.11 children born/woman (1994 est.)
+Nationality:
+noun:
+     Icelander(s)
+adjective:
+     Icelandic
+Ethnic divisions:
+     homogeneous mixture of descendants of Norwegians and Celts
+Religions:
+     Evangelical Lutheran 96%, other Protestant and Roman Catholic 3%, none
+     1% (1988)
+Languages:
+     Icelandic
+Literacy:
+     age 15 and over can read and write (1976 est.)
+total population:
+     100%
+ 
+ 
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     127,900
+by occupation:
+     commerce, transportation, and services 60.0%, manufacturing 12.5%,
+     fishing and fish processing 11.8%, construction 10.8%, agriculture
+     4.0% (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Iceland
+conventional short form:
+local long form:
+     Lyoveldio Island
+local short form:
+     Island
+Digraph:
+     IC
+Type:
+     republic
+Capital:
+     Reykjavik
+Administrative divisions:
+     23 counties (syslar, singular - sysla) and 14 independent towns*
+     (kaupstadhir, singular - kaupstadhur); Akranes*, Akureyri*,
+     Arnessysla, Austur-Bardhastrandarsysla, Austur-Hunavatnssysla,
+     Austur-Skaftafellssysla, Borgarfjardharsysla, Dalasysla,
+     Eyjafjardharsysla, Gullbringusysla, Hafnarfjordhur*, Husavik*,
+     Isafjordhur*, Keflavik*, Kjosarsysla, Kopavogur*, Myrasysla,
+     Neskaupstadhur*, Nordhur-Isafjardharsysla, Nordhur-Mulasys-la,
+     Nordhur-Thingeyjarsysla, Olafsfjordhur*, Rangarvallasysla, Reykjavik*,
+     Saudharkrokur*, Seydhisfjordhur*, Siglufjordhur*, Skagafjardharsysla,
+     Snaefellsnes-og Hnappadalssysla, Strandasysla, Sudhur-Mulasysla,
+     Sudhur-Thingeyjarsysla, Vesttmannaeyjar*, Vestur-Bardhastrandarsysla,
+     Vestur-Hunavatnssysla, Vestur-Isafjardharsysla,
+     Vestur-Skaftafellssysla
+Independence:
+     17 June 1944 (from Denmark)
+National holiday:
+     Anniversary of the Establishment of the Republic, 17 June (1944)
+Constitution:
+     16 June 1944, effective 17 June 1944
+Legal system:
+     civil law system based on Danish law; does not accept compulsory ICJ
+     jurisdiction
+Suffrage:
+     18 years of age; universal
+ 
+ 
+Executive branch:
+chief of state:
+     President Vigdis FINNBOGADOTTIR (since 1 August 1980); election last
+     held on 29 June 1988 (next scheduled for June 1996); results - there
+     was no election in 1992 as President Vigdis FINNBOGADOTTIR was
+     unopposed
+head of government:
+     Prime Minister David ODDSSON (since 30 April 1991)
+cabinet:
+     Cabinet; appointed by the president
+Legislative branch:
+     unicameral
+Parliament (Althing):
+     elections last held on 20 April 1991 (next to be held by April 1995);
+     results - Independence Party 38.6%, Progressive Party 18.9%, Social
+     Democratic Party 15.5%, People's Alliance 14.4%, Womens List 8.3%,
+     Liberals 1.2%, other 3.1%; seats - (63 total) Independence 26,
+     Progressive 13, Social Democratic 10, People's Alliance 9, Womens List
+     5
+Judicial branch:
+     Supreme Court (Haestirettur)
+Political parties and leaders:
+     Independence Party (conservative), David ODDSSON; Progressive Party,
+     Steingrimur HERMANNSSON; Social Democratic Party, Jon Baldvin
+     HANNIBALSSON; People's Alliance (left socialist), Olafur Ragnar
+     GRIMSSON; Women's List
+Member of:
+     Australian Group, BIS, CCC, CE, CSCE, EBRD, ECE, EFTA, FAO, GATT,
+     IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IFC, ILO, IMF, IMO, INMARSAT,
+     INTELSAT, INTERPOL, IOC, ISO, ITU, LORCS, MTCR, NACC, NATO, NC, NEA,
+     NIB, OECD, PCA, UN, UNCTAD, UNESCO, UPU, WEU (associate), WHO, WIPO,
+     WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Einar BENEDIKTSSON
+chancery:
+     2022 Connecticut Avenue NW, Washington, DC 20008
+telephone:
+     (202) 265-6653 through 6655
+FAX:
+     (202) 265-6656
+consulate(s) general:
+     New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Parker W. BORG
+embassy:
+     Laufasvegur 21, Box 40, Reykjavik
+mailing address:
+     US Embassy, PSC 1003, Box 40, Reykjavik; FPO AE 09728-0340
+telephone:
+     [354] (1) 629100
+FAX:
+     [354] (1) 629139
+ 
+ 
+Flag:
+     blue with a red cross outlined in white that extends to the edges of
+     the flag; the vertical part of the cross is shifted to the hoist side
+     in the style of the Dannebrog (Danish flag)
+ 
+                                  Economy
+ 
+Overview:
+     Iceland's Scandinavian-type economy is basically capitalistic, but
+     with an extensive welfare system, relatively low unemployment, and
+     comparatively even distribution of income. The economy is heavily
+     dependent on the fishing industry, which provides nearly 75% of export
+     earnings and employs 12% of the workforce. In the absence of other
+     natural resources - except energy - Iceland's economy is vulnerable to
+     changing world fish prices. Iceland's economy has been in recession
+     since 1988. The recession continued in 1993 due to a third year of
+     cutbacks in fishing quotas as well as falling world prices for the
+     country's main exports: fish and fish products, aluminum, and
+     ferrosilicon. Real GDP declined 3.3% in 1992 and rose slightly, by
+     0.4%, in 1993. The center-right government's economic goals include
+     reducing the budget and current account deficits, limiting foreign
+     borrowing, containing inflation, revising agricultural and fishing
+     policies, diversifying the economy, and privatizing state-owned
+     industries. The recession has led to a wave of bankruptcies and
+     mergers throughout the economy, as well as the highest unemployment of
+     the post-World War II period. Inflation, previously a serious problem,
+     declined from double digit rates in the 1980s to only 3.7% in 1992-93.
+National product:
+     GDP - purchasing power equivalent - $4.2 billion (1993)
+National product real growth rate:
+     0.4% (1993 est.)
+National product per capita:
+     $16,000 (1993)
+Inflation rate (consumer prices):
+     4% (1993)
+Unemployment rate:
+     4.5% (1993 est.)
+Budget:
+revenues:
+     $1.8 billion
+expenditures:
+     $1.9 billion, including capital expenditures of $191 million (1992)
+Exports:
+     $1.5 billion (f.o.b., 1992)
+commodities:
+     fish and fish products, animal products, aluminum, ferrosilicon,
+     diatomite
+partners:
+     EC 68% (UK 25%, FRG 12%), US 11%, Japan 8% (1992)
+Imports:
+     $1.5 billion (c.i.f., 1992)
+commodities:
+     machinery and transportation equipment, petroleum products,
+     foodstuffs, textiles
+ 
+ 
+partners:
+     EC 53% (Germany 14%, Denmark 10%, UK 9%), Norway 14%, US 9% (1992)
+External debt:
+     $3.9 billion (1992 est.)
+Industrial production:
+     growth rate 1.75% (1991 est.)
+Electricity:
+capacity:
+     1,063,000 kW
+production:
+     5.165 billion kWh
+consumption per capita:
+     19,940 kWh (1992)
+Industries:
+     fish processing, aluminum smelting, ferro-silicon production,
+     geothermal power
+Agriculture:
+     accounts for about 15% of GDP; fishing is most important economic
+     activity, contributing nearly 75% to export earnings; principal crops
+     - potatoes, turnips; livestock - cattle, sheep; self-sufficient in
+     crops; fish catch of about 1.1 million metric tons in 1992
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-81), $19.1 million
+Currency:
+     1 Icelandic krona (IKr) = 100 aurar
+Exchange rates:
+     Icelandic kronur (IKr) per US$1 - 72.971 (January 1994), 67.603
+     (1993), 57.546 (1992), 58.996 (1991), 58.284 (1990), 57.042 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     12,537 km
+paved:
+     2,690 km
+unpaved:
+     gravel, earth 9,847 km
+Ports:
+     Reykjavik, Akureyri, Hafnarfjordhur, Keflavik, Seydhisfjordhur,
+     Siglufjordhur, Vestmannaeyjar
+Merchant marine:
+     8 ships (1,000 GRT or over) totaling 33,212 GRT/47,359 DWT, cargo 2,
+     chemical tanker 1, oil tanker 1, refrigerated cargo 2,
+     roll-on/roll-off cargo 2
+Airports:
+total:
+     90
+usable:
+     84
+with permanent-surface runways:
+     9
+ 
+ 
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     12
+Telecommunications:
+     adequate domestic service; coaxial and fiber-optical cables and
+     microwave radio relay for trunk network; 140,000 telephones; broadcast
+     stations - 5 AM, 147 (transmitters and repeaters) FM, 202
+     (transmitters and repeaters) TV; 2 submarine cables; 1 Atlantic Ocean
+     INTELSAT earth station carries all international traffic; a second
+     INTELSAT earth station is scheduled to be operational in 1993
+ 
+                              Defense Forces
+ 
+Branches:
+     Police, Coast Guard
+note:
+     no armed forces, Iceland's defense is provided by the US-manned
+     Icelandic Defense Force (IDF) headquartered at Keflavik
+Manpower availability:
+     males age 15-49 70,074; fit for military service 62,197
+Defense expenditures:
+     none
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

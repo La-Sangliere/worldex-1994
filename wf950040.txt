@@ -1,0 +1,427 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0039
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Bulgaria
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Bulgaria 
+ 
+ 
+                                 Bulgaria
+ 
+ 
+                                 Geography
+ 
+Location:
+     Balkan State, Southeastern Europe, bordering the Black Sea, between
+     Romania and Turkey
+Map references:
+     Africa, Arctic Region, Ethnic Groups in Eastern Europe, Europe, Middle
+     East, Standard Time Zones of the World
+Area:
+total area:
+     110,910 sq km
+land area:
+     110,550 sq km
+comparative area:
+     slightly larger than Tennessee
+Land boundaries:
+     total 1,808 km, Greece 494 km, The Former Yugoslav Republic of
+     Macedonia 148 km, Romania 608 km, Serbia and Montenegro 318 km (all
+     with Serbia), Turkey 240 km
+Coastline:
+     354 km
+Maritime claims:
+contiguous zone:
+     24 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     temperate; cold, damp winters; hot, dry summers
+Terrain:
+     mostly mountains with lowlands in north and south
+Natural resources:
+     bauxite, copper, lead, zinc, coal, timber, arable land
+Land use:
+arable land:
+     34%
+permanent crops:
+     3%
+meadows and pastures:
+     18%
+forest and woodland:
+     35%
+other:
+     10%
+Irrigated land:
+     10 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     air pollution from industrial emissions; rivers polluted from raw
+     sewage, heavy metals, detergents; deforestation; forest damage from
+     air pollution; soil contamination from heavy metals from metallurgical
+     plants and industrial wastes
+natural hazards:
+     subject to earthquakes, landslides
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Antarctic Treaty, Endangered Species, Environmental
+     Modification, Nuclear Test Ban, Ozone Layer Protection, Ship
+     Pollution, Wetlands; signed, but not ratified - Air Pollution-Volatile
+     Organic Compounds, Antarctic-Environmental Protocol, Biodiversity,
+     Climate Change, Law of the Sea
+Note:
+     strategic location near Turkish Straits; controls key land routes from
+     Europe to Middle East and Asia
+ 
+                                  People
+ 
+Population:
+     8,799,986 (July 1994 est.)
+Population growth rate:
+     -0.32% (1994 est.)
+Birth rate:
+     11.71 births/1,000 population (1994 est.)
+Death rate:
+     11.38 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -3.49 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     12 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     73.24 years
+male:
+     69.99 years
+female:
+     76.67 years (1994 est.)
+Total fertility rate:
+     1.71 children born/woman (1994 est.)
+Nationality:
+noun:
+     Bulgarian(s)
+adjective:
+     Bulgarian
+Ethnic divisions:
+     Bulgarian 85.3%, Turk 8.5%, Gypsy 2.6%, Macedonian 2.5%, Armenian
+     0.3%, Russian 0.2%, other 0.6%
+Religions:
+     Bulgarian Orthodox 85%, Muslim 13%, Jewish 0.8%, Roman Catholic 0.5%,
+     Uniate Catholic 0.2%, Protestant, Gregorian-Armenian, and other 0.5%
+Languages:
+     Bulgarian; secondary languages closely correspond to ethnic breakdown
+ 
+ 
+Literacy:
+     age 15 and over can read and write (1970 est.)
+total population:
+     93%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     4.3 million
+by occupation:
+     industry 33%, agriculture 20%, other 47% (1987)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Bulgaria
+conventional short form:
+Digraph:
+     BU
+Type:
+     emerging democracy
+Capital:
+     Sofia
+Administrative divisions:
+     9 provinces (oblasti, singular - oblast); Burgas, Grad Sofiya,
+     Khaskovo, Lovech, Montana, Plovdiv, Ruse, Sofiya, Varna
+Independence:
+     22 September 1908 (from Ottoman Empire)
+National holiday:
+     Independence Day 3 March (1878)
+Constitution:
+     adopted 12 July 1991
+Legal system:
+     based on civil law system, with Soviet law influence; has accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal and compulsory
+Executive branch:
+chief of state:
+     President Zhelyu Mitev ZHELEV (since 1 August 1990); Vice President
+     (vacant); election last held January 1992; results - Zhelyu ZHELEV was
+     elected by popular vote
+head of government:
+     Chairman of the Council of Ministers (Prime Minister) Lyuben Borisov
+     BEROV (since 30 December 1992); Deputy Chairman of the Council of
+     Ministers (Deputy Prime Minister) Evgeniy MATINCHEV (since 30 December
+     1992)
+cabinet:
+     Council of Ministers; elected by the National Assembly
+Legislative branch:
+     unicameral
+ 
+ 
+National Assembly (Narodno Sobranie):
+     last held 13 October 1991; results - UDF (and breakaway factions) 34%,
+     BSP 33%, MRF 7.5%; seats - (240 total) UDF 110, BSP 106, Movement for
+     Rights and Freedoms 24
+note:
+     the UDF split in March 1993 to form the New Union for Democracy (NUD)
+     with 18 seats, and the Union of Democratic Forces (UDF) with 92 seats
+Judicial branch:
+     Supreme Court, Constitutional Court
+Political parties and leaders:
+     Union of Democratic Forces (UDF), Filip DIMITROV, chairman, an
+     alliance of approximately 20 pro-Democratic parties including United
+     Democratic Center, Democratic Party, Radical Democratic Party,
+     Christian Democratic Union, Alternative Social Liberal Party,
+     Republican Party, Civic Initiative Movement, and about a dozen other
+     groups; Movement for Rights and Freedoms (mainly ethnic Turkish party)
+     (MRF), Ahmed DOGAN, chairman; Bulgarian Socialist Party (BSP), Zhan
+     VIDENOV, chairman; New Union for Democracy (NUD), Dimitar LUDZHEV,
+     chairman
+Other political or pressure groups:
+     Ecoglasnost; Podkrepa (Support) Labor Confederation; Fatherland Union;
+     Bulgarian Democratic Youth (formerly Communist Youth Union);
+     Confederation of Independent Trade Unions of Bulgaria (KNSB);
+     Nationwide Committee for Defense of National Interests; Peasant Youth
+     League; Bulgarian Agrarian National Union - United (BZNS); Bulgarian
+     Democratic Center; "Nikola Petkov" Bulgarian Agrarian National Union;
+     Internal Macedonian Revolutionary Organization - Union of Macedonian
+     Societies (IMRO-UMS); numerous regional, ethnic, and national interest
+     groups with various agendas
+Member of:
+     ACCT (observer), BIS, BSEC, CCC, CE, CEI (participating), CSCE, EBRD,
+     ECE, FAO, G-9, IAEA, IBRD, ICAO, ICFTU, IDA, IFC, ILO, IMF, IMO,
+     INMARSAT, INTELSAT (nonsignatory user), INTERPOL, IOC, IOM (observer),
+     ISO, ITU, LORCS, NACC, NAM (guest), NSG, PCA, UN, UNCTAD, UNESCO,
+     UNIDO, UNTAC, UPU, WFTU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Ognyan Raytchev PISHEV
+chancery:
+     1621 22nd Street NW, Washington, DC 20008
+telephone:
+     (202) 387-7969
+FAX:
+     (202) 234-7973
+US diplomatic representation:
+chief of mission:
+     Ambassador William D. MONTGOMERY
+embassy:
+     1 Saborna Street, Sofia
+mailing address:
+     Unit  25402, Sofia; APO AE 09213
+telephone:
+     [359] (2) 88-48-01 through 05
+FAX:
+     [359] (2) 80-19-77
+ 
+ 
+Flag:
+     three equal horizontal bands of white (top), green, and red; the
+     national emblem formerly on the hoist side of the white stripe has
+     been removed - it contained a rampant lion within a wreath of wheat
+     ears below a red five-pointed star and above a ribbon bearing the
+     dates 681 (first Bulgarian state established) and 1944 (liberation
+     from Nazi control)
+ 
+                                  Economy
+ 
+Overview:
+     The Bulgarian economy continued its painful adjustment in 1993 from
+     the misdirected development undertaken during four decades of
+     Communist rule. Many aspects of a market economy have been put in
+     place and have begun to function, but much of the economy, especially
+     the industrial sector, has yet to re-establish market links lost with
+     the collapse of other centrally planned Eastern European economies.
+     The prices of many imported industrial inputs, especially energy
+     products, have risen markedly, and falling real wages have not
+     sufficed to restore competitiveness. The trade deficit, exacerbated by
+     UN trade sanctions against neighboring Serbia, grew in late 1993,
+     accelerating the depreciation of the lev. These difficulties in
+     adjusting to the challenges of a more open system, together with a
+     severe drought, caused nonagricultural output to fall by perhaps 8% in
+     1993. The government plans more extensive privatization in 1994 to
+     improve the management of state enterprises and to encourage foreign
+     investment in ailing state firms. Bulgaria resumed payments on its $10
+     billion in commercial debt in 1993 following the negotiation of a 50%
+     write-off. An IMF program and second agreement with official creditors
+     on Bulgaria's smaller amount of official debt are required to close
+     the debt deal.
+National product:
+     GDP - purchasing power equivalent - $33.9 billion (1993 est.)
+National product real growth rate:
+     -4% (1993 est.)
+National product per capita:
+     $3,800 (1993 est.)
+Inflation rate (consumer prices):
+     64% (1993)
+Unemployment rate:
+     16% (1993)
+Budget:
+revenues:
+     $14 billion
+expenditures:
+     $17.4 billion, including capital expenditures of $610 million (1993
+     est.)
+Exports:
+     $3.5 billion (f.o.b., 1991)
+commodities:
+     machinery and equipment 30.6%; agricultural products 24%; manufactured
+     consumer goods 22.2%; fuels, minerals, raw materials, and metals
+     10.5%; other 12.7% (1991)
+ 
+ 
+partners:
+     former CEMA countries 57.7% (USSR 48.6%, Poland 2.1%, Czechoslovakia
+     0.9%); developed countries 26.3% (Germany 4.8%, Greece 2.2%); less
+     developed countries 15.9% (Libya 2.1%, Iran 0.7%) (1991)
+Imports:
+     $2.8 billion (f.o.b., 1991)
+commodities:
+     fuels, minerals, and raw materials 58.7%; machinery and equipment
+     15.8%; manufactured consumer goods 4.4%; agricultural products 15.2%;
+     other 5.9%
+partners:
+     former CEMA countries 51.0% (former USSR 43.2%, Poland 3.7%);
+     developed countries 32.8% (Germany 7.0%, Austria 4.7%); less developed
+     countries 16.2% (Iran 2.8%, Libya 2.5%)
+External debt:
+     $12 billion (1993)
+Industrial production:
+     growth rate -10% (1993 est.); accounts for about 37% of GDP (1990)
+Electricity:
+capacity:
+     11,500,000 kW
+production:
+     45 billion kWh
+consumption per capita:
+     5,070 kWh (1992)
+Industries:
+     machine building and metal working, food processing, chemicals,
+     textiles, building materials, ferrous and nonferrous metals
+Agriculture:
+     climate and soil conditions support livestock raising and the growing
+     of various grain crops, oilseeds, vegetables, fruits, and tobacco;
+     more than one-third of the arable land devoted to grain; world's
+     fourth-largest tobacco exporter; surplus food producer
+Illicit drugs:
+     transshipment point for southwest Asian heroin transiting the Balkan
+     route
+Economic aid:
+     $NA
+Currency:
+     1 lev (Lv) = 100 stotinki
+Exchange rates:
+     leva (Lv) per US$1 - 32.00 (January 1994), 24.56 (January 1993), 17.18
+     (January 1992), 16.13 (March 1991), 0.7446 (November 1990), 0.84
+     (1989); note - floating exchange rate since February 1991
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     4,300 km total, all government owned (1987); 4,055 km 1.435-meter
+     standard gauge, 245 km narrow gauge; 917 km double track; 2,640 km
+     electrified
+ 
+ 
+Highways:
+total:
+     36,930 km
+paved:
+     33,902 km (including 276 km expressways)
+unpaved:
+     earth 3,028 km (1991)
+Inland waterways:
+     470 km (1987)
+Pipelines:
+     crude oil 193 km; petroleum products 525 km; natural gas 1,400 km
+     (1992)
+Ports:
+     coastal - Burgas, Varna, Varna West; inland - Ruse, Vidin, and Lom on
+     the Danube
+Merchant marine:
+     111 ships (1,000 GRT and over) totaling 1,225,996 GRT/1,829,642 DWT,
+     bulk 48, cargo 30, chemical carrier 4, container 2, oil tanker 16,
+     passenger-cargo 1, railcar carrier 2, roll-on/roll-off cargo 6,
+     short-sea passenger 2
+note:
+     Bulgaria owns 1 ship (1,000 GRT or over) totaling 8,717 DWT operating
+     under Liberian registry
+Airports:
+total:
+     487
+usable:
+     85
+with permanent-surface runways:
+     32
+with runways over 3659 m:
+     0
+with runways 2,440-3,659 m:
+     21
+with runways 1,060-2,439 m:
+     36
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     extensive but antiquated transmission system of coaxial cable and
+     microwave radio relay; 2.6 million telephones; direct dialing to 36
+     countries; phone density is 29 phones per 100 persons (1992); almost
+     two-thirds of the lines are residential; 67% of Sofia households have
+     phones (November 1988); telephone service is available in most
+     villages; broadcast stations - 20 AM, 15 FM, and 29 TV, with 1 Soviet
+     TV repeater in Sofia; 2.1 million TV sets (1990); 92% of country
+     receives No. 1 television program (May 1990); 1 satellite ground
+     station using Intersputnik; INTELSAT is used through a Greek earth
+     station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air and Air Defense Forces, Frontier Troops, Internal
+     Troops
+ 
+ 
+Manpower availability:
+     males age 15-49 2,175,921; fit for military service 1,816,484; reach
+     military age (19) annually 70,306 (1994 est.)
+Defense expenditures:
+     5.77 billion leva, NA% of GDP (1993 est.); note - conversion of
+     defense expenditures into US dollars using the current exchange rate
+     could produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

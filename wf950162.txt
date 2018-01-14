@@ -1,0 +1,408 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0161
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Moldova
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Moldova 
+ 
+ 
+                                  Moldova
+ 
+ 
+                                 Geography
+ 
+Location:
+     Eastern Europe, between Ukraine and Romania
+Map references:
+     Asia, Europe, Standard Time Zones of the World
+Area:
+total area:
+     33,700 sq km
+land area:
+     33,700 sq km
+comparative area:
+     slightly more than twice the size of Hawaii
+Land boundaries:
+     total 1,389 km, Romania 450 km, Ukraine 939 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     no official territorial claims by either Moldova or Romania, but
+     nationalists in Romania seek the merger of Moldova into Romania;
+     potential future dispute by Moldova and Romania against Ukraine over
+     former southern and northern Bessarabian areas and Northern Bukovina
+     ceded to Ukraine upon Moldova's incorporation into USSR
+Climate:
+     moderate winters, warm summers
+Terrain:
+     rolling steppe, gradual slope south to Black Sea
+Natural resources:
+     lignite, phosphorites, gypsum
+Land use:
+arable land:
+     50%
+permanent crops:
+     13%
+meadows and pastures:
+     9%
+forest and woodland:
+     0%
+other:
+     28%
+Irrigated land:
+     2,920 sq km (1990)
+Environment:
+current issues:
+     heavy use of agricultural chemicals, including banned pesticides such
+     as DDT, has contaminated soil and groundwater; extensive soil erosion
+     from poor farming methods
+natural hazards:
+     NA
+international agreements:
+     signed, but not ratified - Biodiversity, Climate Change
+ 
+ 
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     4,473,033 (July 1994 est.)
+Population growth rate:
+     0.38% (1994 est.)
+Birth rate:
+     16.02 births/1,000 population (1994 est.)
+Death rate:
+     10.02 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -2.2 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     30.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     68.07 years
+male:
+     64.65 years
+female:
+     71.67 years (1994 est.)
+Total fertility rate:
+     2.18 children born/woman (1994 est.)
+Nationality:
+noun:
+     Moldovan(s)
+adjective:
+     Moldovan
+Ethnic divisions:
+     Moldavian/Romanian 64.5%, Ukrainian 13.8%, Russian 13%, Gagauz 3.5%,
+     Jewish 1.5%, Bulgarian 2%, other 1.7% (1989 figures)
+note:
+     internal disputes with ethnic Russians and Ukrainians in the Dniester
+     region and Gagauz Turks in the south
+Religions:
+     Eastern Orthodox 98.5%, Jewish 1.5%, Baptist (only about 1,000
+     members) (1991)
+note:
+     the large majority of churchgoers are ethnic Moldavian
+Languages:
+     Moldovan (official; virtually the same as the Romanian language),
+     Russian, Gagauz (a Turkish dialect)
+Literacy:
+     age 9-49 can read and write (1970)
+total population:
+     100%
+male:
+     100%
+female:
+     99%
+Labor force:
+     2.05 million (1992)
+ 
+ 
+by occupation:
+     agriculture 34.4%, industry 20.1%, other 45.5% (1985 figures)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Moldova
+conventional short form:
+local long form:
+     Republica Moldoveneasca
+local short form:
+     none
+former:
+     Soviet Socialist Republic of Moldova; Moldavia
+Digraph:
+     MD
+Type:
+     republic
+Capital:
+     Chisinau
+Administrative divisions:
+     previously divided into 40 rayons; new districts possible under new
+     constitution in 1994
+Independence:
+     27 August 1991 (from Soviet Union)
+National holiday:
+     Independence Day, 27 August 1991
+Constitution:
+     old Soviet constitution (adopted NA 1979) is still in effect but has
+     been heavily amended during the past few years; a new constitution is
+     expected in 1994
+Legal system:
+     based on civil law system; no judicial review of legislative acts;
+     does not accept compulsory ICJ jurisdiction but accepts many UN and
+     CSCE documents
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Mircea SNEGUR (since 3 September 1990); election last held 8
+     December 1991 (next to be held NA 1996); results - Mircea SNEGUR ran
+     unopposed and won 98.17% of vote; note - President SNEGUR was named
+     executive president by the Supreme Soviet on 3 September 1990 and was
+     confirmed by popular election on 8 December 1991
+head of government:
+     Prime Minister Andrei SANGHALI (since 1 July 1992; reappointed 5 April
+     1994 after elections for new legislature)
+cabinet:
+     Council of Ministers; appointed by the president on recommendation of
+     the prime minister
+Legislative branch:
+     unicameral
+ 
+ 
+Parliament:
+     elections last held 27 February 1994 (next to be held NA 1999);
+     results - percent by party NA; seats - (104 total) Agrarian-Democratic
+     Party 56, Socialist/Yedinstvo Bloc 28, Peasants and Intellectual Bloc
+     11, Christian Democratic Popular Front 9
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Christian Democratic Popular Front (formerly Moldovan Popular Front),
+     Iurie ROSCA, chairman; Yedinstvo Intermovement, V. YAKOVLEV, chairman;
+     Social Democratic Party, Oazu NANTOI, chairman, two other chairmen;
+     Agrarian-Democratic Party, Dumitru MOTPAN, chairman; Democratic Party,
+     Gheorghe GHIMPU, chairman; Democratic Labor Party, Alexandru ARSENI,
+     chairman; Reform Party, Anatol SELARU; Republican Party, Victor
+     PUSCAS; Socialist Party, Valeriu SENIC, chairman; Communist Party,
+     Vladimir VORONIN
+Other political or pressure groups:
+     United Council of Labor Collectives (UCLC), Igor SMIRNOV, chairman;
+     Congress of Intellectuals, Alexandru MOSANU; The Ecology Movement of
+     Moldova (EMM), G. MALARCHUK, chairman; The Christian Democratic League
+     of Women of Moldova (CDLWM), L. LARI, chairman; National Christian
+     Party of Moldova (NCPM), D. TODIKE, M. BARAGA, V. NIKU, leaders; The
+     Peoples Movement Gagauz Khalky (GKh), S. GULGAR, leader; The
+     Democratic Party of Gagauzia (DPG), G. SAVOSTIN, chairman; The
+     Alliance of Working People of Moldova (AWPM), G. POLOGOV, president;
+     Christian Alliance for Greater Romania; Stefan the Great Movement;
+     Liberal Convention of Moldova; Association of Victims of Repression;
+     Christian Democratic Youth League
+Member of:
+     BSEC, CE (guest), CIS, CSCE, EBRD, ECE, IBRD, ICAO, ILO, IMF, INTELSAT
+     (nonsignatory user), IOC, ITU, NACC, UN, UNCTAD, UNESCO, UNIDO, UPU,
+     WHO, WIPO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Nicolae TIU
+chancery:
+     1511 K Street NW, Room 329, Washington, DC
+telephone:
+     (202) 783-3012 or -2807
+US diplomatic representation:
+chief of mission:
+     Ambassador Mary C. PENDLETON
+embassy:
+     Strada Alexei Mateevich #103, Chisinau
+mailing address:
+     use embassy street address
+telephone:
+     373 (2) 23-37-72 or 23-34-76
+FAX:
+     7-0422-23-30-44
+ 
+ 
+Flag:
+     same color scheme as Romania - 3 equal vertical bands of blue (hoist
+     side), yellow, and red; emblem in center of flag is of a Roman eagle
+     of gold outlined in black with a red beak and talons carrying a yellow
+     cross in its beak and a green olive branch in its right talons and a
+     yellow scepter in its left talons; on its breast is a shield divided
+     horizontally red over blue with a stylized ox head, star, rose, and
+     crescent all in black-outlined yellow
+ 
+                                  Economy
+ 
+Overview:
+     Moldova has pushed ahead boldly on economic reform since gaining its
+     independence from the Soviet Union in 1991. It introduced a
+     convertible currency - the leu - in late 1993 that has remained stable
+     against the dollar, removed price controls on most products,
+     eliminated licenses and quotas on most imports and exports, and freed
+     interest rates. In 1994, Moldova aims to privatize at least one-third
+     of state enterprises, lower inflation to 1% per month, and reduce the
+     budget deficit to 3.5% of GDP. Moldova enjoys a favorable climate and
+     good farmland but has no major mineral deposits. As a result,
+     Moldova's economy is primarily based on agriculture, featuring fruits,
+     vegetables, wine, and tobacco. Moldova, however, must import all of
+     its supplies of oil, coal, and natural gas, and energy shortages have
+     contributed to sharp production declines since the break-up of the
+     Soviet Union. Activities by separatist groups in the Dniester region
+     have held back economic development in that area. Foreign economic
+     assistance has been a tangible plus for Moldova, whereas direct
+     foreign investment has been lacking.
+National product:
+     GDP - purchasing power equivalent - $16.3 billion (1993 estimate from
+     the UN International Comparison Program, as extended to 1991 and
+     published in the World Bank's World Development Report 1993; and as
+     extrapolated to 1993 using official Moldovan statistics, which are
+     very uncertain because of major economic changes since 1990)
+National product real growth rate:
+     -4% (1993 est.)
+National product per capita:
+     $3,650 (1993 est.)
+Inflation rate (consumer prices):
+     30% per month (1993)
+Unemployment rate:
+     less than 1% (includes only officially registered unemployed; large
+     numbers of underemployed workers)
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+note:
+     budget deficit for 1993 approximately 6% of GDP
+Exports:
+     $108 million to outside the FSU countries (January-September 1993);
+     over 70% of exports go to FSU countries
+ 
+ 
+commodities:
+     foodstuffs, wine, tobacco, textiles and footwear, machinery, chemicals
+     (1991)
+partners:
+     Russia, Kazakhstan, Ukraine, Romania, Germany
+Imports:
+     $145 million from outside the FSU countries (January-September 1993);
+     over 70% of imports are from FSU countries
+commodities:
+     oil, gas, coal, steel machinery, foodstuffs, automobiles, and other
+     consumer durables
+partners:
+     Russia, Ukraine, Uzbekistan, Romania, Germany
+External debt:
+     $325 million (end of 1993)
+Industrial production:
+     growth rate -10% (1993)
+Electricity:
+capacity:
+     3,115,000 kW
+production:
+     11.1 billion kWh
+consumption per capita:
+     2,491 kWh (1992)
+Industries:
+     key products are canned food, agricultural machinery, foundry
+     equipment, refrigerators and freezers, washing machines, hosiery,
+     refined sugar, vegetable oil, shoes, textiles
+Agriculture:
+     Moldova's principal economic activity; products are vegetables,
+     fruits, wine, grain, sugar beets, sunflower seed, meat, milk, tobacco
+Illicit drugs:
+     illicit cultivator of opium poppy and cannabis; mostly for CIS
+     consumption; transshipment point for illicit drugs to Western Europe
+Economic aid:
+recipient:
+     Joint EC-US loan (1993), $127 million; IMF STF credit (1993), $64
+     million; IMF stand-by loan (1993), $72 million; US commitments
+     (1992-93), $61 million in humanitarian aid, $11 million in technical
+     assistance; World Bank loan (1993), $60 million; Russia (1993), 50
+     billion ruble credit; Romania (1993), 20 billion lei credit
+Currency:
+     the leu (plural lei) was introduced in late 1993
+Exchange rates:
+     NA
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     1,150 km; does not include industrial lines (1990)
+Highways:
+total:
+     20,000 km
+ 
+ 
+paved or gravelled:
+     13,900 km
+unpaved:
+     earth 6,100 km (1990)
+Pipelines:
+     natural gas 310 km (1992)
+Ports:
+     none; landlocked
+Airports:
+total:
+     26
+usable:
+     15
+with permanent-surface runways:
+     6
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     5
+with runways 1,060-2,439 m:
+     8
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     The telecommunication system of Moldova is not well developed; number
+     of telephone subscribers 577,000 (1991); number of subscribers per
+     1,000 persons 134 (1991); number of unsuccessful requests for
+     telephone service 215,000 (1991); international connections to the
+     other former Soviet republics by land line and microwave radio relay
+     through Ukraine, and to other countries by leased connections to the
+     Moscow international gateway switch; 2 satellite earth stations - 1
+     EUTELSAT and 1 INTELSAT; broadcast services NA
+ 
+                              Defense Forces
+ 
+Branches:
+     Ground Forces, Air and Air Defence Force, Security Forces (internal
+     and border troops)
+Manpower availability:
+     males age 15-49 1,098,156; fit for military service 869,866; reach
+     military age (18) annually 35,814 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

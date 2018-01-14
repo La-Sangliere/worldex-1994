@@ -1,0 +1,350 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0182
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Oman
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Oman 
+ 
+ 
+                                   Oman
+ 
+ 
+                                 Geography
+ 
+Location:
+     Middle East, along the Arabian Sea, between Yemen and the United Arab
+     Emirates
+Map references:
+     Middle East, Standard Time Zones of the World
+Area:
+total area:
+     212,460 sq km
+land area:
+     212,460 sq km
+comparative area:
+     slightly smaller than Kansas
+Land boundaries:
+     total 1,374 km, Saudi Arabia 676 km, UAE 410 km, Yemen 288 km
+Coastline:
+     2,092 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     to be defined
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     no defined boundary with most of UAE; Administrative Line with UAE in
+     far north; a treaty with Yemen defining the Omani-Yemeni boundary was
+     ratified in December 1992
+Climate:
+     dry desert; hot, humid along coast; hot, dry interior; strong
+     southwest summer monsoon (May to September) in far south
+Terrain:
+     vast central desert plain, rugged mountains in north and south
+Natural resources:
+     petroleum, copper, asbestos, some marble, limestone, chromium, gypsum,
+     natural gas
+Land use:
+arable land:
+     less than 2%
+permanent crops:
+     0%
+meadows and pastures:
+     5%
+forest and woodland:
+     0%
+other:
+     93%
+Irrigated land:
+     410 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     rising soil salinity; beach pollution from oil spills; sparse natural
+     freshwater resources
+natural hazards:
+     summer winds often raise large sandstorms and dust storms in interior
+international agreements:
+     party to - Law of the Sea, Marine Dumping, Ship Pollution, Whaling;
+     signed, but not ratified - Biodiversity, Climate Change
+Note:
+     strategic location with small foothold on Musandam Peninsula
+     controlling Strait of Hormuz, a vital transit point for world crude
+     oil
+ 
+                                  People
+ 
+Population:
+     1,701,470 (July 1994 est.)
+note:
+     Oman's first census was concluded in December 1993; preliminary
+     figures give a population of 2,000,000, of whom about 500,000 are
+     expatriate workers; final evaluative figures are not yet available
+Population growth rate:
+     3.46% (1994 est.)
+Birth rate:
+     40.38 births/1,000 population (1994 est.)
+Death rate:
+     5.77 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     36.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     67.79 years
+male:
+     65.9 years
+female:
+     69.77 years (1994 est.)
+Total fertility rate:
+     6.53 children born/woman (1994 est.)
+Nationality:
+noun:
+     Omani(s)
+adjective:
+     Omani
+Ethnic divisions:
+     Arab, Baluchi, South Asian (Indian, Pakistani, Sri Lankan,
+     Bangladeshi)
+Religions:
+     Ibadhi Muslim 75%, Sunni Muslim, Shi'a Muslim, Hindu
+Languages:
+     Arabic (official), English, Baluchi, Urdu, Indian dialects
+ 
+ 
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     430,000 (est.)
+by occupation:
+     agriculture 40% (est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Sultanate of Oman
+conventional short form:
+local long form:
+     Saltanat Uman
+local short form:
+     Uman
+Digraph:
+     MU
+Type:
+     monarchy
+Capital:
+     Muscat
+Administrative divisions:
+     there are no first-order administrative divisions as defined by the US
+     Government, but there are 3 governorates (muhafazah, singular -
+     muhafazat); Masqat, Musandam, Zufar
+Independence:
+     1650 (expulsion of the Portuguese)
+National holiday:
+     National Day, 18 November (1940)
+Constitution:
+     none
+Legal system:
+     based on English common law and Islamic law; ultimate appeal to the
+     sultan; has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     none
+Executive branch:
+chief of state and head of government:
+     Sultan and Prime Minister QABOOS bin Said Al Said (since 23 July 1970)
+cabinet:
+     Cabinet
+Legislative branch:
+     unicameral Consultative Council
+Judicial branch:
+     none; traditional Islamic judges and a nascent civil court system
+Political parties and leaders:
+     none
+ 
+ 
+Other political or pressure groups:
+     NA
+Member of:
+     ABEDA, AFESD, AL, AMF, ESCWA, FAO, G-77, GCC, IBRD, ICAO, IDA, IDB,
+     IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, ISO
+     (correspondent), ITU, NAM, OIC, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU,
+     WHO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador-designate Ahmad bin Muhammad al-RASBI
+chancery:
+     2342 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 387-1980 through 1982
+US diplomatic representation:
+chief of mission:
+     Ambassador David J. DUNFORD
+embassy:
+     address NA, Muscat
+mailing address:
+     P. O. Box 202 Code No. 115, Muscat
+telephone:
+     [968] 698-989
+FAX:
+     [968] 604-316
+Flag:
+     three horizontal bands of white (top, double width), red, and green
+     (double width) with a broad, vertical, red band on the hoist side; the
+     national emblem (a khanjar dagger in its sheath superimposed on two
+     crossed swords in scabbards) in white is centered at the top of the
+     vertical band
+ 
+                                  Economy
+ 
+Overview:
+     Economic performance is closely tied to the fortunes of the oil
+     industry, including trends in international oil prices and the ability
+     of OPEC producers to agree on output quotas. Petroleum accounts for
+     more than 85% of export earnings, about 80% of government revenues,
+     and roughly 40% of GDP. Oman has proved oil reserves of 4 billion
+     barrels, equivalent to about 20 years' supply at the current rate of
+     extraction. Agriculture is carried on at a subsistence level and the
+     general population depends on imported food. The government is
+     encouraging private investment, both domestic and foreign, as a prime
+     force for further economic development.
+National product:
+     GDP - purchasing power equivalent -  $16.4 billion (1993 est.)
+National product real growth rate:
+     6.1% (1993 est.)
+National product per capita:
+     $10,000 (1993 est.)
+Inflation rate (consumer prices):
+     2% (1993 est.)
+Unemployment rate:
+     NA%
+ 
+ 
+Budget:
+revenues:
+     $4.4 billion
+expenditures:
+     $5.2 billion, including capital expenditures of $1 billion (1994 est.)
+Exports:
+     $5 billion (f.o.b., 1993 est.)
+commodities:
+     petroleum 87%, re-exports, fish, processed copper, textiles
+partners:
+     UAE 30%, Japan 27%, South Korea 10%, Singapore 5% (1991)
+Imports:
+     $3.7 billion (f.o.b, 1993 est.)
+commodities:
+     machinery, transportation equipment, manufactured goods, food,
+     livestock, lubricants
+partners:
+     Japan 20%, UAE 14%, UK 19%, US 7% (1991)
+External debt:
+     $3 billion (1993)
+Industrial production:
+     growth rate 8.6% (1991); accounts for almost 60% of GDP, including
+     petroleum
+Electricity:
+capacity:
+     1,142,400 kW
+production:
+     5.1 billion kWh
+consumption per capita:
+     3,200 kWh (1992)
+Industries:
+     crude oil production and refining, natural gas production,
+     construction, cement, copper
+Agriculture:
+     accounts for 4% of GDP and 40% of the labor force (including fishing);
+     less than 2% of land cultivated; largely subsistence farming (dates,
+     limes, bananas, alfalfa, vegetables, camels, cattle); not
+     self-sufficient in food; annual fish catch averages 100,000 metric
+     tons
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $137 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $148
+     million; OPEC bilateral aid (1979-89), $797 million
+Currency:
+     1 Omani rial (RO) = 1,000 baiza
+Exchange rates:
+     Omani rials (RO) per US$1 - 0.3845 (fixed rate since 1986)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+ 
+Highways:
+total:
+     26,000 km
+paved:
+     6,000 km
+unpaved:
+     motorable track 20,000 km
+Pipelines:
+     crude oil 1,300 km; natural gas 1,030 km
+Ports:
+     Mina' Qabus, Mina' Raysut, Mina' al Fahl
+Merchant marine:
+     1 passenger ship (1,000 GRT or over) totaling 4,442 GRT/1,320 DWT
+Airports:
+total:
+     138
+usable:
+     130
+with permanent-surface runways:
+     6
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     9
+with runways 1,220-2,439 m:
+     74
+Telecommunications:
+     modern system consisting of open-wire, microwave, and radio
+     communications stations; limited coaxial cable; 50,000 telephones;
+     broadcast stations - 2 AM, 3 FM, 7 TV; satellite earth stations - 2
+     Indian Ocean INTELSAT, 1 ARABSAT, and 8 domestic
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, Royal Oman Police
+Manpower availability:
+     males age 15-49 382,793; fit for military service 217,755; reach
+     military age (14) annually 22,118 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $1.6 billion, 16% of GDP (1993 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,297 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0124
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Jersey
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Jersey 
+ 
+ 
+                                  Jersey
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (British crown dependency)
+ 
+                                 Geography
+ 
+Location:
+     Western Europe, 27 km from France in the English Channel
+Map references:
+     Europe
+Area:
+total area:
+     117 sq km
+land area:
+     117 sq km
+comparative area:
+     about 0.7 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     70 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     temperate; mild winters and cool summers
+Terrain:
+     gently rolling plain with low, rugged hills along north coast
+Natural resources:
+     agricultural land
+Land use:
+arable land:
+     57%
+permanent crops:
+     NA%
+meadows and pastures:
+     NA%
+forest and woodland:
+     NA%
+other:
+     NA%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     NA
+Note:
+     largest and southernmost of Channel Islands; about 30% of population
+     concentrated in Saint Helier
+ 
+                                  People
+ 
+Population:
+     86,048 (July 1994 est.)
+Population growth rate:
+     0.7% (1994 est.)
+Birth rate:
+     12.81 births/1,000 population (1994 est.)
+Death rate:
+     10.1 deaths/1,000 population (1994 est.)
+Net migration rate:
+     4.25 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     4.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     76.64 years
+male:
+     73.54 years
+female:
+     80.09 years (1994 est.)
+Total fertility rate:
+     1.43 children born/woman (1994 est.)
+Nationality:
+noun:
+     Channel Islander(s)
+adjective:
+     Channel Islander
+Ethnic divisions:
+     UK and Norman-French descent
+Religions:
+     Anglican, Roman Catholic, Baptist, Congregational New Church,
+     Methodist, Presbyterian
+Languages:
+     English (official), French (official), Norman-French dialect spoken in
+     country districts
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     Bailiwick of Jersey
+conventional short form:
+Digraph:
+     JE
+Type:
+     British crown dependency
+Capital:
+     Saint Helier
+Administrative divisions:
+     none (British crown dependency)
+Independence:
+     none (British crown dependency)
+National holiday:
+     Liberation Day, 9 May (1945)
+Constitution:
+     unwritten; partly statutes, partly common law and practice
+Legal system:
+     English law and local statute
+Suffrage:
+     universal adult at age NA
+Executive branch:
+Chief of State:
+     Queen ELIZABETH II (since 6 February 1952)
+Head of Government:
+     Lieutenant Governor and Commander in Chief Air Marshal Sir John SUTTON
+     (since NA 1990); Bailiff Sir Peter L. CRILL (since NA)
+cabinet:
+     committees; appointed by the States
+Legislative branch:
+     unicameral
+Assembly of the States:
+     elections last held NA (next to be held NA); results - no percent of
+     vote by party since all are independents; seats - (56 total, 52
+     elected) 52 independents
+Judicial branch:
+     Royal Court
+Political parties and leaders:
+     none; all independents
+Member of:
+     none
+Diplomatic representation in US:
+     none (British crown dependency)
+US diplomatic representation:
+     none (British crown dependency)
+Flag:
+     white with the diagonal red cross of Saint Patrick (patron saint of
+     Ireland) extending to the corners of the flag
+ 
+                                  Economy
+ 
+ 
+Overview:
+     The economy is based largely on financial services, agriculture, and
+     tourism. Potatoes, cauliflower, tomatoes, and especially flowers are
+     important export crops, shipped mostly to the UK. The Jersey breed of
+     dairy cattle is known worldwide and represents an important export
+     earner. Milk products go to the UK and other EU countries. In 1986 the
+     finance sector overtook tourism as the main contributor to GDP,
+     accounting for 40% of the island's output. In recent years the
+     government has encouraged light industry to locate in Jersey, with the
+     result that an electronics industry has developed alongside the
+     traditional manufacturing of knitwear. All raw material and energy
+     requirements are imported, as well as a large share of Jersey's food
+     needs.
+National product:
+     GDP $NA
+National product real growth rate:
+     8% (1987 est.)
+National product per capita:
+     $NA
+Inflation rate (consumer prices):
+     8% (1988 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $308 million
+expenditures:
+     $284.4 million, including capital expenditures of $NA (1985)
+Exports:
+     $NA
+commodities:
+     light industrial and electrical goods, foodstuffs, textiles
+partners:
+     UK
+Imports:
+     $NA
+commodities:
+     machinery and transport equipment, manufactured goods, foodstuffs,
+     mineral fuels, chemicals
+partners:
+     UK
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     50,000 kW standby
+production:
+     power supplied by France
+consumption per capita:
+     NA (1992)
+Industries:
+     tourism, banking and finance, dairy
+ 
+ 
+Agriculture:
+     potatoes, cauliflowers, tomatoes; dairy and cattle farming
+Economic aid:
+     none
+Currency:
+     1 Jersey pound (#J) = 100 pence
+Exchange rates:
+     Jersey pounds (#J) per US$1 - 0.6699 (January 1994), 0.6658 (1993),
+     0.5664 (1992), 0.5652 (1991), 0.5603 (1990), 0.6099 (1989); the Jersey
+     pound is at par with the British pound
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     Saint Helier, Gorey, Saint Aubin
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     63,700 telephones; broadcast stations - 1 AM, no FM, 1 TV; 3 submarine
+     cables
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,437 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0158
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Mexico
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Mexico 
+ 
+ 
+                                  Mexico
+ 
+ 
+                                 Geography
+ 
+Location:
+     Middle America, between Guatemala and the US
+Map references:
+     North America, Standard Time Zones of the World
+Area:
+total area:
+     1,972,550 sq km
+land area:
+     1,923,040 sq km
+comparative area:
+     slightly less than three times the size of Texas
+Land boundaries:
+     total 4,538 km, Belize 250 km, Guatemala 962 km, US 3,326 km
+Coastline:
+     9,330 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200 nm or the natural prolongation of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     claims Clipperton Island (French possession)
+Climate:
+     varies from tropical to desert
+Terrain:
+     high, rugged mountains, low coastal plains, high plateaus, and desert
+Natural resources:
+     petroleum, silver, copper, gold, lead, zinc, natural gas, timber
+Land use:
+arable land:
+     12%
+permanent crops:
+     1%
+meadows and pastures:
+     39%
+forest and woodland:
+     24%
+other:
+     24%
+Irrigated land:
+     51,500 sq km (1989 est.)
+Environment:
+current issues:
+     natural water resources scarce and polluted in north, inaccessible and
+     poor quality in center and extreme southeast; untreated sewage and
+     industrial effluents polluting rivers in urban areas; deforestation;
+     widespread erosion; desertification; serious air pollution in the
+     national capital and urban centers along US-Mexico border
+ 
+ 
+natural hazards:
+     subject to tsunamis along the Pacific coast, destructive earthquakes
+     in the center and south, and hurricanes on the Gulf and Caribbean
+     coasts
+international agreements:
+     party to - Biodiversity, Climate Change, Endangered Species, Hazardous
+     Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation,
+     Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands,
+     Whaling
+Note:
+     strategic location on southern border of US
+ 
+                                  People
+ 
+Population:
+     92,202,199 (July 1994 est.)
+Population growth rate:
+     1.94% (1994 est.)
+Birth rate:
+     27.17 births/1,000 population (1994 est.)
+Death rate:
+     4.73 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -3.09 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     27.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     72.94 years
+male:
+     69.36 years
+female:
+     76.7 years (1994 est.)
+Total fertility rate:
+     3.17 children born/woman (1994 est.)
+Nationality:
+noun:
+     Mexican(s)
+adjective:
+     Mexican
+Ethnic divisions:
+     mestizo (Indian-Spanish) 60%, Amerindian or predominantly Amerindian
+     30%, Caucasian or predominantly Caucasian 9%, other 1%
+Religions:
+     nominally Roman Catholic 89%, Protestant 6%
+Languages:
+     Spanish, various Mayan dialects
+Literacy:
+     age 15 and over can read and write (1990)
+total population:
+     87%
+male:
+     90%
+female:
+     85%
+ 
+ 
+Labor force:
+     26.2 million (1990)
+by occupation:
+     services 31.7%, agriculture, forestry, hunting, and fishing 28%,
+     commerce 14.6%, manufacturing 11.1%, construction 8.4%, transportation
+     4.7%, mining and quarrying 1.5%
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     United Mexican States
+conventional short form:
+local long form:
+     Estados Unidos Mexicanos
+local short form:
+Digraph:
+     MX
+Type:
+     federal republic operating under a centralized government
+Capital:
+Administrative divisions:
+     31 states (estados, singular - estado) and 1 federal district*
+     (distrito federal); Aguascalientes, Baja California, Baja California
+     Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito
+     Federal*, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico,
+     Michoacan, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro,
+     Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas,
+     Tlaxcala, Veracruz, Yucatan, Zacatecas
+Independence:
+     16 September 1810 (from Spain)
+National holiday:
+     Independence Day, 16 September (1810)
+Constitution:
+     5 February 1917
+Legal system:
+     mixture of US constitutional theory and civil law system; judicial
+     review of legislative acts; accepts compulsory ICJ jurisdiction, with
+     reservations
+Suffrage:
+     18 years of age; universal and compulsory (but not enforced)
+Executive branch:
+chief of state and head of government:
+     President Carlos SALINAS de Gortari (since 1 December 1988); election
+     last held on 6 July 1988 (next to be held 21 August 1994); results -
+     Carlos SALINAS de Gortari (PRI) 50.74%, Cuauhtemoc CARDENAS Solorzano
+     (FDN) 31.06%, Manuel CLOUTHIER (PAN) 16.81%; other 1.39%; note -
+     several of the smaller parties ran a common candidate under a
+     coalition called the National Democratic Front (FDN)
+cabinet:
+     Cabinet; appointed by the president
+ 
+ 
+Legislative branch:
+     bicameral National Congress (Congreso de la Union)
+Senate (Camara de Senadores):
+     elections last held on 18 August 1991 (next to be held 21 August
+     1994); results - percent of vote by party NA; seats in full Senate -
+     (64 total; Senate will expand to 128 seats following next election)
+     PRI 62, PRD 1, PAN 1
+Chamber of Deputies (Camara de Diputados):
+     elections last held on 18 August 1991 (next to be held 21 August
+     1994); results - PRI 53%, PAN 20%, PFCRN 10%, PPS 6%, PARM 7%, PMS
+     (now part of PRD) 4%; seats - (500 total) PRI 320, PAN 89, PRD 41,
+     PFCRN 23, PARM 15, PPS 12
+Judicial branch:
+     Supreme Court of Justice (Corte Suprema de Justicia)
+Political parties and leaders:
+     (recognized parties) Institutional Revolutionary Party (PRI), Ignacio
+     Pichardo PAGAZA; National Action Party (PAN), Carlos CASTILLO; Popular
+     Socialist Party (PPS), Indalecio SAYAGO Herrera; Democratic
+     Revolutionary Party (PRD), Porfirio MUNOZ Ledo; Cardenist Front for
+     the National Reconstruction Party (PFCRN), Rafael AGUILAR Talamantes;
+     Authentic Party of the Mexican Revolution (PARM), Rosa Maria MARTINEZ
+     Denagri; Democratic Forum Party (PFD), Pablo Emilio MADERO; Mexican
+     Green Ecologist Party (PVEM), Jorge GONZALEZ Torres
+Other political or pressure groups:
+     Roman Catholic Church; Confederation of Mexican Workers (CTM);
+     Confederation of Industrial Chambers (CONCAMIN); Confederation of
+     National Chambers of Commerce (CONCANACO); National Peasant
+     Confederation (CNC); Revolutionary Workers Party (PRT); Revolutionary
+     Confederation of Workers and Peasants (CROC); Regional Confederation
+     of Mexican Workers (CROM); Confederation of Employers of the Mexican
+     Republic (COPARMEX); National Chamber of Transformation Industries
+     (CANACINTRA); Coordinator for Foreign Trade Business Organizations
+     (COECE); Federation of Unions Providing Goods and Services (FESEBES)
+Member of:
+     AG (observer), BCIE, CARICOM (observer), CCC, CDB, CG, EBRD, ECLAC,
+     FAO, G-3, G-6, G-11, G-15, G-19, G-24, GATT, IADB, IAEA, IBRD, ICAO,
+     ICC, ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC,
+     IOM (observer), ISO, ITU, LAES, LAIA, LORCS, NAM (observer), OAS,
+     OECD, ONUSAL, OPANAL, PCA, RG, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL,
+     WFTI, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Jorge MONTANO Martinez
+chancery:
+     1911 Pennsylvania Avenue NW, Washington, DC 20006
+telephone:
+     (202) 728-1600
+consulate(s) general:
+     Atlanta, Chicago, Dallas, Denver, El Paso, Houston, Los Angeles,
+     Miami, New Orleans, New York, San Antonio, San Diego, San Francisco,
+     San Juan (Puerto Rico)
+ 
+ 
+consulate(s):
+     Albuquerque, Austin, Boston, Brownsville (Texas), Calexico
+     (California), Corpus Christi, Del Rio (Texas), Detroit, Eagle Pass
+     (Texas), Fresno (California), Loredo, Mc Allen (Texas), Midland
+     (Texas), Nogales (Arizona), Oxnard (California), Philadelphia
+US diplomatic representation:
+chief of mission:
+     Ambassador James JONES
+embassy:
+     Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, D.F.
+mailing address:
+     P. O. Box 3087, Laredo, TX 78044-3087
+telephone:
+     [52] (5) 211-0042
+FAX:
+     [52] (5) 511-9980, 208-3373
+consulate(s) general:
+     Ciudad Juarez, Guadalajara, Monterrey, Tijuana
+consulate(s):
+     Hermosillo, Matamoros, Merida, Nuevo Laredo
+Flag:
+     three equal vertical bands of green (hoist side), white, and red; the
+     coat of arms (an eagle perched on a cactus with a snake in its beak)
+     is centered in the white band
+ 
+                                  Economy
+ 
+Overview:
+     Mexico's economy, made up predominantly of private manufacturing and
+     services and both large-scale and traditional agriculture, is
+     beginning to rebound from the economic difficulties of the 1980s but
+     still faces key challenges. During the 1980s, the accumulation of
+     large external debts, falling world petroleum prices, rapid population
+     growth, and mounting inflation and unemployment plagued the economy.
+     In recent years, the government has responded by implementing sweeping
+     economic reforms. Strict fiscal and monetary discipline have brought
+     inflation under control, reduced the internal debt, and produced
+     budgetary surpluses in 1992 and 1993. The tight money policies,
+     however, have restricted growth: barely 0.4% in 1993 after a rise of
+     2.6% in 1992 and 3.6% in 1991. Another aspect of the reform has been
+     the privatization of more than 80% of Mexico's businesses, including
+     all of the commercial banks. Seeking out increased trade and
+     investment opportunities, the government negotiated the North American
+     Free Trade Agreement (NAFTA) with the United States and Canada, which
+     entered into force on 1 January 1994. Within Latin America, Mexico has
+     completed bilateral free trade agreements with Chile and Costa Rica,
+     and is continuing negotiations with Colombia and Venezuela for a
+     trilateral deal in addition to holding trade discussions with various
+     other nations. In January of 1993, Mexico replaced its old peso at the
+     rate of 1,000 old to 1 new peso. Despite its hard-won economic
+     progress and the prospects of long-term gains under NAFTA, Mexico
+     still faces difficult problems, including sluggish growth,
+     unemployment, continuing social inequalities, serious pollution, and
+     the prospect of increased competition with the opening of trade.
+ 
+ 
+National product:
+     GDP - purchasing power equivalent - $740 billion (1993 est.)
+National product real growth rate:
+     0.4% (1993)
+National product per capita:
+     $8,200 (1993 est.)
+Inflation rate (consumer prices):
+     8% (1993 est.)
+Unemployment rate:
+     10.7% (1992 est.)
+Budget:
+revenues:
+     $58.1 billion
+expenditures:
+     $53 billion, including capital expenditures of $3.4 billion (1992
+     est.)
+Exports:
+     $50.5 billion (f.o.b., 1993 est.), includes in-bond industries
+commodities:
+     crude oil, oil products, coffee, silver, engines, motor vehicles,
+     cotton, consumer electronics
+partners:
+     US 74%, Japan 8%, EC 4% (1992 est.)
+Imports:
+     $65.5 billion (f.o.b., 1993 est.), includes in-bond industries
+commodities:
+     metal-working machines, steel mill products, agricultural machinery,
+     electrical equipment, car parts for assembly, repair parts for motor
+     vehicles, aircraft, and aircraft parts
+partners:
+     US 74%, Japan, 11%, EC 6% (1992)
+External debt:
+     $125 billion (1993 est.)
+Industrial production:
+     growth rate 2.8% (1992 est.); accounts for 28% of GDP
+Electricity:
+capacity:
+     27,000,000 kW
+production:
+     120.725 billion kWh
+consumption per capita:
+     1,300 kWh (1992)
+Industries:
+     food and beverages, tobacco, chemicals, iron and steel, petroleum,
+     mining, textiles, clothing, motor vehicles, consumer durables, tourism
+Agriculture:
+     accounts for 9% of GDP and over 25% of work force; large number of
+     small farms at subsistence level; major food crops - corn, wheat,
+     rice, beans; cash crops - cotton, coffee, fruit, tomatoes
+Illicit drugs:
+     illicit cultivation of opium poppy and cannabis continues in spite of
+     active government eradication program; major supplier to the US
+     market; continues as the primary transshipment country for US-bound
+     cocaine and marijuana from South America
+ 
+ 
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $3.1 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $7.7
+     billion; Communist countries (1970-89), $110 million
+Currency:
+     1 New Mexican peso (Mex$) = 100 centavos
+Exchange rates:
+     market rate of Mexican pesos (Mex$) per US$1 - 3.3556 (March 1994),
+     3,094.9 (1992), 3,018.4 (1991), 2,812.6 (1990), 2,461.3 (1989)
+note:
+     the new peso replaced the old peso on 1 January 1993; 1 new peso =
+     1,000 old pesos
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     24,500 km total
+Highways:
+total:
+     242,300 km
+paved:
+     84,800 km (including 3,166 km of expressways)
+unpaved:
+     gravel and earth 157,500 km
+Inland waterways:
+     2,900 km navigable rivers and coastal canals
+Pipelines:
+     crude oil 28,200 km; petroleum products 10,150 km; natural gas 13,254
+     km; petrochemical 1,400 km
+Ports:
+     Acapulco, Altamira, Coatzacoalcos, Ensenada, Guaymas, Manzanillo,
+     Mazatlan, Progreso, Puerto Vallarta, Salina Cruz, Tampico, Tuxpan,
+     Veracruz
+Merchant marine:
+     58 ships (1,000 GRT or over) totaling 853,161 GRT/1,269,018 DWT, cargo
+     3, chemical tanker 4, container 4, liquefied gas 7, oil tanker 32,
+     refrigerated cargo 2, roll-on/roll-off cargo 2, short-sea passenger 4
+Airports:
+total:
+     1,993
+usable:
+     1,585
+with permanent-surface runways:
+     202
+with runways over 3,659 m:
+     3
+with runways 2,440-3,659 m:
+     35
+with runways 1,220-2,439 m:
+     286
+ 
+ 
+Telecommunications:
+     highly developed system with extensive microwave radio relay links;
+     privatized in December 1990; connected into Central America Microwave
+     System; 6,410,000 telephones; broadcast stations - 679 AM, no FM, 238
+     TV, 22 shortwave; 120 domestic satellite terminals; earth stations - 4
+     Atlantic Ocean INTELSAT and 1 Pacific Ocean INTELSAT; launched
+     Solidarity I satellite in November 1993
+ 
+                              Defense Forces
+ 
+Branches:
+     National Defense (including Army and Air Force), Navy (including
+     Marines)
+Manpower availability:
+     males age 15-49 22,779,635; fit for military service 16,619,809; reach
+     military age (18) annually 1,053,025 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

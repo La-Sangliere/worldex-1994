@@ -1,0 +1,369 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0048
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Central African Republic
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Central African Republic 
+ 
+ 
+                         Central African Republic
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Africa, between Chad and Zaire
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     622,980 sq km
+land area:
+     622,980 sq km
+comparative area:
+     slightly smaller than Texas
+Land boundaries:
+     total 5,203 km, Cameroon 797 km, Chad 1,197 km, Congo 467 km, Sudan
+     1,165 km, Zaire 1,577 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     tropical; hot, dry winters; mild to hot, wet summers
+Terrain:
+     vast, flat to rolling, monotonous plateau; scattered hills in
+     northeast and southwest
+Natural resources:
+     diamonds, uranium, timber, gold, oil
+Land use:
+arable land:
+     3%
+permanent crops:
+     0%
+meadows and pastures:
+     5%
+forest and woodland:
+     64%
+other:
+     28%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     poaching has diminished reputation as one of last great wildlife
+     refuges; desertification
+natural hazards:
+     hot, dry, dusty harmattan winds affect northern areas
+international agreements:
+     party to - Endangered Species, Nuclear Test Ban, Ozone Layer
+     Protection; signed, but not ratified - Biodiversity, Climate Change,
+     Law of the Sea
+Note:
+     landlocked; almost the precise center of Africa
+ 
+ 
+ 
+                                  People
+ 
+Population:
+     3,142,182 (July 1994 est.)
+Population growth rate:
+     2.16% (1994 est.)
+Birth rate:
+     42.3 births/1,000 population (1994 est.)
+Death rate:
+     20.69 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     137.2 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     42.54 years
+male:
+     41.07 years
+female:
+     44.06 years (1994 est.)
+Total fertility rate:
+     5.42 children born/woman (1994 est.)
+Nationality:
+noun:
+     Central African(s)
+adjective:
+     Central African
+Ethnic divisions:
+     Baya 34%, Banda 27%, Sara 10%, Mandjia 21%, Mboum 4%, M'Baka 4%,
+     Europeans 6,500 (including 3,600 French)
+Religions:
+     indigenous beliefs 24%, Protestant 25%, Roman Catholic 25%, Muslim
+     15%, other 11%
+note:
+     animistic beliefs and practices strongly influence the Christian
+     majority
+Languages:
+     French (official), Sangho (lingua franca and national language),
+     Arabic, Hunsa, Swahili
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     27%
+male:
+     33%
+female:
+     15%
+Labor force:
+     775,413 (1986 est.)
+by occupation:
+     agriculture 85%, commerce and services 9%, industry 3%, government 3%
+note:
+     about 64,000 salaried workers; 55% of population of working age (1985)
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+conventional short form:
+     none
+local long form:
+     Republique Centrafricaine
+local short form:
+     none
+former:
+     Central African Empire
+Abbreviation:
+     CAR
+Digraph:
+     CT
+Type:
+     republic; one-party presidential regime since 1986
+Capital:
+     Bangui
+Administrative divisions:
+     14 prefectures (prefectures, singular - prefecture), 2 economic
+     prefectures* (prefectures economiques, singular - prefecture
+     economique), and 1 commune**; Bamingui-Bangoran, Bangui** Basse-Kotto,
+     Gribingui*, Haute-Kotto, Haute-Sangha, Haut-Mbomou, Kemo-Gribingui,
+     Lobaye, Mbomou, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham,
+     Ouham-Pende, Sangha*, Vakaga
+Independence:
+     13 August 1960 (from France)
+National holiday:
+     National Day, 1 December (1958) (proclamation of the republic)
+Constitution:
+     21 November 1986
+Legal system:
+     based on French law
+Suffrage:
+     21 years of age; universal
+Executive branch:
+chief of state:
+     President Felix (Ange) PATASSE (since 22 October 1993) election last
+     held 19 September 1993; PATASSE received 52.45% of the votes and Abel
+     GOUMBA received 45.62%; next election schelduled for 1998
+head of government:
+     Prime Minister Dr. Jean-Luc MANDABA (since 25 October 1993)
+cabinet:
+     Council of Ministers; appointed by the president
+Legislative branch:
+     unicameral
+National Assembly (Assemblee Nationale):
+     elections last held 19 September 1993; results - percentage vote by
+     party NA; seats - (85 total) MLPC 33, RDC 14, PLD 7, ADP 6, PSD 3,
+     others 22
+ 
+ 
+note:
+     the National Assembly is advised by the Economic and Regional Council
+     (Conseil Economique et Regional); when they sit together they are
+     called the Congress (Congres)
+Judicial branch:
+     Supreme Court (Cour Supreme)
+Political parties and leaders:
+     Movement for the Liberation of the Central African People (MLPC), the
+     party of the new president, Ange Felix PATASSE; Central African
+     Democratic Party (RDC), Laurent GOMINA-PAMPALI; Council of Moderates
+     Coalition includes; Union of the People for Economic and Social
+     Development (UPDS), Katossy SIMANI; Liberal Republican Party (PARELI),
+     Augustin M'BOE; Central African Socialist Movement (MSCA), Michel
+     BENGUE; Concerted Democratic Forces (CFD), a coalition of 13 parties,
+     including; Alliance for Democracy and Progress (ADP), Francois PEHOUA;
+     Central African Republican party (PRC), Ruth ROLLAND; Social
+     Democratic Party (PSD), Enoch DERANT-LAKOUE; Civic Forum (FC), Gen.
+     Timothee MALENDOMA; Liberal Democratic Party (PLD), Nestor
+     KOMBOT-NAGUEMON; Movement for the Liberation of the Central African
+     People (MLPC), Felix (Ange) PATASSE
+Member of:
+     ACCT, ACP, AfDB, BDEAC, CCC, CEEAC, ECA, FAO, FZ, G-77, GATT, IBRD,
+     ICAO, IDA, IFAD, IFC, ILO, IMF, INTELSAT, INTERPOL, IOC, ITU, LORCS,
+     NAM, OAU, UDEAC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Henri KOBA
+chancery:
+     1618 22nd Street NW, Washington, DC 20008
+telephone:
+     (202) 483-7800 or 7801
+US diplomatic representation:
+chief of mission:
+     Ambassador Robert E. GRIBBIN
+embassy:
+     Avenue David Dacko, Bangui
+mailing address:
+     B. P. 924, Bangui
+telephone:
+     [236] 61-02-00, 61-25-78, 61-43-33, 61-02-10
+FAX:
+     [236] 61-44-94
+Flag:
+     four equal horizontal bands of blue (top), white, green, and yellow
+     with a vertical red band in center; there is a yellow five-pointed
+     star on the hoist side of the blue band
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Subsistence agriculture, including forestry, remains the backbone of
+     the CAR economy, with more than 70% of the population living in the
+     countryside. In 1990 the agricultural sector generated about 42% of
+     GDP. Timber accounted for about 26% of export earnings and the diamond
+     industry for 54%. Important constraints to economic development
+     include the CAR's landlocked position, a poor transportation system,
+     and a weak human resource base. Multilateral and bilateral development
+     assistance, particularly from France, plays a major role in providing
+     capital for new investment.
+National product:
+     GDP - purchasing power equivalent - $2.5 billion (1993 est.)
+National product real growth rate:
+     -3% (1990 est.)
+National product per capita:
+     $800 (1993 est.)
+Inflation rate (consumer prices):
+     -3% (1990 est.)
+Unemployment rate:
+     30% (1988 est.) in Bangui
+Budget:
+revenues:
+     $175 million
+expenditures:
+     $312 million, including capital expenditures of $122 million (1991
+     est.)
+Exports:
+     $123.5 million (f.o.b.1992)
+commodities:
+     diamonds, cotton, coffee, timber, tobacco
+partners:
+     France, Belgium, Italy, Japan, US
+Imports:
+     $165.1 million (f.o.b.1992)
+commodities:
+     food, textiles, petroleum products, machinery, electrical equipment,
+     motor vehicles, chemicals, pharmaceuticals, consumer goods, industrial
+     products
+partners:
+     France, other EC countries, Japan, Algeria
+External debt:
+     $859 million (1991)
+Industrial production:
+     growth rate 4% (1990 est.); accounts for 14% of GDP
+Electricity:
+capacity:
+     40,000 kW
+production:
+     95 million kWh
+consumption per capita:
+     30 kWh (1991)
+Industries:
+     diamond mining, sawmills, breweries, textiles, footwear, assembly of
+     bicycles and motorcycles
+ 
+ 
+Agriculture:
+     accounts for 42% of GDP; self-sufficient in food production except for
+     grain; commercial crops - cotton, coffee, tobacco, timber; food crops
+     - manioc, yams, millet, corn, bananas
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-90), $52 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-90), $1.6
+     billion; OPEC bilateral aid (1979-89), $6 million; Communist countries
+     (1970-89), $38 million
+Currency:
+     1 CFA franc (CFAF) = 100 centimes
+Exchange rates:
+     Communaute Financiere Africaine francs (CFAF) per US$1 - 592.05
+     (January 1994), 283.16 (1993), 264.69 (1992), 282.11 (1991), 272.26
+     (1990), 319.01 (1989)
+note:
+     beginning 12 January 1994, the CFA franc was devalued to CFAF 100 per
+     French franc from CFAF 50 at which it had been fixed since 1948
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     22,000 km
+paved:
+     bituminous 458 km
+unpaved:
+     improved earth 10,542 km; unimproved earth 11,000 km
+Inland waterways:
+     800 km; traditional trade carried on by means of shallow-draft
+     dugouts; Oubangui is the most important river
+Airports:
+total:
+     65
+usable:
+     51
+with permanent-surface runways:
+     3
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     20
+Telecommunications:
+     fair system; network relies primarily on radio relay links, with
+     low-capacity, low-powered radiocommunication also used; broadcast
+     stations - 1 AM, 1 FM, 1 TV; 1 Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+ 
+Branches:
+     Central African Army (including Republican Guard), Air Force, National
+     Gendarmerie, Police Force
+Manpower availability:
+     males age 15-49 701,728; fit for military service 367,264
+Defense expenditures:
+     exchange rate conversion - $23 million, 1.8% of GDP (1989 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

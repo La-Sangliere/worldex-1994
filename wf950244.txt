@@ -1,0 +1,302 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0243
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Turks and Caicos Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Turks and Caicos Islands 
+ 
+ 
+                         Turks and Caicos Islands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (dependent territory of the UK)
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the western North Atlantic Ocean, 190 km north of the
+     Dominican Republic and southeast of The Bahamas
+Map references:
+     Central America and the Caribbean
+Area:
+total area:
+     430 sq km
+land area:
+     430 sq km
+comparative area:
+     slightly less than 2.5 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     389 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; marine; moderated by trade winds; sunny and relatively dry
+Terrain:
+     low, flat limestone; extensive marshes and mangrove swamps
+Natural resources:
+     spiny lobster, conch
+Land use:
+arable land:
+     2%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     98%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     freshwater scarcity, private cisterns collect rainwater
+natural hazards:
+     subject to frequent hurricanes
+ 
+ 
+international agreements:
+     NA
+Note:
+     30 islands (eight inhabited)
+ 
+                                  People
+ 
+Population:
+     13,552 (July 1994 est.)
+Population growth rate:
+     2.69% (1994 est.)
+Birth rate:
+     14.14 births/1,000 population (1994 est.)
+Death rate:
+     5.17 deaths/1,000 population (1994 est.)
+Net migration rate:
+     17.92 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     12.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     75.34 years
+male:
+     73.41 years
+female:
+     77.02 years (1994 est.)
+Total fertility rate:
+     2.05 children born/woman (1994 est.)
+Nationality:
+noun:
+     none
+adjective:
+     none
+Ethnic divisions:
+     African
+Religions:
+     Baptist 41.2%, Methodist 18.9%, Anglican 18.3%, Seventh-Day Adventist
+     1.7%, other 19.9% (1980)
+Languages:
+     English (official)
+Literacy:
+     age 15 and over who have ever attended school (1970)
+total population:
+     98%
+male:
+     99%
+female:
+     98%
+Labor force:
+     NA
+by occupation:
+     majority engaged in fishing and tourist industries; some subsistence
+     agriculture
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     TK
+Type:
+     dependent territory of the UK
+Capital:
+     Grand Turk
+Administrative divisions:
+     none (dependent territory of the UK)
+Independence:
+     none (dependent territory of the UK)
+National holiday:
+     Constitution Day, 30 August (1976)
+Constitution:
+     introduced 30 August 1976, suspended in 1986, restored and revised 5
+     March 1988
+Legal system:
+     based on laws of England and Wales with a small number adopted from
+     Jamaica and The Bahamas
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1953), represented by Governor
+     Martin BOURKE (since NA February 1993)
+head of government:
+     Chief Minister Washington MISSICK (since NA March 1991)
+cabinet:
+     Executive Council; consists of three ex-officio members and five
+     appointed by the governor from the Legislative Council
+Legislative branch:
+     unicameral
+Legislative Council:
+     elections last held on 3 April 1991 (next to be held NA); results -
+     percent of vote by party NA; seats - (20 total, 13 elected) PNP 8, PDM
+     5
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Progressive National Party (PNP), Washington MISSICK; People's
+     Democratic Movement (PDM), Oswald SKIPPINGS; National Democratic
+     Alliance (NDA), Ariel MISSICK
+Member of:
+     CARICOM (associate), CDB, INTERPOL (subbureau)
+Diplomatic representation in US:
+     none (dependent territory of the UK)
+US diplomatic representation:
+     none (dependent territory of the UK)
+ 
+ 
+Flag:
+     blue with the flag of the UK in the upper hoist-side quadrant and the
+     colonial shield centered on the outer half of the flag; the shield is
+     yellow and contains a conch shell, lobster, and cactus
+ 
+                                  Economy
+ 
+Overview:
+     The economy is based on fishing, tourism, and offshore banking. Only
+     subsistence farming - corn, cassava, citrus, and beans - exists on the
+     Caicos Islands, so that most foods, as well as nonfood products, must
+     be imported.
+National product:
+     GDP - purchasing power equivalent - $80.8 million (1992 est.)
+National product real growth rate:
+     -1.5% (1992)
+National product per capita:
+     $6,000 (1992 est.)
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     12% (1992)
+Budget:
+revenues:
+     $20.3 million
+expenditures:
+     $44 million, including capital expenditures of $23.9 million (1989
+     est.)
+Exports:
+     $6.8 million (f.o.b., 1992)
+commodities:
+     lobster, dried and fresh conch, conch shells
+partners:
+     US, UK
+Imports:
+     $42.8 million (1992)
+commodities:
+     food and beverages, tobacco, clothing, manufactures, construction
+     materials
+partners:
+     US, UK
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     9,050 kW
+production:
+     11.1 million kWh
+consumption per capita:
+     860 kWh (1992)
+Industries:
+     fishing, tourism, offshore financial services
+ 
+ 
+Agriculture:
+     subsistence farming prevails, based on corn and beans; fishing more
+     important than farming; not self-sufficient in food
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $110 million
+Currency:
+     1 United States dollar (US$) = 100 cents
+Exchange rates:
+     US currency is used
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     121 km (including 24 km tarmac)
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     Grand Turk, Salt Cay, Providenciales, Cockburn Harbour
+Airports:
+total:
+     7
+usable:
+     7
+with permanent-surface runways:
+     4
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     4
+Telecommunications:
+     fair cable and radio services; 1,446 telephones; broadcast stations -
+     3 AM, no FM, several TV; 2 submarine cables; 1 Atlantic Ocean INTELSAT
+     earth station
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

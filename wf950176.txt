@@ -1,0 +1,415 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0175
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Nicaragua
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Nicaragua 
+ 
+ 
+                                 Nicaragua
+ 
+ 
+                                 Geography
+ 
+Location:
+     Middle America, between Costa Rica and Honduras
+Map references:
+     Central America and the Caribbean, South America
+Area:
+total area:
+     129,494 sq km
+land area:
+     120,254 sq km
+comparative area:
+     slightly larger than New York State
+Land boundaries:
+     total 1,231 km, Costa Rica 309 km, Honduras 922 km
+Coastline:
+     910 km
+Maritime claims:
+contiguous zone:
+     25-nm security zone (status of claim uncertain)
+continental shelf:
+     not specified
+territorial sea:
+     200 nm
+International disputes:
+     territorial disputes with Colombia over the Archipelago de San Andres
+     y Providencia and Quita Sueno Bank; International Court of Justice
+     (ICJ) referred the maritime boundary question in the Golfo de Fonseca
+     to an earlier agreement in this century and advised that some
+     tripartite resolution among El Salvador, Honduras, and Nicaragua
+     likely would be required
+Climate:
+     tropical in lowlands, cooler in highlands
+Terrain:
+     extensive Atlantic coastal plains rising to central interior
+     mountains; narrow Pacific coastal plain interrupted by volcanoes
+Natural resources:
+     gold, silver, copper, tungsten, lead, zinc, timber, fish
+Land use:
+arable land:
+     9%
+permanent crops:
+     1%
+meadows and pastures:
+     43%
+forest and woodland:
+     35%
+other:
+     12%
+Irrigated land:
+     850 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; soil erosion; water pollution
+ 
+ 
+natural hazards:
+     subject to destructive earthquakes, volcanoes, landslides, and
+     occasionally severe hurricanes
+international agreements:
+     party to - Endangered Species, Nuclear Test Ban, Ozone Layer
+     Protection; signed, but not ratified - Biodiversity, Climate Change,
+     Environmental Modification, Law of the Sea
+ 
+                                  People
+ 
+Population:
+     4,096,689 (July 1994 est.)
+Population growth rate:
+     2.68% (1994 est.)
+Birth rate:
+     34.66 births/1,000 population (1994 est.)
+Death rate:
+     6.69 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -1.22 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     52.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     64.02 years
+male:
+     61.18 years
+female:
+     66.96 years (1994 est.)
+Total fertility rate:
+     4.33 children born/woman (1994 est.)
+Nationality:
+noun:
+     Nicaraguan(s)
+adjective:
+     Nicaraguan
+Ethnic divisions:
+     mestizo 69%, white 17%, black 9%, Indian 5%
+Religions:
+     Roman Catholic 95%, Protestant 5%
+Languages:
+     Spanish (official)
+note:
+     English- and Indian-speaking minorities on Atlantic coast
+Literacy:
+     age 15 and over can read and write (1971)
+total population:
+     57%
+male:
+     57%
+female:
+     57%
+Labor force:
+     1.086 million
+ 
+ 
+by occupation:
+     services 43%, agriculture 44%, industry 13% (1986)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Nicaragua
+conventional short form:
+local long form:
+     Republica de Nicaragua
+local short form:
+Digraph:
+     NU
+Type:
+     republic
+Capital:
+     Managua
+Administrative divisions:
+     17 departments (departamentos, singular - departamento); Boaco,
+     Carazo, Chinandega, Chontales, Esteli, Granada, Jinotega, Leon,
+     Madriz, Managua, Masaya, Matagalpa, North Atlantic Coast Autonomous
+     Zone (RAAN), Nueva Segovia, Rio San Juan, Rivas, South Atlantic Coast
+     Autonomous Zone (RAAS)
+Independence:
+     15 September 1821 (from Spain)
+National holiday:
+     Independence Day, 15 September (1821)
+Constitution:
+     9 January 1987
+Legal system:
+     civil law system; Supreme Court may review administrative acts
+Suffrage:
+     16 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President Violeta Barrios de CHAMORRO (since 25 April 1990); Vice
+     President Virgilio GODOY Reyes (since 25 April 1990); election last
+     held on 25 February 1990 (next to be held November 1996); results -
+     Violeta Barrios de CHAMORRO (UNO) 54.7%, Daniel ORTEGA Saavedra (FSLN)
+     40.8%, other 4.5%
+cabinet:
+     Cabinet
+Legislative branch:
+     unicameral
+National Assembly (Asamblea Nacional):
+     elections last held on 25 February 1990 (next to be held November
+     1996); results - UNO 53.9%, FSLN 40.8%, PSC 1.6%, MUR 1.0%; seats -
+     (92 total) UNO 41, FSLN 39, "Centrist" (Dissident UNO) 12
+Judicial branch:
+     Supreme Court (Corte Suprema)
+ 
+ 
+Political parties and leaders:
+ruling coalition:
+     National Opposition Union (UNO) is a 10-party alliance - moderate
+     parties: National Conservative Party (PNC), Silviano MATAMOROS Lacayo,
+     president; Liberal Constitutionalist Party (PLC), Jose Ernesto
+     SOMARRIBA, Arnold ALEMAN; Christian Democratic Union (UDC), Luis
+     Humberto GUZMAN, Agustin JARQUIN, Azucena FERREY, Roger MIRANDA,
+     Francisco MAYORGA; National Democratic Movement (MDN), Roberto URROZ;
+     National Action Party (PAN), Duilio BALTODANO; UNO - hardline parties:
+     Independent Liberal Party (PLI), Wilfredo NAVARRO,Virgilio GODOY
+     Reyes; Social Democratic Party (PSD), Guillermo POTOY, Alfredo CESAR
+     Aguirre, secretary general; Conservative Popular Alliance Party
+     (PAPC), Myriam ARGUELLO; Communist Party of Nicaragua (PCdeN), Eli
+     ALTIMIRANO Perez; Neo-Liberal Party (PALI), Adolfo GARCIA Esquivel
+opposition parties:
+     Sandinista National Liberation Front (FSLN), Daniel ORTEGA; Central
+     American Unionist Party (PUCA), Blanca ROJAS; Democratic Conservative
+     Party of Nicaragua (PCDN), Jose BRENES; Liberal Party of National
+     Unity (PLUIN), Eduardo CORONADO; Movement of Revolutionary Unity
+     (MUR), Francisco SAMPER; Social Christian Party (PSC), Erick RAMIREZ;
+     Revolutionary Workers' Party (PRT), Bonifacio MIRANDA; Social
+     Conservative Party (PSOC), Fernando AGUERRO; Popular Action Movement -
+     Marxist-Leninist (MAP-ML), Isidro TELLEZ; Popular Social Christian
+     Party (PPSC), Mauricio DIAZ
+Other political or pressure groups:
+     National Workers Front (FNT) is a Sandinista umbrella group of eight
+     labor unions: Sandinista Workers' Central (CST); Farm Workers
+     Association (ATC); Health Workers Federation (FETASALUD); National
+     Union of Employees (UNE); National Association of Educators of
+     Nicaragua (ANDEN); Union of Journalists of Nicaragua (UPN); Heroes and
+     Martyrs Confederation of Professional Associations (CONAPRO); and the
+     National Union of Farmers and Ranchers (UNAG); Permanent Congress of
+     Workers (CPT) is an umbrella group of four non-Sandinista labor
+     unions: Confederation of Labor Unification (CUS); Autonomous
+     Nicaraguan Workers' Central (CTN-A); Independent General Confederation
+     of Labor (CGT-I); and Labor Action and Unity Central (CAUS);
+     Nicaraguan Workers' Central (CTN) is an independent labor union;
+     Superior Council of Private Enterprise (COSEP) is a confederation of
+     business groups
+Member of:
+     BCIE, CACM, ECLAC, FAO, G-77, GATT, IADB, IAEA, IBRD, ICAO, ICFTU,
+     IDA, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, IOM, ITU,
+     LAES, LAIA (observer), LORCS, NAM, OAS, OPANAL, PCA, UN, UNCTAD,
+     UNESCO, UNHCR, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Roberto MAYORGA Cortes
+chancery:
+     1627 New Hampshire Avenue NW, Washington, DC 20009
+telephone:
+     (202) 939-6570
+consulate(s) general:
+     Houston, Los Angeles, Miami, New Orleans, New York, San Francisco
+ 
+ 
+US diplomatic representation:
+chief of mission:
+     Ambassador John MAISTO
+embassy:
+     Kilometer 4.5 Carretera Sur., Managua
+mailing address:
+     APO AA 34021
+telephone:
+     [505] (2) 666010 or 666013, 666015 through 18, 666026, 666027, 666032
+     through 34
+FAX:
+     [505] (2) 666046
+Flag:
+     three equal horizontal bands of blue (top), white, and blue with the
+     national coat of arms centered in the white band; the coat of arms
+     features a triangle encircled by the words REPUBLICA DE NICARAGUA on
+     the top and AMERICA CENTRAL on the bottom; similar to the flag of El
+     Salvador, which features a round emblem encircled by the words
+     REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white
+     band; also similar to the flag of Honduras, which has five blue stars
+     arranged in an X pattern centered in the white band
+ 
+                                  Economy
+ 
+Overview:
+     Since March 1991, when President CHAMORRO began an ambitious economic
+     stabilization program, Nicaragua has had considerable success in
+     reducing inflation and obtaining substantial economic aid from abroad.
+     Annual inflation fell from more than 750% in 1991 to less than 5% in
+     1992. Inflation rose again to an estimated 20% in 1993, although this
+     increase was due almost entirely to a large currency devaluation in
+     January. As of early 1994, the government was close to finalizing an
+     enhanced structural adjustment facility with the IMF, after the
+     previous standby facility expired in early 1993. Despite these
+     successes, achieving overall economic growth in an economy scarred by
+     misguided economic values and civil war during the 1980s has proved
+     elusive. Economic growth was flat in 1992 and slightly negative in
+     1993. Nicaragua's per capita foreign debt is one of the highest in the
+     world; nonetheless, as of late 1993, Nicaragua was current on its
+     post-1988 debt as well as on payments to the international financial
+     institutions. Definition of property rights remains a problem;
+     ownership disputes over large tracts of land, businesses, and homes
+     confiscated by the previous government have yet to be resolved.
+National product:
+     GDP - purchasing power equivalent  - $6.4 billion (1993 est.)
+National product real growth rate:
+     -0.5% (1993 est.)
+National product per capita:
+     $1,600 (1993 est.)
+Inflation rate (consumer prices):
+     20% (1993 est.)
+Unemployment rate:
+     13%; underemployment 50% (1991)
+ 
+ 
+Budget:
+revenues:
+     $375 million (1992)
+expenditures:
+     $410 million (1992), including capital expenditures of $115 million
+     (1991 est.)
+Exports:
+     $228 million (f.o.b., 1992)
+commodities:
+     foodstuffs, cotton, coffee, chemicals
+partners:
+     EC 26%, US 26%, Japan, Costa Rica, El Salvador, Mexico (1992)
+Imports:
+     $907 million (c.i.f., 1992)
+commodities:
+     petroleum, food, chemicals, machinery, clothing
+partners:
+     US 26%, Venezuela, Costa Rica, EC, Guatemala (1992)
+External debt:
+     $10.5 billion ( 1992)
+Industrial production:
+     growth rate NA%; accounts for 20-25% of GDP
+Electricity:
+capacity:
+     434,000 kW
+production:
+     1.118 billion kWh
+consumption per capita:
+     290 kWh (1992)
+Industries:
+     food processing, chemicals, metal products, textiles, clothing,
+     petroleum refining and distribution, beverages, footwear
+Agriculture:
+     crops account for about 15% of GDP; export crops - coffee, bananas,
+     sugarcane, cotton; food crops - rice, corn, cassava, citrus fruit,
+     beans; also produces a variety of animal products - beef, veal, pork,
+     poultry, dairy products; normally self-sufficient in food
+Illicit drugs:
+     transshipment point for cocaine destined for the US
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-92), $620 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89),
+     $1.381 billion
+Currency:
+     1 gold cordoba (C$) = 100 centavos
+Exchange rates:
+     gold cordobas (C$) per US$1 - 6 (10 January 1993), 5 (1992); note -
+     gold cordoba replaced cordoba as Nicaragua's currency in 1991
+     (exchange rate of old cordoba had reached per US$1 - 25,000,000 by
+     March 1992)
+Fiscal year:
+     calendar year
+ 
+ 
+                              Communications
+ 
+Railroads:
+     373 km 1.067-meter narrow gauge, government owned; majority of system
+     not operating; 3 km 1.435-meter gauge line at Puerto Cabezas (does not
+     connect with mainline)
+Highways:
+total:
+     25,930 km
+paved:
+     4,000 km
+unpaved:
+     gravel, crushed stone 2,170 km; graded earth 5,425 km; unimproved
+     earth 14,335 km
+Pan-American highway:
+     368.5 km (not in total)
+Inland waterways:
+     2,220 km, including 2 large lakes
+Pipelines:
+     crude oil 56 km
+Ports:
+     Corinto, El Bluff, Puerto Cabezas, Puerto Sandino, Rama
+Merchant marine:
+     2 cargo ships (1,000 GRT or over) totaling 2,161 GRT/2,500 DWT
+Airports:
+total:
+     208
+usable:
+     149
+with permanent-surface runways:
+     11
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     13
+Telecommunications:
+     low-capacity radio relay and wire system being expanded; connection
+     into Central American Microwave System; 60,000 telephones; broadcast
+     stations - 45 AM, no FM, 7 TV, 3 shortwave; earth stations - 1
+     Intersputnik and 1 Atlantic Ocean INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Ground Forces, Navy, Air Force
+Manpower availability:
+     males age 15-49 946,177; fit for military service 582,669; reach
+     military age (18) annually 45,555 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $43.0 million, 1.6% of GDP (1992)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

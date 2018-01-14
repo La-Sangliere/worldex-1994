@@ -1,0 +1,401 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0215
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Slovakia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Slovakia 
+ 
+ 
+                                 Slovakia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Europe, between Hungary and Poland
+Map references:
+     Ethnic Groups in Eastern Europe, Europe, Standard Time Zones of the
+     World
+Area:
+total area:
+     48,845 sq km
+land area:
+     48,800 sq km
+comparative area:
+     about twice the size of New Hampshire
+Land boundaries:
+     total 1,355 km, Austria 91 km, Czech Republic 215 km, Hungary 515 km,
+     Poland 444 km, Ukraine 90 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     Gabcikovo Dam dispute with Hungary; unresolved property issues with
+     Czech Republic over redistribution of former Czechoslovak federal
+     property
+Climate:
+     temperate; cool summers; cold, cloudy, humid winters
+Terrain:
+     rugged mountains in the central and northern part and lowlands in the
+     south
+Natural resources:
+     brown coal and lignite; small amounts of iron ore, copper and
+     manganese ore; salt
+Land use:
+arable land:
+     NA%
+permanent crops:
+     NA%
+meadows and pastures:
+     NA%
+forest and woodland:
+     NA%
+other:
+     NA%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     acid rain damaging forests
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Antarctic Treaty, Environmental Modification,
+     Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer
+     Protection; signed, but not ratified - Antarctic-Environmental
+     Protocol, Biodiversity, Climate Change
+Note:
+     landlocked
+ 
+                                  People
+ 
+Population:
+     5,403,505 (July 1994 est.)
+Population growth rate:
+     0.53% (1994 est.)
+Birth rate:
+     14.55 births/1,000 population (1994 est.)
+Death rate:
+     9.28 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     10.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     72.81 years
+male:
+     68.66 years
+female:
+     77.2 years (1994 est.)
+Total fertility rate:
+     1.96 children born/woman (1994 est.)
+Nationality:
+noun:
+     Slovak(s)
+adjective:
+     Slovak
+Ethnic divisions:
+     Slovak 85.6%, Hungarian 10.8%, Gypsy 1.5% (the 1992 census figures
+     underreport the Gypsy/Romany community, which could reach 500,000 or
+     more), Czech 1.1%, Ruthenian 15,000, Ukrainian 13,000, Moravian 6,000,
+     German 5,000, Polish 3,000
+Religions:
+     Roman Catholic 60.3%, atheist 9.7%, Protestant 8.4%, Orthodox 4.1%,
+     other 17.5%
+Languages:
+     Slovak (official), Hungarian
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+ 
+ 
+Labor force:
+     2.484 million
+by occupation:
+     industry 33.2%, agriculture 12.2%, construction 10.3%, communication
+     and other 44.3% (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Slovak Republic
+conventional short form:
+local long form:
+     Slovenska Republika
+local short form:
+     Slovensko
+Digraph:
+     LO
+Type:
+     parliamentary democracy
+Capital:
+     Bratislava
+Administrative divisions:
+     4 departments (kraje, singular - Kraj) Bratislava, Zapadoslovensky,
+     Stredoslovensky, Vychodoslovensky
+Independence:
+     1 January 1993 (from Czechoslovakia)
+National holiday:
+     Anniversary of Slovak National Uprising, August 29 (1944)
+Constitution:
+     ratified 1 September 1992; fully effective 1 January 1993
+Legal system:
+     civil law system based on Austro-Hungarian codes; has not accepted
+     compulsory ICJ jurisdiction; legal code modified to comply with the
+     obligations of Conference on Security and Cooperation in Europe (CSCE)
+     and to expunge Marxist-Leninist legal theory
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Michal KOVAC (since 8 February 1993); election last held 8
+     February 1993 (next to be held NA 1998); results - Michal KOVAC
+     elected by the National Council
+head of government:
+     Prime Minister Jozef MORAVCIK (since 16 March 1994)
+cabinet:
+     Cabinet; appointed by the president on recommendation of the prime
+     minister
+Legislative branch:
+     unicameral
+ 
+ 
+National Council (Narodni Rada):
+     elections last held 5-6 June 1992 (next to be held 31
+     September-1October 1994); results - percent of vote by party NA; seats
+     - (150 total) Movement for a Democratic Slovakia 55, Party of the
+     Democratic Left 28, Christian Democratic Movement 18, Slovak National
+     Party 9, National Democratic Party 5, Hungarian Christian Democratic
+     Movement/Coexistence 14, Democratic Union of Slovakia 16, independents
+     5
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Movement for a Democratic Slovakia, Vladimir MECIAR, chairman; Party
+     of the Democratic Left, Peter WEISS, chairman; Christian Democratic
+     Movement, Jan CARNOGURSKY; Slovak National Party, Jan SLOTA, chairman;
+     Hungarian Christian Democratic Movement, Vojtech BUGAR; National
+     Democratic Party - New Alternative, Ludovit CERNAK, chairman;
+     Democratic Union of Slovakia, Jozef MORAVCIK, chairman; Coexistence
+     Movement, Miklos DURAY, chairman
+Other political or pressure groups:
+     Green Party; Social Democratic Party in Slovakia; Freedom Party;
+     Slovak Christian Union; Hungarian Civic Party
+Member of:
+     BIS, CCC, CE (guest), CEI, CERN, COCOM (cooperating), CSCE, EBRD, ECE,
+     FAO, GATT, IAEA, IBRD, ICAO, ICFTU, IDA, IFC, ILO, IMF, IMO, INMARSAT,
+     INTELSAT (nonsignatory user), INTERPOL, IOC, IOM (observer), ISO, ITU,
+     LORCS, NACC, NSG, PCA, UN (as of 8 January 1993), UNAVEM II, UNCTAD,
+     UNESCO, UNIDO, UNOMUR, UNPROFOR, UPU, WFTU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador-designate Bravislav LICHARDUS
+chancery:
+     (temporary) Suite 330, 2201 Wisconsin Avenue NW, Washington, DC 20007
+telephone:
+     (202) 965-5161
+FAX:
+     (202) 965-5166
+US diplomatic representation:
+chief of mission:
+     Ambassdor Theodore RUSSELL
+embassy:
+     Hviezdoslavovo Namesite 4, 81102 Bratislava
+mailing address:
+     use embassy street address
+telephone:
+     [42] (7) 330-861
+FAX:
+     [42] (7) 335-439
+Flag:
+     three equal horizontal bands of white (top), blue, and red
+     superimposed with the Slovak cross in a shield centered on the hoist
+     side; the cross is white centered on a background of red and blue
+ 
+                                  Economy
+ 
+ 
+Overview:
+     The dissolution of Czechoslovakia into two independent states - the
+     Czech Republic and Slovakia - on 1 January 1993 has complicated the
+     task of moving toward a more open and decentralized economy. The old
+     Czechoslovakia, even though highly industrialized by East European
+     standards, suffered from an aging capital plant, lagging technology,
+     and a deficiency in energy and many raw materials. In January 1991,
+     approximately one year after the end of communist control of Eastern
+     Europe, the Czech and Slovak Federal Republic launched a sweeping
+     program to convert its almost entirely state-owned and controlled
+     economy to a market system. In 1991-92 these measures resulted in
+     privatization of some medium- and small-scale economic activity and
+     the setting of more than 90% of prices by the market - but at a cost
+     in inflation, unemployment, and lower output. For Czechoslovakia as a
+     whole inflation in 1991 was roughly 50% and output fell 15%. In 1992
+     in Slovakia, inflation slowed to an estimated 8.7% and the estimated
+     fall in GDP was a more moderate 7%. In 1993 GDP fell roughly 5%, with
+     the disruptions from the separation from the Czech lands probably
+     accounting for half the decline; exports to the Czech Republic fell
+     about 35%. Bratislava adopted an austerity program in June and
+     devalued its currency 10% in July. In 1993, inflation rose an
+     estimated 23%, unemployment topped 14%, and the budget deficit
+     exceeded the IMF target of $485 million by over $200 million. By
+     yearend 1993 Bratislava estimated that 29% of GDP was being produced
+     in the private sector. The forecast for 1994 is gloomy; Bratislava
+     optimistically projects no growth in GDP, 17% unemployment, a $425
+     million budget deficit, and 12% inflation. At best, if Slovakia stays
+     on track with the IMF, GDP could fall by only 2-3% in 1994 and
+     unemployment could be held under 18%, but a currency devaluation will
+     likely drive inflation above 15%.
+National product:
+     GDP - purchasing power equivalent - $31 billion (1993 est.)
+National product real growth rate:
+     -5% (1993 est.)
+National product per capita:
+     $5,800 (1993 est.)
+Inflation rate (consumer prices):
+     23% (1993 est.)
+Unemployment rate:
+     14.4% (1993 est.)
+Budget:
+revenues:
+     $4.5 billion
+expenditures:
+     $5.2 billion, including capital expenditures of $NA (1993 est.)
+Exports:
+     $5.13 billion (f.o.b., 1993 est.)
+commodities:
+     machinery and transport equipment; chemicals; fuels, minerals, and
+     metals; agricultural products
+partners:
+     Czech Republic, CIS republics, Germany, Poland, Austria, Hungary,
+     Italy, France, US, UK
+Imports:
+     $5.95 billion (f.o.b., 1993 est.)
+ 
+ 
+commodities:
+     machinery and transport equipment; fuels and lubricants; manufactured
+     goods; raw materials; chemicals; agricultural products
+partners:
+     Czech Republic, CIS republics, Germany, Austria, Poland, Switzerland,
+     Hungary, UK, Italy
+External debt:
+     $3.2 billion hard currency indebtedness (31 December 1993)
+Industrial production:
+     growth rate -13.5% (December 1993 over December 1992)
+Electricity:
+capacity:
+     6,800,000 kW
+production:
+     24 billion kWh
+consumption per capita:
+     4,550 kWh (1992)
+Industries:
+     brown coal mining, chemicals, metal-working, consumer appliances,
+     fertilizer, plastics, armaments
+Agriculture:
+     largely self-sufficient in food production; diversified crop and
+     livestock production, including grains, potatoes, sugar beets, hops,
+     fruit, hogs, cattle, and poultry; exporter of forest products
+Illicit drugs:
+     transshipment point for Southwest Asian heroin bound for Western
+     Europe
+Economic aid:
+donor:
+     the former Czechoslovakia was a donor - $4.2 billion in bilateral aid
+     to non-Communist less developed countries (1954-89)
+Currency:
+     1 koruna (Sk) = 100 halierov
+Exchange rates:
+     koruny (Sk) per US$1 - 32.9 (December 1993), 28.59 (December 1992),
+     28.26 (1992), 29.53 (1991), 17.95 (1990), 15.05 (1989); note - values
+     before 1993 reflect Czechoslovak exchange rate
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     3,669 km total (1990)
+Highways:
+total:
+     17,650 km (1990)
+paved:
+     NA
+unpaved:
+     NA
+Inland waterways:
+     NA km
+Pipelines:
+     petroleum products NA km; natural gas 2,700 km
+ 
+ 
+Ports:
+     maritime outlets are in Poland (Gdynia, Gdansk, Szczecin), Croatia
+     (Rijeka), Slovenia (Koper), Germany (Hamburg, Rostock); principal
+     river ports are Komarno on the Danube and Bratislava on the Danube
+Merchant marine:
+     total 19 (1,000 GRT or over) totaling 309,502 GRT/521,997 DWT, bulk
+     13, cargo 6
+note:
+     most under the flag of Saint Vincent
+Airports:
+total:
+     46
+usable:
+     32
+with permanent-surface runways:
+     7
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     6
+with runways 1,060-2,439 m:
+     18
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     NA
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Air and Air Defense Forces, Civil Defense, Railroad Units
+Manpower availability:
+     males age 15-49 1,426,290; fit for military service 1,095,604; reach
+     military age (18) annually 48,695 (1994 est.)
+Defense expenditures:
+     8.2 billion koruny, NA% of GDP (1993 est.); note - conversion of
+     defense expenditures into US dollars using the current exchange rate
+     could produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

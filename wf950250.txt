@@ -1,0 +1,449 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0249
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: United States
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | United States 
+ 
+ 
+                               United States
+ 
+ 
+                                 Geography
+ 
+Location:
+     North America, between Canada and Mexico
+Map references:
+     North America, Standard Time Zones of the World
+Area:
+total area:
+     9,372,610 sq km
+land area:
+     9,166,600 sq km
+comparative area:
+     about half the size of Russia; about three-tenths the size of Africa;
+     about one-half the size of South America (or slightly larger than
+     Brazil); slightly smaller than China; about two and one-half times the
+     size of Western Europe
+note:
+     includes only the 50 states and District of Columbia
+Land boundaries:
+     total 12,248 km, Canada 8,893 km (including 2,477 km with Alaska),
+     Cuba 29 km (US Naval Base at Guantanamo Bay), Mexico 3,326 km
+Coastline:
+     19,924 km
+Maritime claims:
+contiguous zone:
+     24 nm depth
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     maritime boundary disputes with Canada (Dixon Entrance, Beaufort Sea,
+     Strait of Juan de Fuca); US Naval Base at Guantanamo Bay is leased
+     from Cuba and only mutual agreement or US abandonment of the area can
+     terminate the lease; Haiti claims Navassa Island; US has made no
+     territorial claim in Antarctica (but has reserved the right to do so)
+     and does not recognize the claims of any other nation; Republic of
+     Marshall Islands claims Wake Island
+Climate:
+     mostly temperate, but tropical in Hawaii and Florida and arctic in
+     Alaska, semiarid in the great plains west of the Mississippi River and
+     arid in the Great Basin of the southwest; low winter temperatures in
+     the northwest are ameliorated occasionally in January and February by
+     warm chinook winds from the eastern slopes of the Rocky Mountains
+Terrain:
+     vast central plain, mountains in west, hills and low mountains in
+     east; rugged mountains and broad river valleys in Alaska; rugged,
+     volcanic topography in Hawaii
+Natural resources:
+     coal, copper, lead, molybdenum, phosphates, uranium, bauxite, gold,
+     iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum,
+     natural gas, timber
+ 
+ 
+Land use:
+arable land:
+     20%
+permanent crops:
+     0%
+meadows and pastures:
+     26%
+forest and woodland:
+     29%
+other:
+     25%
+Irrigated land:
+     181,020 sq km (1989 est.)
+Environment:
+current issues:
+     air pollution resulting in acid rain in both the US and Canada; the US
+     is the largest single emitter of carbon dioxide from the burning of
+     fossil fuels; water pollution from runoff of pesticides and
+     fertilizers; sparse water resources in much of the western part of the
+     country requires careful management; desertification
+natural hazards:
+     tsunamis, volcanoes, and earthquake activity around Pacific Basin;
+     hurricanes along the Atlantic coast; tornadoes in the midwest;
+     mudslides in California; forest fires in the west; flooding;
+     permafrost in northern Alaska is a major impediment to development
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Antarctic
+     Treaty, Climate Change, Endangered Species, Environmental
+     Modification, Marine Dumping, Marine Life Conservation, Nuclear Test
+     Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber,
+     Wetlands, Whaling; signed, but not ratified - Air Pollution-Volatile
+     Organic Compounds, Antarctic-Environmental Protocol, Biodiversity,
+     Hazardous Wastes
+Note:
+     world's fourth-largest country (after Russia, Canada, and China)
+ 
+                                  People
+ 
+Population:
+     260,713,585 (July 1994 est.)
+Population growth rate:
+     0.99% (1994 est.)
+Birth rate:
+     15.2 births/1,000 population (1994 est.)
+Death rate:
+     8.68 deaths/1,000 population (1994 est.)
+Net migration rate:
+     3.38 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     8.11 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     75.9 years
+male:
+     72.58 years
+ 
+ 
+female:
+     79.39 years (1994 est.)
+Total fertility rate:
+     2.06 children born/woman (1994 est.)
+Nationality:
+noun:
+     American(s)
+adjective:
+     American
+Ethnic divisions:
+     white 83.4%, black 12.4%, Asian 3.3%, Native American 0.8% (1992)
+Religions:
+     Protestant 56%, Roman Catholic 28%, Jewish 2%, other 4%, none 10%
+     (1989)
+Languages:
+     English, Spanish (spoken by a sizable minority)
+Literacy:
+     age 15 and over having completed 5 or more years of schooling (1991)
+total population:
+     97%
+male:
+     97%
+female:
+     97%
+Labor force:
+     129.525 million (includes armed forces and unemployed); civilian labor
+     force 128.040 million) (1993)
+by occupation:
+     managerial and professional 27.1%; technical, sales and administrative
+     support 30.9%; services 13.8%; manufacturing, mining, transportation,
+     and crafts 25.5%; farming, forestry, and fishing 2.8%
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     United States of America
+conventional short form:
+Abbreviation:
+     US or USA
+Digraph:
+     US
+Type:
+     federal republic; strong democratic tradition
+Capital:
+     Washington, DC
+ 
+ 
+Administrative divisions:
+     50 states and 1 district*; Alabama, Alaska, Arizona, Arkansas,
+     California, Colorado, Connecticut, Delaware, District of Columbia*,
+     Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas,
+     Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan,
+     Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+     Hampshire, New Jersey, New Mexico, New York, North Carolina, North
+     Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South
+     Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia,
+     Washington, West Virginia, Wisconsin, Wyoming
+Dependent areas:
+     American Samoa, Baker Island, Guam, Howland Island, Jarvis Island,
+     Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Northern
+     Mariana Islands, Palmyra Atoll, Puerto Rico, Virgin Islands, Wake
+     Island
+note:
+     since 18 July 1947, the US has administered the Trust Territory of the
+     Pacific Islands, but recently entered into a new political
+     relationship with three of the four political units; the Northern
+     Mariana Islands is a Commonwealth in political union with the US
+     (effective 3 November 1986); Palau concluded a Compact of Free
+     Association with the US that was approved by the US Congress but to
+     date the Compact process has not been completed in Palau, which
+     continues to be administered by the US as the Trust Territory of the
+     Pacific Islands; the Federated States of Micronesia signed a Compact
+     of Free Association with the US (effective 3 November 1986); the
+     Republic of the Marshall Islands signed a Compact of Free Association
+     with the US (effective 21 October 1986)
+Independence:
+     4 July 1776 (from England)
+National holiday:
+     Independence Day, 4 July (1776)
+Constitution:
+     17 September 1787, effective 4 March 1789
+Legal system:
+     based on English common law; judicial review of legislative acts;
+     accepts compulsory ICJ jurisdiction, with reservations
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President William Jefferson CLINTON (since 20 January 1993); Vice
+     President Albert GORE, Jr. (since 20 January 1993); election last held
+     3 November 1992 (next to be held 5 November 1996); results - William
+     Jefferson CLINTON (Democratic Party) 43.2%, George BUSH (Republican
+     Party) 37.7%, Ross PEROT (Independent) 19.0%, other 0.1%
+cabinet:
+     Cabinet; appointed by the president with Senate approval
+Legislative branch:
+     bicameral Congress
+Senate:
+     elections last held 3 November 1992 (next to be held 8 November 1994);
+     results - Democratic Party 53%, Republican Party 47%, other NEGL%;
+     seats - (100 total) Democratic Party 57, Republican Party 43
+ 
+ 
+House of Representatives:
+     elections last held 3 November 1992 (next to be held 8 November 1994);
+     results - Democratic Party 52%, Republican Party 46%, other 2%; seats
+     - (435 total) Democratic Party 258, Republican Party 176, Independent
+     1
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Republican Party, Haley BARBOUR, national committee chairman; Jeanie
+     AUSTIN, co-chairman; Democratic Party, David C. WILHELM, national
+     committee chairman; several other groups or parties of minor political
+     significance
+Member of:
+     AfDB, AG (observer), ANZUS, APEC, AsDB, Australian Group, BIS, CCC,
+     COCOM, CP, CSCE, EBRD, ECE, ECLAC, FAO, ESCAP, G-2, G-5, G-7, G-8,
+     G-10, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IEA, IFAD, IFC,
+     ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU,
+     LORCS, MINURSO, MTCR, NACC, NATO, NEA, NSG, OAS, OECD, PCA, SPC, UN,
+     UNCTAD, UNHCR, UNIDO, UNIKOM, UNOSOM, UNRWA, UN Security Council,
+     UNTAC, UN Trusteeship Council, UNTSO, UPU, WCL, WHO, WIPO, WMO, WTO,
+     ZC
+Flag:
+     thirteen equal horizontal stripes of red (top and bottom) alternating
+     with white; there is a blue rectangle in the upper hoist-side corner
+     bearing 50 small white five-pointed stars arranged in nine offset
+     horizontal rows of six stars (top and bottom) alternating with rows of
+     five stars; the 50 stars represent the 50 states, the 13 stripes
+     represent the 13 original colonies; known as Old Glory; the design and
+     colors have been the basis for a number of other flags including
+     Chile, Liberia, Malaysia, and Puerto Rico
+ 
+                                  Economy
+ 
+Overview:
+     The US has the most powerful, diverse, and technologically advanced
+     economy in the world, with a per capita GDP of $24,700, the largest
+     among major industrial nations. The economy is market oriented with
+     most decisions made by private individuals and business firms and with
+     government purchases of goods and services made predominantly in the
+     marketplace. In 1989 the economy enjoyed its seventh successive year
+     of substantial growth, the longest in peacetime history. The expansion
+     featured moderation in wage and consumer price increases and a steady
+     reduction in unemployment to 5.2% of the labor force. In 1990,
+     however, growth slowed to 1% because of a combination of factors, such
+     as the worldwide increase in interest rates, Iraq's invasion of Kuwait
+     in August, the subsequent spurt in oil prices, and a general decline
+     in business and consumer confidence. In 1991 output fell by 1%,
+     unemployment grew, and signs of recovery proved premature. Growth
+     picked up to 2.6% in 1992 and to 3.0% in 1993. Unemployment, however,
+     declined only gradually, the increase in GDP being mainly attributable
+     to gains in output per worker. Ongoing economic problems for the
+     remainder of the 1990s include inadequate investment in economic
+     infrastructure, rapidly rising medical costs, and sizable budget and
+     trade deficits.
+ 
+ 
+National product:
+     GDP - purchasing power equivalent - $6.379 trillion (1993)
+National product real growth rate:
+     3% (1993)
+National product per capita:
+     $24,700 (1993)
+Inflation rate (consumer prices):
+     3% (1993)
+Unemployment rate:
+     6% (May 1994)
+Budget:
+revenues:
+     $1.1535 trillion
+expenditures:
+     $1.4082 trillion, including capital expenditures of $NA (1993 est.)
+Exports:
+     $449 billion (f.o.b., 1993 est.)
+commodities:
+     capital goods, automobiles, industrial supplies and raw materials,
+     consumer goods, agricultural products
+partners:
+     Western Europe 24.3%, Canada 22.1%, Japan 10.5% (1993 est.)
+Imports:
+     $582 billion (c.i.f., 1993 est.)
+commodities:
+     crude oil and refined petroleum products, machinery, automobiles,
+     consumer goods, industrial raw materials, food and beverages
+partners:
+     Canada, 19.3%, Western Europe 18.1%, Japan 18.1% (1993 est.)
+External debt:
+     $NA
+Industrial production:
+     growth rate 4.6% (1993); accounts for 23% of GDP (1991)
+Electricity:
+capacity:
+     780,000,000 kW
+production:
+     3.23 trillion kWh
+consumption per capita:
+     12,690 kWh (1992)
+Industries:
+     leading industrial power in the world, highly diversified and
+     technologically advanced; petroleum, steel, motor vehicles, aerospace,
+     telecommunications, chemicals, electronics, food processing, consumer
+     goods, lumber, mining
+Agriculture:
+     accounts for 2% of GDP and 2.8% of labor force; favorable climate and
+     soils support a wide variety of crops and livestock production;
+     world's second largest producer and number one exporter of grain;
+     surplus food producer; fish catch of 4.4 million metric tons (1990)
+Illicit drugs:
+     illicit producer of cannabis for domestic consumption with 1987
+     production estimated at 3,500 metric tons or about 25% of the
+     available marijuana; ongoing eradication program aimed at small plots
+     and greenhouses has not reduced production
+ 
+ 
+Economic aid:
+donor:
+     commitments, including ODA and OOF, (FY80-89), $115.7 billion
+Currency:
+     1 United States dollar (US$) = 100 cents
+Exchange rates:
+British pounds:
+     (#) per US$ - 0.6699 (January 1994), 0.6033 (1993), 0.5664 (1992),
+     0.5652 (1991), 0.5603 (1990), 0.6099 (1989)
+Canadian dollars:
+     (Can$) per US$ - 1.3174 (January 1994), 1.2901 (1993), 1.2087 (1992),
+     1.1457 (1991), 1.1668 (1990), 1.1840 (1989)
+French francs:
+     (F) per US$ - 5.9205 (January 1994), 5.6632 (1993), 5.2938 (1992),
+     5.6421 (1991), 5.4453 (1990), 6.3801 (1989)
+Italian lire:
+     (Lit) per US$ - 1,700.2 (January 1994), 1,573.7 (1993), 1,232.4
+     (1992), 1,240.6 (1991), 1,198.1 (1990), 1.372.1 (1989)
+Japanese yen:
+     (Y) per US$ - 111.51 (January 1994), 111.20 (1993), 126.65 (1992),
+     134.71 (1991), 144.79 (1990), 137.96 (1989)
+German deutsche marks:
+     (DM) per US$ - 1.7431 (January 1994), 1.6533 (1993), 1.5617 (1992),
+     1.6595 (1991), 1.6157 (1990), 1.8800 (1989)
+Fiscal year:
+     1 October - 30 September
+ 
+                              Communications
+ 
+Railroads:
+     240,000 km of mainline routes, all standard 1.435 meter track, no
+     government ownership (1989)
+Highways:
+total:
+     6,243,163 km
+paved:
+     3,633,520 km (including 84,865 km of expressways)
+unpaved:
+     2,609,643 km (1990)
+Inland waterways:
+     41,009 km of navigable inland channels, exclusive of the Great Lakes
+     (est.)
+Pipelines:
+     petroleum 276,000 km; natural gas 331,000 km (1991)
+Ports:
+     Anchorage, Baltimore, Beaumont, Boston, Charleston, Chicago,
+     Cleveland, Duluth, Freeport, Galveston, Hampton Roads, Honolulu,
+     Houston, Jacksonville, Long Beach, Los Angeles, Milwaukee, Mobile, New
+     Orleans, New York, Philadelphia, Portland (Oregon), Richmond
+     (California), San Francisco, Savannah, Seattle, Tampa, Wilmington
+Merchant marine:
+     385 ships (1,000 GRT or over) totaling 12,567,000 GRT/19,511,000 DWT,
+     bulk 23, cargo 36, intermodal 128, liquefied gas 13, passenger-cargo
+     3, tanker 169, tanker tug-barge 13
+ 
+ 
+note:
+     in addition, there are 219 government-owned vessels
+Airports:
+total:
+     14,177
+usable:
+     12,417
+with permanent-surface runways:
+     4,820
+with runways over 3,659 m:
+     63
+with runways 2,440-3,659 m:
+     325
+with runways 1,220-2,439 m:
+     2,524
+Telecommunications:
+     126,000,000 telephone access lines; 7,557,000 cellular phone
+     subscribers; broadcast stations - 4,987 AM, 4,932 FM, 1,092 TV; about
+     9,000 TV cable systems; 530,000,000 radio sets and 193,000,000 TV sets
+     in use; 16 satellites and 24 ocean cable systems in use; satellite
+     ground stations - 45 Atlantic Ocean INTELSAT and 16 Pacific Ocean
+     INTELSAT (1990)
+ 
+                              Defense Forces
+ 
+Branches:
+     Department of the Army, Department of the Navy (including Marine
+     Corps), Department of the Air Force
+Defense expenditures:
+     exchange rate conversion - $315.5 billion, 5.3% of GDP (1992)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

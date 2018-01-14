@@ -1,0 +1,444 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0221
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Spain
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Spain 
+ 
+ 
+                                   Spain
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southwestern Europe, bordering the North Atlantic Ocean and the
+     Mediterranean Sea, between Portugal and France
+Map references:
+     Africa, Europe, Standard Time Zones of the World
+Area:
+total area:
+     504,750 sq km
+land area:
+     499,400 sq km
+comparative area:
+     slightly more than twice the size of Oregon
+note:
+     includes Balearic Islands, Canary Islands, and five places of
+     sovereignty (plazas de soberania) on and off the coast of Morocco -
+     Ceuta, Mellila, Islas Chafarinas, Penon de Alhucemas, and Penon de
+     Velez de la Gomera
+Land boundaries:
+     total 1,903.2 km, Andorra 65 km, France 623 km, Gibraltar 1.2 km,
+     Portugal 1,214 km
+Coastline:
+     4,964 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     Gibraltar question with UK; Spain controls five places of sovereignty
+     (plazas de soberania) on and off the coast of Morocco - the coastal
+     enclaves of Ceuta and Melilla, which Morocco contests, as well as the
+     islands of Penon de Alhucemas, Penon de Velez de la Gomera, and Islas
+     Chafarinas
+Climate:
+     temperate; clear, hot summers in interior, more moderate and cloudy
+     along coast; cloudy, cold winters in interior, partly cloudy and cool
+     along coast
+Terrain:
+     large, flat to dissected plateau surrounded by rugged hills; Pyrenees
+     in north
+Natural resources:
+     coal, lignite, iron ore, uranium, mercury, pyrites, fluorspar, gypsum,
+     zinc, lead, tungsten, copper, kaolin, potash, hydropower
+Land use:
+arable land:
+     31%
+permanent crops:
+     10%
+meadows and pastures:
+     21%
+forest and woodland:
+     31%
+ 
+ 
+other:
+     7%
+Irrigated land:
+     33,600 sq km (1989 est.)
+Environment:
+current issues:
+     pollution of the Mediterranean Sea from untreated sewage and effluents
+     from the offshore production of oil and gas; air pollution;
+     deforestation; desertification
+natural hazards:
+     NA
+international agreements:
+     party to - Air Pollution, Air Pollution-Volatile Organic Compounds,
+     Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity,
+     Climate Change, Endangered Species, Environmental Modification,
+     Hazardous Wastes, Marine Dumping, Marine Life Conservation, Nuclear
+     Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber,
+     Wetlands, Whaling; signed, but not ratified - Air Pollution-Nitrogen
+     Oxides, Law of the Sea
+Note:
+     strategic location along approaches to Strait of Gibraltar
+ 
+                                  People
+ 
+Population:
+     39,302,665 (July 1994 est.)
+Population growth rate:
+     0.25% (1994 est.)
+Birth rate:
+     11.05 births/1,000 population (1994 est.)
+Death rate:
+     8.82 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.27 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     6.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     77.71 years
+male:
+     74.45 years
+female:
+     81.21 years (1994 est.)
+Total fertility rate:
+     1.4 children born/woman (1994 est.)
+Nationality:
+noun:
+     Spaniard(s)
+adjective:
+     Spanish
+Ethnic divisions:
+     composite of Mediterranean and Nordic types
+Religions:
+     Roman Catholic 99%, other sects 1%
+ 
+ 
+Languages:
+     Castilian Spanish, Catalan 17%, Galician 7%, Basque 2%
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     95%
+male:
+     97%
+female:
+     93%
+Labor force:
+     14.621 million
+by occupation:
+     services 53%, industry 24%, agriculture 14%, construction 9% (1988)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Kingdom of Spain
+conventional short form:
+local short form:
+     Espana
+Digraph:
+     SP
+Type:
+     parliamentary monarchy
+Capital:
+     Madrid
+Administrative divisions:
+     17 autonomous communities (comunidades autonomas, singular - comunidad
+     autonoma); Andalucia, Aragon, Asturias, Canarias, Cantabria,
+     Castilla-La Mancha, Castilla y Leon, Cataluna, Communidad Valencia,
+     Extremadura, Galicia, Islas Baleares, La Rioja, Madrid, Murcia,
+     Navarra, Pais Vasco
+note:
+     there are five places of sovereignty on and off the coast of Morocco
+     (Ceuta, Mellila, Islas Chafarinas, Penon de Alhucemas, and Penon de
+     Velez de la Gomera) with administrative status unknown
+Independence:
+     1492 (expulsion of the Moors and unification)
+National holiday:
+     National Day, 12 October
+Constitution:
+     6 December 1978, effective 29 December 1978
+Legal system:
+     civil law system, with regional applications; does not accept
+     compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     King JUAN CARLOS I (since 22 November 1975)
+ 
+ 
+head of government:
+     Prime Minister Felipe GONZALEZ Marquez (since 2 December 1982); Deputy
+     Prime Minister Narcis SERRA y Serra (since 13 March 1991)
+cabinet:
+     Council of Ministers; designated by the prime minister
+Council of State:
+     is the supreme consultative organ of the government
+Legislative branch:
+     bicameral The General Courts or National Assembly (Las Cortes
+     Generales)
+Senate (Senado):
+     elections last held 6 June 1993 (next to be held by NA June 1997);
+     results - percent of vote by party NA; seats - (255 total) PSOE 117,
+     PP 107, CiU 15, PNV 5, IU 2, other 9
+Congress of Deputies (Congreso de los Diputados):
+     elections last held 6 June 1993 (next to be held by NA June 1997);
+     results by percent of party NA; seats - (350 total) PSOE 159, PP 141,
+     IU 18, CiU 17, PNV 5, CN 4, HB 2, other 4
+Judicial branch:
+     Supreme Court (Tribunal Supremo)
+Political parties and leaders:
+principal national parties, from right to left:
+     Popular Party (PP), Jose Maria AZNAR; Social Democratic Center (CDS),
+     Rafael Calvo ORTEGA; Spanish Socialist Workers Party (PSOE), Felipe
+     GONZALEZ Marquez, secretary general; Socialist Democracy Party (DS),
+     Ricardo Garcia DAMBORENEA; Spanish Communist Party (PCE), Julio
+     ANGUITA; United Left (IU) a coalition of parties including the PCE, a
+     branch of the PSOE, and other small parties, Julio ANGUITA
+chief regional parties:
+     Convergence and Unity (CiU), Jordi PUJOL Saley and Miguel ROCA in
+     Catalonia; Basque Nationalist Party (PNV), Xabier ARZALLUS and Jose
+     Antonio ARDANZA; Basque Solidarity (EA), Carlos GARAICOETXEA Urizza;
+     Basque Popular Unity (HB), Jon IDIGORAS and Inaki ESNAOLA; Basque
+     Socialist Party (PSE), coalition of the PSE, EE and PSOE, Jose Maria
+     BANEGAS and Jon LARRINAGA; Andalusian Progress Party (PA), Pedro
+     PACHECO; Canarian Coalition (CN), Dimas MARTIN; Catalan Republican
+     Left, Angel COLOM; Galician Coalition, Senen BERNARDEZ; Aragonese
+     Regionalist Party (PAR), Jose Maria MUR Bernad; Valencian Union (UV),
+     Vicente GONZALEZ Lizondo, Manuel CAMPILLOS Martinez
+Other political or pressure groups:
+     on the extreme left, the Basque Fatherland and Liberty (ETA) and the
+     First of October Antifascist Resistance Group (GRAPO) use terrorism to
+     oppose the government; free labor unions (authorized in April 1977)
+     include the Communist-dominated Workers Commissions (CCOO); the
+     Socialist General Union of Workers (UGT), and the smaller independent
+     Workers Syndical Union (USO); business and landowning interests; the
+     Catholic Church; Opus Dei; university students
+Member of:
+     AG (observer), AsDB, Australian Group, BIS, CCC, CE, CERN, COCOM,
+     CSCE, EBRD, AfDB, EC, ECE, ECLAC, EIB, ESA, FAO, G-8, GATT, IADB,
+     IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IEA, IFAD, IFC, ILO, IMF, IMO,
+     INMARSAT, INTELSAT, INTERPOL, IOC, IOM (observer), ISO, ITU, LAIA
+     (observer), LORCS, MTRC, NACC, NAM (guest), NATO, NEA, NSG, OAS
+     (observer), OECD, ONUSAL, PCA, UN, UNAVEM II, UNCTAD, UNESCO, UNIDO,
+     UNOMOZ, UNPROFOR, UPU, WCL, WEU, WHO, WIPO, WMO, WTO, ZC
+ 
+ 
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Jaime De OJEDA y Eiseley
+chancery:
+     2700 15th Street NW, Washington, DC 20009
+telephone:
+     (202) 265-0190 or 0191
+consulate(s) general:
+     Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York,
+     San Francisco, and San Juan (Puerto Rico)
+US diplomatic representation:
+chief of mission:
+     Ambassador Richard N. GARDNER
+embassy:
+     Serrano 75, 28006 Madrid
+mailing address:
+     APO AE 09642
+telephone:
+     [34] (1) 577-4000
+FAX:
+     [34] (1) 577-5735
+consulate(s) general:
+     Barcelona
+consulate(s):
+     Bilbao
+Flag:
+     three horizontal bands of red (top), yellow (double width), and red
+     with the national coat of arms on the hoist side of the yellow band;
+     the coat of arms includes the royal seal framed by the Pillars of
+     Hercules, which are the two promontories (Gibraltar and Ceuta) on
+     either side of the eastern end of the Strait of Gibraltar
+ 
+                                  Economy
+ 
+Overview:
+     After the economic boom of 1986-90, the Spanish economy fell into
+     recession along with the economies of other EU member states. Real GDP
+     barely grew in 1992 and declined by approximately 1% in 1993.
+     Unemployment, now nearly one-fourth of the workforce, and the sharp
+     downturn in business investment have contributed to sagging domestic
+     demand. Devaluation of the peseta since September 1992 has made
+     Spanish exports more competitive, but an export-led recovery in 1994
+     will depend largely on economic recovery in Spain's major market - the
+     other EU nations. A solid recovery will also require appropriate
+     domestic policy actions, including controlling the budget deficit and
+     wage increases, reforming labor market regulations, and possibly
+     loosening monetary policy another notch. Foreign investors,
+     principally from other EU countries, have invested over $60 billion in
+     Spain since 1986. Despite the recession, inflation remained at about
+     5% in 1993. The main source of inflationary pressure is the fiscal
+     deficit.
+National product:
+     GDP - purchasing power equivalent - $498 billion (1993)
+National product real growth rate:
+     -1% (1993)
+ 
+ 
+National product per capita:
+     $12,700 (1993)
+Inflation rate (consumer prices):
+     4.5% (1993 est.)
+Unemployment rate:
+     22% (yearend 1993)
+Budget:
+revenues:
+     $97.7 billion
+expenditures:
+     $128 billion, including capital expenditures of $NA (1993 est.)
+Exports:
+     $72.8 billion (f.o.b., 1993)
+commodities:
+     cars and trucks, semifinished manufactured goods, foodstuffs,
+     machinery
+partners:
+     EC 71.2%, US 4.8%, other developed countries 7.9% (1992)
+Imports:
+     $92.5 billion (c.i.f., 1993)
+commodities:
+     machinery, transport equipment, fuels, semifinished goods, foodstuffs,
+     consumer goods, chemicals
+partners:
+     EC 60.7%, US 7.4%, other developed countries 11.5%, Middle East 5.9%
+     (1992)
+External debt:
+     $90 billion (1993 est.)
+Industrial production:
+     growth rate -1.7% (1992)
+Electricity:
+capacity:
+     46,600,000 kW
+production:
+     157 billion kWh
+consumption per capita:
+     4,000 kWh (1992)
+Industries:
+     textiles and apparel (including footwear), food and beverages, metals
+     and metal manufactures, chemicals, shipbuilding, automobiles, machine
+     tools, tourism
+Agriculture:
+     accounts for about 5% of GDP and 14% of labor force; major products -
+     grain, vegetables, olives, wine grapes, sugar beets, citrus fruit,
+     beef, pork, poultry, dairy; largely self-sufficient in food; fish
+     catch of 1.4 million metric tons is among top 20 nations
+Illicit drugs:
+     key European gateway country for Latin American cocaine and North
+     African hashish entering the European market
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-87), $1.9 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-79), $545
+     million
+ 
+ 
+note:
+     not currently a recipient
+Currency:
+     1 peseta (Pta) = 100 centimos
+Exchange rates:
+     pesetas (Ptas) per US$1 - 136.6 (May 1994), 127.26 (1993), 102.38
+     (1992), 103.91 (1991), 101.93 (1990), 118.38 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     15,430 km total; Spanish National Railways (RENFE) operates 12,691 km
+     (all 1,668-mm gauge, 6,184 km electrified, and 2,295 km double track);
+     FEVE (government-owned narrow-gauge railways) operates 1,821 km
+     (predominantly 1,000-mm gauge, 441 km electrified); privately owned
+     railways operate 918 km (predominantly 1,000-mm gauge, 512 km
+     electrified, and 56 km double track)
+Highways:
+total:
+     318,022 km (1988)
+paved:
+     178,092 km (including 2,142 km of expressways)
+unpaved:
+     139,930 km
+Inland waterways:
+     1,045 km, but of minor economic importance
+Pipelines:
+     crude oil 265 km; petroleum products 1,794 km; natural gas 1,666 km
+Ports:
+     Algeciras, Alicante, Almeria, Barcelona, Bilbao, Cadiz, Cartagena,
+     Castellon de la Plana, Ceuta, El Ferrol del Caudillo, Puerto de Gijon,
+     Huelva, La Coruna, Las Palmas (Canary Islands), Mahon, Malaga,
+     Melilla, Rota, Santa Cruz de Tenerife, Sagunto, Tarragona, Valencia,
+     Vigo, and 175 minor ports
+Merchant marine:
+     192 ships (1,000 GRT or over) totaling 1,328,730 GRT/2,213,671 DWT,
+     bulk 21, cargo 55, chemical tanker 14, container 11, liquefied gas 5,
+     oil tanker 29, passenger 2, refrigerated cargo 12, roll-on/roll-off
+     cargo 33, short-sea passenger 6, specialized tanker 3, vehicle carrier
+     1
+Airports:
+total:
+     105
+usable:
+     99
+with permanent-surface runways:
+     60
+with runways over 3,659 m:
+     4
+with runways 2,440-3,659 m:
+     22
+with runways 1,220-2,439 m:
+     26
+ 
+ 
+Telecommunications:
+     generally adequate, modern facilities; 15,350,464 telephones;
+     broadcast stations - 190 AM, 406 (134 repeaters) FM, 100 (1,297
+     repeaters) TV; 22 coaxial submarine cables; 2 communications satellite
+     earth stations operating in INTELSAT (Atlantic Ocean and Indian
+     Ocean); MARECS, INMARSAT, and EUTELSAT systems; tropospheric links
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, Marines, Civil Guard, National Police, Coastal
+     Civil Guard
+Manpower availability:
+     males age 15-49 10,377,990; fit for military service 8,396,405; reach
+     military age (20) annually 337,764 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $5.8 billion, 1.3% of GDP (1994 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

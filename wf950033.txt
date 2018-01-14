@@ -1,0 +1,449 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0032
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Bosnia and Herzegovina
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Bosnia and Herzegovina 
+ 
+ 
+                          Bosnia and Herzegovina
+ 
+ 
+                                  Header
+ 
+Note:
+     Bosnia and Herzegovina is suffering from interethnic civil strife
+     which began in March 1992 after the Government of Bosnia and
+     Herzegovina held a referendum on independence. Bosnia's Serbs -
+     supported by neighboring Serbia - responded with armed resistance
+     aimed at partitioning the republic along ethnic lines and joining
+     Serb-held areas to a "greater Serbia." Since the onset of the
+     conflict, which has driven approximately half of the pre-war
+     population of 4.4 million from their homes, both the Bosnian Serbs and
+     the Bosnian Croats have asserted control of more than three-quarters
+     of the territory formerly under the control of the Government of
+     Bosnia and Herzegovina. The UN and the EU are continuing to try to
+     mediate a plan for peace. In March 1994 Bosnian Muslims and Bosnian
+     Croats signed an agreement in Washington, DC, creating a Federation of
+     Bosnia and Herzegovina, which is to include territories in which
+     Muslims or Croats predominated, according to the 1991 census. Bosnian
+     Serbs refused to become a part of this Federation.
+ 
+                                 Geography
+ 
+Location:
+     Balkan State, Southeastern Europe, on the Balkan Peninsula, between
+     Croatia and Serbia and Montenegro
+Map references:
+     Africa, Arctic Region, Ethnic Groups in Eastern Europe, Europe,
+     Standard Time Zones of the World
+Area:
+total area:
+     51,233 sq km
+land area:
+     51,233 sq km
+comparative area:
+     slightly larger than Tennessee
+Land boundaries:
+     total 1,459 km, Croatia 932 km, Serbia and Montenegro 527 km (312 km
+     with Serbia; 215 km with Montenegro)
+Coastline:
+     20 km
+Maritime claims:
+continental shelf:
+     200-m depth
+exclusive economic zone:
+     12 nm
+exclusive fishing zone:
+     12 nm
+territorial sea:
+     12 nm
+ 
+ 
+International disputes:
+     as of May 1994, members of the Bosnian Serb armed factions, desirous
+     of establishing a separate state linked with neighboring Serbia,
+     occupied 70% of Bosnia after having killed or driven out non-Serb
+     inhabitants; the Bosnian Croats, occupied and declared an independent
+     state in an additional 10% of Bosnia in 1993, but in March 1994, this
+     faction and the Bosnian Government settled their dispute and entered
+     into a bicommunal Federation; a Bosnian Government army commander who
+     opposes the leadership of Bosnian President IZETBEGOVIC is leading an
+     insurrection in the government-held enclave of Bihac
+Climate:
+     hot summers and cold winters; areas of high elevation have short, cool
+     summers and long, severe winters; mild, rainy winters along coast
+Terrain:
+     mountains and valleys
+Natural resources:
+     coal, iron, bauxite, manganese, timber, wood products, copper,
+     chromium, lead, zinc
+Land use:
+arable land:
+     20%
+permanent crops:
+     2%
+meadows and pastures:
+     25%
+forest and woodland:
+     36%
+other:
+     17%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     air pollution from metallurgical plants; water scarce; sites for
+     disposing of urban waste are limited; widespread casualties and
+     destruction of infrastructure because of civil strife
+natural hazards:
+     subject to frequent and destructive earthquakes
+international agreements:
+     party to - Air Pollution, Marine Life Conservation, Ozone Layer
+     Protection
+ 
+                                  People
+ 
+Population:
+     4,651,485 (July 1994 est.)
+note:
+     all data dealing with population is subject to considerable error
+     because of the dislocations caused by military action and ethnic
+     cleansing
+Population growth rate:
+     0.69% (1994 est.)
+Birth rate:
+     13.33 births/1,000 population (1994 est.)
+ 
+ 
+Death rate:
+     6.39 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     12.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     75.13 years
+male:
+     72.43 years
+female:
+     78.02 years (1994 est.)
+Total fertility rate:
+     1.61 children born/woman (1994 est.)
+Nationality:
+noun:
+     Bosnian(s), Herzegovinian(s)
+adjective:
+     Bosnian, Herzegovinian
+Ethnic divisions:
+     Muslim 44%, Serb 31%, Croat 17%, other 8%
+Religions:
+     Muslim 40%, Orthodox 31%, Catholic 15%, Protestant 4%, other 10%
+Languages:
+     Serbo-Croatian 99%
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     1,026,254
+by occupation:
+     agriculture 2%, industry, mining 45% (1991 est.)
+ 
+                                Government
+ 
+Note:
+     The US recognizes the Republic of Bosnia and Herzegovina. The
+     Federation of Bosnia and Herzegovina is a new government being formed
+     by the Muslims and Croats. On 31 May 1994 a Croat president, Kresimir
+     ZUBAK, and a Muslim vice president, Ejup GANIC, were elected. Haris
+     SILAJDZIC, who is prime minister of the Republic, is also the prime
+     minister of the Federation.
+Names:
+conventional long form:
+     Republic of Bosnia and Herzegovina
+conventional short form:
+local long form:
+     Republika Bosna i Hercegovina
+ 
+ 
+local short form:
+     Bosna i Hercegovina
+Digraph:
+     BK
+Type:
+     emerging democracy
+Capital:
+     Sarajevo
+Administrative divisions:
+     109 districts (opstinas, singular - opstina) Banovici, Banja Luka,
+     Bihac, Bijeljina, Bileca, Bosanska Dubica, Bosanska Gradiska, Bosanska
+     Krupa, Bosanski Brod, Bosanski Novi, Bosanski Petrovac, Bosanski
+     Samac, Bosansko Grahovo, Bratunac, Brcko, Breza, Bugojno, Busovaca,
+     Cazin, Cajnice, Capljina, Celinac, Citluk, Derventa, Doboj, Donji
+     Vakuf, Foca, Fojnica, Gacko, Glamoc, Gorazde, Gornji Vakuf, Gracanica,
+     Gradacac, Grude, Han Pijesak, Jablanica, Jajce, Kakanj, Kalesija,
+     Kalinovik, Kiseljak, Kladanj, Kljuc, Konjic, Kotor Varos, Kresevo,
+     Kupres, Laktasi, Listica, Livno, Lopare, Lukavac, Ljubinje, Ljubuski,
+     Maglaj, Modrica, Mostar, Mrkonjic-Grad, Neum, Nevesinje, Odzak, Olovo,
+     Orasje, Posusje, Prijedor, Prnjavor, Prozor, (Pucarevo) Novi Travnik,
+     Rogatica, Rudo, Sanski Most, Sarajevo-Centar, Sarajevo-Hadzici,
+     Sarajevo-Ilidza, Sarajevo-Ilijas, Sarajevo-Novi Grad, Sarajevo-Novo,
+     Sarajevo-Pale, Sarajevo-Stari Grad, Sarajevo-Trnovo, Sarajevo-Vogosca,
+     Skender Vakuf, Sokolac, Srbac, Srebrenica, Srebrenik, Stolac,
+     Sekovici, Sipovo, Teslic, Tesanj, Drvar, Duvno, Travnik, Trebinje,
+     Tuzla, Ugljevik, Vares, Velika Kladusa, Visoko, Visegrad, Vitez,
+     Vlasenica, Zavidovici, Zenica, Zvornik, Zepce, Zivinice
+note:
+     currently under negotiation with the assistance of international
+     mediators
+Independence:
+     NA April 1992 (from Yugoslavia)
+National holiday:
+     NA
+Constitution:
+     promulgated in 1974 (under the Communists), amended 1989, 1990, and
+     1991; the Assembly planned to draft a new constitution in 1991, before
+     conditions deteriorated; constitution of Federation of Bosnia and
+     Herzegovina (including Muslim and Croatian controlled parts of
+     Republic) ratified April 1994
+Legal system:
+     based on civil law system
+Suffrage:
+     16 years of age, if employed;  18 years of age, universal
+Executive branch:
+chief of state:
+     President Alija IZETBEGOVIC (since 20 December 1990), other members of
+     the collective presidency: Ejup GANIC (since NA November 1990), Nijaz
+     DURAKOVIC (since NA October 1993), Stjepan KLJUJIC (since NA October
+     1993), Ivo KOMSIC (since NA October 1993), Mirko PEJANOVIC (since NA
+     June 1992), Tatjana LJUJIC-MIJATOVIC (since NA December 1992)
+head of government:
+     Prime Minister Haris SILAJDZIC (since NA October 1993); Deputy Prime
+     Minister Edib BUKVIC (since NA October 1993)
+ 
+ 
+cabinet:
+     executive body of ministers; members of, and responsible to, the
+     National Assembly
+Legislative branch:
+     bicameral National Assembly
+Chamber of Municipalities (Vijece Opeina):
+     elections last held November-December 1990 (next to be held NA);
+     percent of vote by party NA; seats - (110 total) SDA 43, SDS BiH 38,
+     HDZ BiH 23, Party of Democratic Changes 4, DSS 1, SPO 1
+Chamber of Citizens (Vijece Gradanstvo):
+     elections last held November-December 1990 (next to be held NA);
+     percent of vote by party NA; seats - (130 total) SDA 43, SDS BiH 34,
+     HDZ BiH 21, Party of Democratic Changes 15, SRSJ BiH 12, MBO 2, DSS 1,
+     DSZ 1, LS 1
+note:
+     legislative elections for Federation of Bosnia and Herzegovina are
+     slated for late 1994
+Judicial branch:
+     Supreme Court, Constitutional Court
+Political parties and leaders:
+     Party of Democratic Action (SDA), Alija IZETBEGOVIC; Croatian
+     Democratic Union of Bosnia and Herzegovina (HDZ BiH), KresimirZUBAK;
+     Serbian Democratic Party of Bosnia and Herzegovina (SDS BiH), Radovan
+     KARADZIC, president; Muslim-Bosnian Organization (MBO), Adil
+     ZULFIKARPASIC, president; Democratic Party of Socialists (DSS), Nijaz
+     DURAKOVIC, president; Party of Democratic Changes, leader NA; Serbian
+     Movement for Renewal (SPO), Milan TRIVUNCIC; Alliance of Reform Forces
+     of Yugoslavia for Bosnia and Herzegovina (SRSJ BiH), Dr. Nenad
+     KECMANOVIC, president; Democratic League of Greens (DSZ), Drazen
+     PETROVIC; Liberal Party (LS), Rasim KADIC, president
+Other political or pressure groups:
+     NA
+Member of:
+     CEI, CSCE, ECE, ICAO, ILO, IMO, INTELSAT (nonsignatory user),
+     INTERPOL, IOC, ITU, NAM (guest), UN, UNCTAD, UNESCO, UNIDO, UPU, WHO
+Diplomatic representation in US:
+chief of mission:
+     (vacant); Minister-Counselor, Charge d'Affaires ad interim Seven
+     ALKALAJ
+chancery:
+     Suite 760, 1707 L Street NW, Washington, DC 10036
+telephone:
+     (202) 833-3612, 3613, and 3615
+FAX:
+     (202) 833-2061
+consulate(s) general:
+     New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Victor JACKOVICH
+embassy:
+     address NA
+mailing address:
+     NA
+ 
+ 
+telephone:
+     NA
+FAX:
+     NA
+Flag:
+     white with a large blue shield; the shield contains white Roman
+     crosses with a white diagonal band running from the upper hoist corner
+     to the lower fly side
+ 
+                                  Economy
+ 
+Overview:
+     Bosnia and Herzegovina ranked next to The Former Yugoslav Republic of
+     Macedonia as the poorest republic in the old Yugoslav federation.
+     Although agriculture has been almost all in private hands, farms have
+     been small and inefficient, and the republic traditionally has been a
+     net importer of food. Industry has been greatly overstaffed, one
+     reflection of the rigidities of Communist central planning and
+     management. Tito had pushed the development of military industries in
+     the republic with the result that Bosnia hosted a large share of
+     Yugoslavia's defense plants. As of April 1994, Bosnia and Herzegovina
+     was being torn apart by the continued bitter interethnic warfare that
+     has caused production to plummet, unemployment and inflation to soar,
+     and human misery to multiply. No reliable economic statistics for
+     1992-93 are available, although output clearly has fallen
+     substantially below the levels of earlier years.
+National product:
+     GDP - purchasing power equivalent - $NA
+National product real growth rate:
+     NA%
+National product per capita:
+     $NA
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $NA
+commodities:
+     NA
+partners:
+     NA
+Imports:
+     $NA
+commodities:
+     NA
+partners:
+     NA
+External debt:
+     $NA
+ 
+ 
+Industrial production:
+     growth rate NA%; production is sharply down because of interethnic and
+     interrepublic warfare (1991-93)
+Electricity:
+capacity:
+     NA kW
+production:
+     NA kWh
+consumption per capita:
+     NA kWh
+Industries:
+     steel production, mining (coal, iron ore, lead, zinc, manganese, and
+     bauxite), manufacturing (vehicle assembly, textiles, tobacco products,
+     wooden furniture, 40% of former Yugoslavia's armaments including tank
+     and aircraft assembly, domestic appliances), oil refining (1991)
+Agriculture:
+     accounted for 9.0% of GDP in 1989; regularly produces less than 50% of
+     food needs; the foothills of northern Bosnia support orchards,
+     vineyards, livestock, and some wheat and corn; long winters and heavy
+     precipitation leach soil fertility reducing agricultural output in the
+     mountains; farms are mostly privately held, small, and not very
+     productive (1991)
+Illicit drugs:
+     NA
+Economic aid:
+     $NA
+Currency:
+     1 dinar = 100 para; Croatian dinar used in Croat-held area, presumably
+     to be replaced by new Croatian kuna; old and new Serbian dinars used
+     in Serb-held area; hard currencies probably supplanting local
+     currencies in areas held by Bosnian government
+Exchange rates:
+     NA
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     NA km
+Highways:
+total:
+     21,168 km
+paved:
+     11,436 km
+unpaved:
+     gravel 8,146 km; earth 1,586 km (1991)
+Inland waterways:
+     NA km
+Pipelines:
+     crude oil 174 km; natural gas 90 km (1992); note - pipelines now
+     disrupted
+Ports:
+     coastal - none; inland - Bosanski Brod on the Sava River
+ 
+ 
+Airports:
+total:
+     28
+usable:
+     24
+with permanent-surface runways:
+     5
+with runways over 3659:
+     0
+with runways 2440-3659 m:
+     3
+with runways 1220-2439 m:
+     6
+Telecommunications:
+     telephone and telegraph network is in need of modernization and
+     expansion, many urban areas being below average compared with services
+     in other former Yugoslav republics; 727,000 telephones; broadcast
+     stations - 9 AM, 2 FM, 6 TV; 840,000 radios; 1,012,094 TVs; satellite
+     ground stations - none
+ 
+                              Defense Forces
+ 
+Branches:
+     Army
+Manpower availability:
+     males age 15-49 1,298,102; fit for military service 1,054,068; reach
+     military age (19) annually 38,283 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

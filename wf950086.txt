@@ -1,0 +1,173 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0085
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: French Southern and Antarctic Lands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | French Southern and Antarctic Lands 
+ 
+ 
+                    French Southern and Antarctic Lands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (overseas territory of France)
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, in the southern Indian Ocean, about equidistant
+     between Africa, Antarctica, and Australia
+Map references:
+     Antarctic Region, Standard Time Zones of the World
+Area:
+total area:
+     7,781 sq km
+land area:
+     7,781 sq km
+comparative area:
+     slightly less than 1.5 times the size of Delaware
+note:
+     includes Ile Amsterdam, Ile Saint-Paul, Iles Kerguelen, and Iles
+     Crozet; excludes Terre Adelie claim of about 500,000 sq km in
+     Antarctica that is not recognized by the US
+Land boundaries:
+     0 km
+Coastline:
+     1,232 km
+Maritime claims:
+exclusive economic zone:
+     200 nm from Iles Kerguelen only
+territorial sea:
+     12 nm
+International disputes:
+     Terre Adelie claim in Antarctica is not recognized by the US
+Climate:
+     antarctic
+Terrain:
+     volcanic
+Natural resources:
+     fish, crayfish
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100%
+Irrigated land:
+     0 sq km
+ 
+ 
+Environment:
+current issues:
+     NA
+natural hazards:
+     Ile Amsterdam and Ile Saint-Paul are extinct volcanoes
+international agreements:
+     NA
+Note:
+     remote location in the southern Indian Ocean
+ 
+                                  People
+ 
+Population:
+     no indigenous inhabitants; note - there are researchers whose numbers
+     vary from 150 in winter (July) to 200 in summer (January)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Territory of the French Southern and Antarctic Lands
+conventional short form:
+local long form:
+     Territoire des Terres Australes et Antarctiques Francaises
+local short form:
+     Terres Australes et Antarctiques Francaises
+Digraph:
+     FS
+Type:
+     overseas territory of France since 1955; governed by High
+     Administrator Bernard de GOUTTES (since May 1990), who is assisted by
+     a 7-member Consultative Council and a 12-member Scientific Council
+Capital:
+     none; administered from Paris, France
+Administrative divisions:
+     none (overseas territory of France); there are no first-order
+     administrative divisions as defined by the US Government, but there
+     are 3 districts named Ile Crozet, Iles Kerguelen, and Iles Saint-Paul
+     et Amsterdam; excludes Terre Adelie claim in Antarctica that is not
+     recognized by the US
+Independence:
+     none (overseas territory of France)
+Flag:
+     the flag of France is used
+ 
+                                  Economy
+ 
+Overview:
+     Economic activity is limited to servicing meteorological and
+     geophysical research stations and French and other fishing fleets. The
+     fishing catches landed on Iles Kerguelen by foreign ships are exported
+     to France and Reunion.
+ 
+ 
+Budget:
+revenues:
+     $17.5 million
+expenditures:
+     $NA, including capital expenditures of $NA (1992)
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     none; offshore anchorage only
+Merchant marine:
+     21 ships (1,000 GRT or over) totaling 441,962 GRT/813,779 DWT, bulk 3,
+     cargo 2, chemical tanker 1, liquified gas 2, multifunction large load
+     carrier 1, oil tanker 4, refrigerated cargo 4, roll-on/roll-off cargo
+     4
+note:
+     a captive subset of the French register
+Telecommunications:
+     NA
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of France
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

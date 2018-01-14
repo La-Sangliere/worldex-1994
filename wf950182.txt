@@ -1,0 +1,434 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0181
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Norway
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Norway 
+ 
+ 
+                                  Norway
+ 
+ 
+                                 Geography
+ 
+Location:
+     Nordic State, Northern Europe, bordering the North Atlantic Ocean,
+     west of Sweden
+Map references:
+     Arctic Region, Europe, Standard Time Zones of the World
+Area:
+total area:
+     324,220 sq km
+land area:
+     307,860 sq km
+comparative area:
+     slightly larger than New Mexico
+Land boundaries:
+     total 2,515 km, Finland 729 km, Sweden 1,619 km, Russia 167 km
+Coastline:
+     21,925 km (includes mainland 3,419 km, large islands 2,413 km, long
+     fjords, numerous small islands, and minor indentations 16,093 km)
+Maritime claims:
+contiguous zone:
+     10 nm
+continental shelf:
+     to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     4 nm
+International disputes:
+     territorial claim in Antarctica (Queen Maud Land); dispute between
+     Denmark and Norway over maritime boundary in Arctic Ocean between
+     Greenland and Jan Mayen has been settled by the International Court of
+     Justice; maritime boundary dispute with Russia over portion of Barents
+     Sea
+Climate:
+     temperate along coast, modified by North Atlantic Current; colder
+     interior; rainy year-round on west coast
+Terrain:
+     glaciated; mostly high plateaus and rugged mountains broken by fertile
+     valleys; small, scattered plains; coastline deeply indented by fjords;
+     arctic tundra in north
+Natural resources:
+     petroleum, copper, natural gas, pyrites, nickel, iron ore, zinc, lead,
+     fish, timber, hydropower
+Land use:
+arable land:
+     3%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     27%
+ 
+ 
+other:
+     70%
+Irrigated land:
+     950 sq km (1989)
+Environment:
+current issues:
+     water pollution; acid rain damaging forests and adversely affecting
+     lakes, threatening fish stocks; air pollution from vehicle emissions
+natural hazards:
+     NA
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Air Pollution-Volatile Organic Compounds,
+     Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity,
+     Climate Change, Endangered Species, Environmental Modification,
+     Hazardous Wastes, Marine Dumping, Nuclear Test Ban, Ozone Layer
+     Protection, Ship Pollution, Tropical Timber, Wetlands, Whaling;
+     signed, but not ratified - Law of the Sea
+Note:
+     about two-thirds mountains; some 50,000 islands off its much indented
+     coastline; strategic location adjacent to sea lanes and air routes in
+     North Atlantic; one of most rugged and longest coastlines in world;
+     Norway and Turkey only NATO members having a land boundary with Russia
+ 
+                                  People
+ 
+Population:
+     4,314,604 (July 1994 est.)
+Population growth rate:
+     0.39% (1994 est.)
+Birth rate:
+     13.32 births/1,000 population (1994 est.)
+Death rate:
+     10.44 deaths/1,000 population (1994 est.)
+Net migration rate:
+     1.01 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     6.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     77.38 years
+male:
+     74.02 years
+female:
+     80.94 years (1994 est.)
+Total fertility rate:
+     1.81 children born/woman (1994 est.)
+Nationality:
+noun:
+     Norwegian(s)
+adjective:
+     Norwegian
+Ethnic divisions:
+     Germanic (Nordic, Alpine, Baltic), Lapps (Sami) 20,000
+ 
+ 
+Religions:
+     Evangelical Lutheran 87.8% (state church), other Protestant and Roman
+     Catholic 3.8%, none 3.2%, unknown 5.2% (1980)
+Languages:
+     Norwegian (official)
+note:
+     small Lapp- and Finnish-speaking minorities
+Literacy:
+     age 15 and over can read and write (1976 est.)
+total population:
+     99%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     2.004 million (1992)
+by occupation:
+     services 39.1%, commerce 17.6%, mining, oil, and manufacturing 16.0%,
+     banking and financial services 7.6%, transportation and communications
+     7.8%, construction 6.1%, agriculture, forestry, and fishing 5.5%
+     (1989)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Kingdom of Norway
+conventional short form:
+local long form:
+     Kongeriket Norge
+local short form:
+     Norge
+Digraph:
+     NO
+Type:
+     constitutional monarchy
+Capital:
+     Oslo
+Administrative divisions:
+     19 provinces (fylker, singular - fylke); Akershus, Aust-Agder,
+     Buskerud, Finnmark, Hedmark, Hordaland, More og Romsdal, Nordland,
+     Nord-Trondelag, Oppland, Oslo, Ostfold, Rogaland, Sogn og Fjordane,
+     Sor-Trondelag, Telemark, Troms, Vest-Agder, Vestfold
+Dependent areas:
+     Bouvet Island, Jan Mayen, Svalbard
+Independence:
+     26 October 1905 (from Sweden)
+National holiday:
+     Constitution Day, 17 May (1814)
+Constitution:
+     17 May 1814, modified in 1884
+ 
+ 
+Legal system:
+     mixture of customary law, civil law system, and common law traditions;
+     Supreme Court renders advisory opinions to legislature when asked;
+     accepts compulsory ICJ jurisdiction, with reservations
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     King HARALD V (since 17 January 1991); Heir Apparent Crown Prince
+     HAAKON MAGNUS (born 20 July 1973)
+head of government:
+     Prime Minister Gro Harlem BRUNDTLAND (since 3 November 1990)
+cabinet:
+     State Council; appointed by the king in accordance with the will of
+     the Storting
+Legislative branch:
+     unicameral Parliament (Storting)
+Storting:
+     elections last held on 13 September 1993 (next to be held September
+     1997); results - Labor 37.1%, Center Party 18.5%, Conservatives 15.6%,
+     Christian Peoples' 8.4%, Socialist Left 7.9%, Progress 6%, Left Party
+     3.6%, Red Electoral Alliance 1.2%; seats - (165 total) Labor 67,
+     Center Party 32, Consevatives 18, Christian Peoples' 13, Socialist
+     Left 13, Progress 10, Left Party 1, Red Electoral Alliance 1,
+     unawarded 10
+Lagting:
+     Storting elects one-fourth of its member to upper house
+Judicial branch:
+     Supreme Court (Hoyesterett)
+Political parties and leaders:
+     Labor Party, Thorbjorn JAGLUND; Conservative Party, Jan PETERSEN;
+     Center Party, Anne ENGER LAHNSTEIN; Christian People's Party, Kjell
+     Magne BONDEVIK; Socialist Left, Eric SOLHEIM; Norwegian Communist,
+     Ingre IVERSEN; Progress Party, Carl I. HAGEN; Liberal, Odd Einar
+     DORUM; Finnmark List, leader NA; Left Party; Red Electoral Alliance
+Member of:
+     AfDB, AsDB, Australia Group, BIS, CBSS, CCC, CE, CERN, COCOM, CSCE,
+     EBRD, ECE, EFTA, ESA, FAO, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU,
+     IDA, IEA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC,
+     IOM, ISO, ITU, LORCS, MTCR, NACC, NAM (guest), NATO, NC, NEA, NIB,
+     NSG, OECD, ONUSAL, PCA, UN, UNAVEM II, UNCTAD, UNESCO, UNHCR, UNIDO,
+     UNIFIL, UNIKOM, UNMOGIP, UNOSOM, UNPROFOR, UNTAC, UNTSO, UPU, WEU
+     (associate), WHO, WIPO, WMO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Kjeld VIBE
+chancery:
+     2720 34th Street NW, Washington, DC 20008
+telephone:
+     (202) 333-6000
+FAX:
+     (202) 337-0870
+consulate(s) general:
+     Houston, Los Angeles, Minneapolis, New York, and San Francisco
+ 
+ 
+consulate(s):
+     Miami
+US diplomatic representation:
+chief of mission:
+     Ambassador Thomas A. LOFTUS
+embassy:
+     Drammensveien 18, 0244 Oslo 2
+mailing address:
+     PSC 69, Box 1000, APO AE 09707
+telephone:
+     [47] 22-44-85-50
+FAX:
+     [47] 22-43-07-77
+Flag:
+     red with a blue cross outlined in white that extends to the edges of
+     the flag; the vertical part of the cross is shifted to the hoist side
+     in the style of the Dannebrog (Danish flag)
+ 
+                                  Economy
+ 
+Overview:
+     Norway has a mixed economy involving a combination of free market
+     activity and government intervention. The government controls key
+     areas, such as the vital petroleum sector (through large-scale state
+     enterprises) and extensively subsidizes agriculture, fishing, and
+     areas with sparse resources. Norway also maintains an extensive
+     welfare system that helps propel public sector expenditures to
+     slightly more than 50% of the GDP and results in one of the highest
+     average tax burdens in the world (54%). A small country with a high
+     dependence on international trade, Norway is basically an exporter of
+     raw materials and semiprocessed goods, with an abundance of small- and
+     medium-sized firms, and is ranked among the major shipping nations.
+     The country is richly endowed with natural resources - petroleum,
+     hydropower, fish, forests, and minerals - and is highly dependent on
+     its oil sector to keep its economy afloat. Although one of the
+     government's main priorities is to reduce this dependency, this
+     situation is not likely to improve for years to come. The government
+     also hopes to reduce unemployment and strengthen and diversify the
+     economy through tax reform and a series of expansionary budgets. The
+     budget deficit is expected to hit a record 8% of GDP because of
+     welfare spending and bail-outs of the banking system. Unemployment
+     continues at record levels of over 10% - including those in job
+     programs - because of the weakness of the economy outside the oil
+     sector. Economic growth was only 1.6% in 1993, while inflation was a
+     moderate 2.3%. Oslo, a member of the European Free Trade Area, has
+     applied for membership in the European Union and continues to
+     deregulate and harmonize with EU regulations. Membership is expected
+     in early 1995.
+National product:
+     GDP - purchasing power equivalent - $89.5 billion (1993)
+National product real growth rate:
+     1.6% (1993)
+National product per capita:
+     $20,800 (1993)
+ 
+ 
+Inflation rate (consumer prices):
+     2.3% (1993 est.)
+Unemployment rate:
+     5.5% (excluding people in job-training programs; 1993 est.)
+Budget:
+revenues:
+     $45.3 billion
+expenditures:
+     $51.8 billion, including capital expenditures of $NA (1993)
+Exports:
+     $32.1 billion (f.o.b., 1993)
+commodities:
+     petroleum and petroleum products 40%, metals and products 10.6%, fish
+     and fish products 6.9%, chemicals 6.4%, natural gas 6.0%, ships 5.4%
+partners:
+     EC 66.3%, Nordic countries 16.3%, developing countries 8.4%, US 6.0%,
+     Japan 1.8% (1993)
+Imports:
+     $24.8 billion (c.i.f., 1993)
+commodities:
+     machinery and equipment 38.9%, chemicals and other industrial inputs
+     26.6%, manufactured consumer goods 17.8%, foodstuffs 6.4%
+partners:
+     EC 48.6%, Nordic countries 25.1%, developing countries 9.6%, US 8.1%,
+     Japan 8.0% (1993)
+External debt:
+     $6.5 billion (1992 est.)
+Industrial production:
+     growth rate 6.2% (1992); accounts for 14% of GDP
+Electricity:
+capacity:
+     26,900,000 kW
+production:
+     111 billion kWh
+consumption per capita:
+     25,850 kWh (1992)
+Industries:
+     petroleum and gas, food processing, shipbuilding, pulp and paper
+     products, metals, chemicals, timber, mining, textiles, fishing
+Agriculture:
+     accounts for 3% of GDP and about 6% of labor force; among world's top
+     10 fishing nations; livestock output exceeds value of crops; over half
+     of food needs imported; fish catch of 1.76 million metric tons in 1989
+Illicit drugs:
+     transshipment point for drugs shipped via the CIS and Baltic states
+     for the European market
+Economic aid:
+donor:
+     ODA and OOF commitments (1970-89), $4.4 billion
+Currency:
+     1 Norwegian krone (NKr) = 100 oere
+Exchange rates:
+     Norwegian kroner (NKr) per US$1 - 7.4840 (January 1994), 7.0941
+     (1993), 6.2145 (1992), 6.4829 (1991), 6.2597 (1990), 6.9045 (1989)
+ 
+ 
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     4,223 km 1.435-meter standard gauge; Norwegian State Railways (NSB)
+     operates 4,219 km (2,450 km electrified and 96 km double track); 4 km
+     other
+Highways:
+total:
+     88,800 km
+paved:
+     38,580 km
+unpaved:
+     gravel, crushed stone, earth 50,220 km
+Inland waterways:
+     1,577 km along west coast; 2.4 m draft vessels maximum
+Pipelines:
+     refined products 53 km
+Ports:
+     Oslo, Bergen, Fredrikstad, Kristiansand, Stavanger, Trondheim
+Merchant marine:
+     764 ships (1,000 GRT or over) totaling 20,793,968 GRT/35,409,472 DWT,
+     bulk 159, cargo 92, chemical tanker 85, combination bulk 8,
+     combination ore/oil 28, container 17, liquefied gas 81, oil tanker
+     162, passenger 13, passenger-cargo 2, railcar carrier 1, refrigerated
+     cargo 13, roll-on/roll-off cargo 54, short-sea passenger 21, vehicle
+     carrier 28
+note:
+     the government has created a captive register, the Norwegian
+     International Ship Register (NIS), as a subset of the Norwegian
+     register; ships on the NIS enjoy many benefits of flags of convenience
+     and do not have to be crewed by Norwegians; the majority of ships
+     (761) under the Norwegian flag are now registered with the NIS
+Airports:
+total:
+     103
+usable:
+     102
+with permanent-surface runways:
+     65
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     13
+with runways 1,220-2,439 m:
+     15
+Telecommunications:
+     high-quality domestic and international telephone, telegraph, and
+     telex services; 2 buried coaxial cable systems; 3,102,000 telephones;
+     broadcast stations - 46 AM, 350 private and 143 government FM, 54
+     (2,100 repeaters) TV; 4 coaxial submarine cables; 3 communications
+     satellite earth stations operating in the EUTELSAT, INTELSAT (1
+     Atlantic Ocean), MARISAT, and domestic systems
+ 
+ 
+ 
+                              Defense Forces
+ 
+Branches:
+     Norwegian Army, Royal Norwegian Navy, Royal Norwegian Air Force, Home
+     Guard
+Manpower availability:
+     males age 15-49 1,119,405; fit for military service 932,438; reach
+     military age (20) annually 30,557 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $3.1 billion, 3.2% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

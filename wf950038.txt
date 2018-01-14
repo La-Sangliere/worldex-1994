@@ -1,0 +1,308 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0037
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: British Virgin Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | British Virgin Islands 
+ 
+ 
+                          British Virgin Islands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (dependent territory of the UK)
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the eastern Caribbean Sea, about 110 km east of Puerto
+     Rico
+Map references:
+     Central America and the Caribbean
+Area:
+total area:
+     150 sq km
+land area:
+     150 sq km
+comparative area:
+     about 0.8 times the size of Washington, DC
+note:
+     includes the island of Anegada
+Land boundaries:
+     0 km
+Coastline:
+     80 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     subtropical; humid; temperatures moderated by trade winds
+Terrain:
+     coral islands relatively flat; volcanic islands steep, hilly
+Natural resources:
+     negligible
+Land use:
+arable land:
+     20%
+permanent crops:
+     7%
+meadows and pastures:
+     33%
+forest and woodland:
+     7%
+other:
+     33%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+ 
+ 
+natural hazards:
+     subject to hurricanes and tropical storms (July to October)
+international agreements:
+     NA
+Note:
+     strong ties to nearby US Virgin Islands and Puerto Rico
+ 
+                                  People
+ 
+Population:
+     12,864 (July 1994 est.)
+Population growth rate:
+     1.24% (1994 est.)
+Birth rate:
+     20.31 births/1,000 population (1994 est.)
+Death rate:
+     6.09 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -1.8 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     19.51 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     72.67 years
+male:
+     70.83 years
+female:
+     74.65 years (1994 est.)
+Total fertility rate:
+     2.27 children born/woman (1994 est.)
+Nationality:
+noun:
+     British Virgin Islander(s)
+adjective:
+     British Virgin Islander
+Ethnic divisions:
+     black 90%, white, Asian
+Religions:
+     Protestant 86% (Methodist 45%, Anglican 21%, Church of God 7%,
+     Seventh-Day Adventist 5%, Baptist 4%, Jehovah's Witnesses 2%, other
+     2%), Roman Catholic 6%, none 2%, other 6% (1981)
+Languages:
+     English (official)
+Literacy:
+     age 15 and over can read and write (1970)
+total population:
+     98%
+male:
+     98%
+female:
+     98%
+Labor force:
+     4,911 (1980)
+by occupation:
+     NA
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Abbreviation:
+     BVI
+Digraph:
+     VI
+Type:
+     dependent territory of the UK
+Capital:
+     Road Town
+Administrative divisions:
+     none (dependent territory of the UK)
+Independence:
+     none (dependent territory of the UK)
+National holiday:
+     Territory Day, 1 July
+Constitution:
+     1 June 1977
+Legal system:
+     English law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by Governor
+     Peter Alfred PENFOLD (since 14 October 1991)
+head of government:
+     Chief Minister H. Lavity STOUTT (since NA September 1986)
+cabinet:
+     Executive Council; appointed by the governor
+Legislative branch:
+     unicameral
+Legislative Council:
+     election last held 12 November 1990 (next to be held by November
+     1995); results - percent of vote by party NA; seats - (9 total) VIP 6,
+     IPM 1, independents 2
+Judicial branch:
+     Eastern Caribbean Supreme Court
+Political parties and leaders:
+     United Party (UP), Conrad MADURO; Virgin Islands Party (VIP), H.
+     Lavity STOUTT; Independent Progressive Movement (IPM), E. Walwyln
+     BREWLEY
+Member of:
+     CARICOM (associate), CDB, ECLAC (associate), INTERPOL (subbureau),
+     IOC, OECS (associate), UNESCO (associate)
+Diplomatic representation in US:
+     none (dependent territory of the UK)
+US diplomatic representation:
+     none (dependent territory of the UK)
+ 
+ 
+Flag:
+     blue with the flag of the UK in the upper hoist-side quadrant and the
+     Virgin Islander coat of arms centered in the outer half of the flag;
+     the coat of arms depicts a woman flanked on either side by a vertical
+     column of six oil lamps above a scroll bearing the Latin word VIGILATE
+     (Be Watchful)
+ 
+                                  Economy
+ 
+Overview:
+     The economy, one of the most prosperous in the Caribbean area, is
+     highly dependent on the tourist industry, which generates about 21% of
+     the national income. In 1985 the government offered offshore
+     registration to companies wishing to incorporate in the islands, and,
+     in consequence, incorporation fees generated about $2 million in 1987.
+     The economy slowed in 1991 because of the poor performances of the
+     tourist sector and tight commercial bank credit. Livestock raising is
+     the most significant agricultural activity. The islands' crops,
+     limited by poor soils, are unable to meet food requirements.
+National product:
+     GDP - purchasing power equivalent - $133 million (1991)
+National product real growth rate:
+     2% (1991)
+National product per capita:
+     $10,600 (1991)
+Inflation rate (consumer prices):
+     2.5% (1990 est.)
+Unemployment rate:
+     NEGL% (1992)
+Budget:
+revenues:
+     $51 million
+expenditures:
+     $88 million, including capital expenditures of $38 million (1991)
+Exports:
+     $2.7 million (f.o.b., 1988)
+commodities:
+     rum, fresh fish, gravel, sand, fruits, animals
+partners:
+     Virgin Islands (US), Puerto Rico, US
+Imports:
+     $11.5 million (c.i.f., 1988)
+commodities:
+     building materials, automobiles, foodstuffs, machinery
+partners:
+     Virgin Islands (US), Puerto Rico, US
+External debt:
+     $4.5 million (1985)
+Industrial production:
+     growth rate 4% (1985)
+Electricity:
+capacity:
+     10,500 kW
+production:
+     43 million kWh
+ 
+ 
+consumption per capita:
+     3,510 kWh (1990)
+Industries:
+     tourism, light industry, construction, rum, concrete block, offshore
+     financial center
+Agriculture:
+     livestock (including poultry), fish, fruit, vegetables
+Economic aid:
+     $NA
+Currency:
+     1 United States dollar (US$) = 100 cents
+Exchange rates:
+     US currency is used
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Highways:
+total:
+     106 km (1983)
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     Road Town
+Airports:
+total:
+     3
+usable:
+     3
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     3,000 telephones; worldwide external telephone service; submarine
+     cable communication links to Bermuda; broadcast stations - 1 AM, no
+     FM, 1 TV
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

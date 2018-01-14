@@ -1,0 +1,332 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0217
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Solomon Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Solomon Islands 
+ 
+ 
+                              Solomon Islands
+ 
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Melanesia, just east of Papua New Guinea in the South Pacific
+     Ocean
+Map references:
+     Oceania, Standard Time Zones of the World
+Area:
+total area:
+     28,450 sq km
+land area:
+     27,540 sq km
+comparative area:
+     slightly larger than Maryland
+Land boundaries:
+     0 km
+Coastline:
+     5,313 km
+Maritime claims:
+     measured from claimed archipelagic baselines
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical monsoon; few extremes of temperature and weather
+Terrain:
+     mostly rugged mountains with some low coral atolls
+Natural resources:
+     fish, forests, gold, bauxite, phosphates, lead, zinc, nickel
+Land use:
+arable land:
+     1%
+permanent crops:
+     1%
+meadows and pastures:
+     1%
+forest and woodland:
+     93%
+other:
+     4%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     deforestation; soil erosion; limited arable land
+natural hazards:
+     subject to typhoons, but they are rarely destructive; geologically
+     active region with frequent earth tremors
+ 
+ 
+international agreements:
+     party to - Environmental Modification, Marine Dumping, Marine Life
+     Conservation, Ozone Layer Protection, Whaling; signed, but not
+     ratified - Biodiversity, Climate Change, Law of the Sea
+Note:
+     located just east of Papua New Guinea in the South Pacific Ocean
+ 
+                                  People
+ 
+Population:
+     385,811 (July 1994 est.)
+Population growth rate:
+     3.43% (1994 est.)
+Birth rate:
+     38.93 births/1,000 population (1994 est.)
+Death rate:
+     4.63 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     27.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     70.48 years
+male:
+     68.05 years
+female:
+     73.03 years (1994 est.)
+Total fertility rate:
+     5.73 children born/woman (1994 est.)
+Nationality:
+noun:
+     Solomon Islander(s)
+adjective:
+     Solomon Islander
+Ethnic divisions:
+     Melanesian 93%, Polynesian 4%, Micronesian 1.5%, European 0.8%,
+     Chinese 0.3%, other 0.4%
+Religions:
+     Anglican 34%, Roman Catholic 19%, Baptist 17%, United
+     (Methodist/Presbyterian) 11%, Seventh-Day Adventist 10%, other
+     Protestant 5%
+Languages:
+     Melanesian pidgin in much of the country is lingua franca, English
+     spoken by 1%-2% of population
+note:
+     120 indigenous languages
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+ 
+ 
+Labor force:
+     23,448 economically active
+by occupation:
+     agriculture, forestry, and fishing 32.4%, services 25%, construction,
+     manufacturing, and mining 7.0%, commerce, transport, and finance 4.7%
+     (1984)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+former:
+     British Solomon Islands
+Digraph:
+     BP
+Type:
+     parliamentary democracy
+Capital:
+     Honiara
+Administrative divisions:
+     7 provinces and 1 town*; Central, Guadalcanal, Honiara*, Isabel,
+     Makira, Malaita, Temotu, Western
+Independence:
+     7 July 1978 (from UK)
+National holiday:
+     Independence Day, 7 July (1978)
+Constitution:
+     7 July 1978
+Legal system:
+     common law
+Suffrage:
+     21 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by Governor
+     General Sir George LEPPING (since 27 June 1989, previously acted as
+     governor general since 7 July 1988)
+head of government:
+     Prime Minister Francis Billy HILLY (since June 1993); Deputy Prime
+     Minister Francis SAEMALA (since June 1993)
+cabinet:
+     Cabinet; appointed by the governor general on advice of the prime
+     minister from members of parliament
+Legislative branch:
+     unicameral
+National Parliament:
+     elections last held NA May 1993 (next to be held NA 1997); results -
+     percent of vote by party NA; seats - (47 total) National Unity Group
+     21, PAP 8, National Action Party 6, LP 4, UP 3, Christian Fellowship
+     2, NFP 1, independents 2
+Judicial branch:
+     High Court
+ 
+ 
+Political parties and leaders:
+     People's Alliance Party (PAP); United Party (UP), leader NA; Solomon
+     Islands Liberal Party (SILP), Bartholemew ULUFA'ALU; Nationalist Front
+     for Progress (NFP), Andrew NORI; Labor Party (LP), Joses TUHANUKU;
+     National Action Party, leader NA; Christian Fellowship, leader NA;
+     National Unity Group, Solomon MAMALONI
+Member of:
+     ACP, AsDB, C, ESCAP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, ILO, IMF,
+     IMO, INTELSAT (nonsignatory user), IOC, ITU, LORCS, SPARTECA, SPC,
+     SPF, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO
+Diplomatic representation in US:
+chief of mission:
+     (vacant); ambassador traditionally resides in Honiara (Solomon
+     Islands)
+US diplomatic representation:
+     embassy closed July 1993; the ambassador to Papua New Guinea is
+     accredited to the Solomon Islands
+Flag:
+     divided diagonally by a thin yellow stripe from the lower hoist-side
+     corner; the upper triangle (hoist side) is blue with five white
+     five-pointed stars arranged in an X pattern; the lower triangle is
+     green
+ 
+                                  Economy
+ 
+Overview:
+     The bulk of the population depend on subsistence agriculture, fishing,
+     and forestry for at least part of their livelihood. Most manufactured
+     goods and petroleum products must be imported. The islands are rich in
+     undeveloped mineral resources such as lead, zinc, nickel, and gold.
+     The economy suffered from a severe cyclone in mid-1986 that caused
+     widespread damage to the infrastructure. In 1993, the government was
+     working with the IMF to develop a structural adjustment program to
+     address the country's fiscal deficit.
+National product:
+     GDP - purchasing power equivalent - $900 million (1991 est.)
+National product real growth rate:
+     1.8% (1991 est.)
+National product per capita:
+     $2,500 (1991 est.)
+Inflation rate (consumer prices):
+     13% (1992 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $48 million
+expenditures:
+     $107 million, including capital expenditures of $45 million (1991
+     est.)
+Exports:
+     $84 million (f.o.b., 1991)
+commodities:
+     fish 46%, timber 31%, palm oil 5%, cocoa, copra
+ 
+ 
+partners:
+     Japan 39%, UK 23%, Thailand 9%, Australia 5%, US 2% (1991)
+Imports:
+     $110 million (c.i.f., 1991)
+commodities:
+     plant and machinery manufactured goods, food and live animals, fuel
+partners:
+     Australia 34%, Japan 16%, Singapore 14%, NZ 9%
+External debt:
+     $128 million (1988 est.)
+Industrial production:
+     growth rate -3.8% (1991 est.); accounts for 5% of GDP
+Electricity:
+capacity:
+     21,000 kW
+production:
+     39 million kWh
+consumption per capita:
+     115 kWh (1990)
+Industries:
+     copra, fish (tuna)
+Agriculture:
+     including fishing and forestry, accounts for 31% of GDP; mostly
+     subsistence farming; cash crops - cocoa, beans, coconuts, palm
+     kernels, timber; other products - rice, potatoes, vegetables, fruit,
+     cattle, pigs; not self-sufficient in food grains; 90% of the total
+     fish catch of 44,500 metric tons was exported (1988)
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1980-89), $250 million
+Currency:
+     1 Solomon Islands dollar (SI$) = 100 cents
+Exchange rates:
+     Solomon Islands dollars (SI$) per US$1 - 3.2383 (November 1993),
+     2.9281 (1992), 2.7148 (1991), 2.5288 (1990), 2.2932 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     1,300 km
+paved:
+     30 km
+unpaved:
+     gravel 290 km; earth 980 km
+note:
+     in addition, there are 800 km of private logging and plantation roads
+     of varied construction (1982)
+Ports:
+     Honiara, Ringi Cove
+ 
+ 
+Airports:
+total:
+     31
+usable:
+     30
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     4
+Telecommunications:
+     3,000 telephones; broadcast stations - 4 AM, no FM, no TV; 1 Pacific
+     Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Police Force
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

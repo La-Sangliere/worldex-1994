@@ -1,0 +1,394 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0133
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Korea, South
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Korea, South 
+ 
+ 
+                               Korea, South
+ 
+ 
+                                 Geography
+ 
+Location:
+     Eastern Asia, between North Korea and Japan
+Map references:
+     Asia, Standard Time Zones of the World
+Area:
+total area:
+     98,480 sq km
+land area:
+     98,190 sq km
+comparative area:
+     slightly larger than Indiana
+Land boundaries:
+     total 238 km, North Korea 238 km
+Coastline:
+     2,413 km
+Maritime claims:
+continental shelf:
+     not specified
+territorial sea:
+     12 nm; 3 nm in the Korea Strait
+International disputes:
+     Demarcation Line with North Korea; Liancourt Rocks claimed by Japan
+Climate:
+     temperate, with rainfall heavier in summer than winter
+Terrain:
+     mostly hills and mountains; wide coastal plains in west and south
+Natural resources:
+     coal, tungsten, graphite, molybdenum, lead, hydropower
+Land use:
+arable land:
+     21%
+permanent crops:
+     1%
+meadows and pastures:
+     1%
+forest and woodland:
+     67%
+other:
+     10%
+Irrigated land:
+     13,530 sq km (1989)
+Environment:
+current issues:
+     air pollution in large cities; water pollution from the discharge of
+     sewage and industrial effluents
+natural hazards:
+     occasional typhoons bring high winds and floods; earthquakes in
+     southwest
+ 
+ 
+international agreements:
+     party to - Antarctic Treaty, Climate Change, Environmental
+     Modification, Hazardous Wastes, Nuclear Test Ban, Ozone Layer
+     Protection, Ship Pollution, Tropical Timber, Whaling; signed, but not
+     ratified - Antarctic-Environmental Protocol, Biodiversity, Law of the
+     Sea
+ 
+                                  People
+ 
+Population:
+     45,082,880 (July 1994 est.)
+Population growth rate:
+     1.04% (1994 est.)
+Birth rate:
+     15.7 births/1,000 population (1994 est.)
+Death rate:
+     6.17 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.91 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     21.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     70.59 years
+male:
+     67.39 years
+female:
+     73.98 years (1994 est.)
+Total fertility rate:
+     1.65 children born/woman (1994 est.)
+Nationality:
+noun:
+     Korean(s)
+adjective:
+     Korean
+Ethnic divisions:
+     homogeneous (except for about 20,000 Chinese)
+Religions:
+     Christianity 48.6%, Buddhism 47.4%, Confucianism 3%, pervasive folk
+     religion (shamanism), Chondogyo (Religion of the Heavenly Way) 0.2%
+Languages:
+     Korean, English widely taught in high school
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     96%
+male:
+     99%
+female:
+     99%
+Labor force:
+     20 million
+by occupation:
+     services and other 52%, mining and manufacturing 27%, agriculture,
+     fishing, forestry 21% (1991)
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Korea
+conventional short form:
+     South Korea
+local long form:
+     Taehan-min'guk
+local short form:
+     none
+Abbreviation:
+     ROK
+Digraph:
+     KS
+Type:
+     republic
+Capital:
+     Seoul
+Administrative divisions:
+     9 provinces (do, singular and plural) and 6 special cities* (jikhalsi,
+     singular and plural); Cheju-do, Cholla-bukto, Cholla-namdo,
+     Ch'ungch'ong-bukto, Ch'ungch'ong-namdo, Inch'on-jikhalsi*, Kangwon-do,
+     Kwangju-jikhalsi*, Kyonggi-do, Kyongsang-bukto, Kyongsang-namdo,
+     Pusan-jikhalsi*, Soul-t'ukpyolsi*, Taegu-jikhalsi*, Taejon-jikhalsi*
+Independence:
+     15 August 1948
+National holiday:
+     Independence Day, 15 August (1948)
+Constitution:
+     25 February 1988
+Legal system:
+     combines elements of continental European civil law systems,
+     Anglo-American law, and Chinese classical thought
+Suffrage:
+     20 years of age; universal
+Executive branch:
+chief of state:
+     President KIM Yong-sam (since 25 February 1993); election last held on
+     18 December 1992 (next to be held NA December 1997); results - KIM
+     Yong-sam (DLP) 41.9%, KIM Tae-chung (DP) 33.8%, CHONG Chu-yong (UPP)
+     16.3%, other 8%
+head of government:
+     Prime Minister YI Yong-tok (since 29 April 1994); Deputy Prime
+     Minister CHONG Chae-sok (since 21 December 1993) and Deputy Prime
+     Minister YI Hong-ku (since 30 April 1994)
+cabinet:
+     State Council; appointed by the president on the prime minister's
+     recommendation
+Legislative branch:
+     unicameral
+ 
+ 
+National Assembly (Kukhoe):
+     elections last held on 24 March 1992; results - DLP 38.5%, DP 29.2%,
+     Unification National Party (UNP) 17.3% (name later changed to UPP),
+     other 15%; seats - (299 total) DLP 149, DP 97, UNP 31, other 22; the
+     distribution of seats as of January 1994 was DLP 172, DP 96, UPP 11,
+     other 20
+note:
+     the change in the distribution of seats reflects the fluidity of the
+     current situation where party members are constantly switching from
+     one party to another
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+majority party:
+     Democratic Liberal Party (DLP), KIM Yong-sam, president
+opposition:
+     Democratic Party (DP), YI Ki-taek, executive chairman; United People's
+     Party (UPP), KIM Tong-kil, chairman; several smaller parties
+note:
+     the DLP resulted from a merger of the Democratic Justice Party (DJP),
+     Reunification Democratic Party (RDP), and New Democratic Republican
+     Party (NDRP) on 9 February 1990
+Other political or pressure groups:
+     Korean National Council of Churches; National Democratic Alliance of
+     Korea; National Federation of Student Associations; National
+     Federation of Farmers' Associations; National Council of Labor Unions;
+     Federation of Korean Trade Unions; Korean Veterans' Association;
+     Federation of Korean Industries; Korean Traders Association
+Member of:
+     AfDB, APEC, AsDB, CCC, COCOM (cooperating), CP, EBRD, ESCAP, FAO,
+     G-77, GATT, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IFAD, IFC, ILO, IMF,
+     IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, LORCS, OAS
+     (observer), UN, UNCTAD, UNESCO, UNIDO, UNOSOM, UPU, WHO, WIPO, WMO,
+     WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador HAN Sung-su
+chancery:
+     2450 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 939-5600
+consulate(s) general:
+     Agana (Guam), Anchorage, Atlanta, Boston, Chicago, Honolulu, Houston,
+     Los Angeles, Miami, New York, San Francisco, and Seattle
+US diplomatic representation:
+chief of mission:
+     Ambassador James T. LANEY
+embassy:
+     82 Sejong-Ro, Chongro-ku, Seoul
+mailing address:
+     American Embassy, Unit 15550, Seoul; APO AP 96205-0001
+telephone:
+     [82] (2) 397-4000 through 4008 and 397-4114
+FAX:
+     [82] (2) 738-8845
+ 
+ 
+consulate(s):
+     Pusan
+Flag:
+     white with a red (top) and blue yin-yang symbol in the center; there
+     is a different black trigram from the ancient I Ching (Book of
+     Changes) in each corner of the white field
+ 
+                                  Economy
+ 
+Overview:
+     The driving force behind the economy's dynamic growth has been the
+     planned development of an export-oriented economy in a vigorously
+     entrepreneurial society. Real GNP increased more than 10% annually
+     between 1986 and 1991. This growth ultimately led to an overheated
+     situation characterized by a tight labor market, strong inflationary
+     pressures, and a rapidly rising current account deficit. As a result,
+     in 1992, economic policy focused on slowing the growth rate of
+     inflation and reducing the deficit. Annual growth slowed to 5%, still
+     above the rate in most other countries of the world. Growth increased
+     to 6.3% in 1993 as a result of fourth quarter manufacturing production
+     growth of over 10% and is expected to be in the 8% range for 1994.
+National product:
+     GNP - purchasing power equivalent - $424 billion (1993 est.)
+National product real growth rate:
+     6.3% (1993)
+National product per capita:
+     $9,500 (1993 est.)
+Inflation rate (consumer prices):
+     4.8% (1993)
+Unemployment rate:
+     2.6% (October 1993)
+Budget:
+revenues:
+     $48.4 billion
+expenditures:
+     $48.4 billion, including capital expenditures of $NA (1993 est.)
+Exports:
+     $81 billion (f.o.b., 1993)
+commodities:
+     electronic and electrical equipment, machinery, steel, automobiles,
+     ships, textiles, clothing, footwear, fish
+partners:
+     US 26%, Japan 17%, EC 14%
+Imports:
+     $78.9 billion (c.i.f., 1993)
+commodities:
+     machinery, electronics and electronic equipment, oil, steel, transport
+     equipment, textiles, organic chemicals, grains
+partners:
+     Japan 26%, US 24%, EC 15%
+External debt:
+     $42 billion (1992)
+Industrial production:
+     growth rate 5% (1992 est.); accounts for about 45% of GNP
+ 
+ 
+Electricity:
+capacity:
+     27,016 kW (1993)
+production:
+     105 billion kWh (1992)
+consumption per capita:
+     2,380 kWh (1992)
+Industries:
+     electronics, automobile production, chemicals, shipbuilding, steel,
+     textiles, clothing, footwear, food processing
+Agriculture:
+     accounts for 8% of GNP and employs 21% of work force (including
+     fishing and forestry); principal crops - rice, root crops, barley,
+     vegetables, fruit; livestock and livestock products - cattle, hogs,
+     chickens, milk, eggs; self-sufficient in food, except for wheat; fish
+     catch of 2.9 million metric tons, seventh-largest in world
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $3.9 billion; non-US
+     countries (1970-89), $3 billion
+Currency:
+     1 South Korean won (W) = 100 chun (theoretical)
+Exchange rates:
+     South Korean won (W) per US$1 - 810.48 (January 1994), 802.68 (1993),
+     780.65 (1992), 733.35 (1991), 707.76 (1990), 671.46 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     3,091 km total (1991); 3,044 km 1.435 meter standard gauge, 47 km
+     0.610-meter narrow gauge, 847 km double track; 525 km electrified,
+     government owned
+Highways:
+total:
+     63,201 km
+paved:
+     expressways 1,551 km
+unpaved:
+     NA
+undifferentiated:
+     national highway 12,190 km; provincial, local roads 49,460 km (1991)
+Inland waterways:
+     1,609 km; use restricted to small native craft
+Pipelines:
+     petroleum products 455 km
+Ports:
+     Pusan, Inch'on, Kunsan, Mokp'o, Ulsan
+Merchant marine:
+     417 ships (1,000 GRT or over) totaling 6,425,920 GRT/10,535,850 DWT,
+     bulk 123, cargo 132, chemical tanker 16, combination bulk 2,
+     combination ore/oil 2, container 60, liquefied gas 13, multifunction
+     large-load carrier 1, oil tanker 47, refrigerated cargo 11, short-sea
+     passenger 1, vehicle carrier 9
+ 
+ 
+Airports:
+total:
+     104
+usable:
+     95
+with permanent-surface runways:
+     61
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     23
+with runways 1,220-2,439 m:
+     18
+Telecommunications:
+     excellent domestic and international services; 13,276,449 telephone
+     subscribers; broadcast stations - 79 AM, 46 FM, 256 TV (57 of 1 kW or
+     greater); satellite earth stations - 2 Pacific Ocean INTELSAT and 1
+     Indian Ocean INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Marine Corps, Air Force
+Manpower availability:
+     males age 15-49 13,435,598; fit for military service 8,623,325; reach
+     military age (18) annually 417,055 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $13.0 billion, 3.6% of GNP (1994 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

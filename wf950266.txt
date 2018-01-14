@@ -1,0 +1,346 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0265
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Zimbabwe
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Zimbabwe 
+ 
+ 
+                                 Zimbabwe
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, between South Africa and Zambia
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     390,580 sq km
+land area:
+     386,670 sq km
+comparative area:
+     slightly larger than Montana
+Land boundaries:
+     total 3,066 km, Botswana 813 km, Mozambique 1,231 km, South Africa 225
+     km, Zambia 797 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     quadripoint with Botswana, Namibia, and Zambia is in disagreement
+Climate:
+     tropical; moderated by altitude; rainy season (November to March)
+Terrain:
+     mostly high plateau with higher central plateau (high veld); mountains
+     in east
+Natural resources:
+     coal, chromium ore, asbestos, gold, nickel, copper, iron ore,
+     vanadium, lithium, tin, platinum group metals
+Land use:
+arable land:
+     7%
+permanent crops:
+     NA% (coffee is a permanent crop)
+meadows and pastures:
+     12%
+forest and woodland:
+     62%
+other:
+     NA%
+Irrigated land:
+     2,200 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; soil erosion; land degradation; air and water pollution
+natural hazards:
+     recurring droughts; floods and severe storms are rare
+international agreements:
+     party to - Climate Change, Endangered Species, Law of the Sea; signed,
+     but not ratified - Biodiversity
+Note:
+     landlocked
+ 
+ 
+                                  People
+ 
+Population:
+     10,975,078 (July 1994 est.)
+Population growth rate:
+     1.2% (1994 est.)
+Birth rate:
+     37.24 births/1,000 population (1994 est.)
+Death rate:
+     18.1 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -7.18 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     7.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+tatal population:
+     42.06 years
+male:
+     40.44 years
+female:
+     43.74 years (1994 est.)
+Total fertility rate:
+     5.1 children born/woman (1994 est.)
+Nationality:
+noun:
+     Zimbabwean(s)
+adjective:
+     Zimbabwean
+Ethnic divisions:
+     African 98% (Shona 71%, Ndebele 16%, other 11%), white 1%, mixed and
+     Asian 1%
+Religions:
+     syncretic (part Christian, part indigenous beliefs) 50%, Christian
+     25%, indigenous beliefs 24%, Muslim and other 1%
+Languages:
+     English (official), Shona, Sindebele
+Literacy:
+     age 15 and over can read and write (1990 est.);
+total population:
+     67%
+male:
+     74%
+female:
+     60%
+Labor force:
+     3.1 million
+by occupation:
+     agriculture 74%, transport and services 16%, mining, manufacturing,
+     construction 10% (1987)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Zimbabwe
+ 
+ 
+conventional short form:
+former:
+     Southern Rhodesia
+Digraph:
+     ZI
+Type:
+     parliamentary democracy
+Capital:
+     Harare
+Administrative divisions:
+     8 provinces; Manicaland, Mashonaland Central, Mashonaland East,
+     Mashonaland West, Masvingo (Victoria), Matabeleland North,
+     Matabeleland South, Midlands
+Independence:
+     18 April 1980 (from UK)
+National holiday:
+     Independence Day, 18 April (1980)
+Constitution:
+     21 December 1979
+Legal system:
+     mixture of Roman-Dutch and English common law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     Executive President Robert Gabriel MUGABE (since 31 December 1987);
+     Co-Vice President Simon Vengai MUZENDA (since 31 December 1987);
+     Co-Vice President Joshua M. NKOMO (since 6 August 1990); election last
+     held 28-30 March 1990 (next to be held NA March 1996); results -
+     Robert MUGABE 78.3%, Edgar TEKERE 21.7%
+cabinet:
+     Cabinet; appointed by the president; responsible to Parliament
+Legislative branch:
+     unicameral
+Parliament:
+     elections last held 28-30 March 1990 (next to be held NA March 1995);
+     results - percent of vote by party NA; seats - (150 total, 120
+     elected) ZANU-PF 117, ZUM 2, ZANU-S 1
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Zimbabwe African National Union-Patriotic Front (ZANU-PF), Robert
+     MUGABE; Zimbabwe African National Union-Sithole (ZANU-S), Ndabaningi
+     SITHOLE; Zimbabwe Unity Movement (ZUM), Edgar TEKERE and Abel
+     MUYOREWA; Democratic Party (DP), Emmanuel MAGOCHE; Forum Party, Enock
+     DUMBUTSHENA
+Member of:
+     ACP, AfDB, C, CCC, ECA, FAO, FLS, G-15, G-77, GATT, IAEA, IBRD, ICAO,
+     ICFTU, IDA, IFAD, IFC, ILO, IMF, INTELSAT, INTERPOL, IOC, IOM
+     (observer), ISO, ITU, LORCS, NAM, OAU, PCA, SADC, UN, UNAVEM II,
+     UNCTAD, UNESCO, UNIDO, UNOMUR, UNOSOM, UPU, WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Amos Bernard Muvengwa MIDZI
+ 
+ 
+chancery:
+     1608 New Hampshire Avenue NW, Washington, DC 20009
+telephone:
+     (202) 332-7100
+FAX:
+     (202) 483-9326
+US diplomatic representation:
+chief of mission:
+     Ambassador Edward Gibson LANPHER
+embassy:
+     172 Herbert Chitepo Avenue, Harare
+mailing address:
+     P. O. Box 3340, Harare
+telephone:
+     [263] (4) 794-521
+FAX:
+     [263] (4) 796-488
+Flag:
+     seven equal horizontal bands of green, yellow, red, black, red,
+     yellow, and green with a white equilateral triangle edged in black
+     based on the hoist side; a yellow Zimbabwe bird is superimposed on a
+     red five-pointed star in the center of the triangle
+ 
+                                  Economy
+ 
+Overview:
+     Agriculture employs three-fourths of the labor force and supplies
+     almost 40% of exports. The manufacturing sector, based on agriculture
+     and mining, produces a variety of goods and contributes 35% to GDP.
+     Mining accounts for only 5% of both GDP and employment, but supplies
+     of minerals and metals account for about 40% of exports. Wide
+     fluctuations in agricultural production over the past six years have
+     resulted in an uneven growth rate, one that on average has matched the
+     3% annual increase in population. Helped by an IMF/World Bank
+     structural adjustment program, output rose 3.5% in 1991. A severe
+     drought in 1991/92 caused the economy to contract by about 10% in
+     1992.
+National product:
+     GDP - purchasing power equivalent - $15.9 billion (1993 est.)
+National product real growth rate:
+     2% (1993 est.)
+National product per capita:
+     $1,400 (1993 est.)
+Inflation rate (consumer prices):
+     22% (January 1994 est.)
+Unemployment rate:
+     at least 35% (1993 est.)
+Budget:
+revenues:
+     $1.7 billion
+expenditures:
+     $2.2 billion, including capital expenditures of $253 million (FY93)
+Exports:
+     $1.5 billion (f.o.b., 1992 est.)
+ 
+ 
+commodities:
+     agricultural 35% (tobacco 30%, other 10%), manufactures 25%, gold 12%,
+     ferrochrome 10%, textiles 8% (1992)
+partners:
+     UK 14%, Germany 11%, South Africa 10%, Japan 7%, US 5% (1991)
+Imports:
+     $1.8 billion (c.i.f., 1992 est.)
+commodities:
+     machinery and transportation equipment 41%, other manufactures 23%,
+     chemicals 16%, fuels 12% (1991)
+partners:
+     South Africa 25%, UK 15%, Germany 9%, US 6%, Japan 5% (1991)
+External debt:
+     $3.5 billion (December 1992 est.)
+Industrial production:
+     growth rate 2.3% (1992); accounts for 35% of GDP
+Electricity:
+capacity:
+     3,650,000 kW
+production:
+     8.18 billion kWh (1992)
+consumption per capita:
+     740 kWh (1992)
+Industries:
+     mining, steel, clothing and footwear, chemicals, foodstuffs,
+     fertilizer, beverage, transportation equipment, wood products
+Agriculture:
+     accounts for 20% of GDP and employs 74% of population; 40% of land
+     area divided into 4,500 large commercial farms and 42% in communal
+     lands; crops - corn (food staple), cotton, tobacco, wheat, coffee,
+     sugarcane, peanuts; livestock - cattle, sheep, goats, pigs;
+     self-sufficient in food
+Economic aid:
+     NA
+Currency:
+     1 Zimbabwean dollar (Z$) = 100 cents
+Exchange rates:
+     Zimbabwean dollars (Z$) per US$1 - 8.1037 (January 1994), 6.4725
+     (1993), 5.1046 (1992), 3.4282 (1991), 2.4480 (1990), 2.1133 (1989)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Railroads:
+     2,745 km 1.067-meter gauge (including 42 km double track, 355 km
+     electrified)
+Highways:
+total:
+     85,237 km
+paved:
+     15,800 km
+unpaved:
+     crushed stone, gravel, stabilized earth 39,090 km; improved earth
+     23,097 km; unimproved earth 7,250 km
+ 
+ 
+Inland waterways:
+     Lake Kariba is a potential line of communication
+Pipelines:
+     petroleum products 212 km
+Airports:
+total:
+     477
+usable:
+     401
+with permanent-surface runways:
+     22
+with runways over 3,659 m:
+     2
+with runways 2,440-3,659 m:
+     3
+with runways 1,220-2,439 m:
+     28
+Telecommunications:
+     system was once one of the best in Africa, but now suffers from poor
+     maintenance; consists of microwave links, open-wire lines, and radio
+     communications stations; 247,000 telephones; broadcast stations - 8
+     AM, 18 FM, 8 TV; 1 Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Zimbabwe National Army, Air Force of Zimbabwe, Zimbabwe Republic
+     Police (including Police Support Unit, Paramilitary Police)
+Manpower availability:
+     males 15-49 2,371,186; fit for military service 1,472,603 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $412.4 million, about 6% of GDP (FY91 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,422 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0115
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Iran
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Iran 
+ 
+ 
+                                   Iran
+ 
+ 
+                                 Geography
+ 
+Location:
+     Middle East, between the Persian Gulf and the Caspian Sea
+Map references:
+     Asia, Middle East, Standard Time Zones of the World
+Area:
+total area:
+     1.648 million sq km
+land area:
+     1.636 million sq km
+comparative area:
+     slightly larger than Alaska
+Land boundaries:
+     total 5,440 km, Afghanistan 936 km, Armenia 35 km, Azerbaijan (north)
+     432 km, Azerbaijan (northwest) 179 km, Iraq 1,458 km, Pakistan 909 km,
+     Turkey 499 km, Turkmenistan 992 km
+Coastline:
+     2,440 km
+note:
+     Iran also borders the Caspian Sea (740 km)
+Maritime claims:
+continental shelf:
+     not specified
+exclusive fishing zone:
+     50 nm in the Gulf of Oman; continental shelf limit, continental shelf
+     boundaries, or median lines in the Persian Gulf
+territorial sea:
+     12 nm
+International disputes:
+     Iran and Iraq restored diplomatic relations in 1990 but are still
+     trying to work out written agreements settling outstanding disputes
+     from their eight-year war concerning border demarcation,
+     prisoners-of-war, and freedom of navigation and sovereignty over the
+     Shatt al Arab waterway; Iran occupies two islands in the Persian Gulf
+     claimed by the UAE: Tunb as Sughra (Arabic), Jazireh-ye Tonb-e Kuchek
+     (Persian) or Lesser Tunb, and Tunb al Kubra (Arabic), Jazireh-ye
+     Tonb-e Bozorg (Persian) or Greater Tunb; it jointly administers with
+     the UAE an island in the Persian Gulf claimed by the UAE, Abu Musa
+     (Arabic) or Jazireh-ye Abu Musa (Persian); in 1992 the dispute over
+     Abu Musa and the Tunb islands became more acute when Iran unilaterally
+     tried to control the entry of third country nationals into the UAE
+     portion of Abu Musa island, Tehran subsequently backed off in the face
+     of significant diplomatic support for the UAE in the region; periodic
+     disputes with Afghanistan over Helmand water rights
+Climate:
+     mostly arid or semiarid, subtropical along Caspian coast
+Terrain:
+     rugged, mountainous rim; high, central basin with deserts, mountains;
+     small, discontinuous plains along both coasts
+Natural resources:
+     petroleum, natural gas, coal, chromium, copper, iron ore, lead,
+     manganese, zinc, sulfur
+ 
+ 
+Land use:
+arable land:
+     8%
+permanent crops:
+     0%
+meadows and pastures:
+     27%
+forest and woodland:
+     11%
+other:
+     54%
+Irrigated land:
+     57,500 sq km (1989 est.)
+Environment:
+current issues:
+     air pollution, especially in urban areas, from vehicle emissions,
+     refinery operations, and industry; deforestation; overgrazing;
+     desertification; oil pollution in the Persian Gulf; shortages of
+     drinking water
+natural hazards:
+     periodic droughts
+international agreements:
+     party to - Endangered Species, Hazardous Wastes, Nuclear Test Ban,
+     Ozone Layer Protection, Wetlands; signed, but not ratified -
+     Biodiversity, Climate Change, Environmental Modification, Law of the
+     Sea, Marine Life Conservation
+ 
+                                  People
+ 
+Population:
+     65,615,474 (July 1994 est.)
+Population growth rate:
+     3.46% (1994 est.)
+Birth rate:
+     42.43 births/1,000 population (1994 est.)
+Death rate:
+     7.83 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     60.2 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     65.66 years
+male:
+     64.7 years
+female:
+     66.68 years (1994 est.)
+Total fertility rate:
+     6.33 children born/woman (1994 est.)
+Nationality:
+noun:
+     Iranian(s)
+adjective:
+     Iranian
+ 
+ 
+Ethnic divisions:
+     Persian 51%, Azerbaijani 24%, Gilaki and Mazandarani 8%, Kurd 7%, Arab
+     3%, Lur 2%, Baloch 2%, Turkmen 2%, other 1%
+Religions:
+     Shi'a Muslim 95%, Sunni Muslim 4%, Zoroastrian, Jewish, Christian, and
+     Baha'i 1%
+Languages:
+     Persian and Persian dialects 58%, Turkic and Turkic dialects 26%,
+     Kurdish 9%, Luri 2%, Baloch 1%, Arabic 1%, Turkish 1%, other 2%
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     54%
+male:
+     64%
+female:
+     43%
+Labor force:
+     15.4 million
+by occupation:
+     agriculture 33%, manufacturing 21%
+note:
+     shortage of skilled labor (1988 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Islamic Republic of Iran
+conventional short form:
+local long form:
+     Jomhuri-ye Eslami-ye Iran
+local short form:
+Digraph:
+     IR
+Type:
+     theocratic republic
+Capital:
+     Tehran
+Administrative divisions:
+     24 provinces (ostanha, singular - ostan); Azarbayjan-e Bakhtari,
+     Azarbayjan-e Khavari, Bakhtaran, Bushehr, Chahar Mahall va Bakhtiari,
+     Esfahan, Fars, Gilan, Hamadan, Hormozgan, Ilam, Kerman, Khorasan,
+     Khuzestan, Kohkiluyeh va Buyer Ahmadi, Kordestan, Lorestan, Markazi,
+     Mazandaran, Semnan, Sistan va Baluchestan, Tehran, Yazd, Zanjan
+Independence:
+     1 April 1979 (Islamic Republic of Iran proclaimed)
+National holiday:
+     Islamic Republic Day, 1 April (1979)
+Constitution:
+     2-3 December 1979; revised 1989 to expand powers of the presidency and
+     eliminate the prime ministership
+ 
+ 
+Legal system:
+     the Constitution codifies Islamic principles of government
+Suffrage:
+     15 years of age; universal
+Executive branch:
+supreme leader and functional chief of state:
+     Leader of the Islamic Revolution Ayatollah Ali Hoseini-KHAMENEI (since
+     4 June 1989); supreme leader (velayat-e faqih)
+head of government:
+     President Ali Akbar Hashemi-RAFSANJANI (since 3 August 1989); election
+     last held June 1993 (next to be held June-July 1997); results - Ali
+     Akbar HASHEMI-RAFSANJANI was elected with 63% of the vote
+cabinet:
+     Council of Ministers; selected by the president with legislative
+     approval
+Legislative branch:
+     unicameral
+Islamic Consultative Assembly:
+      (Majles-e-Shura-ye-Eslami) elections last held 8 April 1992 (next to
+     be held April 1996); results - percent of vote by party NA; seats -
+     (270 seats total) number of seats by party NA
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     there are at least 76 licensed parties; the three most important are -
+     Tehran Militant Clergy Association, Mohammad Reza MAHDAVI-KANI;
+     Militant Clerics Association, Mehdi MAHDAVI-KARUBI and Mohammad Asqar
+     MUSAVI-KHOINIHA; Fedaiyin Islam Organization, Sadeq KHALKHALI
+Other political or pressure groups:
+     groups that generally support the Islamic Republic include Hizballah,
+     Hojjatiyeh Society, Mojahedin of the Islamic Revolution, Muslim
+     Students Following the Line of the Imam; armed political groups that
+     have been almost completely repressed by the government include
+     Mojahedin-e Khalq Organization (MEK), People's Fedayeen, Kurdish
+     Democratic Party; the Society for the Defense of Freedom
+Member of:
+     CCC, CP, ESCAP, ECO, FAO, G-19, G-24, G-77, IAEA, IBRD, ICAO, ICC,
+     IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC,
+     ISO, ITU, LORCS, NAM, OIC, OPEC, PCA, UN, UNCTAD, UNESCO, UNHCR,
+     UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Iran has an Interests Section in the Pakistani Embassy in Washington,
+     DC
+chancery:
+     Iranian Interests Section, 2209 Wisconsin Avenue NW, Washington, DC
+     20007
+telephone:
+     (202) 965-4990
+US diplomatic representation:
+     protecting power in Iran is Switzerland
+ 
+ 
+Flag:
+     three equal horizontal bands of green (top), white, and red; the
+     national emblem (a stylized representation of the word Allah) in red
+     is centered in the white band; Allah Alkbar (God is Great) in white
+     Arabic script is repeated 11 times along the bottom edge of the green
+     band and 11 times along the top edge of the red band
+ 
+                                  Economy
+ 
+Overview:
+     Iran's economy is a mixture of central planning, state ownership of
+     oil and other large enterprises, village agriculture, and small-scale
+     private trading and service ventures. Over the past several years, the
+     government has introduced several measures to liberalize the economy
+     and reduce government intervention, but most of these changes have
+     moved slowly because of political opposition. Iran has faced
+     increasingly severe financial difficulties in 1992-93 due to an import
+     surge since 1989 and general financial mismanagement. At yearend 1993
+     the Iranian Government estimated that it owed foreign creditors about
+     $30 billion; an estimated $8 billion of this debt was in arrears.
+     Earnings from oil exports--which provide over 90% of Iran's export
+     revenues--are providing less relief to Iran than usual because of
+     declining oil prices. Estimated overall growth was a robust 6.3% in
+     1992 and a moderate 3% in 1993.
+National product:
+     GNP - purchasing power equivalent - $303 billion (1993 est.)
+National product real growth rate:
+     3% (1993 est.)
+National product per capita:
+     $4,780 (1993 est.)
+Inflation rate (consumer prices):
+     30% (September 1992-September 1993)
+Unemployment rate:
+     30% (1991 est.)
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $15.5 billion (f.o.b., FY92 est.)
+commodities:
+     petroleum 90%, carpets, fruits, nuts, hides
+partners:
+     Japan, Italy, France, Netherlands, Belgium/Luxembourg, Spain, and
+     Germany
+Imports:
+     $23.7 billion (c.i.f., FY92 est.)
+commodities:
+     machinery, military supplies, metal works, foodstuffs,
+     pharmaceuticals, technical services, refined oil products
+partners:
+     Germany, Japan, Italy, UK, France
+External debt:
+     $30 billion (December 1993)
+ 
+ 
+Industrial production:
+     growth rate 3% (1993 est.); accounts for almost 30% of GDP, including
+     petroleum
+Electricity:
+capacity:
+     15,649,000 kW
+production:
+     43.6 billion kWh
+consumption per capita:
+     710 kWh (1992)
+Industries:
+     petroleum, petrochemicals, textiles, cement and other building
+     materials, food processing (particularly sugar refining and vegetable
+     oil production), metal fabricating
+Agriculture:
+     accounts for about 20% of GDP; principal products - wheat, rice, other
+     grains, sugar beets, fruits, nuts, cotton, dairy products, wool,
+     caviar; not self-sufficient in food
+Illicit drugs:
+     illicit producer of opium poppy for the domestic and international
+     drug trade; net opiate importer but also a key transshipment point for
+     Southwest Asian heroin to Europe
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-80), $1 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89),
+     $1.675 billion; Communist countries (1970-89), $976 million
+note:
+     aid fell sharply following the 1979 revolution
+Currency:
+     1 Iranian rial (IR) = 10 tomans
+Exchange rates:
+     Iranian rials (IR) per US$1 - 1,748.86 (January 1994), 1,267.77
+     (1993), 65.552 (1992), 67.505 (1991); note - in March 1993 the Iranian
+     government announced a new single-parity exchange rate system with a
+     new official rate of 1,538 rials per dollar; there is also a black
+     market rate of 2200 rials per US$1 (December 1993)
+Fiscal year:
+     21 March - 20 March
+ 
+                              Communications
+ 
+Railroads:
+     4,852 km total; 4,760 km 1.432-meter gauge, 92 km 1.676-meter gauge;
+     480 km under construction from Bafq to Bandar-e 'Abbas, rail
+     construction from Bafq to Sirjan has been completed and is
+     operational; section from Sirjan to Bandar-e 'Abbas still under
+     construction
+Highways:
+total:
+     140,200 km
+paved:
+     42,694 km
+ 
+ 
+unpaved:
+     gravel, crushed stone 46,866 km; improved earth 49,440 km; unimproved
+     earth 1,200 km
+Inland waterways:
+     904 km; the Shatt al Arab is usually navigable by maritime traffic for
+     about 130 km; channel has been dredged to 3 meters and is in use
+Pipelines:
+     crude oil 5,900 km; petroleum products 3,900 km; natural gas 4,550 km
+Ports:
+     Abadan (largely destroyed in fighting during 1980-88 war), Bandar
+     Beheshti, Bandar-e 'Abbas, Bandar-e Bushehr, Bandar-e Khomeyni,
+     Bandar-e Torkeman (Caspian Sea port), Khorramshahr (repaired after
+     being largely destroyed in fighting during 1980-88 war) has been in
+     limited operation since November 1992
+Merchant marine:
+     139 ships (1,000 GRT or over) totaling 4,480,000 GRT/8,332,667 DWT,
+     bulk 48, cargo 41, chemical tanker 4, combination bulk 2, liquefied
+     gas 1, oil tanker 31, refrigerated cargo 3, roll-on/roll-off cargo 8,
+     short-sea passenger 1
+Airports:
+total:
+     219
+usable:
+     193
+with permanent-surface runways:
+     80
+with runways over 3,659 m:
+     17
+with runways 2,440-3,659 m:
+     18
+with runways 1,220-2,439 m:
+     70
+Telecommunications:
+     microwave radio relay extends throughout country; system centered in
+     Tehran; 2,143,000 telephones (35 telephones per 1,000 persons);
+     broadcast stations - 77 AM, 3 FM, 28 TV; satellite earth stations - 2
+     Atlantic Ocean INTELSAT and 1 Indian Ocean INTELSAT; HF radio and
+     microwave radio relay to Turkey, Pakistan, Syria, Kuwait, Tajikistan,
+     and Uzbekistan; submarine fiber optic cable to UAE
+ 
+                              Defense Forces
+ 
+Branches:
+     Islamic Republic of Iran Ground Forces, Navy, Air and Air Defense
+     Force, Revolutionary Guards (including Basij militia and own ground,
+     air, and naval forces), Law Enforcement Forces
+Manpower availability:
+     males age 15-49 14,382,216; fit for military service 8,555,760; reach
+     military age (21) annually 600,630 (1994 est.)
+Defense expenditures:
+     according to official Iranian data, Iran spent 1,785 billion rials,
+     including $808 million in hard currency in 1992 and budgeted 2,507
+     billion rials, including $850 million in hard currency for 1993 (est.)
+ 
+ 
+note:
+     conversion of rial expenditures into US dollars using the prevailing
+     exchange rate could produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

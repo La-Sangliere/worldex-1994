@@ -1,0 +1,363 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0042
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Burundi
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Burundi 
+ 
+ 
+                                  Burundi
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Africa, between Tanzania and Zaire
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     27,830 sq km
+land area:
+     25,650 sq km
+comparative area:
+     slightly larger than Maryland
+Land boundaries:
+     total 974 km, Rwanda 290 km, Tanzania 451 km, Zaire 233 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     temperate; warm; occasional frost in uplands
+Terrain:
+     mostly rolling to hilly highland; some plains
+Natural resources:
+     nickel, uranium, rare earth oxide, peat, cobalt, copper, platinum (not
+     yet exploited), vanadium
+Land use:
+arable land:
+     43%
+permanent crops:
+     8%
+meadows and pastures:
+     35%
+forest and woodland:
+     2%
+other:
+     12%
+Irrigated land:
+     720 sq km (1989 est.)
+Environment:
+current issues:
+     soil exhaustion and erosion; deforestation; habitat loss threatening
+     wildlife populations
+natural hazards:
+     NA
+international agreements:
+     party to - Endangered Species; signed, but not ratified -
+     Biodiversity, Climate Change, Law of the Sea, Nuclear Test Ban
+Note:
+     landlocked; straddles crest of the Nile-Congo watershed
+ 
+ 
+                                  People
+ 
+Population:
+     6,124,747 (July 1994 est.)
+Population growth rate:
+     2.26% (1994 est.)
+Birth rate:
+     44.02 births/1,000 population (1994 est.)
+Death rate:
+     21.38 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     113.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     40.3 years
+male:
+     38.31 years
+female:
+     42.35 years (1994 est.)
+Total fertility rate:
+     6.69 children born/woman (1994 est.)
+Nationality:
+noun:
+     Burundian(s)
+adjective:
+Ethnic divisions:
+Africans:
+     Hutu (Bantu) 85%, Tutsi (Hamitic) 14%, Twa (Pygmy) 1% (other Africans
+     include about 70,000 refugees, mostly Rwandans and Zairians)
+non-Africans:
+     Europeans 3,000, South Asians 2,000
+Religions:
+     Christian 67% (Roman Catholic 62%, Protestant 5%), indigenous beliefs
+     32%, Muslim 1%
+Languages:
+     Kirundi (official), French (official), Swahili (along Lake Tanganyika
+     and in the Bujumbura area)
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     50%
+male:
+     61%
+female:
+     40%
+Labor force:
+     1.9 million (1983 est.)
+by occupation:
+     agriculture 93.0%, government 4.0%, industry and commerce 1.5%,
+     services 1.5%
+note:
+     52% of population of working age (1985)
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Burundi
+conventional short form:
+local long form:
+     Republika y'u Burundi
+local short form:
+Digraph:
+     BY
+Type:
+     republic
+Capital:
+     Bujumbura
+Administrative divisions:
+     15 provinces; Bubanza, Bujumbura, Bururi, Cankuzo, Cibitoke, Gitega,
+     Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Ngozi, Rutana,
+     Ruyigi
+Independence:
+     1 July 1962 (from UN trusteeship under Belgian administration)
+National holiday:
+     Independence Day, 1 July (1962)
+Constitution:
+     13 March 1992; provides for establishment of a plural political system
+Legal system:
+     based on German and Belgian civil codes and customary law; has not
+     accepted compulsory ICJ jurisdiction
+Suffrage:
+     universal adult at age NA
+Executive branch:
+chief of state:
+     Interim President Sylvestre NTIBANTUNGANYA, Speaker of the National
+     Assembly, succeeded deceased President NTARYAMIRA in early April 1994
+     with a mandate for at least 90 days; on 11 July 1994 the mandate was
+     extended by the Constitutional Court for three more months at the
+     request of 12 political parties locked in negotiations on a new
+     broad-based government; elections will be held later in 1994
+note:
+     President Melchior NDADAYE died in the military coup of 21 October
+     1993 and was succeeded on 5 February 1994 by President Cyprien
+     NTARYAMIRA, who was killed in a mysterious airplane explosion on 6
+     April 1994
+head of government:
+     Prime Minister Anatole KANYENKIKO (since 7 February 1994); chosen by
+     the president
+cabinet:
+     Council of Ministers ; appointed by prime minister
+Legislative branch:
+     unicameral
+ 
+ 
+National Assembly (Assemblee Nationale):
+     elections last held 29 June 1993 (next to be held NA): results -
+     FRODEBU 71%, UPRONA 21.4%; seats - (81 total) FRODIBU 65, UPRONA 16;
+     other parties won too small shares of the vote to win seats in the
+     assembly
+note:
+     The National Unity Charter outlining the principles for constitutional
+     government was adopted by a national referendum on 5 February 1991
+Judicial branch:
+     Supreme Court (Cour Supreme)
+Political parties and leaders:
+     Unity for National Progress (UPRONA); Burundi Democratic Front
+     (FRODEBU); Organization of the People of Burundi (RBP); Socialist
+     Party of Burundi (PSB); People's Reconciliation Party (PRP)
+Other political or pressure groups:
+     opposition parties legalized in March 1992; Burundi African Alliance
+     for the Salvation (ABASA); Rally for Democracy and Economic and Social
+     Development (RADDES)
+Member of:
+     ACCT, ACP, AfDB, CCC, CEEAC, CEPGL, ECA, FAO, G-77, GATT, IBRD, ICAO,
+     IDA, IFAD, IFC, ILO, IMF, INTELSAT (nonsignatory user), INTERPOL, ITU,
+     LORCS, NAM, OAU, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Jacques BACAMURWANKO, designated (January 1994)
+chancery:
+     Suite 212, 2233 Wisconsin Avenue NW, Washington, DC 20007
+telephone:
+     (202) 342-2574
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge d'Affaires Leonard J. LANGE
+embassy:
+     Avenue des Etats-Unis, Bujumbura
+mailing address:
+     B. P. 34, 1720, Bujumbura
+telephone:
+     [257] (223) 454
+FAX:
+     [257] (222) 926
+Flag:
+     divided by a white diagonal cross into red panels (top and bottom) and
+     green panels (hoist side and outer side) with a white disk
+     superimposed at the center bearing three red six-pointed stars
+     outlined in green arranged in a triangular design (one star above, two
+     stars below)
+ 
+                                  Economy
+ 
+ 
+Overview:
+     A landlocked, resource-poor country in an early stage of economic
+     development, Burundi is predominately agricultural with only a few
+     basic industries. Its economic health depends on the coffee crop,
+     which accounts for 80% of foreign exchange earnings. The ability to
+     pay for imports therefore continues to rest largely on the vagaries of
+     the climate and the international coffee market. As part of its
+     economic reform agenda, launched in February 1991 with IMF and World
+     Bank support, Burundi is trying to diversify its agricultural exports
+     and attract foreign investment in industry. Several state-owned coffee
+     companies were privatized via public auction in September 1991.
+National product:
+     GDP - purchasing power equivalent - $4.4 billion (1993 est.)
+National product real growth rate:
+     -3.8% (1991)
+National product per capita:
+     $700 (1993 est.)
+Inflation rate (consumer prices):
+     4.7% (1992 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $318 million
+expenditures:
+     $326 million, including capital expenditures of $150 million (1991
+     est.)
+Exports:
+     $40.8 million (f.o.b., 1992 est.)
+commodities:
+     coffee 81%, tea, cotton, hides, and skins
+partners:
+     EC 57%, US 19%, Asia 1%
+Imports:
+     $188 million (c.i.f., 1992 est.)
+commodities:
+     capital goods 31%, petroleum products 15%, foodstuffs, consumer goods
+partners:
+     EC 45%, Asia 29%, US 2%
+External debt:
+     $970 million (1991)
+Industrial production:
+     growth rate 11% (1991 est.); accounts for about 15% of GDP
+Electricity:
+capacity:
+     55,000 kW
+production:
+     105 million kWh
+consumption per capita:
+     20 kWh (1991)
+Industries:
+     light consumer goods such as blankets, shoes, soap; assembly of
+     imported components; public works construction; food processing
+ 
+ 
+Agriculture:
+     accounts for 50% of GDP; 90% of population dependent on subsistence
+     farming; marginally self-sufficient in food production; cash crops -
+     coffee, cotton, tea; food crops - corn, sorghum, sweet potatoes,
+     bananas, manioc; livestock - meat, milk, hides and skins
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $71 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $10.2
+     billion; OPEC bilateral aid (1979-89), $32 million; Communist
+     countries (1970-89), $175 million
+Currency:
+     1 Burundi franc (FBu) = 100 centimes
+Exchange rates:
+     Burundi francs (FBu) per US$1 - 247.94 (November 1993), 208.30 (1992),
+     181.51 (1991), 171.26 (1990), 158.67 (1989), 140.40 (1988)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     6,285 km
+paved:
+     1,099 km
+unpaved:
+     gravel, crushed stone 2,500 km; improved, unimproved earth 2,686 km
+     (1990)
+Inland waterways:
+     Lake Tanganyika
+Ports:
+     Bujumbura (lake port) connects to transportation systems of Tanzania
+     and Zaire
+Airports:
+total:
+     5
+usable:
+     3
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     sparse system of wire, radiocommunications, and low-capacity microwave
+     radio relay links; 8,000 telephones; broadcast stations - 2 AM, 2 FM,
+     1 TV; 1 Indian Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+ 
+Branches:
+     Army (includes naval and air units), paramilitary Gendarmerie
+Manpower availability:
+     males age 15-49 1,315,660; fit for military service 687,474; reach
+     military age (16) annually 67,949 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $28 million, 3.7% of GDP (1989)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,358 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0166
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Mozambique
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Mozambique 
+ 
+ 
+                                Mozambique
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, bordering the Mozambique Channel between South Africa
+     and Tanzania opposite the island of Madagascar
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     801,590 sq km
+land area:
+     784,090 sq km
+comparative area:
+     slightly less than twice the size of California
+Land boundaries:
+     total 4,571 km, Malawi 1,569 km, South Africa 491 km, Swaziland 105
+     km, Tanzania 756 km, Zambia 419 km, Zimbabwe 1,231 km
+Coastline:
+     2,470 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical to subtropical
+Terrain:
+     mostly coastal lowlands, uplands in center, high plateaus in
+     northwest, mountains in west
+Natural resources:
+     coal, titanium
+Land use:
+arable land:
+     4%
+permanent crops:
+     0%
+meadows and pastures:
+     56%
+forest and woodland:
+     20%
+other:
+     20%
+Irrigated land:
+     1,150 sq km (1989 est.)
+Environment:
+current issues:
+     civil strife in the hinterlands has resulted in increased migration to
+     urban and coastal areas with adverse environmental consequences;
+     desertification; pollution of surface and coastal waters
+natural hazards:
+     severe drought and floods occur in central and southern provinces
+ 
+ 
+international agreements:
+     party to - Endangered Species; signed, but not ratified -
+     Biodiversity, Climate Change, Law of the Sea
+ 
+                                  People
+ 
+Population:
+     17,346,280 (July 1994 est.)
+Population growth rate:
+     5.87% (1994 est.)
+Birth rate:
+     44.97 births/1,000 population (1994 est.)
+Death rate:
+     16.33 deaths/1,000 population (1994 est.)
+Net migration rate:
+     30.1 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     128.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     48.49 years
+male:
+     46.63 years
+female:
+     50.41 years (1994 est.)
+Total fertility rate:
+     6.25 children born/woman (1994 est.)
+Nationality:
+noun:
+     Mozambican(s)
+adjective:
+     Mozambican
+Ethnic divisions:
+     indigenous tribal groups, Europeans about 10,000, Euro-Africans
+     35,000, Indians 15,000
+Religions:
+     indigenous beliefs 60%, Christian 30%, Muslim 10%
+Languages:
+     Portuguese (official), indigenous dialects
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     33%
+male:
+     45%
+female:
+     21%
+Labor force:
+     NA
+by occupation:
+     90% engaged in agriculture
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     Republic of Mozambique
+conventional short form:
+local long form:
+     Republica Popular de Mocambique
+local short form:
+     Mocambique
+Digraph:
+     MZ
+Type:
+     republic
+Capital:
+     Maputo
+Administrative divisions:
+     10 provinces (provincias, singular - provincia); Cabo Delgado, Gaza,
+     Inhambane, Manica, Maputo, Nampula, Niassa, Sofala, Tete, Zambezia
+Independence:
+     25 June 1975 (from Portugal)
+National holiday:
+     Independence Day, 25 June (1975)
+Constitution:
+     30 November 1990
+Legal system:
+     based on Portuguese civil law system and customary law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Joaquim Alberto CHISSANO (since 6 November 1986)
+head of government:
+     Prime Minister Mario da Graca MACHUNGO (since 17 July 1986)
+cabinet:
+     Cabinet
+Legislative branch:
+     unicameral Assembly of the Republic (Assembleia da Republica); draft
+     electoral law provides for periodic, direct presidential and Assembly
+     elections
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Front for the Liberation of Mozambique (FRELIMO), Joaquim Alberto
+     CHISSANO, chairman; formerly a Marxist organization with close ties to
+     the USSR; FRELIMO was the only legal party before 30 November 1990,
+     when the new Constitution went into effect establishing a multiparty
+     system
+note:
+     under the terms of the 1992 peace accords multiparty elections are
+     scheduled for October 1994; 11 parties, including the Mozambique
+     National Resistance (RENAMO), Alfonso DHLAKAMA, president, are
+     registered to participate
+ 
+ 
+Member of:
+     ACP, AfDB, CCC, ECA, FAO, FLS, G-77, GATT, IBRD, ICAO, IDA, IFAD, IFC,
+     ILO, IMF, INMARSAT, IMO, INTELSAT, INTERPOL, IOC, ITU, LORCS, NAM,
+     OAU, OIC, SADC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Hipolito Pereira Zozimo PATRICIO
+chancery:
+     Suite 570, 1990 M Street NW, Washington, DC 20036
+telephone:
+     (202) 293-7146
+FAX:
+     (202) 835-0245
+US diplomatic representation:
+chief of mission:
+     Ambassador Dennis JETT
+embassy:
+     Avenida Kenneth Kuanda, 193 Maputo
+mailing address:
+     P. O. Box 783, Maputo
+telephone:
+     [258] (1) 49-27-97
+FAX:
+     [258] (1) 49-01-14
+Flag:
+     three equal horizontal bands of green (top), black, and yellow with a
+     red isosceles triangle based on the hoist side; the black band is
+     edged in white; centered in the triangle is a yellow five-pointed star
+     bearing a crossed rifle and hoe in black superimposed on an open white
+     book
+ 
+                                  Economy
+ 
+Overview:
+     One of Africa's poorest countries, Mozambique has failed to exploit
+     the economic potential of its sizable agricultural, hydropower, and
+     transportation resources. Indeed, national output, consumption, and
+     investment declined throughout the first half of the 1980s because of
+     internal disorders, lack of government administrative control, and a
+     growing foreign debt. A sharp increase in foreign aid, attracted by an
+     economic reform policy, resulted in successive years of economic
+     growth in the late 1980s, but aid has declined steadily since 1989.
+     Agricultural output is at only 75% of its 1981 level, and grain has to
+     be imported. Industry operates at only 20-40% of capacity. The economy
+     depends heavily on foreign assistance to keep afloat. Peace accords
+     signed in October 1992 improved chances of foreign investment, aided
+     IMF-supported economic reforms, and supported continued economic
+     recovery.
+National product:
+     GDP - purchasing power equivalent - $9.8 billion (1993 est.)
+National product real growth rate:
+     4.1% (1993 est.)
+National product per capita:
+     $600 (1993 est.)
+ 
+ 
+Inflation rate (consumer prices):
+     40% (1993 est.)
+Unemployment rate:
+     50% (1989 est.)
+Budget:
+revenues:
+     $252 million
+expenditures:
+     $607 million, including capital expenditures of $NA (1992 est.)
+Exports:
+     $164.4 million (f.o.b., 1993 est.)
+commodities:
+     shrimp 48%, cashews 21%, sugar 10%, copra 3%, citrus 3%
+partners:
+     US, Western Europe, Germany, Japan
+Imports:
+     $1.03 billion (c.i.f., 1993 est.)
+commodities:
+     food, clothing, farm equipment, petroleum
+partners:
+     US, Western Europe, USSR
+External debt:
+     $5 billion (1992 est.)
+Industrial production:
+     growth rate 5% (1989 est.)
+Electricity:
+capacity:
+     2,270,000 kW
+production:
+     1.745 billion kWh
+consumption per capita:
+     115 kWh (1991)
+Industries:
+     food, beverages, chemicals (fertilizer, soap, paints), petroleum
+     products, textiles, nonmetallic mineral products (cement, glass,
+     asbestos), tobacco
+Agriculture:
+     accounts for 50% of GDP and about 90% of exports; cash crops - cotton,
+     cashew nuts, sugarcane, tea, shrimp; other crops - cassava, corn,
+     rice, tropical fruits; not self-sufficient in food
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $350 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $4.4
+     billion; OPEC bilateral aid (1979-89), $37 million; Communist
+     countries (1970-89), $890 million
+Currency:
+     1 metical (Mt) = 100 centavos
+Exchange rates:
+     meticais (Mt) per US$1 - 4,941.3 (October 1993), 2,550.40 (1992),
+     1,763.99 (1991), 1,053.09 (1990), 844.34 (1989)
+Fiscal year:
+     calendar year
+ 
+ 
+                              Communications
+ 
+Railroads:
+     3,288 km total; 3,140 km 1.067-meter gauge; 148 km 0.762-meter narrow
+     gauge; Malawi-Nacala, Malawi-Beira, and Zimbabwe-Maputo lines are
+     subject to closure because of insurgency
+Highways:
+total:
+     26,498 km
+paved:
+     4,593 km
+unpaved:
+     gravel, crushed stone, stabilized earth 829 km; unimproved earth
+     21,076 km
+Inland waterways:
+     about 3,750 km of navigable routes
+Pipelines:
+     crude oil (not operating) 306 km; petroleum products 289 km
+Ports:
+     Maputo, Beira, Nacala
+Merchant marine:
+     4 cargo ships (1,000 GRT or over) totaling 5,686 GRT/9,742 DWT
+Airports:
+total:
+     194
+usable:
+     134
+with permanent-surface runways:
+     24
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     5
+with runways 1,220-2,439 m:
+     28
+Telecommunications:
+     fair system of troposcatter, open-wire lines, and radio relay;
+     broadcast stations - 29 AM, 4 FM, 1 TV; earth stations - 2 Atlantic
+     Ocean INTELSAT and 3 domestic Indian Ocean INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Naval Command, Air and Air Defense Forces, Militia
+note:
+     as of early 1994, Mozambique was demobilizing and reorganizing its
+     defence forces
+Manpower availability:
+     males age 15-49 3,890,532; fit for military service 2,233,824
+Defense expenditures:
+     exchange rate conversion - $118 million, 8% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

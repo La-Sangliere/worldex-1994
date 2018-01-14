@@ -1,0 +1,404 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0223
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Sri Lanka
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Sri Lanka 
+ 
+ 
+                                 Sri Lanka
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Asia, 29 km southeast of India across the Palk Strait in the
+     Indian Ocean
+Map references:
+     Asia, Standard Time Zones of the World
+Area:
+total area:
+     65,610 sq km
+land area:
+     64,740 sq km
+comparative area:
+     slightly larger than West Virginia
+Land boundaries:
+     0 km
+Coastline:
+     1,340 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200 nm or the edge of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical monsoon; northeast monsoon (December to March); southwest
+     monsoon (June to October)
+Terrain:
+     mostly low, flat to rolling plain; mountains in south-central interior
+Natural resources:
+     limestone, graphite, mineral sands, gems, phosphates, clay
+Land use:
+arable land:
+     16%
+permanent crops:
+     17%
+meadows and pastures:
+     7%
+forest and woodland:
+     37%
+other:
+     23%
+Irrigated land:
+     5,600 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     deforestation; soil erosion; wildlife populations threatened by
+     poaching; coastal degradation from mining activities and increased
+     pollution; freshwater resources being polluted by industrial wastes
+     and sewage runoff
+natural hazards:
+     occasional cyclones and tornadoes
+international agreements:
+     party to - Biodiversity, Climate Change, Endangered Species,
+     Environmental Modification, Hazardous Wastes, Nuclear Test Ban, Ozone
+     Layer Protection, Wetlands; signed, but not ratified - Law of the Sea,
+     Marine Life Conservation
+Note:
+     strategic location near major Indian Ocean sea lanes
+ 
+                                  People
+ 
+Population:
+     18,129,850 (July 1994 est.)
+note:
+     since the outbreak of hostilities between the government and armed
+     Tamil separatists in the mid-1980s, several hundred thousand Tamil
+     civilians have fled the island; as of late 1992, nearly 115,000 were
+     housed in refugee camps in south India, another 95,000 lived outside
+     the Indian camps, and more than 200,000 Tamils have sought political
+     asylum in the West
+Population growth rate:
+     1.18% (1994 est.)
+Birth rate:
+     18.51 births/1,000 population (1994 est.)
+Death rate:
+     5.77 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.91 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     21.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     71.9 years
+male:
+     69.37 years
+female:
+     74.55 years (1994 est.)
+Total fertility rate:
+     2.12 children born/woman (1994 est.)
+Nationality:
+noun:
+     Sri Lankan(s)
+adjective:
+     Sri Lankan
+Ethnic divisions:
+     Sinhalese 74%, Tamil 18%, Moor 7%, Burgher, Malay, and Vedda 1%
+Religions:
+     Buddhist 69%, Hindu 15%, Christian 8%, Muslim 8%
+ 
+ 
+Languages:
+     Sinhala (official and national language) 74%, Tamil (national
+     language) 18%
+note:
+     English is commonly used in government and is spoken by about 10% of
+     the population
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     88%
+male:
+     93%
+female:
+     84%
+Labor force:
+     6.6 million
+by occupation:
+     agriculture 45.9%, mining and manufacturing 13.3%, trade and transport
+     12.4%, services and other 28.4% (1985 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Democratic Socialist Republic of Sri Lanka
+conventional short form:
+former:
+     Ceylon
+Digraph:
+     CE
+Type:
+     republic
+Capital:
+     Colombo
+Administrative divisions:
+     8 provinces; Central, North Central, North Eastern, North Western,
+     Sabaragamuwa, Southern, Uva, Western
+Independence:
+     4 February 1948 (from UK)
+National holiday:
+     Independence and National Day, 4 February (1948)
+Constitution:
+     adopted 16 August 1978
+Legal system:
+     a highly complex mixture of English common law, Roman-Dutch, Muslim,
+     Sinhalese, and customary law; has not accepted compulsory ICJ
+     jurisdiction
+Suffrage:
+     18 years of age; universal
+ 
+ 
+Executive branch:
+chief of state and head of government:
+     President Dingiri Banda WIJETUNGA (since 7 May 1993); election last
+     held 19 December 1988 (next to be held NA December 1994); results -
+     Ranasinghe PREMADASA (UNP) 50%, Sirimavo BANDARANAIKE (SLFP) 45%,
+     other 5%; note - following the assassination of President PREMADASA on
+     1 May 1993, Prime Minister WIJETUNGA became acting president; on 7 May
+     1993, he was confirmed by a vote of Parliament to finish out the term
+     of the assassinated president
+cabinet:
+     Cabinet; appointed by the president in consultation with the prime
+     minister
+Legislative branch:
+     unicameral
+Parliament:
+     elections last held 15 February 1989 (next to be held by NA February
+     1995); results - UNP 51%, SLFP 32%, SLMC 4%, TULF 3%, USA 3%, EROS 3%,
+     MEP 1%, other 3%; seats - (225 total) UNP 125, SLFP 67, other 33
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     United National Party (UNP), Dingiri Banda WIJETUNGA; Sri Lanka
+     Freedom Party (SLFP), Sirimavo BANDARANAIKE; Sri Lanka Muslim Congress
+     (SLMC), M. H. M. ASHRAFF; All Ceylon Tamil Congress (ACTC), C. G.
+     Kumar PONNAMBALAM; People's United Front (MEP, or Mahajana Eksath
+     Peramuna), Dinesh GUNAWARDENE; Tamil United Liberation Front (TULF),
+     M. SIVASITHAMBARAM; New Socialist Party (NSSP, or Nava Sama Samaja
+     Party), Vasudeva NANAYAKKARA; Lanka Socialist Party/Trotskyite (LSSP,
+     or Lanka Sama Samaja Party), Colin R. DE SILVA; Sri Lanka People's
+     Party (SLMP, or Sri Lanka Mahajana Party), Ossie ABEYGUNASEKERA;
+     Communist Party, K. P. SILVA; Communist Party/Beijing (CP/B), N.
+     SHANMUGATHASAN; Democratic United National Front (DUNF), G. M.
+     PREMACHANDRA; Eelam People's Democratic Party (EPDP), Douglas
+     DEVANANDA; Tamil Eelam Liberation Organization (TELO), leader NA;
+     Eelam People's Revolutionary Liberation Front (EPRL), Suresh
+     PREMACHANDRAN; Eelam Revolutionary Organization of Students (EROS),
+     Shankar RAJI; People's Liberation Organization of Tamil Eelam (PLOTE),
+     Dharmalingam SIDARTHAN; Liberal Party (LP), Chanaka AMARATUNGA; Ceylon
+     Workers Congress (CLDC), S. THONDAMAN; several ethnic Tamil and Muslim
+     parties, represented in either parliament or provincial councils
+note:
+     the United Socialist Alliance (USA), which was formed in 1987 and
+     included the NSSP, LSSP, SLMP, CP/M, and CP/B, was defunct as of 1993,
+     following the formation of the People's Alliance Party (PEP)
+Other political or pressure groups:
+     Liberation Tigers of Tamil Eelam (LTTE) and other smaller Tamil
+     separatist groups; other radical chauvinist Sinhalese groups; Buddhist
+     clergy; Sinhalese Buddhist lay groups; labor unions
+Member of:
+     AsDB, C, CCC, CP, ESCAP, FAO, G-24, G-77, GATT, IAEA, IBRD, ICAO, ICC,
+     ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL,
+     IOC, IOM, ISO, ITU, LORCS, NAM, PCA, SAARC, UN, UNCTAD, UNESCO, UNIDO,
+     UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+ 
+ 
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Ananda W.P. GURUGE
+chancery:
+     2148 Wyoming Avenue NW, Washington, DC 20008
+telephone:
+     (202) 483-4025 through 4028
+FAX:
+     (202) 232-7181
+consulate(s):
+     New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Teresita C. SCHAFFER
+embassy:
+     210 Galle Road, Colombo 3
+mailing address:
+     P. O. Box 106, Colombo
+telephone:
+     [94] (1) 44-80-07
+FAX:
+     [94] (1) 57-42-64
+Flag:
+     yellow with two panels; the smaller hoist-side panel has two equal
+     vertical bands of green (hoist side) and orange; the other panel is a
+     large dark red rectangle with a yellow lion holding a sword, and there
+     is a yellow bo leaf in each corner; the yellow field appears as a
+     border that goes around the entire flag and extends between the two
+     panels
+ 
+                                  Economy
+ 
+Overview:
+     Industry - dominated by the fast-growing apparel industry - has
+     surpassed agriculture as the main source of export earnings and
+     accounts for over 16% of GDP. The economy has been plagued by high
+     rates of unemployment since the late 1970s. Economic growth, which has
+     been depressed by ethnic unrest, accelerated in 1991-93 as domestic
+     conditions began to improve and conditions for foreign investment
+     brightened.
+National product:
+     GDP - purchasing power equivalent - $53.5 billion (1993 est.)
+National product real growth rate:
+     5% (1993 est.)
+National product per capita:
+     $3,000 (1993 est.)
+Inflation rate (consumer prices):
+     11.6% (1992)
+Unemployment rate:
+     15% (1991 est.)
+Budget:
+revenues:
+     $2.3 billion
+expenditures:
+     $3.6 billion, including capital expenditures of $1.5 billion (1993)
+ 
+ 
+Exports:
+     $2.3 billion (f.o.b., 1992)
+commodities:
+     garments and textiles, teas, gems, petroleum products, coconuts,
+     rubber, other agricultural products, marine products, graphite
+partners:
+     US 33.4%, Germany, UK, Netherlands, Japan, France, Singapore (1992)
+Imports:
+     $3 billion (c.i.f., 1992)
+commodities:
+     food and beverages, textiles and textile materials, petroleum and
+     petroleum products, machinery and equipment
+partners:
+     Japan, India, US 4.3%, UK, Singapore, Germany, Hong King, Taiwan,
+     South Korea (1991)
+External debt:
+     $5.2 billion (1991)
+Industrial production:
+     growth rate 7% (1991 est.); accounts for 16.5% of GDP
+Electricity:
+capacity:
+     1,300,000 kW
+production:
+     3.6 billion kWh
+consumption per capita:
+     200 kWh (1992)
+Industries:
+     processing of rubber, tea, coconuts, and other agricultural
+     commodities; clothing, cement, petroleum refining, textiles, tobacco
+Agriculture:
+     accounts for one-fourth of GDP and nearly half of labor force; most
+     important staple crop is paddy rice; other field crops - sugarcane,
+     grains, pulses, oilseeds, roots, spices; cash crops - tea, rubber,
+     coconuts; animal products - milk, eggs, hides, meat; not
+     self-sufficient in rice production
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $1 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1980-89), $5.1
+     billion; OPEC bilateral aid (1979-89), $169 million; Communist
+     countries (1970-89), $369 million
+Currency:
+     1 Sri Lankan rupee (SLRe) = 100 cents
+Exchange rates:
+     Sri Lankan rupees (SLRes) per US$1 - 49.672 (January 1994), 48.322
+     (1993), 43.687 (1992), 41.372 (1991), 40.063 (1990), 36.047 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     1,948 km total (1990); all 1.868-meter broad gauge; 102 km double
+     track; no electrification; government owned
+ 
+ 
+Highways:
+total:
+     75,263 km
+paved:
+     mostly bituminous treated 27,637 km
+unpaved:
+     crushed stone, gravel 32,887 km; improved, unimproved earth 14,739 km
+Inland waterways:
+     430 km; navigable by shallow-draft craft
+Pipelines:
+     crude oil and petroleum products 62 km (1987)
+Ports:
+     Colombo, Trincomalee
+Merchant marine:
+     26 ships (1,000 GRT or over) totaling 289,115 GRT/453,609 DWT, bulk 2,
+     cargo 12, container 1, oil tanker 3, refrigerated cargo 8
+Airports:
+total:
+     14
+usable:
+     13
+with permanent-surface runways:
+     12
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     8
+Telecommunications:
+     very inadequate domestic service, good international service; 114,000
+     telephones (1982); broadcast stations - 12 AM, 5 FM, 5 TV; submarine
+     cables extend to Indonesia and Djibouti; 2 Indian Ocean INTELSAT earth
+     stations
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, Police Force
+Manpower availability:
+     males age 15-49 4,906,666; fit for military service 3,825,774; reach
+     military age (18) annually 178,213 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $417 million, 3.5% of GDP (1994 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

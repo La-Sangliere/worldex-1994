@@ -1,0 +1,385 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0201
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Rwanda
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Rwanda 
+ 
+ 
+                                  Rwanda
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Africa, between Tanzania and Zaire
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     26,340 sq km
+land area:
+     24,950 sq km
+comparative area:
+     slightly smaller than Maryland
+Land boundaries:
+     total 893 km, Burundi 290 km, Tanzania 217 km, Uganda 169 km, Zaire
+     217 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     temperate; two rainy seasons (February to April, November to January);
+     mild in mountains with frost and snow possible
+Terrain:
+     mostly grassy uplands and hills; mountains in west
+Natural resources:
+     gold, cassiterite (tin ore), wolframite (tungsten ore), natural gas,
+     hydropower
+Land use:
+arable land:
+     29%
+permanent crops:
+     11%
+meadows and pastures:
+     18%
+forest and woodland:
+     10%
+other:
+     32%
+Irrigated land:
+     40 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; overgrazing; soil exhaustion; soil erosion
+natural hazards:
+     periodic droughts
+international agreements:
+     party to - Endangered Species, Nuclear Test Ban; signed, but not
+     ratified - Biodiversity, Climate Change, Law of the Sea
+Note:
+     landlocked; predominantly rural population
+ 
+ 
+                                  People
+ 
+Population:
+     8,373,963 (July 1994 est.)
+note:
+     the demographic estimates were prepared before civil strife, starting
+     in April 1994, set in motion substantial and continuing population
+     changes
+Population growth rate:
+     2.78% (1994 est.)
+Birth rate:
+     49.17 births/1,000 population (1994 est.)
+Death rate:
+     21.35 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     118.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     40.25 years
+male:
+     39.33 years
+female:
+     41.21 years (1994 est.)
+Total fertility rate:
+     8.19 children born/woman (1994 est.)
+Nationality:
+noun:
+     Rwandan(s)
+adjective:
+     Rwandan
+Ethnic divisions:
+     Hutu 90%, Tutsi 9%, Twa (Pygmoid) 1%
+Religions:
+     Roman Catholic 65%, Protestant 9%, Muslim 1%, indigenous beliefs and
+     other 25%
+Languages:
+     Kinyarwanda (official), French (official), Kiswahili used in
+     commercial centers
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     50%
+male:
+     64%
+female:
+     37%
+Labor force:
+     3.6 million
+by occupation:
+     agriculture 93%, government and services 5%, industry and commerce 2%
+note:
+     49% of population of working age (1985)
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Rwanda
+conventional short form:
+local long form:
+     Republika y'u Rwanda
+local short form:
+Digraph:
+     RW
+Type:
+     republic; presidential system
+note:
+     a new, interim government formed in August 1992 to last until peace
+     accord; political parties are working to form a multiethical
+     broad-based transitonal government to lead them to elections in 1995
+Capital:
+     Kigali
+Administrative divisions:
+     10 prefectures (prefectures, singular - prefecture in French; plural -
+     NA, singular - prefegitura in Kinyarwanda); Butare, Byumba, Cyangugu,
+     Gikongoro, Gisenyi, Gitarama, Kibungo, Kibuye, Kigali, Ruhengeri
+Independence:
+     1 July 1962 (from UN trusteeship under Belgian administration)
+National holiday:
+     Independence Day, 1 July (1962)
+Constitution:
+     18 June 1991
+Legal system:
+     based on German and Belgian civil law systems and customary law;
+     judicial review of legislative acts in the Supreme Court; has not
+     accepted compulsory ICJ jurisdiction
+Suffrage:
+     universal adult at age NA
+Executive branch:
+chief of state:
+     Interim President Dr. Theodore SINDIKUBWABO (since 8 April 1994,
+     following the death of President Juvenal HABYARIMANA on 6 April 1994)
+     the last election was held 19 December 1988 (next planned for 1995);
+     results - the late President Juvenal HABYARIMANA was reelected
+head of government:
+     Prime Minister Jean KAMBANDA, appointed by President SINDIKUBWABWO 8
+     April 1994 following the assassination of Agatha UWILINGIYIMANA on 7
+     April 1994
+cabinet:
+     Council of Ministers; appointed by the president
+Legislative branch:
+     unicameral
+National Development Council:
+      (Conseil National de Developpement) elections last held 19 December
+     1988 (new elections to be held in 1995); results - MRND was the only
+     party; seats - (70 total) MRND 70
+ 
+ 
+Judicial branch:
+     Constitutional Court (consists of the Court of Cassation and the
+     Council of State in joint session)
+Political parties and leaders:
+     Republican National Movement for Democracy and Development (MRND);
+     significant independent parties include: Democratic Republican
+     Movement (MDR); Liberal Party (PL); Democratic and Socialist Party
+     (PSD); Coalition for the Defense of the Republic (CDR); Party for
+     Democracy in Rwanda (PADER); Christian Democratic Party (PDL)
+note:
+     formerly a one-party state, Rwanda legalized independent parties in
+     mid-1991; since then, at least 10 new political parties have
+     registered
+Other political or pressure groups:
+     Rwanda Patriotic Front (RPF), Alexis KANYARENGWE, Chairman (since
+     1990); Rwanda Patriotic Army (RPA), the RPF military wing, Maj. Gen.
+     Paul KAGAME, commander
+Member of:
+     ACCT, ACP, AfDB, ECA, CCC, CEEAC, CEPGL, FAO, G-77, GATT, IBRD, ICAO,
+     ICFTU, IDA, IFAD, IFC, ILO, IMF, INTELSAT, INTERPOL, IOC, ITU, LORCS,
+     NAM, OAU, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Aloys UWIMANA
+chancery:
+     1714 New Hampshire Avenue NW, Washington, DC 20009
+telephone:
+     (202) 232-2882
+FAX:
+     (202) 232-4544
+US diplomatic representation:
+chief of mission:
+     (vacant)
+embassy:
+     Boulevard de la Revolution, Kigali
+mailing address:
+     B. P. 28, Kigali
+telephone:
+     [250] 75601 through 75603
+FAX:
+     [250] 72128
+note:
+     embassy closed on 10 April 1994 and personnel withdrawn because of
+     severe civil strife and consequent danger for foreign nationals
+Flag:
+     three equal vertical bands of red (hoist side), yellow, and green with
+     a large black letter R centered in the yellow band; uses the popular
+     pan-African colors of Ethiopia; similar to the flag of Guinea, which
+     has a plain yellow band
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Almost 50% of GDP comes from the agricultural sector; coffee and tea
+     make up 80-90% of total exports. The amount of fertile land is
+     limited, however, and deforestation and soil erosion have created
+     problems. The industrial sector in Rwanda is small, contributing only
+     17% to GDP. Manufacturing focuses mainly on the processing of
+     agricultural products. The Rwandan economy remains dependent on
+     coffee/tea exports and foreign aid. Weak international prices since
+     1986 have caused the economy to contract and per capita GDP to
+     decline. A structural adjustment program with the World Bank began in
+     October 1990. Ethnic-based insurgency in 1990-93 devastated wide areas
+     of the north and displaced hundreds of thousands of people. A peace
+     accord in mid-1993 temporarily ended most of the fighting, but massive
+     resumption of civil warfare in April 1994 in the capital city Kigali
+     has been taking thousands of lives and severely damaging short-term
+     economic prospects
+National product:
+     GDP - purchasing power equivalent - $6.8 billion (1993 est.)
+National product real growth rate:
+     1.3% (1992 est.)
+National product per capita:
+     $800 (1993 est.)
+Inflation rate (consumer prices):
+     9.5% (1992 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $350 million
+expenditures:
+     $NA, including capital expenditures of $NA (1992 est.)
+Exports:
+     $66.6 million (f.o.b., 1992 est.)
+commodities:
+     coffee 63%, tea, cassiterite, wolframite, pyrethrum
+partners:
+     Germany, Belgium, Italy, Uganda, UK, France, US
+Imports:
+     $259.5 million (f.o.b., 1992 est.)
+commodities:
+     textiles, foodstuffs, machines and equipment, capital goods, steel,
+     petroleum products, cement and construction material
+partners:
+     US, Belgium, Germany, Kenya, Japan
+External debt:
+     $845 million (1991 est.)
+Industrial production:
+     growth rate -2.2% (1991); accounts for 17% of GDP
+Electricity:
+capacity:
+     30,000 kW
+production:
+     130 million kWh
+consumption per capita:
+     15 kWh (1991)
+ 
+ 
+Industries:
+     mining of cassiterite (tin ore) and wolframite (tungsten ore), tin,
+     cement, agricultural processing, small-scale beverage production,
+     soap, furniture, shoes, plastic goods, textiles, cigarettes
+Agriculture:
+     accounts for almost 50% of GDP and about 90% of the labor force; cash
+     crops - coffee, tea, pyrethrum (insecticide made from chrysanthemums);
+     main food crops - bananas, beans, sorghum, potatoes; stock raising;
+     self-sufficiency declining; country imports foodstuffs as farm
+     production fails to keep up with a 2.8% annual growth in population
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $128 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $2
+     billion; OPEC bilateral aid (1979-89), $45 million; Communist
+     countries (1970-89), $58 million
+note:
+     in October 1990 Rwanda launched a Structural Adjustment Program with
+     the IMF; since September 1991, the EC has given $46 million and the US
+     $25 million in support of this program (1993)
+Currency:
+     1 Rwandan franc (RF) = 100 centimes
+Exchange rates:
+     Rwandan francs (RF) per US$1 - 145.45 (December 1993), 133.35 (1992),
+     125.14 (1991), 82.60 (1990), 79.98 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     4,885 km
+paved:
+     460 km
+unpaved:
+     gravel, improved earth 1,725 km; unimproved earth 2,700 km
+Inland waterways:
+     Lac Kivu navigable by shallow-draft barges and native craft
+Airports:
+total:
+     8
+usable:
+     7
+with permanent-surface runways:
+     3
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     2
+ 
+ 
+Telecommunications:
+     telephone system does not provide service to the general public but is
+     intended for business and government use; the capital, Kigali, is
+     connected to the centers of the prefectures by microwave radio relay;
+     the remainder of the network depends on wire and high frequency radio;
+     international connections employ microwave radio relay to neighboring
+     countries and satellite communications to more distant countries;
+     satellite earth stations - 1 Indian Ocean INTELSAT and 1 SYMPHONIE
+     station in Kigali (includes telex and telefax service); broadcast
+     stations - 1 AM, 1 FM, 1 TV
+ 
+                              Defense Forces
+ 
+Branches:
+     Army (including Air Wing), Gendarmerie
+note:
+     Rwanda plans to demobilize and reorganize with RPF elements during
+     1994
+Manpower availability:
+     males age 15-49 1,733,246; fit for military service 883,291
+Defense expenditures:
+     exchange rate conversion - $37 million, 1.6% of GDP (1988 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

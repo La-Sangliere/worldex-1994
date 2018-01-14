@@ -1,0 +1,407 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0026
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Belgium
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Belgium 
+ 
+ 
+                                  Belgium
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Europe, bordering on the North Sea, between France and the
+     Netherlands
+Map references:
+     Arctic Region, Europe, Standard Time Zones of the World
+Area:
+total area:
+     30,510 sq km
+land area:
+     30,230 sq km
+comparative area:
+     slightly larger than Maryland
+Land boundaries:
+     total 1,385 km, France 620 km, Germany 167 km, Luxembourg 148 km,
+     Netherlands 450 km
+Coastline:
+     64 km
+Maritime claims:
+continental shelf:
+     equidistant line with neighbors
+exclusive fishing zone:
+     equidistant line with neighbors (extends about 68 km from coast)
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     temperate; mild winters, cool summers; rainy, humid, cloudy
+Terrain:
+     flat coastal plains in northwest, central rolling hills, rugged
+     mountains of Ardennes Forest in southeast
+Natural resources:
+     coal, natural gas
+Land use:
+arable land:
+     24%
+permanent crops:
+     1%
+meadows and pastures:
+     20%
+forest and woodland:
+     21%
+other:
+     34%
+Irrigated land:
+     10 sq km (1989 est.)
+Environment:
+current issues:
+     Meuse River, a major source of drinking water, polluted from steel
+     production wastes; other rivers polluted by animal wastes and
+     fertilizers; industrial air pollution contributes to acid rain in
+     neighboring countries
+ 
+ 
+natural hazards:
+     NA
+international agreements:
+     party to - Air Pollution, Air Pollution-Sulphur, Antarctic Treaty,
+     Endangered Species, Environmental Modification, Hazardous Wastes,
+     Marine Dumping, Marine Life Conservation, Nuclear Test Ban, Ozone
+     Layer Protection, Ship Pollution, Tropical Timber, Wetlands; signed,
+     but not ratified - Air Pollution-Nitrogen Oxides, Air
+     Pollution-Volatile Organic Compounds, Antarctic-Environmental
+     Protocol, Biodiversity, Climate Change, Law of the Sea
+Note:
+     crossroads of Western Europe; majority of West European capitals
+     within 1,000 km of Brussels which is the seat of the EC
+ 
+                                  People
+ 
+Population:
+     10,062,836 (July 1994 est.)
+Population growth rate:
+     0.2% (1994 est.)
+Birth rate:
+     11.71 births/1,000 population (1994 est.)
+Death rate:
+     10.26 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.6 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     7.2 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     76.96 years
+male:
+     73.67 years
+female:
+     80.44 years (1994 est.)
+Total fertility rate:
+     1.62 children born/woman (1994 est.)
+Nationality:
+noun:
+     Belgian(s)
+adjective:
+     Belgian
+Ethnic divisions:
+     Fleming 55%, Walloon 33%, mixed or other 12%
+Religions:
+     Roman Catholic 75%, Protestant or other 25%
+Languages:
+     Dutch 56%, French 32%, German 1%, legally bilingual 11% divided along
+     ethnic lines
+Literacy:
+     age 15 and over can read and write (1980 est.)
+total population:
+     99%
+male:
+     NA%
+ 
+ 
+female:
+     NA%
+Labor force:
+     4.126 million
+by occupation:
+     services 63.6%, industry 28%, construction 6.1%, agriculture 2.3%
+     (1988)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Kingdom of Belgium
+conventional short form:
+local long form:
+     Royaume de Belgique
+local short form:
+     Belgique
+Digraph:
+     BE
+Type:
+     constitutional monarchy
+Capital:
+     Brussels
+Administrative divisions:
+     9 provinces (French: provinces, singular - province; Flemish:
+     provincien, singular - provincie); Antwerpen, Brabant, Hainaut, Liege,
+     Limburg, Luxembourg, Namur, Oost-Vlaanderen, West-Vlaanderen
+Independence:
+     4 October 1830 (from the Netherlands)
+National holiday:
+     National Day, 21 July (ascension of King Leopold to the throne in
+     1831)
+Constitution:
+     7 February 1831, last revised 14 July 1993; parliament approved a
+     constitutional package creating a federal state
+Legal system:
+     civil law system influenced by English constitutional theory; judicial
+     review of legislative acts; accepts compulsory ICJ jurisdiction, with
+     reservations
+Suffrage:
+     18 years of age, universal and compulsory
+Executive branch:
+chief of state:
+     King ALBERT II (since NA August 1993)
+head of government:
+     Prime Minister Jean-Luc DEHAENE (since 6 March 1992)
+cabinet:
+     Cabinet; the king appoints the ministers who are chosen by the
+     legislature
+Legislative branch:
+     bicameral Parliament
+ 
+ 
+Senate:
+      (Flemish - Senaat, French - Senat); elections last held 24 November
+     1991 (next to be held by November 1996); results - percent of vote by
+     party NA; seats - (184 total; of which 106 are directly elected) CVP
+     20, SP 14, PVV (now VLD) 13, VU 5, AGALEV 5, VB 5, ROSSEN 1, PS 18,
+     PRL 9, PSC 9, ECOLO 6, FDF 1
+Chamber of Representatives:
+      (Flemish - Kamer van Volksvertegenwoordigers, French - Chambre des
+     Representants); elections last held 24 November 1991 (next to be held
+     by November 1996); results - CVP 16.7%, PS 13.6%, SP 12.0%, PVV (now
+     VLD) 11.9%, PRL 8.2%, PSC 7.8%, VB 6.6%, VU 5.9%, ECOLO 5.1%, AGALEV
+     4.9%, FDF 2.6%, ROSSEM 3.2%, FN 1.5%; seats - (212 total) CVP 39, PS
+     35, SP 28, PVV (now VLD) 26, PRL 20, PSC 18, FB 12, VU 10, ECOLO 10,
+     AGALEV 7, FDF 3, ROSSEM 3, FN 1
+Judicial branch:
+     Supreme Court of Justice (Flemish - Hof van Cassatie, French - Cour de
+     Cassation)
+Political parties and leaders:
+     Flemish Social Christian (CVP), Johan van HECKE, president;
+     Francophone Social Christian (PSC), Melchior WATHELET, president;
+     Flemish Socialist (SP), Frank VANDENBROUCKE, president; Francophone
+     Socialist (PS), Philippe BUSQUIN; Flemish Liberals and Democrats
+     (VLD), Guy VERHOFSTADT, president; Francophone Liberal (PRL), Jean
+     GOL, president; Francophone Democratic Front (FDF), Georges CLERFAYT,
+     president; Volksunie (VU), Bert ANCIAUX, president; Communist Party
+     (PCB), Louis VAN GEYT, president; Vlaams Blok (VB), Karel DILLEN,
+     chairman; ROSSEM, Jean Pierre VAN ROSSEM; National Front (FN), Werner
+     van STEEN; AGALEV (Flemish Greens), no president; ECOLO (Francophone
+     Ecologists), no president; other minor parties
+Other political or pressure groups:
+     Christian and Socialist Trade Unions; Federation of Belgian
+     Industries; numerous other associations representing bankers,
+     manufacturers, middle-class artisans, and the legal and medical
+     professions; various organizations represent the cultural interests of
+     Flanders and Wallonia; various peace groups such as the Flemish Action
+     Committee Against Nuclear Weapons and Pax Christi
+Member of:
+     AG (observer), ACCT, AfDB, AsDB, Australian Group, Benelux, BIS, CCC,
+     CE, CERN, COCOM, CSCE, EBRD, EC, ECE, EIB, ESA, FAO, G-9, G-10, GATT,
+     IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IEA, IFAD, IFC, ILO, IMF,
+     IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, LORCS, MINURSO,
+     MTCR, NACC, NATO, NEA, NSG, OAS (observer), OECD, PCA, UN, UNCTAD,
+     UNESCO, UNHCR, UNIDO, UNMOGIP, UNOSOM, UNPROFOR, UNRWA, UNTAC, UNTSO,
+     UPU, WCL, WEU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Juan CASSIERS
+chancery:
+     3330 Garfield Street NW, Washington, DC 20008
+telephone:
+     (202) 333-6900
+FAX:
+     (202) 333-3079
+consulate(s) general:
+     Atlanta, Chicago, Los Angeles, and New York
+ 
+ 
+US diplomatic representation:
+chief of mission:
+     Ambassador Alan J. BLINKEN
+embassy:
+     27 Boulevard du Regent, Brussels
+mailing address:
+     B-1000 Brussels, APO AE 09724
+telephone:
+     [32] (2) 513-3830
+FAX:
+     [32] (2) 511-2725
+Flag:
+     three equal vertical bands of black (hoist side), yellow, and red; the
+     design was based on the flag of France
+ 
+                                  Economy
+ 
+Overview:
+     This small private enterprise economy has capitalized on its central
+     geographic location, highly developed transport network, and
+     diversified industrial and commercial base. Industry is concentrated
+     mainly in the populous Flemish area in the north, although the
+     government is encouraging reinvestment in the southern region of
+     Walloon. With few natural resources Belgium must import substantial
+     quantities of raw materials and export a large volume of manufactures,
+     making its economy unusually dependent on the state of world markets.
+     Three fourths of its trade is with other EC countries. The economy
+     grew at a strong 4% pace during the period 1988-90, but economic
+     growth slowed to a 1% pace in 1991-92 and dropped by 1.5% in 1993.
+     Belgium's public debt has risen to 140% of GDP, and the government is
+     trying to control its expenditures to bring the figure more into line
+     with other industrialized countries.
+National product:
+     GDP - purchasing power equivalent - $177.5 billion (1993)
+National product real growth rate:
+     -1.5% (1993)
+National product per capita:
+     $17,700 (1993)
+Inflation rate (consumer prices):
+     2.8% (1993 est.)
+Unemployment rate:
+     13.5% (March 1994)
+Budget:
+revenues:
+     $97.8 billion
+expenditures:
+     $109.3 billion, including capital expenditures of $NA (1989)
+Exports:
+     $117 billion (f.o.b., 1992) Belgium-Luxembourg Economic Union
+commodities:
+     iron and steel, transportation equipment, tractors, diamonds,
+     petroleum products
+partners:
+     EC 75.5%, US 3.7%, former Communist countries 1.4% (1991)
+ 
+ 
+Imports:
+     $120 billion (c.i.f., 1992) Belgium-Luxembourg Economic Union
+commodities:
+     fuels, grains, chemicals, foodstuffs
+partners:
+     EC 73%, US 4.8%, oil-exporting less developed countries 4%, former
+     Communist countries 1.8% (1991)
+External debt:
+     $31.3 billion (1992 est.)
+Industrial production:
+     growth rate -0.1% (1993 est.); accounts for 25% of GDP
+Electricity:
+capacity:
+     17,500,000 kW
+production:
+     68 billion kWh
+consumption per capita:
+     6,790 kWh (1992)
+Industries:
+     engineering and metal products, motor vehicle assembly, processed food
+     and beverages, chemicals, basic metals, textiles, glass, petroleum,
+     coal
+Agriculture:
+     accounts for 2.0% of GDP; emphasis on livestock production - beef,
+     veal, pork, milk; major crops are sugar beets, fresh vegetables,
+     fruits, grain, tobacco; net importer of farm products
+Illicit drugs:
+     source of precursor chemicals for South American cocaine processors;
+     important gateway country for cocaine entering the European market
+Economic aid:
+donor:
+     ODA and OOF commitments (1970-89), $5.8 billion
+Currency:
+     1 Belgian franc (BF) = 100 centimes
+Exchange rates:
+     Belgian francs (BF) per US$1 - 36.242 (January 1994), 34.597 (1993),
+     32.150 (1992), 34.148 (1991), 33.418 (1990), 39.404 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     Belgian National Railways (SNCB) operates 3,568 km 1.435-meter
+     standard gauge, government owned; 2,563 km double track; 2,207 km
+     electrified
+Highways:
+total:
+     137,876 km
+paved:
+     129,603 km (including 1,631 km of limited access divided highway)
+unpaved:
+     8,273 km (1989)
+Inland waterways:
+     2,043 km (1,528 km in regular commercial use)
+ 
+ 
+Pipelines:
+     crude oil 161 km; petroleum products 1,167 km; natural gas 3,300 km
+Ports:
+     Antwerp, Brugge, Gent, Oostende, Zeebrugge
+Merchant marine:
+     21 ships (1,000 GRT or over) totaling 36,200 GRT/52,039 DWT, bulk 1,
+     cargo 9, chemical tanker 5, liquefied gas 1, oil tanker 5
+Airports:
+total:
+     42
+usable:
+     42
+with permanent-surface runways:
+     24
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     15
+with runways 1,220-2,439 m:
+     3
+Telecommunications:
+     highly developed, technologically advanced, and completely automated
+     domestic and international telephone and telegraph facilities;
+     extensive cable network; limited microwave radio relay network;
+     4,720,000 telephones; broadcast stations - 3 AM, 39 FM, 32 TV; 5
+     submarine cables; 2 satellite earth stations - Atlantic Ocean INTELSAT
+     and EUTELSAT systems; nationwide mobile phone system
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, National Gendarmerie
+Manpower availability:
+     males age 15-49 2,558,109; fit for military service 2,130,172; reach
+     military age (19) annually 61,710 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $3.8 billion, 1.8% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

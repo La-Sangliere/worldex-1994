@@ -1,0 +1,394 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0003
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Algeria
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Algeria 
+ 
+ 
+                                  Algeria
+ 
+ 
+                                 Geography
+ 
+Location:
+     Northern Africa, along the Mediterranean Sea, between Morocco and
+     Tunisia
+Map references:
+     Africa, Europe
+Area:
+total area:
+     2,381,740 sq km
+land area:
+     2,381,740 sq km
+comparative area:
+     slightly less than 3.5 times the size of Texas
+Land boundaries:
+     total 6,343 km, Libya 982 km, Mali 1,376 km, Mauritania 463 km,
+     Morocco 1,559 km, Niger 956 km, Tunisia 965 km, Western Sahara 42 km
+Coastline:
+     998 km
+Maritime claims:
+territorial sea:
+     12 nm
+International disputes:
+     Libya claims part of southeastern Algeria; land boundary dispute with
+     Tunisia settled in 1993
+Climate:
+     arid to semiarid; mild, wet winters with hot, dry summers along coast;
+     drier with cold winters and hot summers on high plateau; sirocco is a
+     hot, dust/sand-laden wind especially common in summer
+Terrain:
+     mostly high plateau and desert; some mountains; narrow, discontinuous
+     coastal plain
+Natural resources:
+     petroleum, natural gas, iron ore, phosphates, uranium, lead, zinc
+Land use:
+arable land:
+     3%
+permanent crops:
+     0%
+meadows and pastures:
+     13%
+forest and woodland:
+     2%
+other:
+     82%
+Irrigated land:
+     3,360 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     soil erosion from overgrazing and other poor farming practices;
+     desertification; dumping of untreated sewage, petroleum refining
+     wastes, and other industrial effluents is leading to the pollution of
+     rivers and coastal waters; Mediterranean Sea, in particular, becoming
+     polluted from oil wastes, soil erosion, and fertilizer runoff; limited
+     supply of potable water
+natural hazards:
+     mountainous areas subject to severe earthquakes
+international agreements:
+     party to - Climate Change, Endangered Species, Environmental
+     Modification, Ozone Layer Protection, Ship Pollution, Wetlands;
+     signed, but not ratified - Biodiversity, Law of the Sea, Nuclear Test
+     Ban
+Note:
+     second-largest country in Africa (after Sudan)
+ 
+                                  People
+ 
+Population:
+     27,895,068 (July 1994 est.)
+Population growth rate:
+     2.29% (1994 est.)
+Birth rate:
+     29.71 births/1,000 population (1994 est.)
+Death rate:
+     6.22 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.58 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     52.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     67.68 years
+male:
+     66.63 years
+female:
+     68.77 years (1994 est.)
+Total fertility rate:
+     3.83 children born/woman (1994 est.)
+Nationality:
+noun:
+     Algerian(s)
+adjective:
+     Algerian
+Ethnic divisions:
+     Arab-Berber 99%, European less than 1%
+Religions:
+     Sunni Muslim (state religion) 99%, Christian and Jewish 1%
+Languages:
+     Arabic (official), French, Berber dialects
+Literacy:
+     age 15 and over can read and write (1990 est.)
+ 
+ 
+total population:
+     57%
+male:
+     70%
+female:
+     46%
+Labor force:
+     6.2 million (1992 est.)
+by occupation:
+     government 29.5%, agriculture 22%, construction and public works
+     16.2%, industry 13.6%, commerce and services 13.5%, transportation and
+     communication 5.2% (1989)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Democratic and Popular Republic of Algeria
+conventional short form:
+local long form:
+     Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Shabiyah
+local short form:
+     Al Jaza'ir
+Digraph:
+     AG
+Type:
+     republic
+Capital:
+     Algiers
+Administrative divisions:
+     48 provinces (wilayast, singular - wilaya); Adrar, Ain Defla, Ain
+     Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Biskra, Blida, Bordj
+     Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djelfa, El
+     Bayadh, El Oued, El Tarf, Ghardaia, Guelma, Illizi, Jijel, Khenchela,
+     Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran,
+     Ouargla, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes,
+     Skikda, Souk Ahras, Tamanghasset, Tebessa, Tiaret, Tindouf, Tipaza,
+     Tissemsilt, Tizi Ouzou, Tlemcen
+Independence:
+     5 July 1962 (from France)
+National holiday:
+     Anniversary of the Revolution, 1 November (1954)
+Constitution:
+     19 November 1976, effective 22 November 1976; revised 3 November 1988
+     and 23 February 1989
+Legal system:
+     socialist, based on French and Islamic law; judicial review of
+     legislative acts in ad hoc Constitutional Council composed of various
+     public officials, including several Supreme Court justices; has not
+     accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+ 
+ 
+Executive branch:
+chief of state:
+     President Lamine ZEROUAL (since 31 January 1994); next election to be
+     held after a three-year transition period which began on 31 January
+     1994
+head of government:
+     Prime Minister Mokdad SIFI (since 11 April 1994)
+cabinet:
+     Council of Ministers; appointed by the prime minister
+Legislative branch:
+     unicameral
+National People's Assembly (Al-Majlis Ech-Chaabi Al-Watani):
+     elections first round held on 26 December 1991 (second round canceled
+     by the military after President BENDJEDID resigned 11 January 1992,
+     effectively suspending the Assembly); results - percent of vote by
+     party NA; seats - (281 total); the fundamentalist FIS won 188 of the
+     231 seats contested in the first round; note - elections (municipal
+     and wilaya) were held in June 1990, the first in Algerian history;
+     results - FIS 55%, FLN 27.5%, other 17.5%, with 65% of the voters
+     participating
+Judicial branch:
+     Supreme Court (Cour Supreme)
+Political parties and leaders:
+     Islamic Salvation Front (FIS, outlawed April 1992), Ali BELHADJ, Dr.
+     Abassi MADANI, Abdelkader HACHANI (all under arrest), Rabeh KEBIR
+     (self-exile in Germany); National Liberation Front (FLN), Abdelhamid
+     MEHRI, Secretary General; Socialist Forces Front (FFS), Hocine Ait
+     AHMED, Secretary General
+note:
+     the government established a multiparty system in September 1989 and,
+     as of 31 December 1990, over 50 legal parties existed
+Member of:
+     ABEDA, AfDB, AFESD, AL, AMF, AMU, CCC, ECA, FAO, G-15, G-19, G-24,
+     G-77, IAEA, IBRD, ICAO, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INMARSAT,
+     INTELSAT, INTERPOL, IOC, ISO, ITU, LORCS, NAM, OAPEC, OAS (observer),
+     OAU, OIC, OPEC, UN, UNAVEM II, UNCTAD, UNESCO, UNHCR, UNIDO, UNTAC,
+     UPU, WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Nourredine Yazid ZERHOUNI
+chancery:
+     2118 Kalorama Road NW, Washington, DC 20008
+telephone:
+     (202) 265-2800
+US diplomatic representation:
+chief of mission:
+     Ambassador Mary Ann CASEY
+embassy:
+     4 Chemin Cheikh Bachir El-Ibrahimi, Algiers
+mailing address:
+     B. P. Box 549, Alger-Gare, 16000 Algiers
+telephone:
+     [213] (2) 601-425, 255, 186
+FAX:
+     [213] (2) 603979
+ 
+ 
+consulate(s):
+     Oran
+Flag:
+     two equal vertical bands of green (hoist side) and white with a red
+     five-pointed star within a red crescent; the crescent, star, and color
+     green are traditional symbols of Islam (the state religion)
+ 
+                                  Economy
+ 
+Overview:
+     The hydrocarbons sector is the backbone of the economy, accounting for
+     roughly 57% of government revenues, 25% of GDP, and almost all export
+     earnings; Algeria has the fifth largest reserves of natural gas in the
+     world and ranks fourteenth for oil. Algiers' efforts to reform one of
+     the most centrally planned economies in the Arab world began after the
+     1986 collapse of world oil prices plunged the country into a severe
+     recession. In 1989, the government launched a comprehensive,
+     IMF-supported program to achieve macroeconomic stabilization and to
+     introduce market mechanisms into the economy. Despite substantial
+     progress toward macroeconomic adjustment, in 1992 the reform drive
+     stalled as Algiers became embroiled in political turmoil. In September
+     1993, a new government was formed, one of whose priorities was the
+     resumption and acceleration of the structural adjustment process.
+     Buffeted by the slump in world oil prices and burdened with a heavy
+     foreign debt, Algiers in 1993 resumed negotiations with the IMF and is
+     on track to conclude a standby arrangement with the Fund in 1994.
+National product:
+     GDP - purchasing power equivalent - $89 billion (1993 est.)
+National product real growth rate:
+     1% (1993 est.)
+National product per capita:
+     $3,300 (1992 est.)
+Inflation rate (consumer prices):
+     22% (1993 est.)
+Unemployment rate:
+     22% (1993 est.)
+Budget:
+revenues:
+     $14.4 billion
+expenditures:
+     $14.6 billion, including capital expenditures of $3.5 billion (1992
+     est.)
+Exports:
+     $11.4 billion (f.o.b., 1993 est.)
+commodities:
+     petroleum and natural gas 97%
+partners:
+     Italy 21%, France 16%, US 14%, Germany 13%, Spain 9%
+Imports:
+     $9 billion (f.o.b., 1993 est.)
+commodities:
+     capital goods 39.7%, food and beverages 21.7%, consumer goods 11.8%
+     (1990)
+partners:
+     France 29%, Italy 14%, Spain 9%, US 9%, Germany 7%
+ 
+ 
+External debt:
+     $26 billion (1994)
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     6,380,000 kW
+production:
+     16.384 billion kWh
+consumption per capita:
+     630 kWh (1992)
+Industries:
+     petroleum, light industries, natural gas, mining, electrical,
+     petrochemical, food processing
+Agriculture:
+     accounts for 12.8% of GDP (1993 est.) and employs 22% of labor force;
+     products- wheat, barley, oats, grapes, olives, citrus, fruits, sheep,
+     cattle; net importer of food - grain, vegetable oil, sugar
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-85), $1.4 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $925
+     million; OPEC bilateral aid (1979-89), $1.8 billion; Communist
+     countries (1970-89), $2.7 billion; net official disbursements
+     (1985-89), $375 million
+Currency:
+     1 Algerian dinar (DA) = 100 centimes
+Exchange rates:
+     Algerian dinars (DA) per US$1 - 36.008 (April 1994), 23.345 (1993),
+     21.836 (1992), 18.473 (1991), 8.958 (1990), 7.6086 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     4,060 km total; 2,616 km standard gauge (1.435 m), 1,188 km
+     1.055-meter gauge, 256 km 1.000-meter gauge; 300 km electrified; 215
+     km double track
+Highways:
+total:
+     90,031 km
+paved:
+     concrete, bituminous 58,868 km
+unpaved:
+     gravel, crushed stone, earth 31,163 km (1990)
+Pipelines:
+     crude oil 6,612 km; petroleum products 298 km; natural gas 2,948 km
+Ports:
+     Algiers, Annaba, Arzew, Bejaia, Djendjene, Ghazaouet, Jijel, Mers el
+     Kebir, Mostaganem, Oran, Skikda
+Merchant marine:
+     75 ships (1,000 GRT or over) totaling 903,179 GRT/1,064,211 DWT, bulk
+     9, cargo 27, chemical tanker 7, liquefied gas 9, oil tanker 5,
+     roll-on/roll-off cargo 12, short-sea passenger 5, specialized tanker 1
+ 
+ 
+Airports:
+total:
+     140
+usable:
+     124
+with permanent-surface runways:
+     53
+with runways over 3,659 m:
+     2
+with runways 2,440-3,659 m:
+     32
+with runways 1,220-2,439 m:
+     65
+Telecommunications:
+     excellent domestic and international service in the north, sparse in
+     the south; 822,000 telephones; broadcast stations - 26 AM, no FM, 18
+     TV; 1,600,000 TV sets; 5,200,000 radios; 5 submarine cables; microwave
+     radio relay to Italy, France, Spain, Morocco, and Tunisia; coaxial
+     cable to Morocco and Tunisia; satellite earth stations - 1 Atlantic
+     Ocean INTELSAT, 1 Indian Ocean INTELSAT, 1 Intersputnik, l ARABSAT,
+     and 12 domestic; 20 additional satellite earth stations are planned
+ 
+                              Defense Forces
+ 
+Branches:
+     National Popular Army, Navy, Air Force, Territorial Air Defense
+Manpower availability:
+     males age 15-49 6,863,378; fit for military service 4,215,767; reach
+     military age (19) annually 301,945 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $1.36 billion, 2.5% of GDP (1993 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

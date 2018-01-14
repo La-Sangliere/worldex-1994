@@ -1,0 +1,412 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0011
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Argentina
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Argentina 
+ 
+ 
+                                 Argentina
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern South America, bordering the South Atlantic Ocean between
+     Chile and Uruguay
+Map references:
+     South America, Standard Time Zones of the World
+Area:
+total area:
+     2,766,890 sq km
+land area:
+     2,736,690 sq km
+comparative area:
+     slightly less than three-tenths the size of the US
+Land boundaries:
+     total 9,665 km, Bolivia 832 km, Brazil 1,224 km, Chile 5,150 km,
+     Paraguay 1,880 km, Uruguay 579 km
+Coastline:
+     4,989 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     not specified
+territorial sea:
+     200 nm; overflight and navigation permitted beyond 12 nm
+International disputes:
+     short section of the boundary with Uruguay is in dispute; short
+     section of the boundary with Chile is indefinite; claims
+     British-administered Falkland Islands (Islas Malvinas); claims
+     British-administered South Georgia and the South Sandwich Islands;
+     territorial claim in Antarctica
+Climate:
+     mostly temperate; arid in southeast; subantarctic in southwest
+Terrain:
+     rich plains of the Pampas in northern half, flat to rolling plateau of
+     Patagonia in south, rugged Andes along western border
+Natural resources:
+     fertile plains of the pampas, lead, zinc, tin, copper, iron ore,
+     manganese, petroleum, uranium
+Land use:
+arable land:
+     9%
+permanent crops:
+     4%
+meadows and pastures:
+     52%
+forest and woodland:
+     22%
+other:
+     13%
+ 
+ 
+Irrigated land:
+     17,600 sq km (1989 est.)
+Environment:
+current issues:
+     erosion results from inadequate flood controls and improper land use
+     practices; irrigated soil degradation; desertification; air pollution
+     in Buenos Aires and other major cites; water pollution in urban areas;
+     rivers becoming polluted due to increased pesticide and fertilizer use
+natural hazards:
+     Tucuman and Mendoza areas in the Andes subject to earthquakes;
+     pamperos are violent windstorms that can strike the Pampas and
+     northeast; heavy flooding
+international agreements:
+     party to - Antarctic-Environmental Protocol, Antarctic Treaty, Climate
+     Change, Endangered Species, Environmental Modification, Hazardous
+     Wastes, Marine Dumping, Nuclear Test Ban, Ozone Layer Protection, Ship
+     Pollution, Whaling; signed, but not ratfied - Biodiversity, Law of the
+     Sea, Marine Life Conservation
+Note:
+     second-largest country in South America (after Brazil); strategic
+     location relative to sea lanes between South Atlantic and South
+     Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage)
+ 
+                                  People
+ 
+Population:
+     33,912,994 (July 1994 est.)
+Population growth rate:
+     1.12% (1994 est.)
+Birth rate:
+     19.62 births/1,000 population (1994 est.)
+Death rate:
+     8.63 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.21 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     29.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     71.35 years
+male:
+     68.06 years
+female:
+     74.81 years (1994 est.)
+Total fertility rate:
+     2.68 children born/woman (1994 est.)
+Nationality:
+noun:
+     Argentine(s)
+adjective:
+     Argentine
+Ethnic divisions:
+     white 85%, mestizo, Indian, or other nonwhite groups 15%
+ 
+ 
+Religions:
+     nominally Roman Catholic 90% (less than 20% practicing), Protestant
+     2%, Jewish 2%, other 6%
+Languages:
+     Spanish (official), English, Italian, German, French
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     95%
+male:
+     96%
+female:
+     95%
+Labor force:
+     10.9 million
+by occupation:
+     agriculture 12%, industry 31%, services 57% (1985 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Argentine Republic
+conventional short form:
+local long form:
+     Republica Argentina
+local short form:
+Digraph:
+     AR
+Type:
+     republic
+Capital:
+     Buenos Aires
+Administrative divisions:
+     23 provinces (provincias, singular - provincia), and 1 federal
+     district* (distrito federal); Buenos Aires; Catamarca; Chaco; Chubut;
+     Cordoba; Corrientes; Distrito Federal*; Entre Rios; Formosa; Jujuy; La
+     Pampa; La Rioja; Mendoza; Misiones; Neuquen; Rio Negro; Salta; San
+     Juan; San Luis; Santa Cruz; Santa Fe; Santiago del Estero; Tierra del
+     Fuego, Antartida e Islas del Atlantico Sur; Tucuman
+note:
+     the US does not recognize any claims to Antarctica or Argentina's
+     claims to the Falkland Islands
+Independence:
+     9 July 1816 (from Spain)
+National holiday:
+     Revolution Day, 25 May (1810)
+Constitution:
+     1 May 1853
+Legal system:
+     mixture of US and West European legal systems; has not accepted
+     compulsory ICJ jurisdiction
+ 
+ 
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President Carlos Saul MENEM (since 8 July 1989); Vice President
+     (position vacant); election last held 14 May 1989 (next to be held
+     summer 1995); results - Carlos Saul MENEM was elected
+cabinet:
+     Cabinet; appointed by the president
+Legislative branch:
+     bicameral National Congress (Congreso Nacional)
+Senate:
+     elections last held May 1989, but provincial elections in late 1991
+     set the stage for indirect elections by provincial senators for
+     one-third of 48 seats in the national senate in May 1992; seats (48
+     total) - PJ 30, UCR 11, others 7
+Chamber of Deputies:
+     elections last held NA October 1993 ( next to be held October 1995);
+     elections are held every two years and half of the total membership is
+     elected each time for four year terms; seats--(257 total) PJ 128, UCR
+     81, MODIN 7, UCD 5, other 36
+Judicial branch:
+     Supreme Court (Corte Suprema)
+Political parties and leaders:
+     Justicialist Party (PJ), Carlos Saul MENEM, Peronist umbrella
+     political organization; Radical Civic Union (UCR),Raul ALFONSIN,
+     moderately left-of-center party; Union of the Democratic Center (UCD),
+     Jorge AGUADO, conservative party; Intransigent Party (PI), Dr. Oscar
+     ALENDE, leftist party; Dignity and Independence Political Party
+     (MODIN), Aldo RICO, right-wing party; Grand Front (Frente Grande),
+     Carlos ALVAREZ, center-left coalition; several provincial parties
+Other political or pressure groups:
+     Peronist-dominated labor movement; General Confederation of Labor
+     (CGT; Peronist-leaning umbrella labor organization); Argentine
+     Industrial Union (manufacturers' association); Argentine Rural Society
+     (large landowners' association); business organizations; students; the
+     Roman Catholic Church; the Armed Forces
+Member of:
+     AG (observer), Australia Group, BCIE, CCC, ECLAC, FAO, G-6, G-11,
+     G-15, G-19, G-24, AfDB, G-77, GATT, IADB, IAEA, IBRD, ICAO, ICC,
+     ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL,
+     IOC, IOM, ISO, ITU, LAES, LAIA, LORCS, MERCOSUR, MINURSO, MTCR, OAS,
+     PCA, RG, UN, UNAVEM II, UNCTAD, UNESCO, UNHCR, UNIDO, UNIKOM, UNOMOZ,
+     UNOSOM, UNPROFOR, UNTAC, UNTSO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Raul Enrique GRANILLO OCAMPO
+chancery:
+     1600 New Hampshire Avenue NW, Washington, DC 20009
+telephone:
+     (202) 939-6400 through 6403
+consulate(s) general:
+     Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York,
+     San Francisco, and San Juan (Puerto Rico)
+ 
+ 
+US diplomatic representation:
+chief of mission:
+     Ambassador James CHEEK (since 28 May 1993)
+embassy:
+     4300 Colombia, 1425 Buenos Aires
+mailing address:
+     APO AA 34034
+telephone:
+     [54] (1) 774-7611, 8811, 9911
+FAX:
+     [54] (1) 775-4205
+Flag:
+     three equal horizontal bands of light blue (top), white, and light
+     blue; centered in the white band is a radiant yellow sun with a human
+     face known as the Sun of May
+ 
+                                  Economy
+ 
+Overview:
+     Argentina is rich in natural resources and has a highly literate
+     population, an export-oriented agricultural sector, and a diversified
+     industrial base. Nevertheless, following decades of mismanagement and
+     statist policies, the economy in the late 1980s was plagued with huge
+     external debts and recurring bouts of hyperinflation. Elected in 1989,
+     in the depths of recession, President MENEM has implemented a
+     comprehensive economic restructuring program that shows signs of
+     putting Argentina on a path of stable, sustainable growth. Argentina's
+     currency has traded at par with the US dollar since April 1991, and
+     inflation has fallen to its lowest level in 20 years. Argentines have
+     responded to the relative price stability by repatriating flight
+     capital and investing in domestic industry. Growth slowed somewhat in
+     1993 but Argentina still registered an impressive 6% advance, fueled
+     largely by inflows of foreign capital and strong domestic consumption
+     spending. The government's major short term objective is encouraging
+     exports, e.g., by reducing domestic costs of production. Much remains
+     to be done in the 1990s in dismantling the old statist barriers to
+     growth and in solidifying the recent economic gains.
+National product:
+     GDP - purchasing power equivalent - $185 billion (1993 est.)
+National product real growth rate:
+     6% (1993 est.)
+National product per capita:
+     $5,500 (1993 est.)
+Inflation rate (consumer prices):
+     7.4% (1993 est.)
+Unemployment rate:
+     10% (1993)
+Budget:
+revenues:
+     $33.1 billion
+expenditures:
+     $35.8 billion, including capital expenditures of $3.5 billion (1992)
+Exports:
+     $12.7 billion (f.o.b., 1993 est.)
+ 
+ 
+commodities:
+     meat, wheat, corn, oilseed, hides, wool
+partners:
+     US 12%, Brazil, Italy, Japan, Netherlands
+Imports:
+     $16 billion (c.i.f., 1993 est.)
+commodities:
+     machinery and equipment, chemicals, metals, fuels and lubricants,
+     agricultural products
+partners:
+     US 22%, Brazil, Germany, Bolivia, Japan, Italy, Netherlands
+External debt:
+     $73 billion (April 1994)
+Industrial production:
+     growth rate 10% (1992 est.); accounts for 31% of GDP
+Electricity:
+capacity:
+     17,911,000 kW
+production:
+     51.305 billion kWh
+consumption per capita:
+     1,559 kWh (1992)
+Industries:
+     food processing, motor vehicles, consumer durables, textiles,
+     chemicals and petrochemicals, printing, metallurgy, steel
+Agriculture:
+     accounts for 8% of GDP (including fishing); produces abundant food for
+     both domestic consumption and exports; among world's top five
+     exporters of grain and beef; principal crops - wheat, corn, sorghum,
+     soybeans, sugar beets
+Illicit drugs:
+     increasing use as a transshipment country for cocaine headed for the
+     US and Europe
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $1 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $4.4
+     billion; Communist countries (1970-89), $718 million
+Currency:
+     1 nuevo peso argentino = 100 centavos
+Exchange rates:
+     pesos per US$1 - 0.99850 (January 1994), 0.99895 (1993), 0.99064
+     (1992), 0.95355 (1991), 0.48759 (1990), 0.04233 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     34,172 km total (includes 209 km electrified); includes a mixture of
+     1.435-meter standard gauge, 1.676-meter broad gauge, 1.000-meter
+     narrow gauge, and 0.750-meter narrow gauge
+Highways:
+total:
+     208,350 km
+ 
+ 
+paved:
+     57,000 km
+unpaved:
+     gravel 39,500 km; improved/unimproved earth 111,850 km
+Inland waterways:
+     11,000 km navigable
+Pipelines:
+     crude oil 4,090 km; petroleum products 2,900 km; natural gas 9,918 km
+Ports:
+     Bahia Blanca, Buenos Aires, Comodoro Rivadavia, La Plata, Rosario,
+     Santa Fe
+Merchant marine:
+     57 ships (1,000 GRT or over) totaling 656,289 GRT/1,008,792 DWT, bulk
+     3, cargo 29, container 4, oil tanker 14, railcar carrier 1,
+     refrigerated cargo 5, roll-on/roll-off cargo 1
+Airports:
+total:
+     1,649
+usable:
+     1,394
+with permanent-surface runways:
+     139
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     31
+with runways 1,220-2,439 m:
+     332
+Telecommunications:
+     extensive modern system but many families do not have telephones;
+     2,650,000 telephones (12,000 public telephones); telephone density 78
+     per 1000 persons; microwave widely used; broadcast stations - 171 AM,
+     no FM, 231 TV, 13 shortwave; 2 Atlantic Ocean INTELSAT earth stations;
+     domestic satellite network has 40 earth stations
+ 
+                              Defense Forces
+ 
+Branches:
+     Argentine Army, Navy of the Argentine Republic, Argentine Air Force,
+     National Gendarmerie, Argentine Naval Prefecture (Coast Guard only),
+     National Aeronautical Police Force
+Manpower availability:
+     males age 15-49 8,417,880; fit for military service 6,825,795; reach
+     military age (20) annually 292,725 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

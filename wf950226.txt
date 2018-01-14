@@ -1,0 +1,386 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0225
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Suriname
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Suriname 
+ 
+ 
+                                 Suriname
+ 
+ 
+                                 Geography
+ 
+Location:
+     Northern South America, bordering the North Atlantic Ocean between
+     French Guiana and Guyana
+Map references:
+     South America, Standard Time Zones of the World
+Area:
+total area:
+     163,270 sq km
+land area:
+     161,470 sq km
+comparative area:
+     slightly larger than Georgia
+Land boundaries:
+     total 1,707 km, Brazil 597 km, French Guiana 510 km, Guyana 600 km
+Coastline:
+     386 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     claims area in French Guiana between Litani Rivier and Riviere
+     Marouini (both headwaters of the Lawa Rivier); claims area in Guyana
+     between New (Upper Courantyne) and Courantyne/Koetari Rivers (all
+     headwaters of the Courantyne)
+Climate:
+     tropical; moderated by trade winds
+Terrain:
+     mostly rolling hills; narrow coastal plain with swamps
+Natural resources:
+     timber, hydropower potential, fish, shrimp, bauxite, iron ore, and
+     small amounts of nickel, copper, platinum, gold
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     97%
+other:
+     3%
+Irrigated land:
+     590 sq km (1989 est.)
+Environment:
+current issues:
+     NA
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     party to - Endangered Species, Marine Dumping, Nuclear Test Ban, Ship
+     Pollution, Wetlands; signed, but not ratified - Biodiversity, Climate
+     Change, Law of the Sea
+Note:
+     mostly tropical rain forest; great diversity of flora and fauna which
+     for the most part is not threatened because of the lack of
+     development; relatively small population most of which lives along the
+     coast
+ 
+                                  People
+ 
+Population:
+     422,840 (July 1994 est.)
+Population growth rate:
+     1.57% (1994 est.)
+Birth rate:
+     25.31 births/1,000 population (1994 est.)
+Death rate:
+     6 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -3.66 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     31.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     69.45 years
+male:
+     66.94 years
+female:
+     72.08 years (1994 est.)
+Total fertility rate:
+     2.79 children born/woman (1994 est.)
+Nationality:
+noun:
+     Surinamer(s)
+adjective:
+     Surinamese
+Ethnic divisions:
+     Hindustani (East Indian) 37%, Creole (black and mixed) 31%, Javanese
+     15.3%, Bush black 10.3%, Amerindian 2.6%, Chinese 1.7%, Europeans 1%,
+     other 1.1%
+Religions:
+     Hindu 27.4%, Muslim 19.6%, Roman Catholic 22.8%, Protestant 25.2%
+     (predominantly Moravian), indigenous beliefs 5%
+Languages:
+     Dutch (official), English widely spoken, Sranan Tongo (Surinamese,
+     sometimes called Taki-Taki) is native language of Creoles and much of
+     the younger population and is lingua franca among others, Hindi
+     Suriname Hindustani (a variant of Bhoqpuri), Javanese
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     95%
+ 
+ 
+male:
+     95%
+female:
+     95%
+Labor force:
+     104,000 (1984)
+by occupation:
+     NA
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Suriname
+conventional short form:
+local long form:
+     Republiek Suriname
+local short form:
+former:
+     Netherlands Guiana, Dutch Guiana
+Digraph:
+     NS
+Type:
+     republic
+Capital:
+     Paramaribo
+Administrative divisions:
+     10 districts (distrikten, singular - distrikt); Brokopondo,
+     Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca,
+     Sipaliwini, Wanica
+Independence:
+     25 November 1975 (from Netherlands)
+National holiday:
+     Independence Day, 25 November (1975)
+Constitution:
+     ratified 30 September 1987
+Legal system:
+     NA
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President Ronald R. VENETIAAN (since 16 September 1991); Vice
+     President and Prime Minister Jules R. AJODHIA (since 16 September
+     1991); election last held 6 September 1991 (next to be held NA May
+     1996); results - elected by the National Assembly - Ronald VENETIAAN
+     (NF) 80% (645 votes), Jules WIJDENBOSCH (NDP) 14% (115 votes), Hans
+     PRADE (DA '91) 6% (49 votes)
+cabinet:
+     Cabinet of Ministers; appointed by the president from members of the
+     National Assembly
+note:
+     Commander in Chief of the National Army maintains significant power
+ 
+ 
+Legislative branch:
+     unicameral
+National Assembly (Assemblee Nationale):
+     elections last held 25 May 1991 (next to be held NA May 1996); results
+     - percent of vote NA; seats - (51 total) NF 30, NDP 10, DA '91 9,
+     Independent 2
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     The New Front (NF), a coalition of four parties (NPS, VHP, KTPI, SPA),
+     leader Ronald R. VENETIAAN; Progressive Reform Party (VHP), Jaggernath
+     LACHMON; National Party of Suriname (NPS), Ronald VENETIAAN; Party of
+     National Unity and Solidarity (KTPI), Willy SOEMITA; Suriname Labor
+     Party (SPA) Fred DERBY; Democratic Alternative '91 (DA '91), Winston
+     JESSURUN, a coalition of four parties (AF, HPP, Pendawa Lima, BEP)
+     formed in January 1991; Alternative Forum (AF), Gerard BRUNINGS,
+     Winston JESSURUN; Reformed Progressive Party (HPP), Panalal PARMESSAR;
+     Party for Brotherhood and Unity in Politics (BEP), Caprino ALLENDY;
+     Pendawa Lima, Marsha JAMIN; National Democratic Party (NDP), Desire
+     BOUTERSE; Progressive Workers' and Farm Laborers' Union (PALU), Ir
+     Iwan KROLIS, chairman;
+Other political or pressure groups:
+     Surinamese Liberation Army (SLA), Ronnie BRUNSWIJK, Johan "Castro"
+     WALLY; Union for Liberation and Democracy, Kofi AFONGPONG; Mandela
+     Bushnegro Liberation Movement, Leendert ADAMS; Tucayana Amazonica,
+     Alex JUBITANA, Thomas SABAJO
+Member of:
+     ACP, CARICOM (observer), ECLAC, FAO, GATT, G-77, IADB, IBRD, ICAO,
+     ICFTU, IFAD, ILO, IMF, IMO, INTERPOL, IOC, INTELSAT (nonsignatory
+     user), ITU, LAES, LORCS, NAM, OAS, OPANAL, UN, UNCTAD, UNESCO, UNIDO,
+     UPU, WCL, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Willem A. UDENHOUT
+chancery:
+     Suite 108, 4301 Connecticut Avenue NW, Washington, DC 20008
+telephone:
+     (202) 244-7488 or 7490 through 7492
+FAX:
+     (202) 244-5878
+consulate(s) general:
+     Miami
+US diplomatic representation:
+chief of mission:
+     Ambassador Roger R. GAMBLE
+embassy:
+     Dr. Sophie Redmonstraat 129, Paramaribo
+mailing address:
+     P. O. Box 1821, Paramaribo
+telephone:
+     [597] 472900, 477881, or 476459
+FAX:
+     [597] 410025
+ 
+ 
+Flag:
+     five horizontal bands of green (top, double width), white, red
+     (quadruple width), white, and green (double width); there is a large
+     yellow five-pointed star centered in the red band
+ 
+                                  Economy
+ 
+Overview:
+     The economy is dominated by the bauxite industry, which accounts for
+     15% of GDP and about 70% of export earnings. The economy has been in
+     trouble since the Dutch ended development aid in 1982. A drop in world
+     bauxite prices which started in the late 1970s and continued until
+     late 1986 was followed by the outbreak of a guerrilla insurgency in
+     the interior that crippled the important bauxite sector. Although the
+     insurgency has since ebbed and the bauxite sector recovered,
+     Paramaribo has failed to initiate the economic reforms necessary to
+     stabilize the economy or win renewed Dutch aid disbursements. High
+     inflation, high unemployment, widespread black market activity, and
+     hard currency shortfalls continue to mark the economy.
+National product:
+     GDP - purchasing power equivalent - $1.17 billion (1993 est.)
+National product real growth rate:
+     -0.3% (1993 est.)
+National product per capita:
+     $2,800 (1993 est.)
+Inflation rate (consumer prices):
+     109% (1993 est.)
+Unemployment rate:
+     16.5% (1990)
+Budget:
+revenues:
+     $466 million
+expenditures:
+     $716 million, including capital expenditures of $123 million (1989
+     est.)
+Exports:
+     $290 million (f.o.b., 1993 est.)
+commodities:
+     alumina, aluminum, shrimp and fish, rice, bananas
+partners:
+     Norway 33%, Netherlands 26%, US 13%, Japan 6%, Brazil 6%, UK 3% (1992)
+Imports:
+     $250 million (f.o.b., 1993 est.)
+commodities:
+     capital equipment, petroleum, foodstuffs, cotton, consumer goods
+partners:
+     US 42%, Netherlands 22%, Trinidad and Tobago 10%, Brazil 5% (1992)
+External debt:
+     $180 million (March 1993 est.)
+Industrial production:
+     growth rate -5% (1991 est.); accounts for 27% of GDP
+Electricity:
+capacity:
+     458,000 kW
+ 
+ 
+production:
+     2.018 billion kWh
+consumption per capita:
+     4,920 kWh (1992)
+Industries:
+     bauxite mining, alumina and aluminum production, lumbering, food
+     processing, fishing
+Agriculture:
+     accounts for 10.4% of GDP and 25% of export earnings; paddy rice
+     planted on 85% of arable land and represents 60% of total farm output;
+     other products - bananas, palm kernels, coconuts, plantains, peanuts,
+     beef, chicken; shrimp and forestry products of increasing importance;
+     self-sufficient in most foods
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-83), $2.5 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $1.5
+     billion
+Currency:
+     1 Surinamese guilder, gulden, or florin (Sf.) = 100 cents
+Exchange rates:
+     Surinamese guilders, gulden, or florins (Sf.) per US$1 - 1.7850 (fixed
+     rate); parallel rate 109 (January 1994)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     166 km total; 86 km 1.000-meter gauge, government owned, and 80 km
+     1.435-meter standard gauge; all single track
+Highways:
+total:
+     8,300 km
+paved:
+     500 km
+unpaved:
+     bauxite, gravel, crushed stone, improved earth 5,400 km; sand, clay
+     2,400 km
+Inland waterways:
+     1,200 km; most important means of transport; oceangoing vessels with
+     drafts ranging up to 7 m can navigate many of the principal waterways
+Ports:
+     Paramaribo, Moengo, Nieuw Nickerie
+Merchant marine:
+     3 ships (1,000 GRT or over) totaling 6,472 GRT/8,914 DWT, cargo 2,
+     container 1
+Airports:
+total:
+     46
+usable:
+     38
+with permanent-surface runways:
+     5
+ 
+ 
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     3
+Telecommunications:
+     international facilities good; domestic microwave system; 27,500
+     telephones; broadcast stations - 5 AM, 14 FM, 6 TV, 1 shortwave; 2
+     Atlantic Ocean INTELSAT earth stations
+ 
+                              Defense Forces
+ 
+Branches:
+     National Army (including Navy which is company-size, small Air Force
+     element), Civil Police
+Manpower availability:
+     males age 15-49 113,963; fit for military service 67,648
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

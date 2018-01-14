@@ -1,0 +1,147 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0021
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Baker Island
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Baker Island 
+ 
+ 
+                               Baker Island
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of the US)
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Micronesia, in the North Pacific Ocean, just north of the
+     Equator, 2,575 km southwest of Honolulu, about halfway between Hawaii
+     and Australia
+Map references:
+     Oceania
+Area:
+total area:
+     1.4 sq km
+land area:
+     1.4 sq km
+comparative area:
+     about 2.3 times the size of The Mall in Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     4.8 km
+Maritime claims:
+contiguous zone:
+     12 nm
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     equatorial; scant rainfall, constant wind, burning sun
+Terrain:
+     low, nearly level coral island surrounded by a narrow fringing reef
+Natural resources:
+     guano (deposits worked until 1891)
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100%
+Irrigated land:
+     0 sq km
+ 
+ 
+Environment:
+current issues:
+     lacks fresh water
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     treeless, sparse, and scattered vegetation consisting of grasses,
+     prostrate vines, and low growing shrubs; primarily a nesting,
+     roosting, and foraging habitat for seabirds, shorebirds, and marine
+     wildlife
+ 
+                                  People
+ 
+Population:
+     uninhabited; note - American civilians evacuated in 1942 after
+     Japanese air and naval attacks during World War II; occupied by US
+     military during World War II, but abandoned after the war; public
+     entry is by special-use permit only and generally restricted to
+     scientists and educators; a cemetery and cemetery ruins are located
+     near the middle of the west coast
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     FQ
+Type:
+     unincorporated territory of the US administered by the Fish and
+     Wildlife Service of the US Department of the Interior as part of the
+     National Wildlife Refuge system
+Capital:
+     none; administered from Washington, DC
+ 
+                                  Economy
+ 
+Overview:
+     no economic activity
+ 
+                              Communications
+ 
+Ports:
+     none; offshore anchorage only, one boat landing area along the middle
+     of the west coast
+Airports:
+     1 abandoned World War II runway of 1,665 m
+Note:
+     there is a day beacon near the middle of the west coast
+ 
+ 
+                              Defense Forces
+ 
+     defense is the responsibility of the US; visited annually by the US
+     Coast Guard
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

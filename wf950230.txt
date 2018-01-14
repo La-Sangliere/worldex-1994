@@ -1,0 +1,415 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0229
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Switzerland
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Switzerland 
+ 
+ 
+                                Switzerland
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Europe, between France and Austria
+Map references:
+     Europe, Standard Time Zones of the World
+Area:
+total area:
+     41,290 sq km
+land area:
+     39,770 sq km
+comparative area:
+     slightly more than twice the size of New Jersey
+Land boundaries:
+     total 1,852 km, Austria 164 km, France 573 km, Italy 740 km,
+     Liechtenstein 41 km, Germany 334 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     temperate, but varies with altitude; cold, cloudy, rainy/snowy
+     winters; cool to warm, cloudy, humid summers with occasional showers
+Terrain:
+     mostly mountains (Alps in south, Jura in northwest) with a central
+     plateau of rolling hills, plains, and large lakes
+Natural resources:
+     hydropower potential, timber, salt
+Land use:
+arable land:
+     10%
+permanent crops:
+     1%
+meadows and pastures:
+     40%
+forest and woodland:
+     26%
+other:
+     23%
+Irrigated land:
+     250 sq km (1989)
+Environment:
+current issues:
+     air pollution from vehicle emissions and open air burning; acid rain;
+     water pollution from increased use of agricultural fertilizers; loss
+     of biodiversity
+natural hazards:
+     subject to avalanches, landslides, flash floods
+ 
+ 
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Air Pollution-Volatile Organic Compounds, Antarctic
+     Treaty, Climate Change, Endangered Species, Environmental
+     Modification, Hazardous Wastes, Marine Dumping, Marine Life
+     Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship
+     Pollution, Tropical Timber, Wetlands, Whaling; signed, but not
+     ratified - Antarctic-Environmental Protocol, Biodiversity, Law of the
+     Sea
+Note:
+     landlocked; crossroads of northern and southern Europe; along with
+     southeastern France and northern Italy, contains the highest
+     elevations in Europe
+ 
+                                  People
+ 
+Population:
+     7,040,119 (July 1994 est.)
+Population growth rate:
+     0.7% (1994 est.)
+Birth rate:
+     12.23 births/1,000 population (1994 est.)
+Death rate:
+     9.2 deaths/1,000 population (1994 est.)
+Net migration rate:
+     3.97 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     6.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     78.17 years
+male:
+     74.8 years
+female:
+     81.71 years (1994 est.)
+Total fertility rate:
+     1.6 children born/woman (1994 est.)
+Nationality:
+noun:
+     Swiss (singular and plural)
+adjective:
+     Swiss
+Ethnic divisions:
+total population:
+     German 65%, French 18%, Italian 10%, Romansch 1%, other 6%
+Swiss nationals:
+     German 74%, French 20%, Italian 4%, Romansch 1%, other 1%
+Religions:
+     Roman Catholic 47.6%, Protestant 44.3%, other 8.1% (1980)
+Languages:
+     German 65%, French 18%, Italian 12%, Romansch 1%, other 4%
+note:
+     figures for Swiss nationals only -
+     German 74%, French 20%, Italian 4%, Romansch 1%, other 1%
+ 
+ 
+Literacy:
+     age 15 and over can read and write (1980 est.)
+total population:
+     99%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     3.31 million (904,095 foreign workers, mostly Italian)
+by occupation:
+     services 50%, industry and crafts 33%, government 10%, agriculture and
+     forestry 6%, other 1% (1989)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Swiss Confederation
+conventional short form:
+local long form:
+     Schweizerische Eidgenossenschaft (German) Confederation Suisse
+     (French)  Confederazione Svizzera (Italian)
+local short form:
+     Schweiz (German) Suisse (French)  Svizzera (Italian)
+Digraph:
+     SZ
+Type:
+     federal republic
+Capital:
+     Bern
+Administrative divisions:
+     26 cantons (cantons, singular - canton in French; cantoni, singular -
+     cantone in Italian; kantone, singular - kanton in German); Aargau,
+     Ausser-Rhoden, Basel-Landschaft, Basel-Stadt, Bern, Fribourg, Geneve,
+     Glarus, Graubunden, Inner-Rhoden, Jura, Luzern, Neuchatel, Nidwalden,
+     Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau,
+     Ticino, Uri, Valais, Vaud, Zug, Zurich
+Independence:
+     1 August 1291
+National holiday:
+     Anniversary of the Founding of the Swiss Confederation, 1 August
+     (1291)
+Constitution:
+     29 May 1874
+Legal system:
+     civil law system influenced by customary law; judicial review of
+     legislative acts, except with respect to federal decrees of general
+     obligatory character; accepts compulsory ICJ jurisdiction, with
+     reservations
+Suffrage:
+     18 years of age; universal
+ 
+ 
+Executive branch:
+chief of state and head of government:
+     President Otto STICH (1994 calendar year; presidency rotates
+     annually); Vice President Kaspar VILLIGER (term runs concurrently with
+     that of president)
+cabinet:
+     Federal Council (German - Bundesrat, French - Censeil Federal, Italian
+     - Consiglio Federale); elected by the Federal Assembly from own
+     members
+Legislative branch:
+     bicameral Federal Assembly (German - Bundesversammlung, French -
+     Assemblee Federale, Italian - Assemblea Federale)
+Council of States:
+     (German - Standerat, French - Conseil des Etats, Italian - Consiglio
+     degli Stati) elections last held throughout 1991 (next to be held NA
+     1995); results - percent of vote by party NA; seats - (46 total) FDP
+     18, CVP 16, SVP 4, SPS 3, LPS 3, LdU 1, Ticino League 1
+National Council:
+     (German - Nationalrat, French - Conseil National, Italian - Consiglio
+     Nazionale) elections last held 20 October 1991 (next to be held NA
+     October 1995); results - percent of vote by party NA; seats - (200
+     total) FDP 44, SPS 42, CVP 37, SVP 25, GPS 14, LPS 10, AP 8, LdU 6, SD
+     5, EVP 3, PdA 2, Ticino League 2, other 2
+Judicial branch:
+     Federal Supreme Court
+Political parties and leaders:
+     Free Democratic Party (FDP), Bruno HUNZIKER, president; Social
+     Democratic Party (SPS), Helmut HUBACHER, chairman; Christian
+     Democratic People's Party (CVP), Eva SEGMULLER-WEBER, chairman; Swiss
+     People's Party (SVP), Hans UHLMANN, president; Green Party (GPS),
+     Peter SCHMID, president; Automobile Party (AP), DREYER; Alliance of
+     Independents' Party (LdU), Dr. Franz JAEGER, president; Swiss
+     Democratic Party (SD), NA; Evangelical People's Party (EVP), Max
+     DUNKI, president; Workers' Party (PdA; Communist), Jean SPIELMANN,
+     general secretary; Ticino League, leader NA; Liberal Party (LPS),
+     Gilbert COUTAU, president
+Member of:
+     AfDB, AG (observer), AsDB, Australian Group, BIS, CCC, CE, CERN, COCOM
+     (cooperating), CSCE, EBRD, ECE, EFTA, ESA, FAO, G-8, G-10, GATT, IADB,
+     IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IEA, IFAD, IFC, ILO, IMF, IMO,
+     INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, LORCS, MINURSO,
+     MTRC, NAM (guest), NEA, NSG, OAS (observer), OECD, PCA, UN (observer),
+     UNCTAD, UNESCO, UNHCR, UNIDO, UNOMIG, UNPROFOR, UNTSO, UPU, WCL, WHO,
+     WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Carlo JAGMETTI
+chancery:
+     2900 Cathedral Avenue NW, Washington, DC 20008
+telephone:
+     (202) 745-7900
+FAX:
+     (202) 387-2564
+consulate(s) general:
+     Atlanta, Chicago, Houston, Los Angeles, New York, and San Francisco
+ 
+ 
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge d'Affaires Michael C. POLT
+embassy:
+     Jubilaeumstrasse 93, 3005 Bern
+mailing address:
+     use embassy street address
+telephone:
+     [41] (31) 357-7011
+FAX:
+     [41] (31) 357-7344
+branch office:
+     Geneva
+consulate(s) general:
+     Zurich
+Flag:
+     red square with a bold, equilateral white cross in the center that
+     does not extend to the edges of the flag
+ 
+                                  Economy
+ 
+Overview:
+     Switzerland's economy - one of the most prosperous and stable in the
+     world - is nonetheless undergoing a painful adjustment after both the
+     inflationary boom of the late-1980s and the electorate's rejection of
+     membership in the European Economic Area in 1992. The Swiss finally
+     emerged from a three-year recession in mid-1993 and posted a -0.6% GDP
+     growth for the year. After a three-year struggle with inflation, the
+     Swiss central bank's tight monetary policies have begun to pay off.
+     Inflation slowed to 3.3% in 1993 from about 4% in 1992 and is expected
+     to slow down further to 1.5% in 1994. Unemployment, however, will
+     continue to be a problem over the near term. Swiss unemployment
+     reached 5.1% in 1993 and will likely remain at that level through 1994
+     before declining in 1995. The voters' rejection of a referendum on
+     membership in the EEA, which was supported by most political,
+     business, and financial leaders has raised doubts that the country can
+     maintain its preeminent prosperity and leadership in commercial
+     banking in the twenty-first century. Despite these problems, Swiss per
+     capita output, general living standards, education and science, health
+     care, and diet remain unsurpassed in Europe. The country has few
+     natural resources except for the scenic natural beauty that has made
+     it a world leader in tourism. Management-labor relations remain
+     generally harmonious.
+National product:
+     GDP - purchasing power equivalent - $149.1 billion (1993)
+National product real growth rate:
+     -0.6% (1993)
+National product per capita:
+     $21,300 (1993)
+Inflation rate (consumer prices):
+     3.3% (1993 est.)
+Unemployment rate:
+     5.1% (1993 est.)
+ 
+ 
+Budget:
+revenues:
+     $23.7 billion
+expenditures:
+     $26.9 billion, including capital expenditures of $NA (1993 est.)
+Exports:
+     $63 billion (f.o.b., 1993)
+commodities:
+     machinery and equipment, precision instruments, metal products,
+     foodstuffs, textiles and clothing
+partners:
+     Western Europe 63.1% (EC countries 56%, other 7.1%), US 8.8%, Japan
+     3.4%
+Imports:
+     $60.7 billion (c.i.f., 1993)
+commodities:
+     agricultural products, machinery and transportation equipment,
+     chemicals, textiles, construction materials
+partners:
+     Western Europe 79.2% (EC countries 72.3%, other 6.9%), US 6.4%
+External debt:
+     $NA
+Industrial production:
+     growth rate 0% (1993 est.)
+Electricity:
+capacity:
+     17,710,000 kW
+production:
+     56 billion kWh
+consumption per capita:
+     8,200 kWh (1992)
+Industries:
+     machinery, chemicals, watches, textiles, precision instruments
+Agriculture:
+     dairy farming predominates; less than 50% self-sufficient in food;
+     must import fish, refined sugar, fats and oils (other than butter),
+     grains, eggs, fruits, vegetables, meat
+Illicit drugs:
+     money-laundering center
+Economic aid:
+donor:
+     ODA and OOF commitments (1970-89), $3.5 billion
+Currency:
+     1 Swiss franc, franken, or franco (SwF) = 100 centimes, rappen, or
+     centesimi
+Exchange rates:
+     Swiss francs, franken, or franchi (SwF) per US$1 - 1.715 (January
+     1994), 1.4776 (1993), 1.4062 (1992), 1.4340 (1991), 1.3892 (1990),
+     1.6359 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+ 
+Railroads:
+     4,418 km total; 3,073 km are government owned and 1,345 km are
+     nongovernment owned; the government network consists of 2,999 km
+     1.435-meter standard gauge and 74 km 1.000-meter narrow gauge track;
+     1,432 km double track, 99% electrified; the nongovernment network
+     consists of 510 km 1.435-meter standard gauge, and 835 km 1.000-meter
+     gauge, 100% electrified
+Highways:
+total:
+     71,106 km
+paved:
+     71,106 km (including 1,502 km of expressways)
+Inland waterways:
+     65 km; Rhine (Basel to Rheinfelden, Schaffhausen to Bodensee); 12
+     navigable lakes
+Pipelines:
+     crude oil 314 km; natural gas 1,506 km
+Ports:
+     Basel (river port)
+Merchant marine:
+     23 ships (1,000 GRT or over) totaling 337,455 GRT/592,213 DWT, bulk
+     10, cargo 4, chemical tanker 5, oil tanker 1, roll-on/roll-off cargo
+     2, specialized tanker 1
+Airports:
+total:
+     70
+usable:
+     69
+with permanent-surface runways:
+     42
+with runways over 3,659 m:
+     3
+with runways 2,440-3,659 m:
+     4
+with runways 1,220-2,439 m:
+     18
+Telecommunications:
+     excellent domestic, international, and broadcast services; 5,890,000
+     telephones; extensive cable and microwave networks; broadcast stations
+     - 7 AM, 265 FM, 18 (1,322 repeaters) TV; communications satellite
+     earth station operating in the INTELSAT (Atlantic Ocean and Indian
+     Ocean) system
+ 
+                              Defense Forces
+ 
+Branches:
+     Army (Air Force is part of the Army), Frontier Guards, Fortification
+     Guards
+Manpower availability:
+     males age 15-49 1,853,075; fit for military service 1,589,288; reach
+     military age (20) annually 43,005 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $3.4 billion, 1.7% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

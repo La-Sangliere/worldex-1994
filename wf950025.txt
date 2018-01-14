@@ -1,0 +1,133 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0024
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Bassas da India
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Bassas da India 
+ 
+ 
+                              Bassas da India
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (possession of France)
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, in the southern Mozambique Channel about halfway
+     between Madagascar and Mozambique
+Map references:
+     Africa
+Area:
+total area:
+     NA km2
+land area:
+     NA km2
+comparative area:
+     NA
+Land boundaries:
+     0 km
+Coastline:
+     35.2 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     claimed by Madagascar
+Climate:
+     tropical
+Terrain:
+     a volcanic rock 2.4 meters high
+Natural resources:
+     none
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100% (all rock)
+Irrigated land:
+     0 sq km
+ 
+ 
+Environment:
+current issues:
+     NA
+natural hazards:
+     surrounded by reefs; subject to periodic cyclones
+international agreements:
+     NA
+Note:
+     navigational hazard since it is usually under water during high tide
+ 
+                                  People
+ 
+Population:
+     uninhabited
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     BS
+Type:
+     French possession administered by a Commissioner of the Republic,
+     resident in Reunion
+Capital:
+     none; administered by France from Reunion
+Independence:
+     none (possession of France)
+ 
+                                  Economy
+ 
+Overview:
+     no economic activity
+ 
+                              Communications
+ 
+Ports:
+     none; offshore anchorage only
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of France
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

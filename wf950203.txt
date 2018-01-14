@@ -1,0 +1,313 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0202
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Saint Helena
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Saint Helena 
+ 
+ 
+                               Saint Helena
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (dependent territory of the UK)
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, in the South Atlantic Ocean, 1,920 km west of Angola,
+     about two-thirds of the way between South America and Africa
+Map references:
+     Africa
+Area:
+total area:
+     410 sq km
+land area:
+     410 sq km
+comparative area:
+     slightly more than 2.3 times the size of Washington, DC
+note:
+     includes Ascension, Gough Island, Inaccessible Island, Nightingale
+     Island, and Tristan da Cunha
+Land boundaries:
+     0 km
+Coastline:
+     60 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; marine; mild, tempered by trade winds
+Terrain:
+     rugged, volcanic; small scattered plateaus and plains
+Natural resources:
+     fish; Ascension is a breeding ground for sea turtles and sooty terns,
+     no minerals
+Land use:
+arable land:
+     7%
+permanent crops:
+     0%
+meadows and pastures:
+     7%
+forest and woodland:
+     3%
+other:
+     83%
+Irrigated land:
+     NA sq km
+ 
+ 
+Environment:
+current issues:
+     NA
+natural hazards:
+     active volcanism on Tristan da Cunha
+international agreements:
+     NA
+Note:
+     Napoleon Bonaparte's place of exile and burial (the remains were taken
+     to Paris in 1840); harbors at least 40 species of plants unknown
+     anywhere else in the world
+ 
+                                  People
+ 
+Population:
+     6,741 (July 1994 est.)
+Population growth rate:
+     0.31% (1994 est.)
+Birth rate:
+     9.64 births/1,000 population (1994 est.)
+Death rate:
+     6.55 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     37.24 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     74.75 years
+male:
+     72.68 years
+female:
+     76.58 years (1994 est.)
+Total fertility rate:
+     1.14 children born/woman (1994 est.)
+Nationality:
+noun:
+     Saint Helenian(s)
+adjective:
+     Saint Helenian
+Ethnic divisions:
+     NA
+Religions:
+     Anglican (majority), Baptist, Seventh-Day Adventist, Roman Catholic
+Languages:
+     English
+Literacy:
+     age 15 and over can read and write (1987)
+total population:
+     98%
+male:
+     97%
+female:
+     98%
+ 
+ 
+Labor force:
+     2,516
+by occupation:
+     professional, technical, and related workers 8.7%, managerial,
+     administrative, and clerical 12.8%, sales people 8.1%, farmer,
+     fishermen, etc. 5.4%, craftspersons, production process workers 14.7%,
+     others 50.3% (1987)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     SH
+Type:
+     dependent territory of the UK
+Capital:
+     Jamestown
+Administrative divisions:
+     1 administrative area and 2 dependencies*; Ascension*, Saint Helena,
+     Tristan da Cunha*
+Independence:
+     none (dependent territory of the UK)
+National holiday:
+     Celebration of the Birthday of the Queen, 10 June 1989 (second
+     Saturday in June)
+Constitution:
+     1 January 1989
+Legal system:
+     NA
+Suffrage:
+     NA
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952)
+head of government:
+     Governor A. N. HOOLE (since NA)
+cabinet:
+     Executive Council
+Legislative branch:
+     unicameral
+Legislative Council:
+     elections last held October 1984 (next to be held NA); results -
+     percent of vote by party NA; seats - (15 total, 12 elected) number of
+     seats by party NA
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Saint Helena Labor Party; Saint Helena Progressive Party
+note:
+     both political parties inactive since 1976
+ 
+ 
+Member of:
+     ICFTU
+Diplomatic representation in US:
+     none (dependent territory of the UK)
+US diplomatic representation:
+     none (dependent territory of the UK)
+Flag:
+     blue with the flag of the UK in the upper hoist-side quadrant and the
+     Saint Helenian shield centered on the outer half of the flag; the
+     shield features a rocky coastline and three-masted sailing ship
+ 
+                                  Economy
+ 
+Overview:
+     The economy depends primarily on financial assistance from the UK. The
+     local population earns some income from fishing, the raising of
+     livestock, and sales of handicrafts. Because there are few jobs, a
+     large proportion of the work force has left to seek employment
+     overseas.
+National product:
+     GDP $NA
+National product real growth rate:
+     NA%
+National product per capita:
+     $NA
+Inflation rate (consumer prices):
+     -1.1% (1986)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $3.2 million
+expenditures:
+     $2.9 million, including capital expenditures of $NA (1984 est.)
+Exports:
+     $23,900 (f.o.b., 1984)
+commodities:
+     fish (frozen and salt-dried skipjack, tuna), handicrafts
+partners:
+     South Africa, UK
+Imports:
+     $2.4 million (c.i.f., 1984)
+commodities:
+     food, beverages, tobacco, fuel oils, animal feed, building materials,
+     motor vehicles and parts, machinery and parts
+partners:
+     UK, South Africa
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     9,800 kW
+ 
+ 
+production:
+     10 million kWh
+consumption per capita:
+     1,390 kWh (1989)
+Industries:
+     crafts (furniture, lacework, fancy woodwork), fishing
+Agriculture:
+     maize, potatoes, vegetables; timber production being developed;
+     crawfishing on Tristan da Cunha
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1992-93), $13.5 million
+Currency:
+     1 Saint Helenian pound (#S) = 100 pence
+Exchange rates:
+     Saint Helenian pounds (#S) per US$1 - 0.6699 (January 1994), 0.6033
+     (1993), 0.5664 (1992), 0.5652 (1991), 0.5603 (1990), 0.6099 (1989);
+     note - the Saint Helenian pound is at par with the British pound
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA (mainland 107 km, Ascension NA, Tristan da Cunha NA)
+paved:
+     169.7 km (mainland 87 km, Ascension 80 km, Tristan da Cunha 2.70 km)
+unpaved:
+     NA (mainland 20 km earth roads, Ascension NA, Tristan da Cunha NA)
+Ports:
+     Jamestown (Saint Helena), Georgetown (Ascension)
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     1,500 radio receivers; broadcast stations - 1 AM, no FM, no TV; 550
+     telephones in automatic network; HF radio links to Ascension, then
+     into worldwide submarine cable and satellite networks; major coaxial
+     submarine cable relay point between South Africa, Portugal, and UK at
+     Ascension; 2 Atlantic Ocean INTELSAT earth stations
+ 
+                              Defense Forces
+ 
+ 
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

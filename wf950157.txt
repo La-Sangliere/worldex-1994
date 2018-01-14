@@ -1,0 +1,363 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0156
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Mauritius
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Mauritius 
+ 
+ 
+                                 Mauritius
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, in the western Indian Ocean, 900 km east of
+     Madagascar
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     1,860 sq km
+land area:
+     1,850 sq km
+comparative area:
+     slightly less than 10.5 times the size of Washington, DC
+note:
+     includes Agalega Islands, Cargados Carajos Shoals (Saint Brandon), and
+     Rodrigues
+Land boundaries:
+     0 km
+Coastline:
+     177 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200 nm or the edge of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     claims UK-administered Chagos Archipelago, which includes the island
+     of Diego Garcia in UK-administered British Indian Ocean Territory;
+     claims French-administered Tromelin Island
+Climate:
+     tropical modified by southeast trade winds; warm, dry winter (May to
+     November); hot, wet, humid summer (November to May)
+Terrain:
+     small coastal plain rising to discontinuous mountains encircling
+     central plateau
+Natural resources:
+     arable land, fish
+Land use:
+arable land:
+     54%
+permanent crops:
+     4%
+meadows and pastures:
+     4%
+forest and woodland:
+     31%
+other:
+     7%
+ 
+ 
+Irrigated land:
+     170 sq km (1989 est.)
+Environment:
+current issues:
+     water pollution
+natural hazards:
+     subject to cyclones (November to April); almost completely surrounded
+     by reefs
+international agreements:
+     party to - Biodiversity, Climate Change, Endangered Species,
+     Environmental Modification, Hazardous Wastes, Marine Life
+     Conservation, Nuclear Test Ban, Ozone Layer Protection, Whaling;
+     signed, but not ratified - Law of the Sea
+ 
+                                  People
+ 
+Population:
+     1,116,923 (July 1994 est.)
+Population growth rate:
+     0.92% (1994 est.)
+Birth rate:
+     19.28 births/1,000 population (1994 est.)
+Death rate:
+     6.41 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -3.67 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     18.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     70.54 years
+male:
+     66.62 years
+female:
+     74.63 years (1994 est.)
+Total fertility rate:
+     2.22 children born/woman (1994 est.)
+Nationality:
+noun:
+     Mauritian(s)
+adjective:
+     Mauritian
+Ethnic divisions:
+     Indo-Mauritian 68%, Creole 27%, Sino-Mauritian 3%, Franco-Mauritian 2%
+Religions:
+     Hindu 52%, Christian 28.3% (Roman Catholic 26%, Protestant 2.3%),
+     Muslim 16.6%, other 3.1%
+Languages:
+     English (official), Creole, French, Hindi, Urdu, Hakka, Bojpoori
+Literacy:
+     age 15 and over can read and write (1990)
+total population:
+     80%
+male:
+     85%
+ 
+ 
+female:
+     75%
+Labor force:
+     335,000
+by occupation:
+     government services 29%, agriculture and fishing 27%, manufacturing
+     22%, other 22%
+note:
+     43% of population of working age (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Mauritius
+conventional short form:
+Digraph:
+     MP
+Type:
+     parliamentary democracy
+Capital:
+     Port Louis
+Administrative divisions:
+     9 districts and 3 dependencies*; Agalega Islands*, Black River,
+     Cargados Carajos*, Flacq, Grand Port, Moka, Pamplemousses, Plaines
+     Wilhems, Port Louis, Riviere du Rempart, Rodrigues*, Savanne
+Independence:
+     12 March 1968 (from UK)
+National holiday:
+     Independence Day, 12 March (1968)
+Constitution:
+     12 March 1968; amended 12 March 1992
+Legal system:
+     based on French civil law system with elements of English common law
+     in certain areas
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Cassam UTEEM (since 1 July 1992); Vice President
+     Rabindranath GHURBURRON (since 1 July 1992)
+head of government:
+     Prime Minister Sir Anerood JUGNAUTH (since 12 June 1982); Deputy Prime
+     Minister Prem NABABSING (since 26 September 1990)
+cabinet:
+     Council of Ministers; appointed by the president on recommendation of
+     the prime minister
+Legislative branch:
+     unicameral
+Legislative Assembly:
+     elections last held on 15 September 1991 (next to be held by 15
+     September 1996); results - MSM/MMM 53%, MLP/PMSD 38%; seats - (70
+     total, 62 elected) MSM/MMM alliance 59 (MSM 29, MMM 26, OPR 2, MTD 2);
+     MLP/PMSD 3
+ 
+ 
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+government coalition:
+     Militant Socialist Movement (MSM), A. JUGNAUTH; Mauritian Militant
+     Movement (MMM), Prem NABABSING (less 12 legislators under the
+     leadership of Paul BERENGER, now voting with the opposition);
+     Organization of the People of Rodrigues (OPR), Louis Serge CLAIR;
+     Democratic Labor Movement (MTD), Anil BAICHOO
+opposition:
+     Mauritian Labor Party (MLP), Navin RAMGOOLMAN; Socialist Workers
+     Front, Sylvio MICHEL; Mauritian Social Democratic Party (PMSD), X.
+     DUVAL; MMM-Berenger Faction, Paul BERENGER
+Other political or pressure groups:
+     various labor unions
+Member of:
+     ACCT, ACP, AfDB, C, CCC, ECA, FAO, G-77, GATT, IAEA, IBRD, ICAO,
+     ICFTU, IDA, IFAD, IFC, ILO, IMF, INMARSAT, IMO, INTELSAT, INTERPOL,
+     IOC, ISO (correspondent), ITU, LORCS, NAM, OAU, PCA, UN, UNCTAD,
+     UNESCO, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Anund NEEWOOR
+chancery:
+     Suite 441, 4301 Connecticut Avenue NW, Washington, DC 20008
+telephone:
+     (202) 244-1491 or 1492
+FAX:
+     (202) 966-0983
+US diplomatic representation:
+chief of mission:
+     Ambassador Leslie ALEXANDER
+embassy:
+     4th Floor, Rogers House, John Kennedy Street, Port Louis
+mailing address:
+     use Embassy street address
+telephone:
+     [230] 208-9763 through 208-9767
+FAX:
+     [230] 208-9534
+Flag:
+     four equal horizontal bands of red (top), blue, yellow, and green
+ 
+                                  Economy
+ 
+Overview:
+     The economy is based on sugar, manufacturing (mainly textiles), and
+     tourism. Sugarcane is grown on about 90% of the cultivated land area
+     and accounts for 40% of export earnings. The government's development
+     strategy centers on industrialization (with a view to exports),
+     agricultural diversification, and tourism. Economic performance in
+     1992 was impressive, with 6% real growth and low unemployment.
+National product:
+     GDP - purchasing power equivalent - $8.6 billion (1993 est.)
+ 
+ 
+National product real growth rate:
+     6.3% (1992 est.)
+National product per capita:
+     $7,800 (1993 est.)
+Inflation rate (consumer prices):
+     4.6% (1992 est.)
+Unemployment rate:
+     2.4% (1991 est.)
+Budget:
+revenues:
+     $557 million
+expenditures:
+     $607 million, including capital expenditures of $111 million (1990
+     est.)
+Exports:
+     $1.32 billion (f.o.b., 1992 est.)
+commodities:
+     textiles 44%, sugar 40%, light manufactures 10%
+partners:
+     EC and US have preferential treatment, EU 77%, US 15%
+Imports:
+     $1.63 billion (f.o.b., 1992 est.)
+commodities:
+     manufactured goods 50%, capital equipment 17%, foodstuffs 13%,
+     petroleum products 8%, chemicals 7%
+partners:
+     EC, US, South Africa, Japan
+External debt:
+     $991 million (1992 est.)
+Industrial production:
+     growth rate 7% (1990); accounts for 25% of GDP
+Electricity:
+capacity:
+     235,000 kW
+production:
+     630 million kWh
+consumption per capita:
+     570 kWh (1992)
+Industries:
+     food processing (largely sugar milling), textiles, wearing apparel,
+     chemicals, metal products, transport equipment, nonelectrical
+     machinery, tourism
+Agriculture:
+     accounts for 10% of GDP; about 90% of cultivated land in sugarcane;
+     other products - tea, corn, potatoes, bananas, pulses, cattle, goats,
+     fish; net food importer, especially rice and fish
+Illicit drugs:
+     illicit producer of cannabis for the international drug trade; heroin
+     consumption and transshipment are growing problems
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $76 million; Western
+     (non-US) countries (1970-89), $709 million; Communist countries
+     (1970-89), $54 million
+ 
+ 
+Currency:
+     1 Mauritian rupee (MauR) = 100 cents
+Exchange rates:
+     Mauritian rupees (MauRs) per US$1 - 18.696 (January 1994), 17.648
+     (1993), 15.563 (1992), 15.652 (1991), 14.839 (1990), 15.250 (1989)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Highways:
+total:
+     1,800 km
+paved:
+     1,640 km
+unpaved:
+     earth 160 km
+Ports:
+     Port Louis
+Merchant marine:
+     14 ships (1,000 GRT or over) totaling 162,387 GRT/260,552 DWT, bulk 6,
+     cargo 7, liquefied gas 1
+Airports:
+total:
+     5
+usable:
+     4
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     small system with good service utilizing primarily microwave radio
+     relay; new microwave link to Reunion; high-frequency radio links to
+     several countries; over 48,000 telephones; broadcast stations - 2 AM,
+     no FM, 4 TV; 1 Indian Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     National Police Force, including the paramilitary Special Mobile Force
+     (SMF), Special Support Units (SSU), and National Coast Guard
+Manpower availability:
+     males age 15-49 316,975; fit for military service 161,634
+Defense expenditures:
+     exchange rate conversion - $5 million, 0.2% of GDP (FY89)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

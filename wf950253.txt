@@ -1,0 +1,338 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0252
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Vanuatu
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Vanuatu 
+ 
+ 
+                                  Vanuatu
+ 
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Melanesia, 5,750 km southwest of Honolulu in the South
+     Pacific Ocean, about three-quarters of the way between Hawaii and
+     Australia
+Map references:
+     Oceania, Standard Time Zones of the World
+Area:
+total area:
+     14,760 sq km
+land area:
+     14,760 sq km
+comparative area:
+     slightly larger than Connecticut
+note:
+     includes more than 80 islands
+Land boundaries:
+     0 km
+Coastline:
+     2,528 km
+Maritime claims:
+     measured from claimed archipelagic baselines
+contiguous zone:
+     24 nm
+continental shelf:
+     200 nm or the edge of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; moderated by southeast trade winds
+Terrain:
+     mostly mountains of volcanic origin; narrow coastal plains
+Natural resources:
+     manganese, hardwood forests, fish
+Land use:
+arable land:
+     1%
+permanent crops:
+     5%
+meadows and pastures:
+     2%
+forest and woodland:
+     1%
+other:
+     91%
+Irrigated land:
+     NA sq km
+ 
+ 
+Environment:
+current issues:
+     NA
+natural hazards:
+     subject to tropical cyclones or typhoons (January to April); volcanism
+     causes minor earthquakes
+international agreements:
+     party to - Biodiversity, Climate Change, Marine Dumping, Ship
+     Pollution; signed, but not ratified - Law of the Sea
+ 
+                                  People
+ 
+Population:
+     169,776 (July 1994 est.)
+Population growth rate:
+     2.29% (1994 est.)
+Birth rate:
+     32.21 births/1,000 population (1994 est.)
+Death rate:
+     9.31 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     68.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     59.25 years
+male:
+     57.51 years
+female:
+     61.09 years (1994 est.)
+Total fertility rate:
+     4.31 children born/woman (1994 est.)
+Nationality:
+noun:
+     Ni-Vanuatu (singular and plural)
+adjective:
+     Ni-Vanuatu
+Ethnic divisions:
+     indigenous Melanesian 94%, French 4%, Vietnamese, Chinese, Pacific
+     Islanders
+Religions:
+     Presbyterian 36.7%, Anglican 15%, Catholic 15%, indigenous beliefs
+     7.6%, Seventh-Day Adventist 6.2%, Church of Christ 3.8%, other 15.7%
+Languages:
+     English (official), French (official), pidgin (known as Bislama or
+     Bichelama)
+Literacy:
+     age 15 and over can read and write (1979)
+total population:
+     53%
+male:
+     57%
+female:
+     48%
+ 
+ 
+Labor force:
+     NA
+by occupation:
+     NA
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Vanuatu
+conventional short form:
+former:
+     New Hebrides
+Digraph:
+     NH
+Type:
+     republic
+Capital:
+     Port-Vila
+Administrative divisions:
+     11 island councils; Ambrym, Aoba/Maewo, Banks/Torres, Efate, Epi,
+     Malakula, Paama, Pentecote, Santo/Malo, Shepherd, Tafea
+Independence:
+     30 July 1980 (from France and UK)
+National holiday:
+     Independence Day, 30 July (1980)
+Constitution:
+     30 July 1980
+Legal system:
+     unified system being created from former dual French and British
+     systems
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Jean Marie LEYE (since 2 March 1994)
+head of government:
+     Prime Minister Maxime CARLOT Korman (since 16 December 1991); Deputy
+     Prime Minister Sethy REGENVANU (since 17 December 1991)
+cabinet:
+     Council of Ministers; appointed by the prime minister, responsible to
+     parliament
+Legislative branch:
+     unicameral
+Parliament:
+     elections last held 2 December 1991 (next to be held by November
+     1995); note - after election, a coalition was formed by the Union of
+     Moderate Parties and the National United Party to form a new
+     government on 16 December 1991, but political party associations are
+     fluid; seats - (46 total) UMP 19; NUP 10; VP 10; MPP 4; TUP 1;
+     Nagriamel 1; Friend 1
+note:
+     the National Council of Chiefs advises on matters of custom and land
+ 
+ 
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Vanuatu Party (VP), Donald KALPOKAS; Union of Moderate Parties (UMP),
+     Serge VOHOR; Melanesian Progressive Party (MPP), Barak SOPE; National
+     United Party (NUP), Walter LINI; Tan Union Party (TUP), Vincent
+     BOULEKONE; Nagriamel Party, Jimmy STEVENS; Friend Melanesian Party,
+     leader NA
+Member of:
+     ACCT, ACP, AsDB, C, ESCAP, FAO, G-77, IBRD, ICAO, IDA, IFC, IMF, IMO,
+     INTELSAT (nonsignatory user), IOC, ITU, NAM, SPARTECA, SPC, SPF, UN,
+     UNCTAD, UNIDO, UPU, WHO, WMO
+Diplomatic representation in US:
+     Vanuatu does not have a mission in the US
+US diplomatic representation:
+     the ambassador to Papua New Guinea is accredited to Vanuatu
+Flag:
+     two equal horizontal bands of red (top) and green with a black
+     isosceles triangle (based on the hoist side) all separated by a
+     black-edged yellow stripe in the shape of a horizontal Y (the two
+     points of the Y face the hoist side and enclose the triangle);
+     centered in the triangle is a boar's tusk encircling two crossed
+     namele leaves, all in yellow
+ 
+                                  Economy
+ 
+Overview:
+     The economy is based primarily on subsistence farming which provides a
+     living for about 80% of the population. Fishing and tourism are the
+     other mainstays of the economy. Mineral deposits are negligible; the
+     country has no known petroleum deposits. A small light industry sector
+     caters to the local market. Tax revenues come mainly from import
+     duties.
+National product:
+     GDP - exchange rate conversion - $142 million (1988 est.)
+National product real growth rate:
+     6% (1991)
+National product per capita:
+     $1,050 (1990)
+Inflation rate (consumer prices):
+     2.3% (1992 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $90 million
+expenditures:
+     $103 million, including capital expenditures of $45 million (1989
+     est.)
+Exports:
+     $14.9 million (f.o.b., 1991)
+commodities:
+     copra, beef, cocoa, timber, coffee
+partners:
+     Netherlands, Japan, France, New Caledonia, Belgium
+ 
+ 
+Imports:
+     $74 million (f.o.b., 1991)
+commodities:
+     machines and vehicles, food and beverages, basic manufactures, raw
+     materials and fuels, chemicals
+partners:
+     Australia 36%, Japan 13%, NZ 10%, France 8%, Fiji 8%
+External debt:
+     $38 million (1991)
+Industrial production:
+     growth rate 8.1% (1990); accounts for about 10% of GDP
+Electricity:
+capacity:
+     17,000 kW
+production:
+     30 million kWh
+consumption per capita:
+     180 kWh (1990)
+Industries:
+     food and fish freezing, wood processing, meat canning
+Agriculture:
+     accounts for 40% of GDP; export crops - coconuts, cocoa, coffee, fish;
+     subsistence crops - taro, yams, coconuts, fruits, vegetables
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $606 million
+Currency:
+     1 vatu (VT) = 100 centimes
+Exchange rates:
+     vatu (VT) per US$1 - 123.48 (September 1993), 113.39 (1992), 111.68
+     (1991), 116.57 (1990), 116.04 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     none
+Highways:
+total:
+     1,027 km
+paved:
+     240 km
+unpaved:
+     787 km
+Ports:
+     Port-Vila, Luganville, Palikoulo
+Merchant marine:
+     131 ships (1,000 GRT or over) totaling 1,992,201 GRT/2,909,381 DWT,
+     bulk 57, cargo 23, chemical tanker 2, combination bulk 1, container 5,
+     liquefied gas 3, livestock carrier 1, oil tanker 8, passenger 1,
+     refrigerated cargo 19, vehicle carrier 11
+note:
+     a flag of convenience registry
+ 
+ 
+Airports:
+total:
+     31
+usable:
+     31
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     2
+Telecommunications:
+     broadcast stations - 2 AM, no FM, no TV; 3,000 telephones; 1 Pacific
+     Ocean INTELSAT ground station
+ 
+                              Defense Forces
+ 
+Branches:
+     Vanuatu Police Force (VPF), paramilitary Vanuatu Mobile Force (VMF)
+note:
+     no military forces
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

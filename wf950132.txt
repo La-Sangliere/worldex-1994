@@ -1,0 +1,334 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0131
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Kiribati
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Kiribati 
+ 
+ 
+                                 Kiribati
+ 
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Micronesia, straddling the equator in the Pacific Ocean,
+     about halfway between Hawaii and Australia
+Map references:
+     Oceania
+Area:
+total area:
+     717 sq km
+land area:
+     717 sq km
+comparative area:
+     slightly more than four times the size of Washington, DC
+note:
+     includes three island groups - Gilbert Islands, Line Islands, Phoenix
+     Islands
+Land boundaries:
+     0 km
+Coastline:
+     1,143 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; marine, hot and humid, moderated by trade winds
+Terrain:
+     mostly low-lying coral atolls surrounded by extensive reefs
+Natural resources:
+     phosphate (production discontinued in 1979)
+Land use:
+arable land:
+     0%
+permanent crops:
+     51%
+meadows and pastures:
+     0%
+forest and woodland:
+     3%
+other:
+     46%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     typhoons can occur any time, but usually November to March; subject to
+     occasional tornadoes
+ 
+ 
+international agreements:
+     party to - Marine Dumping, Ozone Layer Protection; signed, but not
+     ratified - Climate Change
+Note:
+     20 of the 33 islands are inhabited; Banaba (Ocean Island) in Kiribati
+     is one of the three great phosphate rock islands in the Pacific Ocean
+     - the others are Makatea in French Polynesia and Nauru
+ 
+                                  People
+ 
+Population:
+     77,853 (July 1994 est.)
+Population growth rate:
+     1.99% (1994 est.)
+Birth rate:
+     31.64 births/1,000 population (1994 est.)
+Death rate:
+     12.31 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.56 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     98.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     54.16 years
+male:
+     52.56 years
+female:
+     55.78 years (1994 est.)
+Total fertility rate:
+     3.77 children born/woman (1994 est.)
+Nationality:
+noun:
+     I-Kiribati (singular and plural)
+adjective:
+     I-Kiribati
+Ethnic divisions:
+     Micronesian
+Religions:
+     Roman Catholic 52.6%, Protestant (Congregational) 40.9%, Seventh-Day
+     Adventist, Baha'i, Church of God, Mormon 6% (1985)
+Languages:
+     English (official), Gilbertese
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     7,870 economically active, not including subsistence farmers (1985
+     est.)
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Kiribati
+conventional short form:
+former:
+     Gilbert Islands
+Digraph:
+     KR
+Type:
+     republic
+Capital:
+     Tarawa
+Administrative divisions:
+     3 units; Gilbert Islands, Line Islands, Phoenix Islands
+note:
+     a new administrative structure of 6 districts (Banaba, Central
+     Gilberts, Line Islands, Northern Gilberts, Southern Gilberts, Tarawa)
+     may have been changed to 21 island councils (one for each of the
+     inhabited islands) named Abaiang, Abemama, Aranuka, Arorae, Banaba,
+     Beru, Butaritari, Canton, Kiritimati, Kuria, Maiana, Makin, Marakei,
+     Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa,
+     Teraina
+Independence:
+     12 July 1979 (from UK)
+National holiday:
+     Independence Day, 12 July (1979)
+Constitution:
+     12 July 1979
+Legal system:
+     NA
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President (Beretitenti) Teatao TEANNAKI (since 8 July 1991); Vice
+     President (Kauoman-ni-Beretitenti) Taomati IUTA (since 8 July 1991);
+     election last held on 8 July 1991 (next to be held by NA 1996);
+     results - Teatao TEANNAKI 52%, Roniti TEIWAKI 28%
+cabinet:
+     Cabinet; appointed by the president from an elected parliament
+Legislative branch:
+     unicameral
+House of Assembly (Maneaba Ni Maungatabu):
+     elections last held on 8 May 1991 (next to be held by NA 1996);
+     results - percent of vote by party NA; seats - (40 total; 39 elected)
+     percent of seats by party NA
+Judicial branch:
+     Court of Appeal, High Court
+Political parties and leaders:
+     National Progressive Party, Teatao TEANNAKI; Christian Democratic
+     Party, Teburoro TITO; New Movement Party, leader NA; Liberal Party,
+     Tewareka TENTOA; Maneaba Party, Roniti TEIWAKI
+ 
+ 
+note:
+     there is no tradition of formally organized political parties in
+     Kiribati; they more closely resemble factions or interest groups
+     because they have no party headquarters, formal platforms, or party
+     structures
+Member of:
+     ACP, AsDB, C, ESCAP, IBRD, ICAO, ICFTU, IDA, IFC, IMF, INTELSAT
+     (nonsignatory user), INTERPOL, ITU, SPARTECA, SPC, SPF, UNESCO, UPU,
+     WHO
+Diplomatic representation in US:
+     Kiribati has no mission in the US
+US diplomatic representation:
+     the ambassador to Fiji is accredited to Kiribati
+Flag:
+     the upper half is red with a yellow frigate bird flying over a yellow
+     rising sun, and the lower half is blue with three horizontal wavy
+     white stripes to represent the ocean
+ 
+                                  Economy
+ 
+Overview:
+     The country has few national resources. Commercially viable phosphate
+     deposits were exhausted at the time of independence in 1979. Copra and
+     fish now represent the bulk of production and exports. The economy has
+     fluctuated widely in recent years. Real GDP declined about 8% in 1987,
+     as the fish catch fell sharply to only one-fourth the level of 1986
+     and copra production was hampered by repeated rains. Output rebounded
+     strongly in 1988, with real GDP growing by 17%. The upturn in economic
+     growth came from an increase in copra production and a good fish
+     catch. Following the strong surge in output in 1988, GNP increased 1%
+     in both 1989 and 1990.
+National product:
+     GDP - exchange rate conversion - $36.8 million (1990 est.)
+National product real growth rate:
+     1.5% (1992 est.)
+National product per capita:
+     $525 (1990 est.)
+Inflation rate (consumer prices):
+     4% (1992 est.)
+Unemployment rate:
+     2%; underemployment 70% (1992 est.)
+Budget:
+revenues:
+     $29.9 million
+expenditures:
+     $16.3 million, including capital expenditures of $14 million (1990
+     est.)
+Exports:
+     $4.2 million (f.o.b., 1992 est.)
+commodities:
+     copra 50%, seaweed 16%, fish 15%
+partners:
+     Denmark, Fiji, US
+Imports:
+     $33.1 million (c.i.f., 1992 est.)
+ 
+ 
+commodities:
+     foodstuffs, machinery and equipment, miscellaneous manufactured goods,
+     fuel
+partners:
+     Australia 40%, Japan 18%, Fiji 17%, NZ 6%, US 4% (1991)
+External debt:
+     $2 million (December 1989 est.)
+Industrial production:
+     growth rate 0.7% (1992 est.); accounts for less than 4% of GDP
+Electricity:
+capacity:
+     5,000 kW
+production:
+     13 million kWh
+consumption per capita:
+     190 kWh (1990)
+Industries:
+     fishing, handicrafts
+Agriculture:
+     accounts for 23% of GDP (including fishing); copra and fish contribute
+     about 65% to exports; subsistence farming predominates; food crops -
+     taro, breadfruit, sweet potatoes, vegetables; not self-sufficient in
+     food
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $273 million
+Currency:
+     1 Australian dollar ($A) = 100 cents
+Exchange rates:
+     Australian dollars ($A) per US$1 - 1.4364 (January 1994), 1.4704
+     (1993), 1.3600 (1992), 1.2835 (1991), 1.2799 (1990), 1.2618 (1989)
+Fiscal year:
+     NA
+ 
+                              Communications
+ 
+Highways:
+total:
+     640 km
+paved:
+     NA
+unpaved:
+     NA
+Inland waterways:
+     small network of canals, totaling 5 km, in Line Islands
+Ports:
+     Banaba and Betio (Tarawa)
+Merchant marine:
+     1 passenger-cargo ship (1,000 GRT or over) totaling 1,291 GRT/1,295
+     DWT
+Airports:
+total:
+     21
+ 
+ 
+usable:
+     20
+with permanent-surface runways:
+     4
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     5
+Telecommunications:
+     1,400 telephones; broadcast stations - 1 AM, no FM, no TV; 1 Pacific
+     Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Police Force (carries out law enforcement functions and paramilitary
+     duties; there are small police posts on all islands); no military
+     force is maintained
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

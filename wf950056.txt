@@ -1,0 +1,428 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0055
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Colombia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Colombia 
+ 
+ 
+                                 Colombia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Northern South America, between Panama and Venezuela
+Map references:
+     Central America and the Caribbean, South America, Standard Time Zones
+     of the World
+Area:
+total area:
+     1,138,910 sq km
+land area:
+     1,038,700 sq km
+comparative area:
+     slightly less than three times the size of Montana
+note:
+     includes Isla de Malpelo, Roncador Cay, Serrana Bank, and Serranilla
+     Bank
+Land boundaries:
+     total 7,408 km, Brazil 1,643 km, Ecuador 590 km, Panama 225 km, Peru
+     2,900 km, Venezuela 2,050 km
+Coastline:
+     3,208 km (Caribbean Sea 1,760 km, North Pacific Ocean 1,448 km)
+Maritime claims:
+continental shelf:
+     not specified
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     maritime boundary dispute with Venezuela in the Gulf of Venezuela;
+     territorial dispute with Nicaragua over Archipelago de San Andres y
+     Providencia and Quita Sueno Bank
+Climate:
+     tropical along coast and eastern plains; cooler in highlands
+Terrain:
+     flat coastal lowlands, central highlands, high Andes Mountains,
+     eastern lowland plains
+Natural resources:
+     petroleum, natural gas, coal, iron ore, nickel, gold, copper, emeralds
+Land use:
+arable land:
+     4%
+permanent crops:
+     2%
+meadows and pastures:
+     29%
+forest and woodland:
+     49%
+other:
+     16%
+Irrigated land:
+     5,150 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     deforestation; soil damage from overuse of pesticides
+natural hazards:
+     highlands subject to volcanic eruptions; periodic droughts
+international agreements:
+     party to - Antarctic Treaty, Endangered Species, Marine Life
+     Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship
+     Pollution, Tropical Timber; signed, but not ratified -
+     Antarctic-Environmental Protocol, Biodiversity, Climate Change,
+     Hazardous Wastes, Law of the Sea, Marine Dumping
+Note:
+     only South American country with coastlines on both North Pacific
+     Ocean and Caribbean Sea
+ 
+                                  People
+ 
+Population:
+     35,577,556 (July 1994 est.)
+Population growth rate:
+     1.77% (1994 est.)
+Birth rate:
+     22.64 births/1,000 population (1994 est.)
+Death rate:
+     4.75 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.21 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     28.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     72.1 years
+male:
+     69.33 years
+female:
+     74.95 years (1994 est.)
+Total fertility rate:
+     2.47 children born/woman (1994 est.)
+Nationality:
+noun:
+     Colombian(s)
+adjective:
+     Colombian
+Ethnic divisions:
+     mestizo 58%, white 20%, mulatto 14%, black 4%, mixed black-Indian 3%,
+     Indian 1%
+Religions:
+     Roman Catholic 95%
+Languages:
+     Spanish
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     87%
+ 
+ 
+male:
+     88%
+female:
+     86%
+Labor force:
+     12 million (1990)
+by occupation:
+     services 46%, agriculture 30%, industry 24% (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Colombia
+conventional short form:
+local long form:
+     Republica de Colombia
+local short form:
+Digraph:
+     CO
+Type:
+     republic; executive branch dominates government structure
+Capital:
+     Bogota
+Administrative divisions:
+     32 departments (departamentos, singular - departamento) and 1 capital
+     district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico,
+     Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar,
+     Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira,
+     Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio,
+     Risaralda, San Andres y Providencia, Santander, Sucre, Tolima, Valle
+     del Cauca, Vaupes, Vichada
+Independence:
+     20 July 1810 (from Spain)
+National holiday:
+     Independence Day, 20 July (1810)
+Constitution:
+     5 July 1991
+Legal system:
+     based on Spanish law; a new criminal code modeled after US procedures
+     was enacted in 1992-93; judicial review of executive and legislative
+     acts; accepts compulsory ICJ jurisdiction, with reservations
+Suffrage:
+     18 years of age; universal and compulsory
+Executive branch:
+chief of state and head of government:
+     President Cesar GAVIRIA Trujillo (since 7 August 1990);
+     President-designate Juan Manuel SANTOS (since NA 1993); election last
+     held 27 May 1990 (next to be held May 1994); results - Cesar GAVIRIA
+     Trujillo (Liberal Party) 47%, Alvaro GOMEZ Hurtado (National Salvation
+     Movement) 24%, Antonio NAVARRO Wolff (AD/M-19) 13%, Rodrigo LLOREDA
+     (Conservative Party) 12%
+ 
+ 
+note:
+     a new government will be inaugurated on 7 August 1994; the
+     presidential election of 29 May 1994 resulted in no candidate
+     receiving more than 50% of the total vote and a run-off election to
+     select a president from the two leading candidates was held on 19 June
+     1994; results - Ernesto SAMPER Pizano (Liberal Party) 50.4%, Andres
+     PASTRANA Arango (Conservative Party) 48.6%, blank votes 1%; Humberto
+     de la CALLE was elected vice president; electing a vice president is a
+     new proceedure that replaces the traditional appointment of
+     president-designates by newly elected presidents
+cabinet:
+     Cabinet
+Legislative branch:
+     bicameral Congress (Congreso)
+Senate (Senado):
+     elections last held 13 March 1994 (next to be held NA March 1998);
+     preliminary results - percent of vote by party NA; seats - (102 total)
+     Liberal Party 59, conservatives (includes PC, MSN, and NDF) 31, other
+     12
+House of Representatives (Camara de Representantes):
+     elections last held 13 March 1994 (next to be held NA March 1998);
+     preliminary results - percent of vote by party NA; seats - (161 total)
+     Liberal Party 89, conservatives (includes PC, MSN, and NDF) 53,
+     AD/M-19 2, other 17
+Judicial branch:
+     Supreme Court of Justice (Corte Suprema de Justical), Constitutional
+     Court, Council of State
+Political parties and leaders:
+     Liberal Party (PL), Ernesto SAMPER Pizano, president; Conservative
+     Party (PC), Misael PASTRANA Borrero; National Salvation Movement
+     (MSN), Alvaro GOMEZ Hurtado; New Democratic Force (NDF), Andres
+     PASTRANA Arango; Democratic Alliance M-19 (AD/M-19) is a coalition of
+     small leftist parties and dissident liberals and conservatives;
+     Patriotic Union (UP) is a legal political party formed by
+     Revolutionary Armed Forces of Colombia (FARC) and Colombian Communist
+     Party (PCC), Carlos ROMERO
+Other political or pressure groups:
+     three insurgent groups are active in Colombia - Revolutionary Armed
+     Forces of Colombia (FARC), Manuel MARULANDA and Alfonso CANO; National
+     Liberation Army (ELN), Manuel PEREZ; and dissidents of the recently
+     demobilized People's Liberation Army (EPL), Francisco CARABALLO;
+     Francisco CARABALLO was captured by the government in June 1994
+Member of:
+     AG, CDB, CG, ECLAC, FAO, G-3, G-11, G-24, G-77, GATT, IADB, IAEA,
+     IBRD, ICAO, ICC, ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INMARSAT,
+     INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, LAES, LAIA, LORCS, NAM, OAS,
+     ONUSAL, OPANAL, PCA, RG, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNPROFOR,
+     UNTAC, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Gabriel SILVA
+chancery:
+     2118 Leroy Place NW, Washington, DC 20008
+telephone:
+     (202) 387-8338
+ 
+ 
+FAX:
+     (202) 232-8643
+consulate(s) general:
+     Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York,
+     San Francisco, San Juan (Puerto Rico), and Washington
+consulate(s):
+     Atlanta, Detroit, Los Angeles, and Tampa
+US diplomatic representation:
+chief of mission:
+     Ambassador Morris D. BUSBY
+embassy:
+     Calle 38, No. 8-61, Bogota
+mailing address:
+     Apartado Aereo 3831, Bogota or APO AA 34038
+telephone:
+     [57] (1) 320-1300
+FAX:
+     [57] (1) 288-5687
+consulate(s):
+     Barranquilla
+Flag:
+     three horizontal bands of yellow (top, double-width), blue, and red;
+     similar to the flag of Ecuador, which is longer and bears the
+     Ecuadorian coat of arms superimposed in the center
+ 
+                                  Economy
+ 
+Overview:
+     Colombia's economic growth has recovered steadily since 1991 as
+     President GAVIRIA'S sweeping economic reform measures have taken hold.
+     Market reforms have included trade and investment liberalization,
+     labor and tax overhauls and bureaucratic streamlining, among other
+     things. Furthermore, conservative fiscal and monetary policies have
+     helped to steadily reduce inflation to 23% and unemployment to about
+     7% in 1993. The rapid development of oil, coal, and other
+     nontraditional industries has helped offset the decline in coffee
+     prices. A major oil find in 1993 in eastern Colombia may provide an
+     extra $3 billion annually to the economy by 1997. Increased foreign
+     investment and even greater domestic activity have been hampered,
+     however, by a troublesome rural insurgency, a decrepit energy and
+     transportation infrastructure, and drug-related violence. Agriculture
+     also has encountered problems in adjusting to fewer subsidies, greater
+     competition, and the collapse of the international coffee agreement,
+     which has kept world coffee prices at near-record lows in 1991-93.
+     Business construction was a leading sector in 1993. The substantial
+     trade deficit in 1993 was the result of a strong peso that inhibited
+     exports and a liberalized government policy that spurred imports.
+National product:
+     GDP - purchasing power equivalent - $192 billion (1993 est.)
+National product real growth rate:
+     5.1% (1993 est.)
+National product per capita:
+     $5,500 (1993 est.)
+Inflation rate (consumer prices):
+     22.6% (1993 est.)
+ 
+ 
+Unemployment rate:
+     7.9% (1993 est.)
+Budget:
+revenues:
+     $11 billion
+expenditures:
+     $12 billion, including capital expenditures of $2.2 billion (1993
+     est.)
+Exports:
+     $6.9 billion (f.o.b., 1992 est.)
+commodities:
+     petroleum, coffee, coal, bananas, fresh cut flowers
+partners:
+     US 39%, EC 25.7%, Japan 2.9%, Venezuela 8.5% (1992)
+Imports:
+     $6.7 billion (c.i.f., 1992 est.)
+commodities:
+     industrial equipment, transportation equipment, consumer goods,
+     chemicals, paper products
+partners:
+     US 36%, EC 18%, Brazil 4%, Venezuela 6.5%, Japan 8.7% (1992)
+External debt:
+     $17 billion (1992)
+Industrial production:
+     growth rate 2% (1993 est.); accounts for 21% of GDP
+Electricity:
+capacity:
+     10,193,000 kW
+production:
+     36 billion kWh
+consumption per capita:
+     1,050 kWh (1992)
+Industries:
+     textiles, food processing, oil, clothing and footwear, beverages,
+     chemicals, metal products, cement; mining - gold, coal, emeralds,
+     iron, nickel, silver, salt
+Agriculture:
+     growth rate 2.7% (1993 est.) accounts for 21% of GDP; crops make up
+     two-thirds and livestock one-third of agricultural output; climate and
+     soils permit a wide variety of crops, such as coffee, rice, tobacco,
+     corn, sugarcane, cocoa beans, oilseeds, vegetables; forest products
+     and shrimp farming are becoming more important
+Illicit drugs:
+     illicit producer of coca, opium, and cannabis; about 37,100 hectares
+     of coca under cultivation; the world's largest processor of coca
+     derivatives into cocaine in 1992; supplier of cocaine to the US and
+     other international drug markets
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $1.6 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $3.3
+     billion; Communist countries (1970-89),  $399 million
+Currency:
+     1 Colombian peso (Col$) = 100 centavos
+ 
+ 
+Exchange rates:
+     Colombian pesos (Col$) per US$1 - 921.20 (January 1994), 863.06
+     (1993), 759.28 (1992), 633.05 (1991), 502.26 (1990), 382.57 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     3,386 km; 3,236 km 0.914-meter gauge, single track (2,611 km in use),
+     150 km 1.435-meter gauge
+Highways:
+total:
+     128,717 km (1989)
+paved:
+     10,330 km
+unpaved:
+     gravel/earth 118,387 km
+Inland waterways:
+     14,300 km, navigable by river boats
+Pipelines:
+     crude oil 3,585 km; petroleum products 1,350 km; natural gas 830 km;
+     natural gas liquids 125 km
+Ports:
+     Barranquilla, Buenaventura, Cartagena, Covenas, San Andres, Santa
+     Marta, Tumaco
+Merchant marine:
+     27 ships (1,000 GRT or over) totaling 211,777 GRT/335,763 DWT, bulk 7,
+     cargo 11, container 6, oil tanker 3
+Airports:
+total:
+     1,369
+usable:
+     1,156
+with permanent-surface runways:
+     73
+with runways over 3,659 m:
+     1
+with runways 2,440-2,659 m:
+     9
+with runways 1,220-2,439 m:
+     205
+Telecommunications:
+     nationwide radio relay system; 1,890,000 telephones; broadcast
+     stations - 413 AM, no FM, 33 TV, 28 shortwave; 2 Atlantic Ocean
+     INTELSAT earth stations and 11 domestic satellite earth stations
+ 
+                              Defense Forces
+ 
+Branches:
+     Army (Ejercito Nacional), Navy (Armada Nacional, including Marines),
+     Air Force (Fuerza Aerea Colombiana), National Police (Policia
+     Nacional)
+ 
+ 
+Manpower availability:
+     males age 15-49 9,639,080; fit for military service 6,507,935; reach
+     military age (18) annually 354,944 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $1.2 billion (1992 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

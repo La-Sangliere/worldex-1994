@@ -1,0 +1,271 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0054
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Cocos (Keeling) Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Cocos (Keeling) Islands 
+ 
+ 
+                          Cocos (Keeling) Islands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of Australia)
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, in the Indian Ocean, 1,070 km southwest of
+     Indonesia, about halfway between Australia and Sri Lanka
+Map references:
+     Southeast Asia
+Area:
+total area:
+     14 sq km
+land area:
+     14 sq km
+comparative area:
+     about 24 times the size of The Mall in Washington, DC
+note:
+     includes the two main islands of West Island and Home Island
+Land boundaries:
+     0 km
+Coastline:
+     2.6 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     pleasant, modified by the southeast trade wind for about nine months
+     of the year; moderate rain fall
+Terrain:
+     flat, low-lying coral atolls
+Natural resources:
+     fish
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100%
+Irrigated land:
+     NA sq km
+ 
+ 
+Environment:
+current issues:
+     NA
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     two coral atolls thickly covered with coconut palms and other
+     vegetation
+ 
+                                  People
+ 
+Population:
+     598 (July 1994 est.)
+Population growth rate:
+     0.98% (1994 est.)
+Nationality:
+noun:
+     Cocos Islander(s)
+adjective:
+     Cocos Islander
+Ethnic divisions:
+West Island:
+     Europeans
+Home Island:
+     Cocos Malays
+Religions:
+     Sunni Muslims
+Languages:
+     English
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Territory of Cocos (Keeling) Islands
+conventional short form:
+Digraph:
+     CK
+Type:
+     territory of Australia
+Capital:
+     West Island
+ 
+ 
+Administrative divisions:
+     none (territory of Australia)
+Independence:
+     none (territory of Australia)
+National holiday:
+     NA
+Constitution:
+     Cocos (Keeling) Islands Act of 1955
+Legal system:
+     based upon the laws of Australia and local laws
+Suffrage:
+     NA
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952)
+head of government:
+     Administrator B. CUNNINGHAM (since NA)
+cabinet:
+     Islands Council; Chairman of the Islands Council Haji WAHIN bin Bynie
+     (since NA)
+Legislative branch:
+     unicameral Islands Council
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     NA
+Member of:
+     none
+Diplomatic representation in US:
+     none (territory of Australia)
+US diplomatic representation:
+     none (territory of Australia)
+Flag:
+     the flag of Australia is used
+ 
+                                  Economy
+ 
+Overview:
+     Grown throughout the islands, coconuts are the sole cash crop. Copra
+     and fresh coconuts are the major export earners. Small local gardens
+     and fishing contribute to the food supply, but additional food and
+     most other necessities must be imported from Australia.
+National product:
+     GDP $NA
+National product real growth rate:
+     NA%
+National product per capita:
+     $NA
+Inflation rate (consumer prices):
+     NA%
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+ 
+ 
+Exports:
+     $NA
+commodities:
+     copra
+partners:
+     Australia
+Imports:
+     $NA
+commodities:
+     foodstuffs
+partners:
+     Australia
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     1,000 kW
+production:
+     2 million kWh
+consumption per capita:
+     2,980 kWh (1990)
+Industries:
+     copra products
+Agriculture:
+     gardens provide vegetables, bananas, pawpaws, coconuts
+Economic aid:
+     none
+Currency:
+     1 Australian dollar ($A) = 100 cents
+Exchange rates:
+     Australian dollars ($A) per US$1 - 1.4364 (January 1994), 1.4704
+     (1993), 1.3600 (1992), 1.2836 (1991), 1.2799 (1990), 1.2618 (1989)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     none; lagoon anchorage only
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+ 
+ 
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     250 radios (1985); linked by telephone, telex, and facsimile
+     communications via satellite with Australia; broadcast stations - 1
+     AM, no FM, no TV
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of Australia
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

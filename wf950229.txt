@@ -1,0 +1,429 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0228
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Sweden
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Sweden 
+ 
+ 
+                                  Sweden
+ 
+ 
+                                 Geography
+ 
+Location:
+     Nordic State, Northern Europe, bordering the Baltic Sea, between
+     Norway and Finland
+Map references:
+     Arctic Region, Asia, Europe, Standard Time Zones of the World
+Area:
+total area:
+     449,964 sq km
+land area:
+     410,928 sq km
+comparative area:
+     slightly smaller than California
+Land boundaries:
+     total 2,205 km, Finland 586 km, Norway 1,619 km
+Coastline:
+     3,218 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     temperate in south with cold, cloudy winters and cool, partly cloudy
+     summers; subarctic in north
+Terrain:
+     mostly flat or gently rolling lowlands; mountains in west
+Natural resources:
+     zinc, iron ore, lead, copper, silver, timber, uranium, hydropower
+     potential
+Land use:
+arable land:
+     7%
+permanent crops:
+     0%
+meadows and pastures:
+     2%
+forest and woodland:
+     64%
+other:
+     27%
+Irrigated land:
+     1,120 sq km (1989 est.)
+Environment:
+current issues:
+     acid rain damaging soils and lakes; pollution of the North Sea and the
+     Baltic Sea
+ 
+ 
+natural hazards:
+     ice floes in the surrounding waters, especially in the Gulf of
+     Bothnia, can interfere with navigation
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Air Pollution-Volatile Organic Compounds,
+     Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity,
+     Climate Change, Endangered Species, Environmental Modification,
+     Hazardous Wastes, Marine Dumping, Nuclear Test Ban, Ozone Layer
+     Protection, Ship Pollution, Tropical Timber, Wetlands, Whaling;
+     signed, but not ratified - Law of the Sea
+Note:
+     strategic location along Danish Straits linking Baltic and North Seas
+ 
+                                  People
+ 
+Population:
+     8,778,461 (July 1994 est.)
+Population growth rate:
+     0.52% (1994 est.)
+Birth rate:
+     13.5 births/1,000 population (1994 est.)
+Death rate:
+     10.9 deaths/1,000 population (1994 est.)
+Net migration rate:
+     2.62 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     5.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     78.25 years
+male:
+     75.47 years
+female:
+     81.2 years (1994 est.)
+Total fertility rate:
+     2 children born/woman (1994 est.)
+Nationality:
+noun:
+     Swede(s)
+adjective:
+     Swedish
+Ethnic divisions:
+     white, Lapp (Sami), foreign born or first-generation immigrants 12%
+     (Finns, Yugoslavs, Danes, Norwegians, Greeks, Turks)
+Religions:
+     Evangelical Lutheran 94%, Roman Catholic 1.5%, Pentecostal 1%, other
+     3.5% (1987)
+Languages:
+     Swedish
+note:
+     small Lapp- and Finnish-speaking minorities; immigrants speak native
+     languages
+Literacy:
+     age 15 and over can read and write (1979 est.)
+ 
+ 
+total population:
+     99%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     4.552 million (84% unionized,1992)
+by occupation:
+     community, social and personal services 38.3%, mining and
+     manufacturing 21.2%, commerce, hotels, and restaurants 14.1%, banking,
+     insurance 9.0%, communications 7.2%, construction 7.0%, agriculture,
+     fishing, and forestry 3.2% (1991)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Kingdom of Sweden
+conventional short form:
+local long form:
+     Konungariket Sverige
+local short form:
+     Sverige
+Digraph:
+     SW
+Type:
+     constitutional monarchy
+Capital:
+     Stockholm
+Administrative divisions:
+     24 provinces (lan, singular and plural); Alvsborgs Lan, Blekinge Lan,
+     Gavleborgs Lan, Goteborgs och Bohus Lan, Gotlands Lan, Hallands Lan,
+     Jamtlands Lan, Jonkopings Lan, Kalmar Lan, Kopparbergs Lan,
+     Kristianstads Lan, Kronobergs Lan, Malmohus Lan, Norrbottens Lan,
+     Orebro Lan, Ostergotlands Lan, Skaraborgs Lan, Sodermanlands Lan,
+     Stockholms Lan, Uppsala Lan, Varmlands Lan, Vasterbottens Lan,
+     Vasternorrlands Lan, Vastmanlands Lan
+Independence:
+     6 June 1809 (constitutional monarchy established)
+National holiday:
+     Day of the Swedish Flag, 6 June
+Constitution:
+     1 January 1975
+Legal system:
+     civil law system influenced by customary law; accepts compulsory ICJ
+     jurisdiction, with reservations
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     King CARL XVI GUSTAF (since 19 September 1973); Heir Apparent Princess
+     VICTORIA Ingrid Alice Desiree, daughter of the King (born 14 July
+     1977)
+ 
+ 
+head of government:
+     Prime Minister Carl BILDT (since 3 October 1991); Deputy Prime
+     Minister Bengt WESTERBERG (since NA)
+cabinet:
+     Cabinet; appointed by the prime minister
+Legislative branch:
+     unicameral
+parliament (Riksdag):
+     elections last held 15 September 1991 (next to be held NA September
+     1994); results - Social Democratic Party 37.6%, Moderate Party
+     (conservative) 21.9%, Liberal People's Party 9.1%, Center Party 8.5%,
+     Christian Democrats 7.1%, New Democracy 6.7%, Left Party (Communist)
+     4.5%, Green Party 3.4%, other 1.2%; seats - (349 total) Social
+     Democratic 138, Moderate Party (conservative) 80, Liberal People's
+     Party 33, Center Party 31, Christian Democrats 26, New Democracy 25,
+     Left Party (Communist) 16; note - the Green Party has no seats in the
+     Riksdag because it received less than the required 4% of the vote
+Judicial branch:
+     Supreme Court (Hogsta Domstolen)
+Political parties and leaders:
+     ruling four-party coalition consists of Moderate Party (conservative),
+     Carl BILDT; Liberal People's Party, Bengt WESTERBERG; Center Party,
+     Olof JOHANSSON; and the Christian Democratic Party, Alf SVENSSON;
+     Social Democratic Party, Ingvar CARLSSON; New Democracy Party, Harriet
+     COLLIANDER; Left Party (VP; Communist), Gudrun SCHYMAN; Communist
+     Workers' Party, Rolf HAGEL; Green Party, no formal leader
+Member of:
+     AfDB, AG (observer), AsDB, Australian Group, BIS, CBSS, CCC, CE, CERN,
+     COCOM (cooperating), CSCE, EBRD, ECE, EFTA, ESA, FAO, G-6, G-8, G-9,
+     G-10, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IEA, IFAD, IFC,
+     ILO, IMF, IMO, INMARSAT, INTERPOL, INTELSAT, IOC, IOM, ISO, ITU,
+     LORCS, MTRC, NAM (guest), NC, NEA, NIB, NSG, OECD, ONUSAL, PCA, UN,
+     UNAVEM II, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNIKOM,
+     UNMOGIP, UNOMIG, UNOMOZ, UNOSOM, UNPROFOR, UNTAC, UNTSO, UPU, WFTU,
+     WHO, WIPO, WMO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Carl Henrik LILJEGREN
+chancery:
+     Suites 1200 and 715, 600 New Hampshire Avenue NW, Washington, DC 20037
+telephone:
+     (202) 944-5600
+FAX:
+     (202) 342-1319
+consulate(s) general:
+     Los Angeles and New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Thomas SIEBERT
+embassy:
+     Strandvagen 101, S-115 89 Stockholm
+mailing address:
+     use embassy street address
+telephone:
+     [46] (8) 783-5300
+ 
+ 
+FAX:
+     [46] (8) 661-1964
+Flag:
+     blue with a yellow cross that extends to the edges of the flag; the
+     vertical part of the cross is shifted to the hoist side in the style
+     of the Dannebrog (Danish flag)
+ 
+                                  Economy
+ 
+Overview:
+     Aided by a long period of peace and neutrality during World War I
+     through World War II, Sweden has achieved an enviable standard of
+     living under a mixed system of high-tech capitalism and extensive
+     welfare benefits. It has a modern distribution system, excellent
+     internal and external communications, and a skilled labor force.
+     Timber, hydropower, and iron ore constitute the resource base of an
+     economy that is heavily oriented toward foreign trade. Privately owned
+     firms account for about 90% of industrial output, of which the
+     engineering sector accounts for 50% of output and exports. In the last
+     few years, however, this extraordinarily favorable picture has been
+     clouded by inflation, growing unemployment, and a gradual loss of
+     competitiveness in international markets. Although Prime Minister
+     BILDT's center-right minority coalition had hoped to charge ahead with
+     free-market-oriented reforms, a skyrocketing budget deficit - almost
+     14% of GDP in FY94 projections - and record unemployment have
+     forestalled many of the plans. Unemployment in 1993 is estimated at
+     around 8% with another 5% in job training. Continued heavy foreign
+     exchange speculation forced the government to cooperate in late 1992
+     with the opposition Social Democrats on two crisis packages - one a
+     severe austerity pact and the other a program to spur industrial
+     competitiveness - which basically set economic policy through 1997. In
+     November 1992, Sweden broke its tie to the EC's ECU, and the krona has
+     since depreciated about 25% against the dollar. The government hopes
+     the boost in export competitiveness from the depreciation will help
+     lift Sweden out of its 3-year recession. To curb the budget deficit
+     and bolster confidence in the economy, BILDT continues to propose cuts
+     in welfare benefits, subsidies, defense, and foreign aid. Sweden
+     continues to harmonize its economic policies with those of the EU in
+     preparation for scheduled membership by early 1995, which will help to
+     broaden European economic unity.
+National product:
+     GDP - purchasing power equivalent - $153.7 billion (1993)
+National product real growth rate:
+     -2.7% (1993)
+National product per capita:
+     $17,600 (1993)
+Inflation rate (consumer prices):
+     4.4% (1993 est.)
+Unemployment rate:
+     8.2% (1993 est.)
+Budget:
+revenues:
+     $45.1 billion
+expenditures:
+     $73.1 billion, including capital expenditures of $NA (FY94)
+ 
+ 
+Exports:
+     $49.7 billion (f.o.b., 1993 est.)
+commodities:
+     machinery, motor vehicles, paper products, pulp and wood, iron and
+     steel products, chemicals, petroleum and petroleum products
+partners:
+     EC 55.8% (Germany 15%, UK 9.7%, Denmark 7.2%, France 5.8%), EFTA 17.4%
+     (Norway 8.4%, Finland 5.1%), US 8.2%, Central and Eastern Europe 2.5%
+     (1992)
+Imports:
+     $42.3 billion (c.i.f., 1993 est.)
+commodities:
+     machinery, petroleum and petroleum products, chemicals, motor
+     vehicles, foodstuffs, iron and steel, clothing
+partners:
+     EC 53.6% (Germany 17.9%, UK 6.3%, Denmark 7.5%, France 4.9%), EFTA
+     (Norway 6.6%, Finland 6%), US 8.4%, Central and Eastern Europe 3%
+     (1992)
+External debt:
+     $19.5 billion (1992 est.)
+Industrial production:
+     growth rate 0.8% (1993 est.)
+Electricity:
+capacity:
+     39,716,000 kW
+production:
+     142.5 billion kWh
+consumption per capita:
+     16,560 kWh (1992)
+Industries:
+     iron and steel, precision equipment (bearings, radio and telephone
+     parts, armaments), wood pulp and paper products, processed foods,
+     motor vehicles
+Agriculture:
+     animal husbandry predominates, with milk and dairy products accounting
+     for 37% of farm income; main crops - grains, sugar beets, potatoes;
+     100% self-sufficient in grains and potatoes; Sweden is about 50%
+     self-sufficient in most products; farming accounted for 1.2% of GDP
+     and 1.9% of jobs in 1990
+Illicit drugs:
+     transshipment point for narcotics shipped via the CIS and Baltic
+     states for the European market
+Economic aid:
+donor:
+     ODA and OOF commitments (1970-89), $10.3 billion
+Currency:
+     1 Swedish krona (SKr) = 100 oere
+Exchange rates:
+     Swedish kronor (SKr) per US$1 - 8.1255 (January 1994), 7.834 (1993),
+     5.8238 (1992), 6.0475 (1991) 5.9188 (1990), 6.4469 (1989)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+ 
+Railroads:
+     12,084 km total; Swedish State Railways (SJ) 11,202 km - 10,819 km
+     1.435-meter standard gauge, 6,955 km electrified and 1,152 km double
+     track; 182 km 0.891-meter gauge; 117 km rail ferry service;
+     privately-owned railways 882 km - 511 km 1.435-meter standard gauge
+     (332 km electrified) and 371 km 0.891-meter gauge (all electrified)
+Highways:
+total:
+     205,000 km
+paved:
+     69,754 km (including 936 km of expressways)
+unpaved:
+     gravel 45,900 km; unimproved earth 38,060 km; NA 51,286 km (1990)
+Inland waterways:
+     2,052 km navigable for small steamers and barges
+Pipelines:
+     natural gas 84 km
+Ports:
+     Gavle, Goteborg, Halmstad, Helsingborg, Kalmar, Malmo, Stockholm;
+     numerous secondary and minor ports
+Merchant marine:
+     161 ships (1,000 GRT or over) totaling 2,049,554 GRT/2,516,350 DWT,
+     bulk 10, cargo 24, chemical tanker 25, combination ore/oil 1,
+     container 2, oil tanker 30, railcar carrier 2, refrigerated cargo 1,
+     roll-on/roll-off cargo 39, short-sea passenger 10, specialized tanker
+     4, vehicle carrier 13
+Airports:
+total:
+     252
+usable:
+     248
+with permanent-surface runways:
+     138
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     11
+with runways 1,220-2,439 m:
+     94
+Telecommunications:
+     excellent domestic and international facilities; 8,200,000 telephones;
+     mainly coaxial and multiconductor cables carry long-distance network;
+     parallel microwave network carries primarily radio, TV and some
+     telephone channels; automatic system; broadcast stations - 5 AM, 360
+     (mostly repeaters) FM, 880 (mostly repeaters) TV; 5 submarine coaxial
+     cables; satellite earth stations - 1 Atlantic Ocean INTELSAT and 1
+     EUTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Swedish Army, Royal Swedish Navy, Swedish Air Force
+Manpower availability:
+     males age 15-49 2,146,145; fit for military service 1,874,787; reach
+     military age (19) annually 55,262 (1994 est.)
+ 
+ 
+Defense expenditures:
+     exchange rate conversion - $5.2 billion, 2.6% of GDP (FY93/94)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

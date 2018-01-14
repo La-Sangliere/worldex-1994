@@ -1,0 +1,387 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0177
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Nigeria
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Nigeria 
+ 
+ 
+                                  Nigeria
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, bordering the North Atlantic Ocean between Benin and
+     Cameroon
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     923,770 sq km
+land area:
+     910,770 sq km
+comparative area:
+     slightly more than twice the size of California
+Land boundaries:
+     total 4,047 km, Benin 773 km, Cameroon 1,690 km, Chad 87 km, Niger
+     1,497 km
+Coastline:
+     853 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     30 nm
+International disputes:
+     demarcation of international boundaries in Lake Chad, the lack of
+     which has led to border incidents in the past, is completed and
+     awaiting ratification by Cameroon, Chad, Niger, and Nigeria; boundary
+     commission, created with Cameroon to discuss unresolved land and
+     maritime boundaries, has not yet convened, but a commission was formed
+     January 1994 to study a flare-up of the dispute
+Climate:
+     varies; equatorial in south, tropical in center, arid in north
+Terrain:
+     southern lowlands merge into central hills and plateaus; mountains in
+     southeast, plains in north
+Natural resources:
+     petroleum, tin, columbite, iron ore, coal, limestone, lead, zinc,
+     natural gas
+Land use:
+arable land:
+     31%
+permanent crops:
+     3%
+meadows and pastures:
+     23%
+forest and woodland:
+     15%
+other:
+     28%
+Irrigated land:
+     8,650 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     soil degradation; rapid deforestation; desertification; recent
+     droughts in north severely affecting marginal agricultural activities
+natural hazards:
+     periodic droughts
+international agreements:
+     party to - Endangered Species, Hazardous Wastes, Law of the Sea,
+     Marine Dumping, Marine Life Conservation, Nuclear Test Ban, Ozone
+     Layer Protection; signed, but not ratified - Biodiversity, Climate
+     Change
+ 
+                                  People
+ 
+Population:
+     98,091,097 (July 1994 est.)
+Population growth rate:
+     3.15% (1994 est.)
+Birth rate:
+     43.52 births/1,000 population (1994 est.)
+Death rate:
+     12.43 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.36 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     75 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     55.33 years
+male:
+     54.11 years
+female:
+     56.59 years (1994 est.)
+Total fertility rate:
+     6.37 children born/woman (1994 est.)
+Nationality:
+noun:
+     Nigerian(s)
+adjective:
+     Nigerian
+Ethnic divisions:
+north:
+     Hausa and Fulani
+southwest:
+     Yoruba
+southeast:
+     Ibos
+     non-Africans 27,000
+note:
+     Hausa and Fulani, Yoruba, and Ibos together make up 65% of population
+Religions:
+     Muslim 50%, Christian 40%, indigenous beliefs 10%
+Languages:
+     English (official), Hausa, Yoruba, Ibo, Fulani
+ 
+ 
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     51%
+male:
+     62%
+female:
+     40%
+Labor force:
+     42.844 million
+by occupation:
+     agriculture 54%, industry, commerce, and services 19%, government 15%
+note:
+     49% of population of working age (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Federal Republic of Nigeria
+conventional short form:
+Digraph:
+     NI
+Type:
+     military government since 31 December 1983; plans to institute a
+     constitutional conference to prepare for a new transition to civilian
+     rule after plans for a transition in 1993 were negated by General
+     BABANGIDA
+Capital:
+     Abuja
+note:
+     on 12 December 1991 the capital was officially moved from Lagos to
+     Abuja; many government offices remain in Lagos pending completion of
+     facilities in Abuja
+Administrative divisions:
+     30 states and 1 territory*; Abia, Abuja Capital Territory*, Adamawa,
+     Akwa Ibom, Anambra, Bauchi, Benue, Borno, Cross River, Delta, Edo,
+     Enugu, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos,
+     Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe
+Independence:
+     1 October 1960 (from UK)
+National holiday:
+     Independence Day, 1 October (1960)
+Constitution:
+     1979 constitution still in force; plan for 1989 constitution to take
+     effect in 1993 was not implemented
+Legal system:
+     based on English common law, Islamic law, and tribal law
+Suffrage:
+     21 years of age; universal
+ 
+ 
+Executive branch:
+chief of state and head of government:
+     Chairman of the Provisional Ruling Council and Commander in Chief of
+     Armed Forces and Defense Minister Gen. Sani ABACHA (since 17 November
+     1993); Vice-Chairman of the Provisional Ruling Council Oladipo DIYA
+     (since 17 November 1993)
+cabinet:
+     Federal Executive Council
+Legislative branch:
+     bicameral National Assembly
+Senate:
+     suspended after coup of 17 November 1993
+House of Representatives:
+     suspended after coup of 17 November 1993
+Judicial branch:
+     Supreme Court, Federal Court of Appeal
+Political parties and leaders:
+note:
+     two political party system suspended after the coup of 17 November
+     1993
+Member of:
+     ACP, AfDB, C, CCC, ECA, ECOWAS, FAO, G-15, G-19, G-24, G-77, GATT,
+     IAEA, IBRD, ICAO, ICC, IDA, IFAD, IFC, ILO, IMO, IMF, INMARSAT,
+     INTELSAT, INTERPOL, IOC, ITU, LORCS, MINURSO, NAM, OAU, OIC
+     (observer), OPEC, PCA, UN, UNAVEM, UNCTAD, UNESCO, UNHCR, UNIDO,
+     UNIKOM, UNPROFOR, UNTAC, UPU, WCL, WHO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Zubair Mahmud KAZAURE
+chancery:
+     1333 16th Street NW, Washington, DC 20036
+telephone:
+     (202) 986-8400
+consulate(s) general:
+     New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Walter CARRINGTON
+embassy:
+     2 Eleke Crescent, Lagos
+mailing address:
+     P. O. Box 554, Lagos
+telephone:
+     [234] (1) 610050
+FAX:
+     [234] (1) 610257
+consulate(s) general:
+     Kaduna
+Flag:
+     three equal vertical bands of green (hoist side), white, and green
+ 
+                                  Economy
+ 
+ 
+Overview:
+     The oil-rich Nigerian economy continues to be hobbled by poor
+     macroeconomic management that has resulted in an average annual
+     inflation rate of 60%, a growing foreign debt, and a worsening balance
+     of payments. A deepening political crisis in 1993 has compounded the
+     government's failure to reign in deficit spending, which prevents it
+     from reaching an agreement with the IMF and its bilateral creditors on
+     debt relief. Investment in both oil and non-oil sector industry has
+     been undermined by corruption and squandered on white elephant
+     projects that have failed to generate diversification or new
+     employment.
+National product:
+     GDP - purchasing power equivalent - $95.1 billion (1993 est.)
+National product real growth rate:
+     4.1% (1992)
+National product per capita:
+     $1,000 (1993 est.)
+Inflation rate (consumer prices):
+     60% (1992 est.)
+Unemployment rate:
+     28% (1992 est.)
+Budget:
+revenues:
+     $9 billion
+expenditures:
+     $10.8 billion, including capital expenditures of $NA (1992 est.)
+Exports:
+     $11.9 billion (f.o.b., 1992)
+commodities:
+     oil 95%, cocoa, rubber
+partners:
+     US 54%, EC 23%
+Imports:
+     $8.3 billion (c.i.f., 1992)
+commodities:
+     machinery and equipment, manufactured goods, food and animals
+partners:
+     EC 64%, US 10%, Japan 7%
+External debt:
+     $29.5 billion (1992)
+Industrial production:
+     growth rate 7.7% (1991); accounts for 43% of GDP, including petroleum
+Electricity:
+capacity:
+     4,740,000 kW
+production:
+     8.3 billion kWh
+consumption per capita:
+     70 kWh (1991)
+Industries:
+     crude oil and mining - coal, tin, columbite; primary processing
+     industries - palm oil, peanut, cotton, rubber, wood, hides and skins;
+     manufacturing industries - textiles, cement, building materials, food
+     products, footwear, chemical, printing, ceramics, steel
+ 
+ 
+Agriculture:
+     accounts for 35% of GDP and half of labor force; inefficient
+     small-scale farming dominates; once a large net exporter of food and
+     now an importer; cash crops - cocoa, peanuts, palm oil, rubber; food
+     crops - corn, rice, sorghum, millet, cassava, yams; livestock -
+     cattle, sheep, goats, pigs; fishing and forestry resources extensively
+     exploited
+Illicit drugs:
+     passenger and cargo air hub for West Africa; facilitates movement of
+     heroin en route from Southeast and Southwest Asia to Western Europe
+     and North America; increasingly a transit route for cocaine from South
+     America intended for West European, East Asian, and North American
+     markets
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $705 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $3
+     billion; Communist countries (1970-89), $2.2 billion
+Currency:
+     1 naira (N) = 100 kobo
+Exchange rates:
+     naira (N) per US$1 - 21.886 (November 1993), 17.298 (1992), 9.909
+     (1991), 8.038 (1990), 7.3647 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     3,505 km 1.067-meter gauge
+Highways:
+total:
+     107,990 km
+paved:
+     mostly bituminous-surface treatment 30,019 km
+unpaved:
+     gravel, crushed stone, improved earth 25,411 km; unimproved earth
+     52,560 km
+Inland waterways:
+     8,575 km consisting of Niger and Benue Rivers and smaller rivers and
+     creeks
+Pipelines:
+     crude oil 2,042 km; petroleum products 3,000 km; natural gas 500 km
+Ports:
+     Lagos, Port Harcourt, Calabar, Warri, Onne, Sapele
+Merchant marine:
+     33 ships (1,000 GRT or over) totaling 432,704 GRT/686,718 DWT, bulk 1,
+     cargo 18, chemical tanker 3, liquified gas 1, oil tanker 9,
+     roll-on/roll-off cargo 1
+Airports:
+total:
+     80
+usable:
+     67
+ 
+ 
+with permanent-surface runways:
+     34
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     15
+with runways 1,220-2,439 m:
+     21
+Telecommunications:
+     above-average system limited by poor maintenance; major expansion in
+     progress; radio relay microwave and cable routes; broadcast stations -
+     35 AM, 17 FM, 28 TV; satellite earth stations - 2 Atlantic Ocean
+     INTELSAT, 1 Indian Ocean INTELSAT, 20 domestic stations; 1 coaxial
+     submarine cable
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, paramilitary Police Force
+Manpower availability:
+     males age 15-49 22,468,803; fit for military service 12,840,029; reach
+     military age (18) annually 986,518 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $172 million, about 1% of GDP (1992)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

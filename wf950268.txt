@@ -1,0 +1,124 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT APP-A
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : Appendix A: The United Nations System
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+ 
+Appendix A:  The United Nations System
+ 
+The UN is composed of six principal organs and numerous subordinate
+agencies and bodies as follows:
+ 
+1) Secretariat
+ 
+2) General Assembly:
+ 
+   Habitat Commission on Human Settlements
+   UNCTAD  United Nations Conference on Trade and Development
+   UNDP    United Nations Development Program
+   UNEP    United Nations Environment Program
+   UNFPA   United Nations Population Fund
+   UNHCR   United Nations Office of High Commissioner for Refugees
+   UNICEF  United Nations Children's Fund
+   UNITAR  UN Institute for Training and Research
+   UNRWA   United Nations Relief and Works Agency for Palestine Refugees
+           in the Near East
+   UN Special Fund
+   UN University
+   WFC     World Food Council
+   WFP     World Food Program
+ 
+3) Security Council:
+ 
+   Peacekeeping Forces and Organizations
+      UNAVEM II  United Nations Angola Verification Mission
+      UNDOF      United Nations Disengagement Observer Force
+      UNFICYP    United Nations Force in Cyprus
+      UNIFIL     United Nations Interim Force in Lebanon
+      UNMOGIP    United Nations Military Observer Group in India and
+                 Pakistan
+      UNTSO      United Nations Truce Supervision Organization
+      UNIKOM     United Nations Iran-Kuwait Observation Mission
+      MINURSO    United Nations Mission for the Referendum in Western
+                 Sahara
+      ONUSAL     United Nations Observer Mission in El Salvador
+      UNTAC      United Nations Transitional Authority in Cambodia
+      UNPROFOR   United Nations Protection Force
+      UNOSOM II  United Nations Operation in Somalia
+      UNOMIG     United Nations Observer Mission in Georgia
+      UNOMOZ     United Nations Operation in Mozambique
+      UNOMUR     United Nations Observer Mission Uganda-Rwanda
+ 
+   Commissions Established Pursuant to SC Res.687
+      UNSCOM     UN Special Commission
+      United National Compensation Commission
+      UN Iraq/Kuwait Boundary Demarcation Commission
+ 
+4) Economic and Social Council (ECOSOC):
+ 
+   Specialized agencies
+      FAO       Food and Agriculture Organization of the United Nations
+      IBRD      International Bank for Reconstruction and Development
+      ICAO      International Civil Aviation Organization
+      IDA       International Development Association
+      IFAD      International Fund for Agricultural Development
+      IFC       International Finance Corporation
+      ILO       International Labor Organization
+      IMF       International Monetary Fund
+      IMO       International Maritime Organization
+      ITU       International Telecommunication Union
+      UNESCO    United Nations Educational, Scientific, and Cultural
+                Organization
+      UNIDO     United Nations Industrial Development Organization
+      UPU       Universal Postal Union
+      WHO       World Health Organization
+      WIPO      World Intellectual Property Organization
+      WMO       World Meteorological Organization
+ 
+   Related organizations
+      GATT      General Agreement on Tariffs and Trade
+      IAEA      International Atomic Energy Agency
+ 
+   Regional commissions
+      ECA       Economic Commission for Africa
+      ECE       Economic Commission for Europe
+      ECLAC     Economic Commission for Latin America and the Caribbean
+      ESCAP     Economic and Social Commission for Asia and the Pacific
+      ESCWA     Economic and Social Commission for Western Asia
+ 
+   Functional commissions
+      Commission on Human Rights
+      Commission on Narcotics Drugs
+      Commission for Social Development
+      Commission on the Status of Women
+      Population Commission
+      Statistical Commission
+      Commission on Science and Technology for Development
+      Commission on Sustainable Development
+      Commission on Crime Prevention and Criminal Justice
+      Commission on Transnational Corporations
+ 
+5) Trusteeship Council
+ 
+6) International Court of Justice (ICJ)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

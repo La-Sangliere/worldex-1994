@@ -1,0 +1,305 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0145
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Macau
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Macau 
+ 
+ 
+                                   Macau
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (overseas territory of Portugal)
+ 
+                                 Geography
+ 
+Location:
+     Eastern Asia, 27 km west-southwest of Hong Kong on the southeast coast
+     of China bordering the South China Sea
+Map references:
+     Asia, Oceania, Southeast Asia, Standard Time Zones of the World
+Area:
+total area:
+     16 sq km
+land area:
+     16 sq km
+comparative area:
+     about 0.1 times the size of Washington, DC
+Land boundaries:
+     total 0.34 km, China 0.34 km
+Coastline:
+     40 km
+Maritime claims:
+     not specified
+International disputes:
+     none
+Climate:
+     subtropical; marine with cool winters, warm summers
+Terrain:
+     generally flat
+Natural resources:
+     negligible
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     NA
+international agreements:
+     party to - Ozone Layer Protection
+ 
+ 
+Note:
+     essentially urban; one causeway and one bridge connect the two islands
+     to the peninsula on mainland
+ 
+                                  People
+ 
+Population:
+     484,557 (July 1994 est.)
+Population growth rate:
+     1.35% (1994 est.)
+Birth rate:
+     14.78 births/1,000 population (1994 est.)
+Death rate:
+     4.12 deaths/1,000 population (1994 est.)
+Net migration rate:
+     2.83 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     5.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     79.75 years
+male:
+     77.33 years
+female:
+     82.3 years (1994 est.)
+Total fertility rate:
+     1.46 children born/woman (1994 est.)
+Nationality:
+noun:
+     Macanese (singular and plural)
+adjective:
+Ethnic divisions:
+     Chinese 95%, Portuguese 3%, other 2%
+Religions:
+     Buddhist 45%, Roman Catholic 7%, Protestant 1%, none 45.8%, other 1.2%
+     (1981)
+Languages:
+     Portuguese (official), Cantonese is the language of commerce
+Literacy:
+     age 15 and over can read and write (1981)
+total population:
+     90%
+male:
+     93%
+female:
+     86%
+Labor force:
+     180,000 (1986)
+by occupation:
+     NA
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+local long form:
+     none
+local short form:
+     Ilha de Macau
+Digraph:
+     MC
+Type:
+     overseas territory of Portugal scheduled to revert to China in 1999
+Capital:
+Administrative divisions:
+     2 districts (concelhos, singular - concelho); Ilhas, Macau
+Independence:
+     none (territory of Portugal; Portugal signed an agreement with China
+     on 13 April 1987 to return Macau to China on 20 December 1999; in the
+     joint declaration, China promises to respect Macau's existing social
+     and economic systems and lifestyle for 50 year after transition)
+National holiday:
+     Day of Portugal, 10 June (1580)
+Constitution:
+     17 February 1976, Organic Law of Macau; basic law drafted primarily by
+     Beijing awaiting final approval
+Legal system:
+     Portuguese civil law system
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President (of Portugal) Mario Alberto SOARES (since 9 March 1986)
+head of government:
+     Governor Gen. Vasco Joachim Rocha VIEIRA (since 20 March 1991)
+cabinet:
+     Consultative Council; consists of five members appointed by the
+     governor, two nominated by the governor, five members elected for a
+     four-year term (2 represent administrative bodies, 1 represents moral,
+     cultural, and welfare interests, and 2 economic interests), and three
+     statuatory members
+Legislative branch:
+     unicameral
+Legislative Assembly:
+     elections last held on 10 March 1991; results - percent of vote by
+     party NA; seats - (23 total; 8 elected by universal suffrage, 8 by
+     indirect suffrage, and 7 appointed by the governor) number of seats by
+     party NA
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Association to Defend the Interests of Macau; Macau Democratic Center;
+     Group to Study the Development of Macau; Macau Independent Group
+ 
+ 
+Other political or pressure groups:
+     wealthy Macanese and Chinese representing local interests, wealthy
+     pro-Communist merchants representing China's interests; in January
+     1967 the Macau Government acceded to Chinese demands that gave China
+     veto power over administration
+Member of:
+     ESCAP (associate), GATT, IMO (associate), INTERPOL (subbureau), WTO
+     (associate)
+Diplomatic representation in US:
+     none (Chinese territory under Portuguese administration)
+US diplomatic representation:
+     the US has no offices in Macau, and US interests are monitored by the
+     US Consulate General in Hong Kong
+Flag:
+     the flag of Portugal is used
+ 
+                                  Economy
+ 
+Overview:
+     The economy is based largely on tourism (including gambling) and
+     textile and fireworks manufacturing. Efforts to diversify have spawned
+     other small industries - toys, artificial flowers, and electronics.
+     The tourist sector has accounted for roughly 25% of GDP, and the
+     clothing industry has provided about two-thirds of export earnings;
+     the gambling industry represented well over 40% of GDP in 1992. Macau
+     depends on China for most of its food, fresh water, and energy
+     imports. Japan and Hong Kong are the main suppliers of raw materials
+     and capital goods.
+National product:
+     GDP - exchange rate conversion - $3.5 billion (1992 est.)
+National product real growth rate:
+     12% (1992)
+National product per capita:
+     $7,300 (1992)
+Inflation rate (consumer prices):
+     7.7% (1992 est.)
+Unemployment rate:
+     2% (1992 est.)
+Budget:
+revenues:
+     $305 million
+expenditures:
+     $298 million, including capital expenditures of $NA (1989 est.)
+Exports:
+     $1.8 billion (1992 est.)
+commodities:
+     textiles, clothing, toys
+partners:
+     US 35%, Hong Kong 12.5%, Germany 12%, China 9.9%, France 8% (1992
+     est.)
+Imports:
+     $2 billion (1992 est.)
+commodities:
+     raw materials, foodstuffs, capital goods
+ 
+ 
+partners:
+     Hong Kong 33%, China 20%, Japan 18% (1992 est.)
+External debt:
+     $91 million (1985)
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     258,000 kW
+production:
+     855 million kWh
+consumption per capita:
+     1,806 kWh (1992)
+Industries:
+     clothing, textiles, toys, plastic products, furniture, tourism
+Agriculture:
+     rice, vegetables; food shortages - rice, vegetables, meat; depends
+     mostly on imports for food requirements
+Economic aid:
+     none
+Currency:
+     1 pataca (P) = 100 avos
+Exchange rates:
+     patacas (P) per US$1 - 8.034 (1991-93), 8.024 (1990), 8.030 (1989);
+     note - linked to the Hong Kong dollar at the rate of 1.03 patacas per
+     Hong Kong dollar
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     42 km
+paved:
+     42 km
+Ports:
+Airports:
+     none usable, 1 under construction; 1 seaplane station
+Telecommunications:
+     fairly modern communication facilities maintained for domestic and
+     international services; 52,000 telephones; broadcast stations - 4 AM,
+     3 FM, no TV (TV programs received from Hong Kong); 115,000 radio
+     receivers (est.); international high-frequency radio communication
+     facility; access to international communications carriers provided via
+     Hong Kong and China; 1 Indian Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Manpower availability:
+     males age 15-49 139,499; fit for military service 77,887
+Note:
+     defense is responsibility of Portugal
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

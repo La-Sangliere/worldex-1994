@@ -1,0 +1,451 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0082
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: France
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | France 
+ 
+ 
+                                  France
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Europe, bordering the North Atlantic Ocean between Spain and
+     Germany
+Map references:
+     Europe, Standard Time Zones of the World
+Area:
+total area:
+     547,030 sq km
+land area:
+     545,630 sq km
+comparative area:
+     slightly more than twice the size of Colorado
+note:
+     includes Corsica and the rest of metropolitan France, but excludes the
+     overseas administrative divisions
+Land boundaries:
+     total 2,892.4 km, Andorra 60 km, Belgium 620 km, Germany 451 km, Italy
+     488 km, Luxembourg 73 km, Monaco 4.4 km, Spain 623 km, Switzerland 573
+     km
+Coastline:
+     3,427 km (mainland 2,783 km, Corsica 644 km)
+Maritime claims:
+contiguous zone:
+     12-24 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     Madagascar claims Bassas da India, Europa Island, Glorioso Islands,
+     Juan de Nova Island, and Tromelin Island; Comoros claims Mayotte;
+     Mauritius claims Tromelin Island; Seychelles claims Tromelin Island;
+     Suriname claims part of French Guiana; Mexico claims Clipperton
+     Island; territorial claim in Antarctica (Adelie Land); Saint Pierre
+     and Miquelon is focus of maritime boundary dispute between Canada and
+Climate:
+     generally cool winters and mild summers, but mild winters and hot
+     summers along the Mediterranean
+Terrain:
+     mostly flat plains or gently rolling hills in north and west;
+     remainder is mountainous, especially Pyrenees in south, Alps in east
+Natural resources:
+     coal, iron ore, bauxite, fish, timber, zinc, potash
+Land use:
+arable land:
+     32%
+permanent crops:
+     2%
+meadows and pastures:
+     23%
+ 
+ 
+forest and woodland:
+     27%
+other:
+     16%
+Irrigated land:
+     11,600 sq km (1989 est.)
+Environment:
+current issues:
+     some forest damage from acid rain; air pollution from industrial and
+     vehicle emissions; water pollution from urban wastes, agricultural
+     runoff
+natural hazards:
+     NA
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Antarctic-Environmental Protocol, Antarctic Treaty,
+     Climate Change, Endangered Species, Hazardous Wastes, Marine Dumping,
+     Marine Life Conservation, Ozone Layer Protection, Ship Pollution,
+     Tropical Timber, Wetlands, Whaling; signed, but not ratified - Air
+     Pollution-Volatile Organic Compounds, Biodiversity, Law of the Sea
+Note:
+     largest West European nation; occasional warm tropical wind known as
+     mistral
+ 
+                                  People
+ 
+Population:
+     57,840,445 (July 1994 est.)
+Population growth rate:
+     0.47% (1994 est.)
+Birth rate:
+     13.13 births/1,000 population (1994 est.)
+Death rate:
+     9.3 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.86 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     6.6 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     78.19 years
+male:
+     74.27 years
+female:
+     82.3 years (1994 est.)
+Total fertility rate:
+     1.8 children born/woman (1994 est.)
+Nationality:
+noun:
+     Frenchman(men), Frenchwoman(women)
+adjective:
+     French
+Ethnic divisions:
+     Celtic and Latin with Teutonic, Slavic, North African, Indochinese,
+     Basque minorities
+ 
+ 
+Religions:
+     Roman Catholic 90%, Protestant 2%, Jewish 1%, Muslim (North African
+     workers) 1%, unaffiliated 6%
+Languages:
+     French 100%, rapidly declining regional dialects and languages
+     (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish)
+Literacy:
+     age 15 and over can read and write (1980 est.)
+total population:
+     99%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     24.17 million
+by occupation:
+     services 61.5%, industry 31.3%, agriculture 7.2% (1987)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     French Republic
+conventional short form:
+local long form:
+     Republique Francaise
+local short form:
+Digraph:
+     FR
+Type:
+     republic
+Capital:
+     Paris
+Administrative divisions:
+     22 regions (regions, singular - region); Alsace, Aquitaine, Auvergne,
+     Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne,
+     Corse, Franche-Comte, Haute-Normandie, Ile-de-France,
+     Languedoc-Roussillon, Limousin, Lorraine, Midi-Pyrenees,
+     Nord-Pas-de-Calais, Pays de la Loire, Picardie, Poitou-Charentes,
+     Provence-Alpes-Cote d'Azur, Rhone-Alpes
+note:
+     the 22 regions are subdivided into 96 departments; see separate
+     entries for the overseas departments (French Guiana, Guadeloupe,
+     Martinique, Reunion) and the territorial collectivities (Mayotte,
+     Saint Pierre and Miquelon)
+Dependent areas:
+     Bassas da India, Clipperton Island, Europa Island, French Polynesia,
+     French Southern and Antarctic Lands, Glorioso Islands, Juan de Nova
+     Island, New Caledonia, Tromelin Island, Wallis and Futuna
+note:
+     the US does not recognize claims to Antarctica
+ 
+ 
+Independence:
+     486 (unified by Clovis)
+National holiday:
+     National Day, Taking of the Bastille, 14 July (1789)
+Constitution:
+     28 September 1958, amended concerning election of president in 1962,
+     amended to comply with provisions of EC Maastricht Treaty in 1992;
+     amended to tighten immigration laws 1993
+Legal system:
+     civil law system with indigenous concepts; review of administrative
+     but not legislative acts
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Francois MITTERRAND (since 21 May 1981); election last held
+     8 May 1988 (next to be held by May 1995); results - Second Ballot
+     Francois MITTERRAND 54%, Jacques CHIRAC 46%
+head of government:
+     Prime Minister Edouard BALLADUR (since 29 March 1993)
+cabinet:
+     Council of Ministers; appointed by the president on the suggestion of
+     the prime minister
+Legislative branch:
+     bicameral Parliament (Parlement)
+Senate (Senat):
+     elections last held 27 September 1992 (next to be held September 1995
+     - nine-year term, elected by thirds every three years); results -
+     percent of vote by party NA; seats - (321 total; 296 metropolitan
+     France, 13 for overseas departments and territories, and 12 for French
+     nationals abroad) RPR 91, UDF 142 (UREI 51, UC 68, RDE 23), PS 66, PCF
+     16, independents 2, other 4
+National Assembly (Assemblee Nationale):
+     elections last held 21 and 28 March 1993 (next to be held NA 1998);
+     results - percent of vote by party NA; seats - (577 total) RPR 247,
+     UDF 213, PS 67, PCF 24, independents 26
+Judicial branch:
+     Constitutional Court (Cour Constitutionnelle)
+Political parties and leaders:
+     Rally for the Republic (RPR), Jacques CHIRAC; Union for French
+     Democracy (UDF, federation of UREI, UC, RDE), Valery Giscard
+     d'ESTAING; Republican Party (PR), Gerard LONGUET; Center for Social
+     Democrats (CDS), Pierre MEHAIGNERIE; Radical (RAD), Yves GALLAND;
+     Socialist Party (PS), Henri EMMAMUELLI, interim party leader; Left
+     Radical Movement (MRG), Jean-Francois HORY; Communist Party (PCF),
+     Robert HUE; National Front (FN), Jean-Marie LE PEN; Union of
+     Republican and Independents (UREI); Centrist Union (UC); Democratic
+     Assembly (RDE); The Greens, Antoine WAECHTER, Jean-Louis VIDAL, Guy
+     CAMBOT; Generation Ecology (GE), Brice LALONDE
+ 
+ 
+Other political or pressure groups:
+     Communist-controlled labor union (Confederation Generale du Travail -
+     CGT) nearly 2.4 million members (claimed); Socialist-leaning labor
+     union (Confederation Francaise Democratique du Travail or CFDT) about
+     800,000 members (est.); independent labor union (Force Ouvriere) 1
+     million members (est.); independent white-collar union (Confederation
+     Generale des Cadres) 340,000 members (claimed); National Council of
+     French Employers (Conseil National du Patronat Francais - CNPF or
+     Patronat)
+Member of:
+     ACCT, AfDB, AG (observer), AsDB, Australia Group, BDEAC, BIS, CCC, CDB
+     (non-regional), CE, CERN, COCOM, CSCE, EBRD, EC, ECA (associate), ECE,
+     ECLAC, EIB, ESA, ESCAP, FAO, FZ, GATT, G-5, G-7, G-10, IADB, IAEA,
+     IBRD, ICAO, ICC, ICFTU, IDA, IEA, IFAD, IFC, ILO, IMF, IMO, INMARSAT,
+     INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, LORCS, MINURSO, MTCR, NACC,
+     NATO, NEA, NSG, OAS (observer), OECD, ONUSAL, PCA, SPC, UN, UNCTAD,
+     UNESCO, UNHCR, UNIDO, UNIFIL, UNIKOM, UNOSOM, UNPROFOR, UNRWA, UN
+     Security Council, UNTAC, UN Trusteeship Council, UNTSO, UPU, WCL, WEU,
+     WFTU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Jacques ANDREANI
+chancery:
+     4101 Reservoir Road NW, Washington, DC 20007
+telephone:
+     (202) 944-6000
+consulate(s) general:
+     Atlanta, Boston, Chicago, Honolulu, Houston, Los Angeles, Miami, New
+     Orleans, New York, San Francisco, and San Juan (Puerto Rico)
+US diplomatic representation:
+chief of mission:
+     Ambassador Pamela C. HARRIMAN
+embassy:
+     2 Avenue Gabriel, 75382 Paris Cedex 08
+mailing address:
+     Unit 21551, Paris; APO AE 09777
+telephone:
+     [33] (1) 4296-12-02 or 42-61-80-75
+FAX:
+     [33] (1) 4266-9783
+consulate(s) general:
+     Bordeaux, Marseille, Strasbourg
+Flag:
+     three equal vertical bands of blue (hoist side), white, and red; known
+     as the French Tricouleur (Tricolor); the design and colors are similar
+     to a number of other flags, including those of Belgium, Chad, Ireland,
+     Cote d'Ivoire, and Luxembourg; the official flag for all French
+     dependent areas
+ 
+                                  Economy
+ 
+ 
+Overview:
+     One of the world's most developed economies, France has substantial
+     agricultural resources and a highly diversified modern industrial
+     sector. Large tracts of fertile land, the application of modern
+     technology, and subsidies have combined to make it the leading
+     agricultural producer in Western Europe. Largely self-sufficient in
+     agricultural products, France is a major exporter of wheat and dairy
+     products. The industrial sector generates about one-quarter of GDP,
+     and the growing services sector has become crucial to the economy.
+     Although French GDP contracted by 0.7% in 1993, the economy showed
+     signs of life by yearend. GDP growth, however, will remain sluggish in
+     1994 - perhaps reaching only 1.0%. Rapidly increasing unemployment
+     will still pose a major problem for the government. Paris remains
+     committed to maintaining the franc-deutsche mark parity, which has
+     kept French interest rates high despite France's low inflation.
+     Although the pace of economic integration within the European
+     Community has slowed down, integration presumably will remain a major
+     force shaping the fortunes of the various economic sectors.
+National product:
+     GDP - purchasing power equivalent - $1.05 trillion (1993)
+National product real growth rate:
+     -0.7% (1993)
+National product per capita:
+     $18,200 (1993)
+Inflation rate (consumer prices):
+     2.1% (1993)
+Unemployment rate:
+     12.2% (May 1994)
+Budget:
+revenues:
+     $220.5 billion
+expenditures:
+     $249.1 billion, including capital expenditures of $47 billion (1993
+     budget)
+Exports:
+     $270.5 billion (f.o.b., 1993)
+commodities:
+     machinery and transportation equipment, chemicals, foodstuffs,
+     agricultural products, iron and steel products, textiles and clothing
+partners:
+     Germany 18.6%, Italy 11.0%, Spain 11.0%, Belgium-Luxembourg 9.1%, UK
+     8.8%, Netherlands 7.9%, US 6.4%, Japan 2.0%, former USSR 0.7% (1991
+     est.)
+Imports:
+     $250.2 billion (c.i.f., 1993)
+commodities:
+     crude oil, machinery and equipment, agricultural products, chemicals,
+     iron and steel products
+partners:
+     Germany 17.8%, Italy 10.9%, US 9.5%, Netherlands 8.9%, Spain 8.8%,
+     Belgium-Luxembourg 8.5%, UK 7.5%, Japan 4.1%, former USSR 1.3% (1991
+     est.)
+External debt:
+     $300 billion (1993 est.)
+ 
+ 
+Industrial production:
+     growth rate -4.3% (1993)
+Electricity:
+capacity:
+     110 million kW
+production:
+     426 billion kWh
+consumption per capita:
+     7,430 kWh (1992)
+Industries:
+     steel, machinery, chemicals, automobiles, metallurgy, aircraft,
+     electronics, mining, textiles, food processing, tourism
+Agriculture:
+     accounts for 4% of GDP (including fishing and forestry); one of the
+     world's top five wheat producers; other principal products - beef,
+     dairy products, cereals, sugar beets, potatoes, wine grapes;
+     self-sufficient for most temperate-zone foods; shortages include fats
+     and oils and tropical produce, but overall net exporter of farm
+     products; fish catch of 850,000 metric tons ranks among world's top 20
+     countries and is all used domestically
+Economic aid:
+donor:
+     ODA and OOF commitments (1970-89), $75.1 billion
+Currency:
+     1 French franc (F) = 100 centimes
+Exchange rates:
+     French francs (F) per US$1 - 5.9205 (January 1994), 5.6632 (1993),
+     5.2938 (1992), 5.6421 (1991), 5.4453 (1990), 6.3801 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     French National Railways (SNCF) operates 34,322 km 1,435-mm standard
+     gauge; 12,434 km electrified, 15,132 km double or multiple track; 99
+     km of various gauges (1,000-mm), privately owned and operated
+Highways:
+total:
+     1,510,750 km
+paved:
+     747,750 km (including 7,450 km of controlled access divided highway)
+unpaved:
+     763,000 km
+Inland waterways:
+     14,932 km; 6,969 km heavily traveled
+Pipelines:
+     crude oil 3,059 km; petroleum products 4,487 km; natural gas 24,746 km
+Ports:
+     coastal - Bordeaux, Boulogne, Brest, Cherbourg, Dunkerque,
+     Fos-Sur-Mer, Le Havre, Marseille, Nantes, Sete, Toulon; inland - Rouen
+ 
+ 
+Merchant marine:
+     124 ships (1,000 GRT or over) totaling 3,226,175 GRT/5,109,375 DWT,
+     bulk 9, cargo 10, chemical tanker 8, container 21, liquefied gas 6,
+     multifunction large-load carrier 1, oil tanker 37, passenger 1,
+     roll-on/roll-off cargo 21, short-sea passenger 7, specialized tanker 3
+note:
+     France also maintains a captive register for French-owned ships in the
+     Kerguelen Islands (French Southern and Antarctic Lands) and French
+     Polynesia
+Airports:
+total:
+     472
+usable:
+     461
+with permanent-surface runways:
+     258
+with runways over 3,659 m:
+     3
+with runways 2,440-3,659 m:
+     37
+with runways 1,220-2,439 m:
+     136
+Telecommunications:
+     highly developed; extensive cable and microwave radio relay networks;
+     large-scale introduction of optical-fiber systems; satellite systems
+     for domestic traffic; 39,200,000 telephones; broadcast stations - 41
+     AM, 800 (mostly repeaters) FM, 846 (mostly repeaters) TV; 24 submarine
+     coaxial cables; 2 INTELSAT earth stations (with total of 5 antennas -
+     2 for the Indian Ocean INTELSAT and 3 for the Atlantic Ocean
+     INTELSAT); HF radio communications with more than 20 countries;
+     INMARSAT service; EUTELSAT TV service
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy (including Naval Air), Air Force, National Gendarmerie
+Manpower availability:
+     males age 15-49 14,717,461; fit for military service 12,265,874; reach
+     military age (18) annually 376,485 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $33.0 billion, 3.3% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

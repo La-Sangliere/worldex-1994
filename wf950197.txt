@@ -1,0 +1,345 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0196
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Puerto Rico
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Puerto Rico 
+ 
+ 
+                                Puerto Rico
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (commonwealth associated with the US)
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the North Caribbean Sea, between the Dominican Republic
+     and the Virgin Islands group
+Map references:
+     Central America and the Caribbean
+Area:
+total area:
+     9,104 sq km
+land area:
+     8,959 sq km
+comparative area:
+     slightly less than three times the size of Rhode Island
+Land boundaries:
+     0 km
+Coastline:
+     501 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical marine, mild, little seasonal temperature variation
+Terrain:
+     mostly mountains with coastal plain belt in north; mountains
+     precipitous to sea on west coast; sandy beaches along most coastal
+     areas
+Natural resources:
+     some copper and nickel, potential for onshore and offshore crude oil
+Land use:
+arable land:
+     8%
+permanent crops:
+     9%
+meadows and pastures:
+     41%
+forest and woodland:
+     20%
+other:
+     22%
+ 
+ 
+Irrigated land:
+     390 sq km (1989 est.)
+Environment:
+current issues:
+     NA
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     important location along the Mona Passage - a key shipping lane to the
+     Panama Canal; San Juan is one of the biggest and best natural harbors
+     in the Caribbean; many small rivers and high central mountains ensure
+     land is well watered; south coast relatively dry; fertile coastal
+     plain belt in north
+ 
+                                  People
+ 
+Population:
+     3,801,977 (July 1994 est.)
+Population growth rate:
+     0.13% (1994 est.)
+Birth rate:
+     16.5 births/1,000 population (1994 est.)
+Death rate:
+     7.93 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -7.29 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     13.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     73.95 years
+male:
+     70.42 years
+female:
+     77.65 years (1994 est.)
+Total fertility rate:
+     2.04 children born/woman (1994 est.)
+Nationality:
+noun:
+     Puerto Rican(s)
+adjective:
+     Puerto Rican
+Ethnic divisions:
+     Hispanic
+Religions:
+     Roman Catholic 85%, Protestant denominations and other 15%
+Languages:
+     Spanish (official), English widely understood
+Literacy:
+     age 15 and over can read and write (1980)
+total population:
+     89%
+ 
+ 
+male:
+     90%
+female:
+     88%
+Labor force:
+     1.17 million (1992)
+by occupation:
+     government 20%, manufacturing 14%, trade 17%, construction 5%,
+     communications and transportation 5%, other 39% (1992)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Commonwealth of Puerto Rico
+conventional short form:
+Digraph:
+     RQ
+Type:
+     commonwealth associated with the US
+Capital:
+     San Juan
+Administrative divisions:
+     none (commonwealth associated with the US), note: there are 78
+     municipalities
+Independence:
+     none (commonwealth associated with the US)
+National holiday:
+     US Independence Day, 4 July (1776)
+Constitution:
+     ratified 3 March 1952; approved by US Congress 3 July 1952; effective
+     25 July 1952
+Legal system:
+     based on Spanish civil code
+Suffrage:
+     18 years of age; universal; indigenous inhabitants are US citizens but
+     do not vote in US presidential elections
+Executive branch:
+chief of state:
+     President William Jefferson CLINTON (since 20 January 1993); Vice
+     President Albert GORE, Jr. (since 20 January 1993)
+head of government:
+     Governor Pedro ROSSELLO (since NA January 1993); election last held 3
+     November 1992 (next to be held NA November 1996); results - Pedro
+     ROSSELLO (PND) 50%, Victoria MUNOZ (PPD) 46%, Fernando MARTIN (PIP) 4%
+Legislative branch:
+     bicameral Legislative Assembly
+Senate:
+     elections last held 3 November 1992 (next to be held NA November
+     1996); results - percent of vote by party NA; seats - (27 total) seats
+     by party NA
+ 
+ 
+House of Representatives:
+     elections last held 3 November 1992 (next to be held NA November
+     1996); results - percent of vote by party NA; seats - (53 total) seats
+     by party NA
+US House of Representatives:
+     elections last held 3 November 1992 (next to be held NA November
+     1996); results - percent of vote by party NA; seats - (1 total) seats
+     by party NA; note - Puerto Rico elects one representative to the US
+     House of Representatives, Carlos Romero BARCELO
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     National Republican Party of Puerto Rico, Freddy VALENTIN; Popular
+     Democratic Party (PPD), Rafael HERNANDEZ Colon; New Progressive Party
+     (PNP), Carlos ROMERO Barcelo; Puerto Rican Socialist Party (PSP), Juan
+     MARI Bras and Carlos GALLISA; Puerto Rican Independence Party (PIP),
+     Ruben BERRIOS Martinez; Puerto Rican Communist Party (PCP), leader(s)
+     unknown
+Other political or pressure groups:
+     all have engaged in terrorist activities - Armed Forces for National
+     Liberation (FALN); Volunteers of the Puerto Rican Revolution; Boricua
+     Popular Army (also known as the Macheteros); Armed Forces of Popular
+     Resistance
+Member of:
+     CARICOM (observer), ECLAC (associate), FAO (associate), ICFTU,
+     INTERPOL (subbureau), IOC, WCL, WFTU, WHO (associate), WTO (associate)
+Diplomatic representation in US:
+     none (commonwealth associated with the US)
+US diplomatic representation:
+     none (commonwealth associated with the US)
+Flag:
+     five equal horizontal bands of red (top and bottom) alternating with
+     white; a blue isosceles triangle based on the hoist side bears a large
+     white five-pointed star in the center; design based on the US flag
+ 
+                                  Economy
+ 
+Overview:
+     Puerto Rico has one of the most dynamic economies in the Caribbean
+     region. Industry has surpassed agriculture as the primary sector of
+     economic activity and income. Encouraged by duty free access to the US
+     and by tax incentives, US firms have invested heavily in Puerto Rico
+     since the 1950s. US minimum wage laws apply. Important industries
+     include pharmaceuticals, electronics, textiles, petrochemicals, and
+     processed foods. Sugar production has lost out to dairy production and
+     other livestock products as the main source of income in the
+     agricultural sector. Tourism has traditionally been an important
+     source of income for the island, with estimated arrivals of nearly 3
+     million tourists in 1989. Unemployment remains a severe problem at
+     18%.
+National product:
+     GNP - purchasing power equivalent - $26.8 billion (1992 est.)
+National product real growth rate:
+     NA%
+ 
+ 
+National product per capita:
+     $7,100 (1992 est.)
+Inflation rate (consumer prices):
+     2.1% (1992 est.)
+Unemployment rate:
+     18% (1993 est.)
+Budget:
+revenues:
+     $5.8 billion
+expenditures:
+     $5.8 billion, including capital expenditures of $258 million (1989
+     est.)
+Exports:
+     $21.8 billion (1992)
+commodities:
+     pharmaceuticals, electronics, apparel, canned tuna, rum, beverage
+     concentrates, medical equipment, instruments
+partners:
+     US 88.3% (1990)
+Imports:
+     $14.8 billion (1992)
+commodities:
+     chemicals, clothing, food, fish, petroleum products
+partners:
+     US 68.8% (1990)
+External debt:
+     $NA
+Industrial production:
+     growth rate 1.2% (FY92)
+Electricity:
+capacity:
+     5,040,000 kW
+production:
+     16.1 billion kWh
+consumption per capita:
+     4,260 kWh (1992)
+Industries:
+     manufacturing accounts for 55.5% of GDP: manufacturing of
+     pharmaceuticals, electronics, apparel, food products, instruments;
+     tourism
+Agriculture:
+     accounts for only 3% of labor force and less than 2% of GDP: crops -
+     sugarcane, coffee, pineapples, plantains, bananas; livestock - cattle,
+     chickens; imports a large share of food needs (1992)
+Economic aid:
+     none
+Currency:
+     1 United States dollar (US$) = 100 cents
+Exchange rates:
+     US currency is used
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+ 
+Railroads:
+     96 km rural narrow-gauge system for hauling sugarcane; no passenger
+     railroads
+Highways:
+total:
+     13,762 km
+paved:
+     13,762 km (1982)
+Ports:
+     San Juan, Ponce, Mayaguez, Arecibo
+Airports:
+total:
+     30
+usable:
+     23
+with permanent-surface runways:
+     19
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     3
+with runways 1,220-2,439 m:
+     5
+Telecommunications:
+     modern system, integrated with that of the US by high capacity
+     submarine cable and INTELSAT with high-speed data capability; digital
+     telephone system with about 1 million lines; cellular telephone
+     service; broadcast stations - 50 AM, 63 FM, 9 TV; cable television
+     available with US programs (1990)
+ 
+                              Defense Forces
+ 
+Branches:
+     paramilitary National Guard, Police Force
+Note:
+     defense is the responsibility of the US
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

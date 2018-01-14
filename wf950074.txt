@@ -1,0 +1,372 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0073
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Equatorial Guinea
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Equatorial Guinea 
+ 
+ 
+                             Equatorial Guinea
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, bordering the North Atlantic Ocean between Cameroon
+     and Gabon
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     28,050 sq km
+land area:
+     28,050 sq km
+comparative area:
+     slightly larger than Maryland
+Land boundaries:
+     total 539 km, Cameroon 189 km, Gabon 350 km
+Coastline:
+     296 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     maritime boundary dispute with Gabon because of disputed sovereignty
+     over islands in Corisco Bay
+Climate:
+     tropical; always hot, humid
+Terrain:
+     coastal plains rise to interior hills; islands are volcanic
+Natural resources:
+     timber, petroleum, small unexploited deposits of gold, manganese,
+     uranium
+Land use:
+arable land:
+     8%
+permanent crops:
+     4%
+meadows and pastures:
+     4%
+forest and woodland:
+     51%
+other:
+     33%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     desertification
+natural hazards:
+     subject to violent windstorms
+international agreements:
+     party to - Nuclear Test Ban; signed, but not ratified - Law of the Sea
+ 
+ 
+Note:
+     insular and continental regions rather widely separated
+ 
+                                  People
+ 
+Population:
+     409,550 (July 1994 est.)
+Population growth rate:
+     2.59% (1994 est.)
+Birth rate:
+     40.65 births/1,000 population (1994 est.)
+Death rate:
+     14.73 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     102.6 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     52.09 years
+male:
+     49.97 years
+female:
+     54.27 years (1994 est.)
+Total fertility rate:
+     5.28 children born/woman (1994 est.)
+Nationality:
+noun:
+     Equatorial Guinean(s) or Equatoguinean(s)
+adjective:
+     Equatorial Guinean or Equatoguinean
+Ethnic divisions:
+     Bioko (primarily Bubi, some Fernandinos), Rio Muni (primarily Fang),
+     Europeans less than 1,000, mostly Spanish
+Religions:
+     nominally Christian and predominantly Roman Catholic, pagan practices
+Languages:
+     Spanish (official), pidgin English, Fang, Bubi, Ibo
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     50%
+male:
+     64%
+female:
+     37%
+Labor force:
+     172,000 (1986 est.)
+by occupation:
+     agriculture 66%, services 23%, industry 11% (1980)
+note:
+     labor shortages on plantations; 58% of population of working age
+     (1985)
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Equatorial Guinea
+conventional short form:
+local long form:
+     Republica de Guinea Ecuatorial
+local short form:
+     Guinea Ecuatorial
+former:
+     Spanish Guinea
+Digraph:
+     EK
+Type:
+     republic in transition to multiparty democracy
+Capital:
+     Malabo
+Administrative divisions:
+     7 provinces (provincias, singular - provincia); Annobon, Bioko Norte,
+     Bioko Sur, Centro Sur, Kie-Ntem, Litoral, Wele-Nzas
+Independence:
+     12 October 1968 (from Spain)
+National holiday:
+     Independence Day, 12 October (1968)
+Constitution:
+     new constitution 17 November 1991
+Legal system:
+     partly based on Spanish civil law and tribal custom
+Suffrage:
+     universal adult at age NA
+Executive branch:
+chief of state:
+     President Brig. Gen. (Ret.) Teodoro OBIANG NGUEMA MBASOGO (since 3
+     August 1979) election last held 25 June 1989 (next to be held 25 June
+     1996); results - President Brig. Gen. (Ret.) Teodoro OBIANG NGUEMA
+     MBASOGO was reelected without opposition
+head of government:
+     Prime Minister Silvestre SIALE BILEKA (since 17 January 1992); Vice
+     Prime Minister Anatolio NDONG MBA (since November 1993);
+cabinet:
+      Council of Ministers; appointed by the president
+Legislative branch:
+     unicameral
+House of People's Representatives:
+      (Camara de Representantes del Pueblo) elections last held 21 November
+     1993; seats - (82 total) PDGE 72, various opposition parties 10
+Judicial branch:
+     Supreme Tribunal
+ 
+ 
+Political parties and leaders:
+     ruling - Democratic Party for Equatorial Guinea (PDGE), Brig. Gen.
+     (Ret.) Teodoro OBIANG NGUEMA MBASOGO, party leader; Progressive
+     Democratic Alliance (ADP), Antonio-Ebang Mbele Abang, president;
+     Popular Action of Equatorial Guinea (APGE),Casiano Masi Edu, leader;
+     Liberal Democratic Convention (CLD), Alfonso Nsue MOKUY, president;
+     Convergence for Social Democracy (CPDS),Santiago Obama Ndong,
+     president; Social Democratic and Popular Convergence (CSDP), Secundino
+     Oyono Agueng Ada, general secretary; Party of the Social Democratic
+     Coalition (PCSD), Buenaventura Moswi M'Asumu, general coordinater;
+     Liberal Party (PL), leaders unknown; Party of Progress (PP), Severo
+     MOTO Nsa, president; Social Democratic Party (PSD), Benjamin-Gabriel
+     Balingha Balinga Alene, general secretary; Socialist Party of
+     Equatorial Guinea (PSGE), Tomas MICHEBE Fernandez, general secretary;
+     National Democratic Union (UDENA), Jose MECHEBA Ikaka, president;
+     Democratic Social Union (UDS), Jesus Nze Obama Avomo, general
+     secretary; Popular Union (UP), Juan Bitui, president
+Member of:
+     ACCT, ACP, AfDB, BDEAC, CEEAC, ECA, FAO, FZ, G-77, IBRD, ICAO, IDA,
+     IFAD, IFC, ILO, IMF, IMO, INTELSAT (nonsignatory user), INTERPOL, IOC,
+     ITU, LORCS (associate), NAM, OAS (observer), OAU, UDEAC, UN, UNCTAD,
+     UNESCO, UNIDO, UPU, WHO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador DAMASO Obiang Ndong
+chancery:
+     (temporary) 57 Magnolia Avenue, Mount Vernon, NY 10553
+telephone:
+     (914) 738-9584 or 667-6913
+FAX:
+     (914) 667-6838
+US diplomatic representation:
+chief of mission:
+     Ambassador John E. BENNETT
+embassy:
+     Calle de Los Ministros, Malabo
+mailing address:
+     P.O. Box 597, Malabo
+telephone:
+     [240] (9) 2185, 2406, 2507
+FAX:
+     [240] (9) 2164
+Flag:
+     three equal horizontal bands of green (top), white, and red with a
+     blue isosceles triangle based on the hoist side and the coat of arms
+     centered in the white band; the coat of arms has six yellow
+     six-pointed stars (representing the mainland and five offshore
+     islands) above a gray shield bearing a silk-cotton tree and below
+     which is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace,
+     Justice)
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Agriculture, forestry, and fishing account for about half of GDP and
+     nearly all exports. Subsistence farming predominates. Although
+     pre-independence Equatorial Guinea counted on cocoa production for
+     hard currency earnings, the deterioration of the rural economy under
+     successive brutal regimes has diminished potential for agriculture-led
+     growth. A number of AID programs sponsored by the World Bank and the
+     international donor community have failed to revitalize export
+     agriculture. There is little industry; businesses for the most part
+     are owned by government officials and their family members. Commerce
+     accounts for about 8% of GDP and the construction, public works, and
+     service sectors for about 38%. Undeveloped natural resources include
+     titanium, iron ore, manganese, uranium, and alluvial gold. Oil
+     exploration, taking place under concessions offered to US, French, and
+     Spanish firms, has been moderately successful. Increased production
+     from recently discovered natural gas fields will provide a greater
+     share of exports by 1995.
+National product:
+     GDP - purchasing power equivalent - $280 million (1993 est.)
+National product real growth rate:
+     NA
+National product per capita:
+     $700 (1993 est.)
+Inflation rate (consumer prices):
+     1.6% (1992 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $32.5 million
+expenditures:
+     $35.9 million, including capital expenditures of $3 million (1992
+     est.)
+Exports:
+     $52.8 million (f.o.b., 1992)
+commodities:
+     coffee, timber, cocoa beans
+partners:
+     Spain 55.2%, Nigeria 11.4%, Cameroon 9.1% (1992)
+Imports:
+     $63.6 million (c.i.f., 1992)
+commodities:
+     petroleum, food, beverages, clothing, machinery
+partners:
+     Cameroon 23.1%, Spain 21.8%, France 14.1%, US 4.3%
+External debt:
+     $260 million (1992 est)
+Industrial production:
+     growth rate -6.5% (1992 est.); accounts for 5% of GDP
+Electricity:
+capacity:
+     23,000 kW
+production:
+     60 million kWh
+ 
+ 
+consumption per capita:
+     160 kWh (1991)
+Industries:
+     fishing, sawmilling
+Agriculture:
+     accounts for almost 50% of GDP, cash crops - timber and coffee from
+     Rio Muni, cocoa from Bioko; food crops - rice, yams, cassava, bananas,
+     oil palm nuts, manioc, livestock
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY81-89), $14 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $130
+     million; Communist countries (1970-89), $55 million
+Currency:
+     1 CFA franc (CFAF) = 100 centimes
+Exchange rates:
+     Communaute Financiere Africaine francs (CFAF) per US$1 - 592.05
+     (January 1994), 273,16 (1993), 264.69 (1992), 282.11 (1991), 272.26
+     (1990), 319.01 (1989)
+note:
+     beginning 12 January 1994, the CFA franc was devalued to CFAF 100 per
+     French franc from CFAF 50 at which it had been fixed since 1948
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Highways:
+total:
+     2,760 km (2,460 km on Rio Muni and 300 km on Bioko)
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     Malabo, Bata
+Merchant marine:
+     2 ships (1,000 GRT or over) totaling 6,412 GRT/6,699 DWT, cargo 1,
+     passenger-cargo 1
+Airports:
+total:
+     3
+usable:
+     3
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     1
+ 
+ 
+Telecommunications:
+     poor system with adequate government services; international
+     communications from Bata and Malabo to African and European countries;
+     2,000 telephones; broadcast stations - 2 AM, no FM, 1 TV; 1 Indian
+     Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, National Guard, National Police
+Manpower availability:
+     males age 15-49 86,957; fit for military service 44,174
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

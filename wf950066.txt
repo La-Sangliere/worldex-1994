@@ -1,0 +1,405 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0065
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Czech Republic
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Czech Republic 
+ 
+ 
+                              Czech Republic
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Europe, between Germany and Slovakia
+Map references:
+     Ethnic Groups in Eastern Europe, Europe, Standard Time Zones of the
+     World
+Area:
+total area:
+     78,703 sq km
+land area:
+     78,645 sq km
+comparative area:
+     slightly smaller than South Carolina
+Land boundaries:
+     total 1,880 km, Austria 362 km, Germany 646 km, Poland 658 km,
+     Slovakia 214 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     Liechtenstein claims l,606 square miles of Czech territory confiscated
+     from its royal family in 1918; Sudeten German claims for restitution
+     of property confiscated in connection with their expulsion after World
+     War II versus the Czech Republic claims that restitution does not
+     proceed before February 1948 when the Communists seized power;
+     unresolved property issues with Slovakia over redistribution of
+     property of the former Czechoslovak federal government
+Climate:
+     temperate; cool summers; cold, cloudy, humid winters
+Terrain:
+     two main regions: Bohemia in the west, consisting of rolling plains,
+     hills, and plateaus surrounded by low mountains; and Moravia in the
+     east, consisting of very hilly country
+Natural resources:
+     hard coal, soft coal, kaolin, clay, graphite
+Land use:
+arable land:
+     NA%
+permanent crops:
+     NA%
+meadows and pastures:
+     NA%
+forest and woodland:
+     NA%
+other:
+     NA%
+Irrigated land:
+     NA sq km
+ 
+ 
+Environment:
+current issues:
+     air and water pollution in areas of northwest Bohemia centered around
+     Zeplica and in northern Moravia around Ostrava presents health
+     hazards; acid rain damaging forests
+natural hazards:
+     NA
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Antarctic Treaty, Biodiversity, Climate Change,
+     Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone
+     Layer Protection, Ship Pollution, Wetlands; signed, but not ratified -
+     Antarctic-Environmental Protocol
+Note:
+     landlocked; strategically located astride some of oldest and most
+     significant land routes in Europe; Moravian Gate is a traditional
+     military corridor between the North European Plain and the Danube in
+     central Europe
+ 
+                                  People
+ 
+Population:
+     10,408,280 (July 1994 est.)
+Population growth rate:
+     0.21% (1994 est.)
+Birth rate:
+     13.23 births/1,000 population (1994 est.)
+Death rate:
+     11.14 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     9.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     73.08 years
+male:
+     69.38 years
+female:
+     76.99 years (1994 est.)
+Total fertility rate:
+     1.84 children born/woman (1994 est.)
+Nationality:
+noun:
+     Czech(s)
+adjective:
+     Czech
+Ethnic divisions:
+     Czech 94.4%, Slovak 3%, Polish 0.6%, German 0.5%, Gypsy 0.3%,
+     Hungarian 0.2%, other 1%
+Religions:
+     atheist 39.8%, Roman Catholic 39.2%, Protestant 4.6%, Orthodox 3%,
+     other 13.4%
+Languages:
+     Czech, Slovak
+ 
+ 
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     5.389 million
+by occupation:
+     industry 37.9%, agriculture 8.1%, construction 8.8%, communications
+     and other 45.2% (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+conventional short form:
+local long form:
+     Ceska Republika
+local short form:
+     Cechy
+Digraph:
+     EZ
+Type:
+     parliamentary democracy
+Capital:
+     Prague
+Administrative divisions:
+     8 regions (kraje, kraj - singular); Jihocesky, Jihomoravsky, Praha,
+     Severocesky, Severomoravsky, Stredocesky, Vychodocesky, Zapadocesky
+Independence:
+     1 January 1993 (from Czechoslovakia)
+National holiday:
+     National Liberation Day, 9 May; Founding of the Republic, 28 October
+Constitution:
+     ratified 16 December 1992; effective 1 January 1993
+Legal system:
+     civil law system based on Austro-Hungarian codes; has not accepted
+     compulsory ICJ jurisdiction; legal code modified to bring it in line
+     with Conference on Security and Cooperation in Europe (CSCE)
+     obligations and to expunge Marxist-Leninist legal theory
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Vaclav HAVEL (since 26 January 1993); election last held 26
+     January 1993 (next to be held NA January 1998); results - Vaclav HAVEL
+     elected by the National Council
+head of government:
+     Prime Minister Vaclav KLAUS (since NA June 1992); Deputy Prime
+     Ministers Ivan KOCARNIK, Josef LUX, Jan KALVODA (since NA June 1992)
+ 
+ 
+cabinet:
+     Cabinet; appointed by the president on recommendation of the prime
+     minister
+Legislative branch:
+     bicameral National Council (Narodni rada)
+Senate:
+     elections not yet held; seats (81 total)
+Chamber of Deputies:
+     elections last held 5-6 June 1992 (next to be held NA 1996); results -
+     percent of vote by party NA; seats - (200 total) Civic Democratic
+     Party/Christian Democratic Party 76, Left Bloc 35, Czech Social
+     Democratic Party 16, Liberal Social Union 16, Christian Democratic
+     Union/Czech People's Party 15, Assembly for the Republic/Republican
+     Party 14, Civic Democratic Alliance 14, Movement for Self-Governing
+     Democracy for Moravia and Silesia 14
+Judicial branch:
+     Supreme Court, Constitutional Court
+Political parties and leaders:
+     Civic Democratic Party (ODS), Vaclav KLAUS, chairman; Christian
+     Democratic Union-Czech People's Party (KDU-CSL), Josef LUX, chairman;
+     Civic Democratic Alliance (ODA), Jan KALVODA, chairman; Christian
+     Democratic Party (KDS), Ivan PILIP, chairman; Czech Social Democratic
+     Party, Milos ZEMAN, chairman; Czech-Moravian Center Party, Jan KYCER,
+     chairman; Liberal Social Union (LSU), Frantisek TRNKA; Communist Party
+     of Bohemia/Moravia (KSCM), Miroslav GREBENICEK, chairman; Association
+     for the Republic - Republican Party, Miroslav SLADEK, chairman; Left
+     Bloc, Marie STIBOROVA, chairman
+Other political or pressure groups:
+     Left Bloc; Liberal Party; Czech-Moravian Chamber of Trade Unions
+Member of:
+     BIS, CCC, CE (guest), CEI, CERN, COCOM (cooperating), CSCE, EBRD, ECE,
+     FAO, GATT, IAEA, IBRD, ICAO, IDA, IFC, IFCTU, ILO, IMF, IMO, INMARSAT,
+     INTELSAT, INTERPOL, IOC, IOM (observer), ISO, ITU, LORCS, NACC, NSG,
+     PCA, UN (as of 8 January 1993), UNAVEM II, UNCTAD, UNESCO, UNIDO,
+     UNOMIG, UNOMOZ, UNPROFOR, UPU, WFTU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Michael ZANTOVSKY
+chancery:
+     3900 Spring of Freedom Street NW, Washington, DC 20008
+telephone:
+     (202) 363-6315 or 6316
+FAX:
+     (202) 966-8540
+US diplomatic representation:
+chief of mission:
+     Ambassador Adrian A. BASORA
+embassy:
+     Trziste 15, 11801, Prague 1
+mailing address:
+     Unit 25402; APO AE 09213
+telephone:
+     [42] (2) 251-0847
+FAX:
+     [42] (2) 531-193
+ 
+ 
+Flag:
+     two equal horizontal bands of white (top) and red with a blue
+     isosceles triangle based on the hoist side (almost identical to the
+     flag of the former Czechoslovakia)
+ 
+                                  Economy
+ 
+Overview:
+     The dissolution of Czechoslovakia into two independent nation states -
+     the Czech Republic and Slovakia - on 1 January 1993 has complicated
+     the task of moving toward a more open and decentralized economy. The
+     old Czechoslovakia, even though highly industrialized by East European
+     standards, suffered from an aging capital plant, lagging technology,
+     and a deficiency in energy and many raw materials. In January 1991,
+     approximately one year after the end of communist control of Eastern
+     Europe, the Czech and Slovak Federal Republic launched a sweeping
+     program to convert its almost entirely state-owned and controlled
+     economy to a market system. In 1991-92 these measures resulted in
+     privatization of some medium- and small-scale economic activity and
+     the setting of more than 90% of prices by the market - but at a cost
+     in inflation, unemployment, and lower output. For Czechoslovakia as a
+     whole inflation in 1991 was roughly 50% and output fell 15%. In 1992,
+     in the Czech lands, inflation dropped to an estimated 12.5% and GDP
+     was down a more moderate 5%. In 1993, Czech aggregate output remained
+     unchanged, prices rose about 19%, and unemployment hovered above 3%;
+     exports to Slovakia fell roughly 30%. An estimated 40% of the economy
+     was privately owned. In 1994, Prague expects 2% to 3% growth in GDP,
+     roughly 9% inflation, and 5% unemployment. Economic growth in 1994 is
+     less important than continued economic restructuring; a mere 1% growth
+     would be noteworthy if restructuring is accompanied by rising
+     unemployment and enterprise bankruptcies.
+National product:
+     GDP - purchasing power equivalent - $75 billion (1993 est.)
+National product real growth rate:
+     0% (1993 est.)
+National product per capita:
+     $7,200 (1993 est.)
+Inflation rate (consumer prices):
+     19% (1993 est.)
+Unemployment rate:
+     3.3% (1993 est.)
+Budget:
+revenues:
+     $11.9 billion
+expenditures:
+     $11.9 billion, including capital expenditures of $NA (1993 est.)
+Exports:
+     $12.6 billion (f.o.b., 1993 est.)
+commodities:
+     manufactured goods, machinery and transport equipment, chemicals,
+     fuels, minerals, and metals
+partners:
+     Germany, Slovakia, Poland, Austria, Hungary, Italy, France, US, UK,
+     CIS republics
+ 
+ 
+Imports:
+     $12.4 billion (f.o.b., 1993 est.)
+commodities:
+     machinery and transport equipment, fuels and lubricants, manfactured
+     goods, raw materials, chemicals, agricultural products
+partners:
+     Slovakia, CIS republics, Germany, Austria, Poland, Switzerland,
+     Hungary, UK, Italy
+External debt:
+     $8.6 billion (October 1993)
+Industrial production:
+     growth rate -5.5% (December 1993 over December 1992)
+Electricity:
+capacity:
+     16,500,000 kW
+production:
+     62.2 billion kWh
+consumption per capita:
+     6,030 kWh (1992)
+Industries:
+     fuels, ferrous metallurgy, machinery and equipment, coal, motor
+     vehicles, glass, armaments
+Agriculture:
+     largely self-sufficient in food production; diversified crop and
+     livestock production, including grains, potatoes, sugar beets, hops,
+     fruit, hogs, cattle, and poultry; exporter of forest products
+Illicit drugs:
+     transshipment point for Southwest Asian heroin and Latin American
+     cocaine to Western Europe
+Economic aid:
+donor:
+     the former Czechoslovakia was a donor - $4.2 billion in bilateral aid
+     to non-Communist less developed countries (1954-89)
+Currency:
+     1 koruna (Kc) = 100 haleru
+Exchange rates:
+     koruny (Kcs) per US$1 - 30.122 (January 1994), 29.153 (1993), 28.26
+     (1992), 29.53 (1991), 17.95 (1990), 15.05 (1989)
+note:
+     values before 1993 reflect Czechoslovak exchange rates
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     9,434 km total (1988)
+Highways:
+total:
+     55,890 km (1988)
+paved:
+     NA
+unpaved:
+     NA
+ 
+ 
+Inland waterways:
+     NA km; the Elbe (Labe) is the principal river
+Pipelines:
+     natural gas 5,400 km
+Ports:
+     coastal outlets are in Poland (Gdynia, Gdansk, Szczecin), Croatia
+     (Rijeka), Slovenia (Koper), Germany (Hamburg, Rostock); principal
+     river ports are Prague on the Vltava, Decin on the Elbe (Labe)
+Merchant marine:
+     18 ships (1,000 GRT or over) totaling 225,934 GRT/350,330 DWT, bulk 7,
+     cargo 11
+Airports:
+total:
+     155
+usable:
+     123
+with permanent-surface runways:
+     27
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     17
+with runways 1,060-2,439 m:
+     52
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     NA
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Air and Air Defense Forces, Civil Defense, Railroad Units
+Manpower availability:
+     males age 15-49 2,747,126; fit for military service 2,091,532; reach
+     military age (18) annually 93,342 (1994 est.)
+Defense expenditures:
+     23 billion koruny, NA% of GNP (1993 est.); note - conversion of
+     defense expenditures into US dollars using the current exchange rate
+     could produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

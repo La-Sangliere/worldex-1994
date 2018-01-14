@@ -1,0 +1,449 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0194
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Poland
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Poland 
+ 
+ 
+                                  Poland
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Europe, between Germany and Belarus
+Map references:
+     Asia, Ethnic Groups in Eastern Europe, Europe, Standard Time Zones of
+     the World
+Area:
+total area:
+     312,680 sq km
+land area:
+     304,510 sq km
+comparative area:
+     slightly smaller than New Mexico
+Land boundaries:
+     total 3,114 km, Belarus 605 km, Czech Republic 658 km, Germany 456 km,
+     Lithuania 91 km, Russia (Kaliningrad Oblast) 432 km, Slovakia 444 km,
+     Ukraine 428 km
+Coastline:
+     491 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     temperate with cold, cloudy, moderately severe winters with frequent
+     precipitation; mild summers with frequent showers and thundershowers
+Terrain:
+     mostly flat plain; mountains along southern border
+Natural resources:
+     coal, sulfur, copper, natural gas, silver, lead, salt
+Land use:
+arable land:
+     46%
+permanent crops:
+     1%
+meadows and pastures:
+     13%
+forest and woodland:
+     28%
+other:
+     12%
+Irrigated land:
+     1,000 sq km (1989 est.)
+Environment:
+current issues:
+     forest damage due to air pollution; improper means for disposal of
+     large amounts of hazardous and industrial waste; severe water
+     pollution from industrial and municipal sources; severe air pollution
+     results from emissions of sulfur dioxide from coal-fired power plants
+ 
+ 
+natural hazards:
+     NA
+international agreements:
+     party to - Air Pollution, Antarctic Treaty, Endangered Species,
+     Environmental Modification, Hazardous Wastes, Marine Dumping, Nuclear
+     Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands; signed,
+     but not ratified - Air Pollution-Nitrogen Oxides,
+     Antarctic-Environmental Protocol, Biodiversity, Climate Change, Law of
+     the Sea
+Note:
+     historically, an area of conflict because of flat terrain and the lack
+     of natural barriers on the North European Plain
+ 
+                                  People
+ 
+Population:
+     38,654,561 (July 1994 est.)
+Population growth rate:
+     0.35% (1994 est.)
+Birth rate:
+     13.44 births/1,000 population (1994 est.)
+Death rate:
+     9.4 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.52 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     13.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     72.66 years
+male:
+     68.64 years
+female:
+     76.91 years (1994 est.)
+Total fertility rate:
+     1.94 children born/woman (1994 est.)
+Nationality:
+noun:
+     Pole(s)
+adjective:
+     Polish
+Ethnic divisions:
+     Polish 97.6%, German 1.3%, Ukrainian 0.6%, Byelorussian 0.5% (1990
+     est.)
+Religions:
+     Roman Catholic 95% (about 75% practicing), Eastern Orthodox,
+     Protestant, and other 5%
+Languages:
+     Polish
+Literacy:
+     age 15 and over can read and write (1978)
+total population:
+     98%
+male:
+     99%
+ 
+ 
+female:
+     98%
+Labor force:
+     17.329 million
+by occupation:
+     industry and construction 32.0%, agriculture 27.6%, trade, transport,
+     and communications 14.7%, government and other 24.6% (1992)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Poland
+conventional short form:
+local long form:
+     Rzeczpospolita Polska
+local short form:
+     Polska
+Digraph:
+     PL
+Type:
+     democratic state
+Capital:
+     Warsaw
+Administrative divisions:
+     49 provinces (wojewodztwa, singular - wojewodztwo); Biala Podlaska,
+     Bialystok, Bielsko Biala, Bydgoszcz, Chelm, Ciechanow, Czestochowa,
+     Elblag, Gdansk, Gorzow, Jelenia Gora, Kalisz, Katowice, Kielce, Konin,
+     Koszalin, Krakow, Krosno, Legnica, Leszno, Lodz, Lomza, Lublin, Nowy
+     Sacz, Olsztyn, Opole, Ostroleka, Pila, Piotrkow, Plock, Poznan,
+     Przemysl, Radom, Rzeszow, Siedlce, Sieradz, Skierniewice, Slupsk,
+     Suwalki, Szczecin, Tarnobrzeg, Tarnow, Torun, Walbrzych, Warszawa,
+     Wloclawek, Wroclaw, Zamosc, Zielona Gora
+Independence:
+     11 November 1918 (independent republic proclaimed)
+National holiday:
+     Constitution Day, 3 May (1791)
+Constitution:
+     interim "small constitution" came into effect in December 1992
+     replacing the Communist-imposed Constitution of 22 July 1952; new
+     democratic Constitution being drafted
+Legal system:
+     mixture of Continental (Napoleonic) civil law and holdover Communist
+     legal theory; changes being gradually introduced as part of broader
+     democratization process; limited judicial review of legislative acts;
+     has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Lech WALESA (since 22 December 1990); election first round
+     held 25 November 1990, second round held 9 December 1990 (next to be
+     held NA November 1995); results - second round Lech WALESA 74.7%,
+     Stanislaw TYMINSKI 25.3%
+ 
+ 
+head of government:
+     Prime Minister Waldemar PAWLAK (since 26 October 1993)
+cabinet:
+     Council of Ministers; responsible to the president and the Sejm
+Legislative branch:
+     bicameral National Assembly (Zgromadzenie Narodowe)
+Senate (Senat):
+     elections last held 19 September 1993 (next to be held no later than
+     NA October 1997); seats - (100 total)
+post-Solidarity bloc:
+     UW 6, NSZZ 12, BBWR 2
+non-Communist, non-Solidarity:
+     independents 7, unaffiliated 1, vacant 1 (to be filled in a 19 June
+     election)
+Communist origin or linked:
+     PSL 34, SLD 37
+Diet (Sejm):
+     elections last held 19 September 1993 (next to be held no later than
+     NA October 1997); seats - (460 total)
+post-Solidarity bloc:
+     UW 74, UP 41, BBWR 16
+non-Communist, non-Solidarity:
+     KPN 22
+Communist origin or linked:
+     SLD 171, PSL 132
+note:
+     4 seats were won by ethnic Germans
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+post-Solidarity parties:
+     Freedom Union (WD; UD and Liberal Democratic Congress merged to form
+     Freedom Union), Tadeusz MAZOWIECKI; Christian-National Union (ZCHN),
+     Wieslaw CHRZANOWSKI; Centrum (PC), Jaroslaw KACZYNSKI; Peasant
+     Alliance (PL), Gabriel JANOWSKI; Solidarity Trade Union (NSZZ), Marian
+     KRZAKLEWSKI; Union of Labor (UP), Ryszard BUGAJ; Christian-Democratic
+     Party (PCHD), Pawel LACZKOWSKI; Conservative Party, Alexander HALL;
+     Nonparty Bloc for the Support of the Reforms (BBWR)
+non-Communist, non-Solidarity:
+     Confederation for an Independent Poland (KPN), Leszek MOCZULSKI;
+     Polish Economic Program (PPG), Janusz REWINSKI; Christian Democrats
+     (CHD), Andrzej OWSINSKI; German Minority (MN), Henryk KROL; Union of
+     Real Politics (UPR), Janusz KORWIN-MIKKE; Democratic Party (SD),
+     Antoni MACKIEWICZ; Party X, Stanislaw Tyminski
+Communist origin or linked:
+     Social Democracy (SDRP, party of Poland), Aleksander KWASNIEWSKI;
+     Polish Peasants' Party (PSL), Waldemar PAWLAK; Democratic Left
+     Alliance, Aleksander KWASNIEWSKI
+Other political or pressure groups:
+     powerful Roman Catholic Church; Solidarity (trade union); All Poland
+     Trade Union Alliance (OPZZ), populist program
+ 
+ 
+Member of:
+     BIS, BSEC (observer), CBSS, CCC, CE, CEI, CERN, COCOM (cooperating),
+     CSCE, EBRD, ECE, FAO, GATT, IAEA, IBRD, ICAO, ICFTU, IDA, IFC, ILO,
+     IMF, IMO, INMARSAT, INTELSAT (nonsignatory user), INTERPOL, IOC, IOM,
+     ISO, ITU, LORCS, MINURSO, NACC, NAM (guest), NSG, OAS (observer), PCA,
+     UN, UNCTAD, UNESCO, UNDOF, UNIDO, UNIFIL, UNIKOM, UNOMIG, UNPROFOR,
+     UNTAC, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Jerzy KOZMINSKI
+chancery:
+     2640 16th Street NW, Washington, DC 20009
+telephone:
+     (202) 234-3800 through 3802
+FAX:
+     (202) 328-6271
+consulate(s) general:
+     Chicago, Los Angeles, and New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Nicholas A. REY
+embassy:
+     Aleje Ujazdowskie 29/31, Warsaw
+mailing address:
+     American Embassy Warsaw, Unit 1340, or APO AE 09213-1340
+telephone:
+     [48] (2) 628-3041
+FAX:
+     [48] (2) 628-8298
+consulate(s) general:
+     Krakow, Poznan
+Flag:
+     two equal horizontal bands of white (top) and red; similar to the
+     flags of Indonesia and Monaco which are red (top) and white
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Poland is continuing the difficult transition to a market economy that
+     began on 1 January 1990, when the new democratic government instituted
+     "shock therapy" by decontrolling prices, slashing subsidies, and
+     drastically reducing import barriers. The economy contracted sharply
+     in 1990 and 1991, but in 1992 real GDP grew 1% despite a severe
+     drought. Real GDP expanded about 4% in 1993, the highest rate in
+     Europe except for Albania. About half of GDP now comes from the
+     private sector even though privatization of the large state-owned
+     enterprises is proceeding slowly and most industry remains in state
+     hands. The pattern of industrial production is changing rapidly;
+     output of textiles and construction materials is well above 1990
+     levels, while output of basic metals remains depressed. Inflation,
+     which had exceeded 50% monthly in late 1989, was down to about 37% for
+     all of 1993, as the government held the budget deficit below 3% of
+     GDP. Unemployment has risen steadily, however, to about 16%. The trade
+     deficit is also a problem, in part due to recession in Western Europe,
+     Poland's main customer. The new government elected in September 1993
+     is politically to the left of its predecessor but is continuing the
+     reform process.
+National product:
+     GDP - purchasing power equivalent - $180.4 billion (1993 est.)
+National product real growth rate:
+     4.1% (1993 est.)
+National product per capita:
+     $4,680 (1993 est.)
+Inflation rate (consumer prices):
+     37% (1993)
+Unemployment rate:
+     15.7% (December 1993)
+Budget:
+revenues:
+     $24.3 billion
+expenditures:
+     $27.1 billion, including capital expenditures of $1.5 billion (1993
+     est.)
+Exports:
+     $13.5 billion (f.o.b., 1993 est.)
+commodities:
+     machinery 24%, metals 17%, chemicals 12%, fuels and power 11%, food
+     10% (1992)
+partners:
+     Germany 31.4%, Netherlands 6.0%, Italy 5.6%, Russia 5.5% (1992)
+Imports:
+     $15.6 billion (f.o.b., 1993 est.)
+commodities:
+     fuels and power 17%, machinery 36%, chemicals 17%, food 8% (1992)
+partners:
+     Germany 23.9%, Russia 8.5%, Italy 6.9%, UK 6.7% (1992)
+External debt:
+     $47 billion (1993); note - Poland's Western government creditors
+     promised in 1991 to forgive 30% of Warsaw's $35 billion official debt
+     immediately and to forgive another 20% in 1994; foreign banks agreed
+     in early 1994 to forgive 45% of their $12 billion debt claim
+ 
+ 
+Industrial production:
+     growth rate 7% (1993)
+Electricity:
+capacity:
+     31,530,000 kW
+production:
+     137 billion kWh
+consumption per capita:
+     3,570 kWh (1992)
+Industries:
+     machine building, iron and steel, extractive industries, chemicals,
+     shipbuilding, food processing, glass, beverages, textiles
+Agriculture:
+     accounts for 7% of GDP and a much larger share of labor force; 75% of
+     output from private farms, 25% from state farms; productivity remains
+     low by European standards; leading European producer of rye, rapeseed,
+     and potatoes; wide variety of other crops and livestock; major
+     exporter of pork products; normally self-sufficient in food
+Illicit drugs:
+     illicit producers of opium for domestic consumption and amphetamines
+     for the international market; transshipment point for Asian and Latin
+     American illicit drugs to Western Europe
+Economic aid:
+donor:
+      bilateral aid to non-Communist less developed countries (1954-89),
+     $2.2 billion
+recipient:
+     Western governments and institutions have pledged $8 billion in grants
+     and loans since 1989, but most of the money has not been disbursed
+Currency:
+     1 zloty (Zl) = 100 groszy
+Exchange rates:
+     zlotych (Zl) per US$1 - 21,080 (January 1994), 18,115 (1993), 13,626
+     (1992), 10,576 (1991), 9,500 (1990), 1,439.18 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     26,250 km total; 23,857 km 1.435-meter gauge, 397 km 1.520-meter
+     gauge, 1,996 km narrow gauge; 8,987 km double track; 11,510 km
+     electrified; government owned (1991)
+Highways:
+total:
+     360,629 km (excluding farm, factory and forest roads)
+paved:
+     220,000 km (220 km of which are limited access expressways)
+unpaved:
+     140,629 km (1988)
+Inland waterways:
+     3,997 km navigable rivers and canals (1991)
+Pipelines:
+     crude oil 1,986 km; petroleum products 360 km; natural gas 4,600 km
+     (1992)
+ 
+ 
+Ports:
+     Gdansk, Gdynia, Szczecin, Swinoujscie; principal inland ports are
+     Gliwice on Kanal Gliwicki, Wrocaw on the Oder, and Warsaw on the
+     Vistula
+Merchant marine:
+     173 ships (1,000 GRT or over) totaling 2,327,855 GRT/3,458,445 DWT,
+     bulk 89, cargo 57, chemical tanker 4, container 8, oil tanker 1,
+     passenger 1, roll-on/roll-off cargo 8, short-sea passenger 5
+note:
+     Poland owns 3 ships operating under Liberian registry
+Airports:
+total:
+     209
+usable:
+     167
+with permanent-surface runways:
+     70
+with runway over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     47
+with runways 1,060-2,439 m:
+     78
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     severely underdeveloped and outmoded system; cable, open wire and
+     microwave; phone density is 10.5 phones per 100 residents (October
+     1990); 3.6 million telephone subscribers; exchanges are 86% automatic
+     (1991); broadcast stations - 27 AM, 27 FM, 40 (5 Soviet repeaters) TV;
+     9.6 million TVs; 1 satellite earth station using INTELSAT, EUTELSAT,
+     INMARSAT and Intersputnik
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air and Air Defense Force
+Manpower availability:
+     males age 15-49 10,046,993; fit for military service 7,856,680; reach
+     military age (19) annually 316,339 (1994 est.)
+Defense expenditures:
+     30.8 trillion zlotych, 1.8% of GNP (1993 est.); note - conversion of
+     defense expenditures into US dollars using the current exchange rate
+     could produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

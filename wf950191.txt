@@ -1,0 +1,396 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0190
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Paraguay
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Paraguay 
+ 
+ 
+                                 Paraguay
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central South America, between Argentina and Brazil
+Map references:
+     South America, Standard Time Zones of the World
+Area:
+total area:
+     406,750 sq km
+land area:
+     397,300 sq km
+comparative area:
+     slightly smaller than California
+Land boundaries:
+     total 3,920 km, Argentina 1,880 km, Bolivia 750 km, Brazil 1,290 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     short section of the boundary with Brazil, just west of Salto del
+     Guaira (Guaira Falls) on the Rio Parana, has not been determined
+Climate:
+     varies from temperate in east to semiarid in far west
+Terrain:
+     grassy plains and wooded hills east of Rio Paraguay; Gran Chaco region
+     west of Rio Paraguay mostly low, marshy plain near the river, and dry
+     forest and thorny scrub elsewhere
+Natural resources:
+     hydropower, timber, iron ore, manganese, limestone
+Land use:
+arable land:
+     20%
+permanent crops:
+     1%
+meadows and pastures:
+     39%
+forest and woodland:
+     35%
+other:
+     5%
+Irrigated land:
+     670 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; water pollution; inadequate means for waste disposal
+     present health hazards for many urban residents
+natural hazards:
+     local flooding in southeast (early September to June); poorly drained
+     plains may become boggy (early October to June)
+international agreements:
+     party to - Biodiversity, Climate Change, Endangered Species, Law of
+     the Sea; signed, but not ratified - Nuclear Test Ban
+ 
+ 
+Note:
+     landlocked; buffer between Argentina and Brazil
+ 
+                                  People
+ 
+Population:
+     5,213,772 (July 1994 est.)
+Population growth rate:
+     2.76% (1994 est.)
+Birth rate:
+     32.03 births/1,000 population (1994 est.)
+Death rate:
+     4.48 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     25.2 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     73.28 years
+male:
+     71.74 years
+female:
+     74.9 years (1994 est.)
+Total fertility rate:
+     4.29 children born/woman (1994 est.)
+Nationality:
+noun:
+     Paraguayan(s)
+adjective:
+     Paraguayan
+Ethnic divisions:
+     mestizo (Spanish and Indian) 95%, white and Indian 5%
+Religions:
+     Roman Catholic 90%, Mennonite and other Protestant denominations
+Languages:
+     Spanish (official), Guarani
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     90%
+male:
+     92%
+female:
+     88%
+Labor force:
+     1.692 million (1993 est.)
+by occupation:
+     agriculture, industry and commerce, services, government (1986)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Paraguay
+ 
+ 
+conventional short form:
+local long form:
+     Republica del Paraguay
+local short form:
+Digraph:
+     PA
+Type:
+     republic
+Capital:
+     Asuncion
+Administrative divisions:
+     19 departments (departamentos, singular - departamento); Alto
+     Paraguay, Alto Parana, Amambay, Boqueron, Caaguazu, Caazapa,
+     Canindeyu, Central, Chaco, Concepcion, Cordillera, Guaira, Itapua,
+     Misiones, Neembucu, Nueva Asuncion, Paraguari, Presidente Hayes, San
+     Pedro
+Independence:
+     14 May 1811 (from Spain)
+National holiday:
+     Independence Days, 14-15 May (1811)
+Constitution:
+     25 August 1967; Constituent Assembly rewrote the Constitution that was
+     promulgated on 20 June 1992
+Legal system:
+     based on Argentine codes, Roman law, and French codes; judicial review
+     of legislative acts in Supreme Court of Justice; does not accept
+     compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal and compulsory up to age 60
+Executive branch:
+chief of state and head of government:
+     President Juan Carlos WASMOSY (since 15 August 1993); Vice President
+     Roberto Angel SEIFART (since 15 August 1993); election last held 9 May
+     1993 (next to be held May 1998); results - Juan Carlos WASMOSY 40.09%,
+     Domingo LAINO 32.06%, Guillermo CABALLERO VARGAS 23.04%
+cabinet:
+     Council of Ministers; nominated by the president
+Legislative branch:
+     bicameral Congress (Congreso)
+Chamber of Senators (Camara de Senadores):
+     elections last held 9 May 1993 (next to be held May 1998); results -
+     percent of vote by party NA; seats - (45 total) Colorado Party 20,
+     PLRA 17, EN 8
+Chamber of Deputies (Camara de Diputados):
+     elections last held on 9 May 1993 (next to be held by May 1998);
+     results - percent of vote by party NA; seats - (80 total) Colorado
+     Party 38, PLRA 33, EN 9
+Judicial branch:
+     Supreme Court of Justice (Corte Suprema de Justicia)
+ 
+ 
+Political parties and leaders:
+     Colorado Party, Eugenio SANABRIA CANTERO, president; Authentic Radical
+     Liberal Party (PLRA), Domingo LAINO; National Encounter (EN),
+     Guillermo CABALLERO VARGAS (the EN party includes the following minor
+     parties: Christian Democratic Party (PDC), Jose Angel BURRO;
+     Febrerista Revolutionary Party (PRF), Euclides ACEVEDO; Popular
+     Democratic Party (PDP), Hugo RICHER)
+Other political or pressure groups:
+     Confederation of Workers (CUT); Roman Catholic Church
+Member of:
+     AG (observer), CCC, ECLAC, FAO, G-77, GATT, IADB, IAEA, IBRD, ICAO,
+     ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, IOM,
+     ITU, LAES, LAIA, LORCS, MERCOSUR, OAS, OPANAL, PCA, RG, UN, UNCTAD,
+     UNESCO, UNIDO, UPU, WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Juan Esteban AGUIRRE Martinez
+chancery:
+     2400 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 483-6960 through 6962
+FAX:
+     (202) 234-4508
+consulate(s) general:
+     New Orleans and New York
+consulate(s):
+     Miami
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge D'Affaires Gerald McCOLLOCH
+embassy:
+     1776 Avenida Mariscal Lopez, Asuncion
+mailing address:
+     C. P. 402, Asuncion, or APO AA 34036-0001
+telephone:
+     [595] (21) 213-715
+FAX:
+     [595] (21) 213-728
+Flag:
+     three equal, horizontal bands of red (top), white, and blue with an
+     emblem centered in the white band; unusual flag in that the emblem is
+     different on each side; the obverse (hoist side at the left) bears the
+     national coat of arms (a yellow five-pointed star within a green
+     wreath capped by the words REPUBLICA DEL PARAGUAY, all within two
+     circles); the reverse (hoist side at the right) bears the seal of the
+     treasury (a yellow lion below a red Cap of Liberty and the words Paz y
+     Justicia (Peace and Justice) capped by the words REPUBLICA DEL
+     PARAGUAY, all within two circles)
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Agriculture, including forestry, accounts for about 25% of GDP,
+     employs about 45% of the labor force, and provides the bulk of
+     exports, led by soybeans and cotton. Paraguay lacks substantial
+     mineral or petroleum resources but possesses a large hydropower
+     potential. Since 1981 economic performance has declined compared with
+     the boom period of 1976-81, when real GDP grew at an average annual
+     rate of nearly 11%. During the period 1982-86 real GDP fell in three
+     of five years, inflation jumped to an annual rate of 32%, and foreign
+     debt rose. Factors responsible for the erratic behavior of the economy
+     were the completion of the Itaipu hydroelectric dam, bad weather for
+     crops, and weak export prices for agricultural commodities. In 1987
+     the economy experienced a minor recovery because of improved weather
+     conditions and stronger international prices for key agricultural
+     exports. The recovery continued through 1990, on the strength of
+     bumper crops in 1988-89. In a major step to increase its economic
+     activity in the region, Paraguay in March 1991 joined the Southern
+     Cone Common Market (MERCOSUR), which includes Brazil, Argentina, and
+     Uruguay. In 1992, the government, through an unorthodox approach,
+     reduced external debt with both commercial and official creditors by
+     purchasing a sizable amount of the delinquent commercial debt in the
+     secondary market at a substantial discount. The government had paid
+     100% of remaining official debt arrears to the US, Germany, France,
+     and Spain. All commercial debt arrears have been rescheduled. For the
+     long run, the government must press forward with general,
+     market-oriented economic reforms. Growth of 3.5% in 1993 was spurred
+     by higher-than-expected agricultural output and rising international
+     commodity prices. Inflation picked up steam in fourth quarter 1993
+     because of rises in public sector salaries and utility rates.
+National product:
+     GDP - purchasing power equivalent  - $15.2 billion (1993 est.)
+National product real growth rate:
+     3.5% (1993 est.)
+National product per capita:
+     $3,000 (1993 est.)
+Inflation rate (consumer prices):
+     20.4% (1993 )
+Unemployment rate:
+     11% (1993 est.)
+Budget:
+revenues:
+     $1.2 billion
+expenditures:
+     $1.4 billion, including capital expenditures of $487 million (1992
+     est.)
+Exports:
+     $728 million (f.o.b., 1993 est.)
+commodities:
+     cotton, soybean, timber, vegetable oils, meat products, coffee, tung
+     oil
+partners:
+     EC 37%, Brazil 25%, Argentina 10%, Chile 6%, US 6%
+Imports:
+     $1.38 billion (c.i.f., 1993 est.)
+ 
+ 
+commodities:
+     capital goods, foodstuffs, consumer goods, raw materials, fuels
+partners:
+     Brazil 30%, EC 20%, US 18%, Argentina 8%, Japan 7%
+External debt:
+     $1.2 billion (1993 est.)
+Industrial production:
+     growth rate 2.2% (1991 est.); accounts for 20% of GDP
+Electricity:
+capacity:
+     5,257,000 kW
+production:
+     16.2 billion kWh
+consumption per capita:
+     3,280 kWh (1992)
+Industries:
+     meat packing, oilseed crushing, milling, brewing, textiles, other
+     light consumer goods, cement, construction
+Agriculture:
+     accounts for 26% of GDP and 44% of labor force; cash crops - cotton,
+     sugarcane, soybeans; other crops - corn, wheat, tobacco, cassava,
+     fruits, vegetables; animal products - beef, pork, eggs, milk; surplus
+     producer of timber; self-sufficient in most foods
+Illicit drugs:
+     illicit producer of cannabis for the international drug trade;
+     important transshipment point for Bolivian cocaine headed for the US
+     and Europe
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $172 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $1.1
+     billion
+Currency:
+     1 guarani (G) = 100 centimos
+Exchange rates:
+     guaranies (G) per US$ - 1,861.3 (January 1994), 1,744.3 (1993),
+     1,500.3 (1992), 447.5 (March 1992), 1,325.2 (1991), 1,229.8 (1990),
+     1,056.2 (1989), 550.00 (fixed rate 1986-February 1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     970 km total; 440 km 1.435-meter standard gauge, 60 km 1.000-meter
+     gauge, 470 km various narrow gauge (privately owned)
+Highways:
+total:
+     28,300 km
+paved:
+     2,600 km
+unpaved:
+     gravel 500 km; earth 25,200 km
+Inland waterways:
+     3,100 km
+ 
+ 
+Ports:
+     Asuncion, Villeta, Ciudad del Este
+Merchant marine:
+     13 ships (1,000 GRT or over) totaling 16,747 GRT/19,513 DWT, cargo 11,
+     oil tanker 2
+note:
+     1 naval cargo ship is sometimes used commercially
+Airports:
+total:
+     969
+usable:
+     827
+with permanent-surface runways:
+     7
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     5
+with runways 1,220-2,439 m:
+     93
+Telecommunications:
+     meager telephone service; principal switching center in Asuncion; fair
+     intercity microwave net; 78,300 telephones; telephone density - 16
+     telephones per 1,000 persons; broadcast stations - 40 AM, no FM, 5 TV,
+     7 shortwave; 1 Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy (including Naval Air and Marines), Air Force
+Manpower availability:
+     males age 15-49 1,249,470; fit for military service 907,533; reach
+     military age (17) annually 53,126 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $100 million, 1.6% of GDP (1994 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

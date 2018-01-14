@@ -1,0 +1,401 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0063
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Cuba
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Cuba 
+ 
+ 
+                                   Cuba
+ 
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the northern Caribbean Sea, 145 km south of Key West
+     (Florida)
+Map references:
+     Central America and the Caribbean, North America, Standard Time Zones
+     of the World
+Area:
+total area:
+     110,860 sq km
+land area:
+     110,860 sq km
+comparative area:
+     slightly smaller than Pennsylvania
+Land boundaries:
+     total 29 km, US Naval Base at Guantanamo Bay 29 km
+note:
+     Guantanamo is leased and as such remains part of Cuba
+Coastline:
+     3,735 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     US Naval Base at Guantanamo Bay is leased to US and only mutual
+     agreement or US abandonment of the area can terminate the lease
+Climate:
+     tropical; moderated by trade winds; dry season (November to April);
+     rainy season (May to October)
+Terrain:
+     mostly flat to rolling plains with rugged hills and mountains in the
+     southeast
+Natural resources:
+     cobalt, nickel, iron ore, copper, manganese, salt, timber, silica,
+     petroleum
+Land use:
+arable land:
+     23%
+permanent crops:
+     6%
+meadows and pastures:
+     23%
+forest and woodland:
+     17%
+other:
+     31%
+Irrigated land:
+     8,960 sq km (1989)
+Environment:
+current issues:
+     overhunting threatens wildlife populations; deforestation
+ 
+ 
+natural hazards:
+     averages one hurricane every other year
+international agreements:
+     party to - Antarctic Treaty, Biodiversity, Climate Change, Endangered
+     Species, Environmental Modification, Law of the Sea, Marine Dumping,
+     Ozone Layer Protection, Ship Pollution; signed, but not ratified -
+     Antarctic-Environmental Protocol, Marine Life Conservation
+Note:
+     largest country in Caribbean
+ 
+                                  People
+ 
+Population:
+     11,064,344 (July 1994 est.)
+Population growth rate:
+     0.95% (1994 est.)
+Birth rate:
+     16.59 births/1,000 population (1994 est.)
+Death rate:
+     6.52 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.54 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     10.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     76.89 years
+male:
+     74.72 years
+female:
+     79.18 years (1994 est.)
+Total fertility rate:
+     1.83 children born/woman (1994 est.)
+Nationality:
+noun:
+     Cuban(s)
+adjective:
+     Cuban
+Ethnic divisions:
+     mulatto 51%, white 37%, black 11%, Chinese 1%
+Religions:
+     nominally Roman Catholic 85% prior to Castro assuming power
+Languages:
+     Spanish
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     94%
+male:
+     95%
+female:
+     93%
+Labor force:
+     4,620,800 economically active population (1988); 3,578,800 in state
+     sector
+ 
+ 
+by occupation:
+     services and government 30%, industry 22%, agriculture 20%, commerce
+     11%, construction 10%, transportation and communications 7% (June
+     1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Cuba
+conventional short form:
+local long form:
+     Republica de Cuba
+local short form:
+Digraph:
+     CU
+Type:
+     Communist state
+Capital:
+     Havana
+Administrative divisions:
+     14 provinces (provincias, singular - provincia) and 1 special
+     municipality* (municipio especial); Camaguey, Ciego de Avila,
+     Cienfuegos, Ciudad de La Habana, Granma, Guantanamo, Holguin, Isla de
+     la Juventud*, La Habana, Las Tunas, Matanzas, Pinar del Rio, Sancti
+     Spiritus, Santiago de Cuba, Villa Clara
+Independence:
+     20 May 1902 (from Spain 10 December 1898; administered by the US from
+     1898 to 1902)
+National holiday:
+     Rebellion Day, 26 July (1953)
+Constitution:
+     24 February 1976
+Legal system:
+     based on Spanish and American law, with large elements of Communist
+     legal theory; does not accept compulsory ICJ jurisdiction
+Suffrage:
+     16 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President of the Council of State and President of the Council of
+     Ministers Fidel CASTRO Ruz (Prime Minister from February 1959 until 24
+     February 1976 when office was abolished; President since 2 December
+     1976);  First Vice President of the Council of State and First Vice
+     President of the Council of Ministers Gen. Raul CASTRO Ruz (since 2
+     December 1976)
+cabinet:
+     Council of Ministers; proposed by the president of the Council of
+     State, appointed by the National Assembly
+Legislative branch:
+     unicameral
+ 
+ 
+National Assembly of People's Power:
+     (Asamblea Nacional del Poder Popular) elections last held February
+     1993; seats - 589 total, indirectly elected from slates approved by
+     special candidacy commissions
+Judicial branch:
+     People's Supreme Court (Tribunal Supremo Popular)
+Political parties and leaders:
+     only party - Cuban Communist Party (PCC), Fidel CASTRO Ruz, first
+     secretary
+Member of:
+     CCC, ECLAC, FAO, G-77, GATT, IAEA, ICAO, IFAD, ILO, IMO, INMARSAT,
+     INTELSAT (nonsignatory user), INTERPOL, IOC, ISO, ITU, LAES, LAIA
+     (observer), LORCS, NAM, OAS (excluded from formal participation since
+     1962), PCA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO,
+     WTO
+Diplomatic representation in US:
+chief of mission:
+     Principal Officer Alfonso FRAGA Perez (since August 1992) represented
+     by the Cuban Interests Section of the Swiss Embassy in Washington, DC
+chancery:
+     2630 and 2639 16th Street NW, US Interests Section, Swiss Embassy,
+     Washington, DC 20009
+telephone:
+     (202) 797-8518 or 8519, 8520, 8609, 8610
+US diplomatic representation:
+chief of mission:
+     Principal Officer Joseph SULLIVAN
+US Interests Section:
+     USINT, Swiss Embassy, Calzada Entre L y M, Vedado Seccion, Havana
+mailing address:
+     use street address
+telephone:
+     33-3351 or 33-3543
+FAX:
+     no service available at this time
+note:
+     protecting power in Cuba is Switzerland - US Interests Section, Swiss
+     Embassy
+Flag:
+     five equal horizontal bands of blue (top and bottom) alternating with
+     white; a red equilateral triangle based on the hoist side bears a
+     white five-pointed star in the center
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Cuba's heavily statist economy remains in a severe depression as a
+     result of the loss of massive amounts of economic aid from the former
+     Soviet Bloc. In 1989-93, GDP declined by about 40% and import
+     capability fell by about 80%. Reduced imports of fuel, spare parts,
+     and chemicals combined with rainy weather to cut the production of
+     sugar - the country's top export - from 7 million tons in 1992 to 4.3
+     million tons in 1993, causing a loss of more than $400 million in
+     export revenue. The government implemented several measures designed
+     to stem the economic decline, e.g., legalizing the use of foreign
+     currency by Cuban citizens in August 1993 in an attempt to increase
+     remittances of foreign exchange from abroad. Authorities in September
+     1993 began permitting self-employment in over 100 mostly service
+     occupations. Also in September the government broke up many state
+     farms into smaller, more autonomous cooperative units in an attempt to
+     increase worker incentives and boost depressed food production levels.
+     Fuel shortages persisted throughout 1993; draft animals and bicycles
+     continued to replace motor-driven vehicles, and the use of electricity
+     by households and factories was cut from already low levels. With the
+     help of foreign investment, tourism has been one bright spot in the
+     economy, with arrivals and earnings reaching record highs in 1993.
+     Government officials have expressed guarded optimism for 1994, as the
+     country struggles to achieve sustainable economic growth at a
+     much-reduced standard of living.
+National product:
+     GNP - purchasing power equivalent - $13.7 billion (1993 est.)
+National product real growth rate:
+     -10% (1993 est.)
+National product per capita:
+     $1,250 (1993 est.)
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $12.46 billion
+expenditures:
+     $14.45 billion, including capital expenditures of $NA (1990 est.)
+Exports:
+     $1.5 billion (f.o.b., 1993 est.)
+commodities:
+     sugar, nickel, shellfish, tobacco, medical products, citrus, coffee
+partners:
+     Russia 28%, Canada 9%, China 5%, Ukraine 5%, Japan 4%, Spain 4% (1993
+     est.)
+Imports:
+     $1.7 billion (c.i.f., 1993 est.)
+commodities:
+     petroleum, food, machinery, chemicals
+partners:
+     Venezuela 20%, China 9%, Spain 9%, Mexico 7%, Italy 4%, Canada 7%,
+     France 8% (1993 est.)
+External debt:
+     $6.8 billion (convertible currency, July 1989)
+ 
+ 
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     3,889,000 kW
+production:
+     16.248 billion kWh
+consumption per capita:
+     1,500 kWh (1992)
+Industries:
+     sugar milling and refining, petroleum refining, food and tobacco
+     processing, textiles, chemicals, paper and wood products, metals
+     (particularly nickel), cement, fertilizers, consumer goods,
+     agricultural machinery
+Agriculture:
+     accounts for 11% of GNP (including fishing and forestry); key
+     commercial crops - sugarcane, tobacco, and citrus fruits; other
+     products - coffee, rice, potatoes, meat, beans; world's largest sugar
+     exporter; not self-sufficient in food (excluding sugar); sector hurt
+     by growing shortages of fuels and parts
+Illicit drugs:
+     transshipment point for cocaine bound for the US
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $710 million; Communist countries (1970-89), $18.5 billion
+Currency:
+     1 Cuban peso (Cu$) = 100 centavos
+Exchange rates:
+     Cuban pesos (Cu$) per US$1 - 1.0000 (non-convertible, official rate,
+     linked to the US dollar)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     12,795 km total; Cuban National Railways operates 5,053 km of
+     1.435-meter gauge track, including 151.7 km electrified; in addition,
+     sugar plantation lines consist of 7,742 km of 0.914-meter and
+     1.435-meter gauge track
+Highways:
+total:
+     26,477 km
+paved:
+     14,477 km
+unpaved:
+     gravel or earth 12,000 km (1989)
+Inland waterways:
+     240 km
+Ports:
+     Cienfuegos, La Habana, Mariel, Matanzas, Santiago de Cuba; 7
+     secondary, 35 minor
+ 
+ 
+Merchant marine:
+     64 ships (1,000 GRT or over) totaling 444,038 GRT/627,741 DWT, bulk 2,
+     cargo 36, chemical tanker 1, liquefied gas 4, oil tanker 10, passenger
+     cargo 1, refrigerated cargo 10
+note:
+     Cuba beneficially owns an additional 34 ships (1,000 GRT and over)
+     totaling 529,090 DWT under the registry of Panama, Cyprus, and Malta
+Airports:
+total:
+     187
+usable:
+     167
+with permanent-surface runways:
+     73
+with runways over 3,659 m:
+     3
+with runways 2,440-3,659 m:
+     12
+with runways 1,220-2,439 m:
+     19
+Telecommunications:
+     among the world's least developed telephone systems; 229,000
+     telephones; telephone density - 20.7 per 1,000 persons; broadcast
+     stations - 150 AM, 5 FM, 58 TV; 1,530,000 TVs; 2,140,000 radios; 1
+     Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Revolutionary Armed Forces (FAR) - including ground forces,
+     Revolutionary Navy (MGR), Air and Air Defense Force (DAAFAR),
+     Territorial Militia Troops (MTT), Youth Labor Army (EJT), and Interior
+     Ministry Border Guard Troops
+Manpower availability:
+     males age 15-49 3,064,898; females age 15-49 3,088,810; males fit for
+     military service 1,907,396; females fit for military service
+     1,927,306; males reach military age (17) annually 81,536 (1994 est.);
+     females reach military age (17) annually 78,612 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - approx. $600 million, 4% of GSP (gross
+     social product) in 1993 was for defense
+Note:
+     Moscow, for decades the key military supporter and supplier of Cuba,
+     cut off military aid by 1993
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

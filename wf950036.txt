@@ -1,0 +1,442 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0035
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Brazil
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Brazil 
+ 
+ 
+                                  Brazil
+ 
+ 
+                                 Geography
+ 
+Location:
+     Eastern South America, bordering the Atlantic Ocean
+Map references:
+     South America, Standard Time Zones of the World
+Area:
+total area:
+     8,511,965 sq km
+land area:
+     8,456,510 sq km
+comparative area:
+     slightly smaller than the US
+note:
+     includes Arquipelago de Fernando de Noronha, Atol das Rocas, Ilha da
+     Trindade, Ilhas Martin Vaz, and Penedos de Sao Pedro e Sao Paulo
+Land boundaries:
+     total 14,691 km, Argentina 1,224 km, Bolivia 3,400 km, Colombia 1,643
+     km, French Guiana 673 km, Guyana 1,119 km, Paraguay 1,290 km, Peru
+     1,560 km, Suriname 597 km, Uruguay 985 km, Venezuela 2,200 km
+Coastline:
+     7,491 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     short section of the boundary with Paraguay, just west of Salto das
+     Sete Quedas (Guaira Falls) on the Rio Parana, is in dispute; two short
+     sections of boundary with Uruguay are in dispute - Arroio Invernada
+     (Arroyo de la Invernada) area of the Rio Quarai (Rio Cuareim) and the
+     islands at the confluence of the Rio Quarai and the Uruguay River
+Climate:
+     mostly tropical, but temperate in south
+Terrain:
+     mostly flat to rolling lowlands in north; some plains, hills,
+     mountains, and narrow coastal belt
+Natural resources:
+     iron ore, manganese, bauxite, nickel, uranium, phosphates, tin,
+     hydropower, gold, platinum, petroleum, timber
+Land use:
+arable land:
+     7%
+permanent crops:
+     1%
+meadows and pastures:
+     19%
+forest and woodland:
+     67%
+ 
+ 
+other:
+     6%
+Irrigated land:
+     27,000 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation in Amazon Basin; air and water pollution in Rio de
+     Janeiro, Sao Paulo, and several other large cities; land degradation
+     and water pollution caused by improper mining activities
+natural hazards:
+     recurring droughts in northeast; floods and occasional frost in south
+international agreements:
+     party to - Antarctic Treaty, Biodiversity, Climate Change, Endangered
+     Species, Environmental Modification, Hazardous Wastes, Law of the Sea,
+     Marine Dumping, Nuclear Test Ban, Ozone Layer Protection, Ship
+     Pollution, Whaling; signed, but not ratified - Antarctic-Environmental
+     Protocol, Tropical Timber
+Note:
+     largest country in South America; shares common boundaries with every
+     South American country except Chile and Ecuador
+ 
+                                  People
+ 
+Population:
+     158,739,257 (July 1994 est.)
+Population growth rate:
+     1.28% (1994 est.)
+Birth rate:
+     21.48 births/1,000 population (1994 est.)
+Death rate:
+     8.63 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     59.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     62.25 years
+male:
+     57.41 years
+female:
+     67.32 years (1994 est.)
+Total fertility rate:
+     2.44 children born/woman (1994 est.)
+Nationality:
+noun:
+     Brazilian(s)
+adjective:
+     Brazilian
+Ethnic divisions:
+     Portuguese, Italian, German, Japanese, Amerindian, black 6%, white
+     55%, mixed 38%, other 1%
+Religions:
+     Roman Catholic (nominal) 70%
+ 
+ 
+Languages:
+     Portuguese (official), Spanish, English, French
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     81%
+male:
+     82%
+female:
+     80%
+Labor force:
+     57 million (1989 est.)
+by occupation:
+     services 42%, agriculture 31%, industry 27%
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Federative Republic of Brazil
+conventional short form:
+local long form:
+     Republica Federativa do Brasil
+local short form:
+     Brasil
+Digraph:
+     BR
+Type:
+     federal republic
+Capital:
+     Brasilia
+Administrative divisions:
+     26 states (estados, singular - estado) and 1 federal district*
+     (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara,
+     Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato
+     Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui,
+     Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia,
+     Roraima, Santa Catarina, Sao Paulo, Sergipe, Tocantins
+Independence:
+     7 September 1822 (from Portugal)
+National holiday:
+     Independence Day, 7 September (1822)
+Constitution:
+     5 October 1988
+Legal system:
+     based on Roman codes; has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     voluntary between 16 and 18 years of age and over 70; compulsory over
+     18 and under 70 years of age
+ 
+ 
+Executive branch:
+chief of state and head of government:
+     President Itamar FRANCO (since 29 December 1992); election last held
+     15 November 1989, with runoff on 17 December 1989 (next to be held
+     October 1994); results - Fernando COLLOR de Mello 53%, Luis Inacio
+     LULA da Silva 47%; note - first free, direct presidential election
+     since 1960; Fernando COLLOR de Mello was impeached in December 1992
+     and succeeded by former Vice President Itamar FRANCO
+cabinet:
+     Cabinet; appointed by the president
+Legislative branch:
+     bicameral National Congress (Congresso Nacional)
+Federal Senate (Senado Federal):
+     election last held 3 October 1990 (next to be held October 1994);
+     results - percent of vote by party PMBD 33%, PFL 16%, PSDB 12%, PDS
+     4%, PDT 6%, PT 1%, other 28%; seats - (81 total as of 3 February 1991)
+     PMDB 27, PFL 15, PSDB 10, PTB 8, PDT 5, other 16
+Chamber of Deputies (Camara dos Deputados):
+     election last held 3 October 1990 (next to be held October 1994);
+     results - PMDB 21%, PFL 17%, PDT 9%, PDS 8%, PRN 7.9%, PTB 7%, PT 7%,
+     other 23.1%; seats - (503 total as of 3 February 1991) PMDB 108, PFL
+     87, PDT 46, PDS 43, PRN 40, PTB 35, PT 35, other 109
+Judicial branch:
+     Supreme Federal Tribunal
+Political parties and leaders:
+     National Reconstruction Party (PRN), Daniel TOURINHO, president;
+     Brazilian Democratic Movement Party (PMDB), Luiz HENRIQUE da Silveira,
+     president; Liberal Front Party (PFL), Jorge BORNHAUSEN, president;
+     Workers' Party (PT), Luis Inacio LULA da Silva, president; Brazilian
+     Workers' Party (PTB), Rodrigues PALMA, president; Democratic Workers'
+     Party (PDT), Leonel BRIZOLA, president; Progressive Renewal Party
+     (PPR), Paulo MALUF, president; Brazilian Social Democracy Party
+     (PSDB), Tasso JEREISSATI, president; Popular Socialist Party (PPS),
+     Roberto FREIRE, president; Communist Party of Brazil (PCdoB), Joao
+     AMAZONAS, secretary general; Liberal Party (PL), Flavio ROCHA,
+     president
+Other political or pressure groups:
+     left wing of the Catholic Church and labor unions allied to leftist
+     Workers' Party are critical of government's social and economic
+     policies
+Member of:
+     AfDB, AG (observer), CCC, ECLAC, FAO, G-11, G-15, G-19, G-24, G-77,
+     GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IFAD, IFC, ILO, IMF,
+     IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM (observer), ISO, ITU,
+     LAES, LAIA, LORCS, MERCOSUR, NAM (observer), OAS, ONUSAL, OPANAL, PCA,
+     RG, UN, UNAVEM II, UNCTAD, UNESCO, UNHCR, UNIDO, UNOMOZ, UNOMUR,
+     UNPROFOR, UPU, WCL, WHO, WFTU, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Paulo Tarso FLECHA de LIMA
+chancery:
+     3006 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 745-2700
+ 
+ 
+FAX:
+     (202) 745-2827
+consulate(s) general:
+     Boston, Chicago, Hong Kong (Trust Territories of the Pacific Islands),
+     Los Angeles, Miami, New York, and San Juan (Puerto Rico)
+consulate(s):
+     Houston and San Francisco
+US diplomatic representation:
+chief of mission:
+     Ambassador Melvyn LEVITSKY
+embassy:
+     Avenida das Nacoes, Lote 3, Brasilia, Distrito Federal
+mailing address:
+     APO AA 34030
+telephone:
+     [55] (61) 321-7272
+FAX:
+     [55] (61) 225-9136
+consulate(s) general:
+     Rio de Janeiro, Sao Paulo
+consulate(s):
+     Porto Alegre, Recife
+Flag:
+     green with a large yellow diamond in the center bearing a blue
+     celestial globe with 27 white five-pointed stars (one for each state
+     and district) arranged in the same pattern as the night sky over
+     Brazil; the globe has a white equatorial band with the motto ORDEM E
+     PROGRESSO (Order and Progress)
+ 
+                                  Economy
+ 
+ 
+Overview:
+     The economy, with large agrarian, mining, and manufacturing sectors,
+     entered the 1990s with declining real growth, runaway inflation, an
+     unserviceable foreign debt of $122 billion, and a lack of policy
+     direction. In addition, the economy remained highly regulated,
+     inward-looking, and protected by substantial trade and investment
+     barriers. Ownership of major industrial and mining facilities is
+     divided among private interests - including several multinationals -
+     and the government. Most large agricultural holdings are private, with
+     the government channeling financing to this sector. Conflicts between
+     large landholders and landless peasants have produced intermittent
+     violence. The COLLOR government, which assumed office in March 1990,
+     launched an ambitious reform program that sought to modernize and
+     reinvigorate the economy by stabilizing prices, deregulating the
+     economy, and opening it to increased foreign competition. The
+     government also obtained an IMF standby loan in January 1992 and
+     reached agreements with commercial bankers on the repayment of
+     interest arrears and on the reduction of debt and debt service
+     payments. Galloping inflation (the rate doubled in 1992 and by March
+     1994 had risen to 42% per month) continues to undermine economic
+     stability. Itamar FRANCO, who assumed the presidency following
+     President COLLOR'S resignation in December 1992, was out of step with
+     COLLOR'S reform agenda; initiatives to redress fiscal problems,
+     privatize state enterprises, and liberalize trade and investment
+     policies have lost momentum. Brazil's natural resources remain a
+     major, long-term economic strength
+National product:
+     GDP - purchasing power equivalent - $785 billion (1993 est.)
+National product real growth rate:
+     5% (1993)
+National product per capita:
+     $5,000 (1993 est.)
+Inflation rate (consumer prices):
+     2,709% (1993)
+Unemployment rate:
+     4.9% (1993)
+Budget:
+revenues:
+     $113 billion
+expenditures:
+     $109 billion, including capital expenditures of $23 billion (1992)
+Exports:
+     $38.8 billion (f.o.b. 1993)
+commodities:
+     iron ore, soybean bran, orange juice, footwear, coffee, motor vehicle
+     parts
+partners:
+     EC 27.6%, Latin America 21.8%, US 17.4%, Japan 6.3% (1993)
+Imports:
+     $25.7 billion (f.o.b. 1993)
+commodities:
+     crude oil, capital goods, chemical products, foodstuffs, coal
+partners:
+     US 23.3%, EC 22.5%, Middle East 13.0%, Latin America 11.8%, Japan 6.5%
+     (1993)
+ 
+ 
+External debt:
+     $119 billion (1993)
+Industrial production:
+     growth rate 9.5% (1993); accounts for 39% of GDP
+Electricity:
+capacity:
+     63,765,000 kW
+production:
+     242.184 billion kWh
+consumption per capita:
+     1,531 kWh (1992)
+Industries:
+     textiles and other consumer goods, shoes, chemicals, cement, lumber,
+     iron ore, steel, motor vehicles and auto parts, metalworking, capital
+     goods, tin
+Agriculture:
+     accounts for 11% of GDP; world's largest producer and exporter of
+     coffee and orange juice concentrate and second-largest exporter of
+     soybeans; other products - rice, corn, sugarcane, cocoa, beef;
+     self-sufficient in food, except for wheat
+Illicit drugs:
+     illicit producer of cannabis and coca, mostly for domestic
+     consumption; government has a modest eradication program to control
+     cannabis and coca cultivation; important transshipment country for
+     Bolivian and Colombian cocaine headed for the US and Europe
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $2.5 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $10.2
+     million; OPEC bilateral aid (1979-89), $284 million; former Communist
+     countries (1970-89), $1.3 billion
+Currency:
+     1 cruzeiro real (CR$) = 100 centavos
+Exchange rates:
+     CR$ per US$1 - 390.845 (January 1994), 88.449 (1993), 4.513 (1992),
+     0.407 (1991), 0.068 (1990), 0.003 (1989)
+note:
+     on 1 August 1993 the cruzeiro real, equal to 1,000 cruzeiros, was
+     introduced; another new currency, the real, will be introduced on 1
+     July 1994
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     30,133 km total; 24,690 km 1.000-meter gauge, 5,120 km 1.600-meter
+     gauge, 310 km mixed 1.600-1.000-meter gauge, 13 km 0.760-meter gauge;
+     2,150 km electrified
+Highways:
+total:
+     1,670,148 km
+paved:
+     161,503 km
+ 
+ 
+unpaved:
+     gravel/earth  1,508,645 km (1990)
+Inland waterways:
+     50,000 km navigable
+Pipelines:
+     crude oil 2,000 km; petroleum products 3,804 km; natural gas 1,095 km
+Ports:
+     Belem, Fortaleza, Ilheus, Manaus, Paranagua, Porto Alegre, Recife, Rio
+     de Janeiro, Rio Grande, Salvador, Santos
+Merchant marine:
+     220 ships (1,000 GRT or over) totaling 5,139,176 GRT/8,695,682 DWT,
+     bulk 53, cargo 40, chemical tanker 14, combination ore/oil 12,
+     container 11, liquified gas 11, oil tanker 62, passenger-cargo 5,
+     refrigerated cargo 1, roll-on/roll-off cargo 11
+note:
+     in addition, 1 naval tanker is sometimes used commercially
+Airports:
+total:
+     3,581
+usable:
+     3,024
+with permanent-surface runways:
+     436
+with runways over 3,659 m:
+     2
+with runways 2,440-3,659 m:
+     22
+with runways 1,220-2,439 m:
+     598
+Telecommunications:
+     good system; extensive microwave radio relay facilities; 9.86 million
+     telephones; broadcast stations - 1,223 AM, no FM, 112 TV, 151
+     shortwave; 3 coaxial submarine cables, 3 Atlantic Ocean INTELSAT earth
+     stations and 64 domestic satellite earth stations
+ 
+                              Defense Forces
+ 
+Branches:
+     Brazilian Army, Navy of Brazil (including Marines), Brazilian Air
+     Force, Military Police (paramilitary)
+Manpower availability:
+     males age 15-49 43,489,704; fit for military service 29,286,530; reach
+     military age (18) annually 1,674,930 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $1.1 billion, 3% of GDP (1990)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,377 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0076
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Ethiopia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Ethiopia 
+ 
+ 
+                                 Ethiopia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Eastern Africa, between Somalia and Sudan
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     1,127,127 sq km
+land area:
+     1,119,683 sq km
+comparative area:
+     slightly less than twice the size of Texas
+Land boundaries:
+     total 5,311 km, Djibouti 337 km, Eritrea 912 km, Kenya 830 km, Somalia
+     1,626 km, Sudan 1,606 km
+Coastline:
+     none - landlocked
+Maritime claims:
+     none - landlocked
+International disputes:
+     southern half of the boundary with Somalia is a Provisional
+     Administrative Line; territorial dispute with Somalia over the Ogaden
+Climate:
+     tropical monsoon with wide topographic-induced variation
+Terrain:
+     high plateau with central mountain range divided by Great Rift Valley
+Natural resources:
+     small reserves of gold, platinum, copper, potash
+Land use:
+arable land:
+     12%
+permanent crops:
+     1%
+meadows and pastures:
+     41%
+forest and woodland:
+     24%
+other:
+     22%
+Irrigated land:
+     1,620 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; overgrazing; soil erosion; desertification; famine
+natural hazards:
+     geologically active Great Rift Valley susceptible to earthquakes,
+     volcanic eruptions; frequent droughts
+international agreements:
+     party to - Endangered Species; signed, but not ratified -
+     Biodiversity, Climate Change, Environmental Modification, Law of the
+     Sea, Nuclear Test Ban
+ 
+ 
+Note:
+     landlocked - entire coastline along the Red Sea was lost with the de
+     jure independence of Eritrea on 27 April 1993
+ 
+                                  People
+ 
+Population:
+     54,927,108 (July 1994 est.)
+note:
+     Ethiopian demographic data, except population and population growth
+     rate, include Eritrea
+Population growth rate:
+     3.4% (1994 est.)
+Birth rate:
+     45.01 births/1,000 population (1994 est.)
+Death rate:
+     13.89 deaths/1,000 population (1994 est.)
+Net migration rate:
+     2.84 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     106.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     52.67 years
+male:
+     51 years
+female:
+     54.38 years (1994 est.)
+Total fertility rate:
+     6.81 children born/woman (1994 est.)
+Nationality:
+noun:
+     Ethiopian(s)
+adjective:
+     Ethiopian
+Ethnic divisions:
+     Oromo 40%, Amhara and Tigrean 32%, Sidamo 9%, Shankella 6%, Somali 6%,
+     Afar 4%, Gurage 2%, other 1%
+Religions:
+     Muslim 45%-50%, Ethiopian Orthodox 35%-40%, animist 12%, other 5%
+Languages:
+     Amharic (official), Tigrinya, Orominga, Guaraginga, Somali, Arabic,
+     English (major foreign language taught in schools)
+Literacy:
+     age 10 and over can read and write (1984)
+total population:
+     24%
+male:
+     33%
+female:
+     16%
+Labor force:
+     18 million
+ 
+ 
+by occupation:
+     agriculture and animal husbandry 80%, government and services 12%,
+     industry and construction 8% (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+local long form:
+     none
+local short form:
+     Ityop'iya
+Digraph:
+     ET
+Type:
+     transitional government
+note:
+     on 28 May 1991 the Ethiopian People's Revolutionary Democratic Front
+     (EPRDF) toppled the authoritarian government of MENGISTU Haile-Mariam
+     and took control in Addis Ababa; the Transitional Government of
+     Ethiopia (TGE), announced a two-year transitional period
+Capital:
+     Addis Ababa
+Administrative divisions:
+     14 administrative regions (astedader akababiwach, singular - astedader
+     akababi) Addis Ababa, Afar, Amhara, Benishangul, Gambela,
+     Gurage-Hadiya-Kambata, Harer, Kefa, Omo, Oromo, Sidamo, Somali,
+     Tigray, Wolayta
+Independence:
+     oldest independent country in Africa and one of the oldest in the
+     world - at least 2,000 years
+National holiday:
+     National Day, 28 May (1991) (defeat of Mengistu regime)
+Constitution:
+     to be redrafted by 1993
+Legal system:
+     NA
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President MELES Zenawi (since 1 June 1991); election last held 10
+     September 1987; next election planned after new constitution drafted;
+     results - MENGISTU Haile-Mariam elected by the now defunct National
+     Assembly, but resigned and left Ethiopia on 21 May 1991
+head of government:
+     Prime Minister TAMIRAT Layne (since 6 June 1991)
+cabinet:
+     Council of Ministers; designated by the chairman of the Council of
+     Representatives
+Legislative branch:
+     unicameral
+ 
+ 
+Constituent Assembly:
+     elections were held on 5 June 1994 (next to be held NA); results - NA;
+     a major task of the new Assembly will be to ratify the constitution to
+     drafted by the end of 1994
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Ethiopian People's Revolutionary Democratic Front (EPRDF), MELES
+     Zenawi; Oromo People's Democratic Organization (OPDO), Kuma DEMEKSA
+Other political or pressure groups:
+     Oromo Liberation Front (OLF); Ethiopian People's Revolutionary Party
+     (EPRP); numerous small, ethnic-based groups have formed since
+     Mengistu's resignation, including several Islamic militant groups
+Member of:
+     ACP, AfDB, CCC, ECA, FAO, G-24, G-77, IAEA, IBRD, ICAO, IDA, IFAD,
+     IFC, IGADD, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ISO, ITU, LORCS,
+     NAM, OAU, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WFTU, WHO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador BERHANE Gebre-Christos
+chancery:
+     2134 Kalorama Road NW, Washington, DC 20008
+telephone:
+     (202) 234-2281 or 2282
+FAX:
+     (202) 328-7950
+US diplomatic representation:
+chief of mission:
+     Ambassador Marc A. BAAS
+embassy:
+     Entoto Street, Addis Ababa
+mailing address:
+     P. O. Box 1014, Addis Ababa
+telephone:
+     [251] (1) 550-666
+FAX:
+     [251] (1) 552-191
+Flag:
+     three equal horizontal bands of green (top), yellow, and red; Ethiopia
+     is the oldest independent country in Africa, and the colors of her
+     flag were so often adopted by other African countries upon
+     independence that they became known as the pan-African colors
+ 
+                                  Economy
+ 
+ 
+Overview:
+     With the independence of Eritrea on 27 April 1993, Ethiopia continues
+     to face difficult economic problems as one of the poorest and least
+     developed countries in Africa. (The accompanying analysis and figures
+     predate the independence of Eritrea.) Its economy is based on
+     subsistence agriculture, which accounts for about 45% of GDP, 90% of
+     exports, and 80% of total employment; coffee generates 60% of export
+     earnings. The manufacturing sector is heavily dependent on inputs from
+     the agricultural sector. Over 90% of large-scale industry, but less
+     than 10% of agriculture, is state run; the government is considering
+     selling off a portion of state-owned plants. Favorable agricultural
+     weather largely explains the 4.5% growth in output in FY89, whereas
+     drought and deteriorating internal security conditions prevented
+     growth in FY90. In 1991 the lack of law and order, particularly in the
+     south, interfered with economic development and growth. In 1992,
+     because of some easing of civil strife and aid from the outside world,
+     the economy substantially improved.
+National product:
+     GDP - purchasing power equivalent - $22.7 billion (1993 est.)
+National product real growth rate:
+     7.8% (FY93 est)
+National product per capita:
+     $400 (1993 est.)
+Inflation rate (consumer prices):
+     21% (1992 est)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $NA
+expenditures:
+     $1.2 billion, including capital expenditures of $NA (1992 est.)
+Exports:
+     $189 million (f.o.b., FY91)
+commodities:
+     coffee, leather products, gold, petroleum products
+partners:
+     Germany, Japan, Saudi Arabia, France, Italy
+Imports:
+     $472 million (c.i.f., FY91)
+commodities:
+     capital goods, consumer goods, fuel
+partners:
+     US, Germany, Italy, Saudi Arabia, Japan
+External debt:
+     $3.48 billion (1991)
+Industrial production:
+     growth rate -3.3% (FY92); accounts for 12% of GDP
+Electricity:
+capacity:
+     330,000 kW
+production:
+     650 million kWh
+consumption per capita:
+     10 kWh (1991)
+ 
+ 
+Industries:
+     food processing, beverages, textiles, chemicals, metals processing,
+     cement
+Agriculture:
+     accounts for 47% of GDP and is the most important sector of the
+     economy even though frequent droughts and poor cultivation practices
+     keep farm output low; famines not uncommon; export crops of coffee and
+     oilseeds grown partly on state farms; estimated 50% of agricultural
+     production at subsistence level; principal crops and livestock -
+     cereals, pulses, coffee, oilseeds, sugarcane, potatoes and other
+     vegetables, hides and skins, cattle, sheep, goats
+Illicit drugs:
+     transit hub for heroin originating in Southwest and Southeast Asia and
+     destined for Europe and North America as well as cocaine destined for
+     southern African markets; cultivates qat (chat) for local use and
+     regional export
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $504 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $3.4
+     billion; OPEC bilateral aid (1979-89), $8 million; Communist countries
+     (1970-89), $2 billion
+Currency:
+     1 birr (Br) = 100 cents
+Exchange rates:
+     birr (Br) per US$1 - 5.0000 (fixed rate since 1992); fixed at 2.070
+     before 1992
+Fiscal year:
+     8 July - 7 July
+ 
+                              Communications
+ 
+Highways:
+total:
+     24,127 km
+paved:
+     3,289 km
+unpaved:
+     gravel 6,664 km; improved earth 1,652 km; unimproved earth 12,522 km
+     (1993)
+Ports:
+     none; landlocked
+Merchant marine:
+     12 ships (1,000 GRT or over) totaling 62,627 GRT/88,909 DWT, cargo 8,
+     livestock carrier 1, oil tanker 2, roll on/roll off cargo 1
+Airports:
+total:
+     120
+usable:
+     84
+with permanent-surface runways:
+     10
+with runways over 3,659 m:
+     1
+ 
+ 
+with runways 2,440-3,659 m:
+     15
+with runways 1,220-2,439 m:
+     83
+Telecommunications:
+     open-wire and radio relay system adequate for government use;
+     open-wire to Sudan and Djibouti; microwave radio relay to Kenya and
+     Djibouti; broadcast stations - 4 AM, no FM, 1 TV; 100,000 TV sets;
+     9,000,000 radios; satellite earth stations - 1 Atlantic Ocean INTELSAT
+     and 2 Pacific Ocean INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Ethiopian People's Revolutionary Democratic Front (EPRDF)
+Manpower availability:
+     males age 15-49 13,229,078; fit for military service 6,867,582; reach
+     military age (18) annually 596,691 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

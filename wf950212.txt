@@ -1,0 +1,473 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0211
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Serbia and Montenegro
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Serbia and Montenegro 
+ 
+ 
+                           Serbia and Montenegro
+ 
+ 
+                                  Header
+ 
+Note:
+     Serbia and Montenegro have asserted the formation of a joint
+     independent state, but this entity has not been formally recognized as
+     a state by the US; the US view is that the Socialist Federal Republic
+     of Yugoslavia (SFRY) has dissolved and that none of the successor
+     republics represents its continuation
+ 
+                                 Geography
+ 
+Location:
+     Balkan State, Southeastern Europe, bordering the Adriatic Sea, between
+     Bosnia and Herzegovina and Bulgaria
+Map references:
+     Ethnic Groups in Eastern Europe, Europe, Standard Time Zones of the
+     World
+Area:
+total area:
+     102,350 sq km
+land area:
+     102,136 sq km
+comparative area:
+     slightly larger than Kentucky
+note:
+     Serbia has a total area and a land area of 88,412 sq km making it
+     slightly larger than Maine; Montenegro has a total area of 13,938 sq
+     km and a land area of 13,724 sq km making it slightly larger than
+     Connecticut
+Land boundaries:
+     total 2,246 km, Albania 287 km (114 km with Serbia; 173 km with
+     Motenegro), Bosnia and Herzegovina 527 km (312 km with Serbia; 215 km
+     with Montenegro), Bulgaria 318 km, Croatia (north) 241 km, Croatia
+     (south) 25 km, Hungary 151 km, The Former Yugoslav Republic of
+     Macedonia 221 km, Romania 476 km
+note:
+     the internal boundary between Montenegro and Serbia is 211 km
+Coastline:
+     199 km (Montenegro 199 km, Serbia 0 km)
+Maritime claims:
+territorial sea:
+     12 nm
+International disputes:
+     Sandzak region bordering northern Montenegro and southeastern Serbia -
+     Muslims seeking autonomy; disputes with Bosnia and Herzegovina and
+     Croatia over Serbian populated areas; Albanian majority in Kosovo
+     seeks independence from Serbian Republic
+Climate:
+     in the north, continental climate (cold winter and hot, humid summers
+     with well distributed rainfall); central portion, continental and
+     Mediterranean climate; to the south, Adriatic climate along the coast,
+     hot, dry summers and autumns and relatively cold winters with heavy
+     snowfall inland
+ 
+ 
+Terrain:
+     extremely varied; to the north, rich fertile plains; to the east,
+     limestone ranges and basins; to the southeast, ancient mountain and
+     hills; to the southwest, extremely high shoreline with no islands off
+     the coast; home of largest lake in former Yugoslavia, Lake Scutari
+Natural resources:
+     oil, gas, coal, antimony, copper, lead, zinc, nickel, gold, pyrite,
+     chrome
+Land use:
+arable land:
+     30%
+permanent crops:
+     5%
+meadows and pastures:
+     20%
+forest and woodland:
+     25%
+other:
+     20%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     coastal water pollution from sewage outlets, especially in
+     tourist-related areas such as Kotor; air pollution around Belgrade and
+     other industrial cities; water pollution from industrial wastes dumped
+     into the Sava which flows into the Danube
+natural hazards:
+     subject to destructive earthquakes
+international agreements:
+     NA
+Note:
+     controls one of the major land routes from Western Europe to Turkey
+     and the Near East; strategic location along the Adriatic coast
+ 
+                                  People
+ 
+Population:
+total:
+     10,759,897 (July 1994 est.)
+Montenegro:
+     666,583 (July 1994 est.)
+Serbia:
+     10,093,314 (July 1994 est.)
+Population growth rate:
+Montenegro:
+     0.79% (1994 est.)
+Serbia:
+     0.54% (1994 est.)
+Birth rate:
+Montenegro:
+     13.72 births/1,000 population (1994 est.)
+Serbia:
+     14.35 births/1,000 population (1994 est.)
+ 
+ 
+Death rate:
+Montenegro:
+     5.84 deaths/1,000 population (1994 est.)
+Serbia:
+     8.94 deaths/1,000 population (1994 est.)
+Net migration rate:
+Montenegro:
+     0 migrant(s)/1,000 population (1994 est.)
+Serbia:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+Montenegro:
+     10.8 deaths/1,000 live births (1994 est.)
+Serbia:
+     21.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+Montenegro:
+     *** No data for this item ***
+total population:
+     79.44 years
+male:
+     76.57 years
+female:
+     82.5 years (1994 est.)
+Serbia:
+     *** No data for this item ***
+total population:
+     73.39 years
+male:
+     70.9 years
+female:
+     76.07 years (1994 est.)
+Total fertility rate:
+Montenegro:
+     1.74 children born/woman (1994 est.)
+Serbia:
+     2.06 children born/woman (1994 est.)
+Nationality:
+noun:
+     Serb(s) and Montenegrin(s)
+adjective:
+     Serbian and Montenegrin
+Ethnic divisions:
+     Serbs 63%, Albanians 14%, Montenegrins 6%, Hungarians 4%, other 13%
+Religions:
+     Orthodox 65%, Muslim 19%, Roman Catholic 4%, Protestant 1%, other 11%
+Languages:
+     Serbo-Croatian 95%, Albanian 5%
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+ 
+ 
+Labor force:
+     2,640,909
+by occupation:
+     industry, mining 40%, agriculture 5% (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+local long form:
+     none
+local short form:
+     Srbija-Crna Gora
+Digraph:
+Serbia:
+     SR
+Montenegro:
+     MW
+Type:
+     republic
+Capital:
+     Belgrade
+Administrative divisions:
+     2 republics (pokajine, singular - pokajina); and 2 autonomous
+     provinces*; Kosovo*, Montenegro, Serbia, Vojvodina*
+Independence:
+     11 April 1992 (Federal Republic of Yugoslavia formed as
+     self-proclaimed successor to the Socialist Federal Republic of
+     Yugoslavia - SFRY)
+National holiday:
+     NA
+Constitution:
+     27 April 1992
+Legal system:
+     based on civil law system
+Suffrage:
+     16 years of age, if employed;  18 years of age, universal
+Executive branch:
+chief of state:
+     Zoran LILIC (since 25 June 1993); note - Slobodan MILOSEVIC is
+     president of Serbia (since 9 December 1990); Momir BULATOVIC is
+     president of Montenegro (since 23 December 1990); Federal Assembly
+     elected Zoran LILIC on 25 June 1993
+head of government:
+     Prime Minister Radoje KONTIC (since 29 December 1992); Deputy Prime
+     Ministers Jovan ZEBIC (since NA March 1993), Asim TELACEVIC (since NA
+     March 1993), Zeljko SIMIC (since NA 1993)
+cabinet:
+     Federal Executive Council
+Legislative branch:
+     bicameral Federal Assembly
+ 
+ 
+Chamber of Republics:
+     elections last held 31 May 1992 (next to be held NA 1996); results -
+     percent of vote by party NA; seats - (40 total; 20 Serbian, 20
+     Montenegrin)
+Chamber of Citizens:
+     elections last held 31 May 1992 (next to be held NA 1996); results -
+     percent of votes by party NA; seats (138 total; 108 Serbian, 30
+     Montenegrin) - SPS 73, SRS 33, DPSCG 23, SK-PJ 2, DZVM 2, independents
+     2, vacant 3
+Judicial branch:
+     Savezni Sud (Federal Court), Constitutional Court
+Political parties and leaders:
+     Serbian Socialist Party (SPS; former Communist Party), Slobodan
+     MILOSEVIC; Serbian Radical Party (SRS), Vojislav SESELJ; Serbian
+     Renewal Movement (SPO), Vuk DRASKOVIC, president; Democratic Party
+     (DS), Zoran DJINDJIC; Democratic Party of Serbia, Vojlslav KOSTUNICA;
+     Democratic Party of Socialists (DPSCG), Momir BULATOVIC, president;
+     People's Party of Montenegro (NS), Novak KILIBARDA; Liberal Alliance
+     of Montenegro, Slavko PEROVIC; Democratic Community of Vojvodina
+     Hungarians (DZVM), Agoston ANDRAS; League of Communists-Movement for
+     Yugoslavia (SK-PJ), Dragan ATANASOVSKI; Democratic Alliance of Kosovo
+     (LDK), Dr. Ibrahim RUGOVA, president
+Other political or pressure groups:
+     Serbian Democratic Movement (DEPOS; coalition of opposition parties)
+Diplomatic representation in US:
+     US and Serbia and Montenegro do not maintain full diplomatic
+     relations; the Embassy of the former Socialist Federal Republic of
+     Yugoslavia continues to function in the US
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge d'Affaires Rudolf V. PERINA
+embassy:
+     address NA, Belgrade
+mailing address:
+     American Embassy Box 5070, Unit 25402, APO AE 09213-5070
+telephone:
+     [38] (11) 645-655
+FAX:
+     [38] (1) 645-221
+Flag:
+     three equal horizontal bands of blue (top), white, and red
+ 
+                                  Economy
+ 
+ 
+Overview:
+     The swift collapse of the Yugoslav federation has been followed by
+     bloody ethnic warfare, the destabilization of republic boundaries, and
+     the breakup of important interrepublic trade flows. Serbia and
+     Montenegro faces major economic problems; output has dropped sharply,
+     particularly in 1993. First, like the other former Yugoslav republics,
+     it depended on its sister republics for large amounts of foodstuffs,
+     energy supplies, and manufactures. Wide varieties in climate, mineral
+     resources, and levels of technology among the republics accentuate
+     this interdependence, as did the communist practice of concentrating
+     much industrial output in a small number of giant plants. The breakup
+     of many of the trade links, the sharp drop in output as industrial
+     plants lost suppliers and markets, and the destruction of physical
+     assets in the fighting all have contributed to the economic
+     difficulties of the republics. One singular factor in the economic
+     situation of Serbia and Montenegro is the continuation in office of a
+     communist government that is primarily interested in political and
+     military mastery, not economic reform. A further complication is the
+     imposition of economic sanctions by the UN.
+National product:
+     GDP - exchange rate conversion - $10 billion (1993 est.)
+National product real growth rate:
+     NA%
+National product per capita:
+     $1,000 (1993 est.)
+Inflation rate (consumer prices):
+     hyperinflation (1993)
+Unemployment rate:
+     more than 60% (1993 est.)
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $4.4 billion (f.o.b., 1990)
+commodities:
+     machinery and transport equipment 29%, manufactured goods 28.5%,
+     miscellaneous manufactured articles 13.5%, chemicals 11%, food and
+     live animals 9%, raw materials 6%, fuels and lubricants 2%, beverages
+     and tobacco 1%
+partners:
+     prior to the imposition of sanctions by the UN Security Council trade
+     partners were principally the other former Yugoslav republics; Italy,
+     Germany, other EC, the FSU countries, East European countries, US
+Imports:
+     $6.4 billion (c.i.f., 1990)
+commodities:
+     machinery and transport equipment 26%, fuels and lubricants 18%,
+     manufactured goods 16%, chemicals 12.5%, food and live animals 11%,
+     miscellaneous manufactured items 8%, raw materials, including coking
+     coal for the steel industry 7%, beverages, tobacco, and edible oils
+     1.5%
+ 
+ 
+partners:
+     prior to the imposition of sanctions by the UN Security Council the
+     trade partners were principally the other former Yugoslav republics;
+     the FSU countries, EC countries (mainly Italy and Germany), East
+     European countries, US
+External debt:
+     $4.2 billion (1993 est.)
+Industrial production:
+     growth rate -42% (1993 est.)
+Electricity:
+capacity:
+     8,850,000 kW
+production:
+     42 billion kWh
+consumption per capita:
+     3,950 kWh (1992)
+Industries:
+     machine building (aircraft, trucks, and automobiles; armored vehicles
+     and weapons; electrical equipment; agricultural machinery), metallurgy
+     (steel, aluminum, copper, lead, zinc, chromium, antimony, bismuth,
+     cadmium), mining (coal, bauxite, nonferrous ore, iron ore, limestone),
+     consumer goods (textiles, footwear, foodstuffs, appliances),
+     electronics, petroleum products, chemicals, and pharmaceuticals
+Agriculture:
+     the fertile plains of Vojvodina produce 80% of the cereal production
+     of the former Yugoslavia and most of the cotton, oilseeds, and
+     chicory; Vojvodina also produces fodder crops to support intensive
+     beef and dairy production; Serbia proper, although hilly, has a
+     well-distributed rainfall and a long growing season; produces fruit,
+     grapes, and cereals; in this area, livestock production (sheep and
+     cattle) and dairy farming prosper; Kosovo produces fruits, vegetables,
+     tobacco, and a small amount of cereals; the mountainous pastures of
+     Kosovo and Montenegro support sheep and goat husbandry; Montenegro has
+     only a small agriculture sector, mostly near the coast where a
+     Mediterranean climate permits the culture of olives, citrus, grapes,
+     and rice
+Illicit drugs:
+     NA
+Economic aid:
+     $NA
+Currency:
+     1 Yugoslav New Dinar (YD) = 100 paras
+Exchange rates:
+     Yugoslav New Dinars (YD) per US $1 - 1,100,000 (15 June 1993), 28.230
+     (December 1991), 15.162 (1990), 15.528 (1989), 0.701 (1988), 0.176
+     (1987)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     NA
+ 
+ 
+Highways:
+total:
+     46,019 km
+paved:
+     26,949 km
+unpaved:
+     gravel 10,373 km; earth 8,697 km (1990)
+Inland waterways:
+     NA km
+Pipelines:
+     crude oil 415 km; petroleum products 130 km; natural gas 2,110 km
+Ports:
+     coastal - Bar; inland - Belgrade
+Merchant marine:
+     bulk 19, bulk 2, cargo 16, combination ore/oil 1, conbination
+     tanker/ore carrier 1, container 5, passenger ship 1
+Montenegro:
+     total 42 ships (1,000 GRT or over) totaling 804,156 GRT/1,368,813 DWT
+     (controlled by Montenegrin beneficial owners)
+Serbia:
+     total 3 (1,000 GRT or over) totaling 246,631 GRT/451,843 DWT
+     (controlled by Serbian beneficial owners)
+note:
+     most under Maltese flag, all under the flag of Saint Vincent and the
+     Grenadines; no ships remain under Yugoslav flag
+Airports:
+total:
+     55
+usable:
+     51
+with permanent-surface runways:
+     18
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     7
+with runways 1,220-2,439 m:
+     11
+Telecommunications:
+     700,000 telephones; broadcast stations - 26 AM, 9 FM, 18 TV; 2,015,000
+     radios; 1,000,000 TVs; satellite ground stations - 1 Atlantic Ocean
+     INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     People's Army - Ground Forces (internal and border troops), Naval
+     Forces, Air and Air Defense Forces, Frontier Guard, Territorial
+     Defense Force, Civil Defense
+Manpower availability:
+Montenegro:
+     males age 15-49 179,868; fit for military service 146,158; reach
+     military age (19) annually 5,399 (1994 est.)
+ 
+ 
+Serbia:
+     males age 15-49 2,546,717; fit for military service 2,048,921; reach
+     military age (19) annually 80,937 (1994 est.)
+Defense expenditures:
+     245 billion dinars, 4%-6% of GDP (1992 est.); note - conversion of
+     defense expenditures into US dollars using the prevailing exchange
+     rate could produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

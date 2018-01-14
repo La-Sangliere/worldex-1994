@@ -1,0 +1,384 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0170
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Nepal
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Nepal 
+ 
+ 
+                                   Nepal
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Asia, in the Himalayas, between China and India
+Map references:
+     Asia, Standard Time Zones of the World
+Area:
+total area:
+     140,800 sq km
+land area:
+     136,800 sq km
+comparative area:
+     slightly larger than Arkansas
+Land boundaries:
+     total 2,926 km, China 1,236 km, India 1,690 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     varies from cool summers and severe winters in north to subtropical
+     summers and mild winters in south
+Terrain:
+     Terai or flat river plain of the Ganges in south, central hill region,
+     rugged Himalayas in north
+Natural resources:
+     quartz, water, timber, hydroelectric potential, scenic beauty, small
+     deposits of lignite, copper, cobalt, iron ore
+Land use:
+arable land:
+     17%
+permanent crops:
+     0%
+meadows and pastures:
+     13%
+forest and woodland:
+     33%
+other:
+     37%
+Irrigated land:
+     9,430 sq km (1989)
+Environment:
+current issues:
+     the almost total dependence on wood for fuel and cutting down trees to
+     expand agricultural land without replanting has resulted in widespread
+     deforestation; soil erosion; water pollution (use of contaminated
+     water presents human health risks)
+natural hazards:
+     vulnerable to severe thunderstorms, flooding, landslides, drought, and
+     famine depending on the timing, intensity, and duration of the summer
+     monsoons
+ 
+ 
+international agreements:
+     party to - Biodiversity, Endangered Species, Nuclear Test Ban,
+     Tropical Timber, Wetlands; signed, but not ratified - Climate Change,
+     Law of the Sea, Marine Dumping, Marine Life Conservation
+Note:
+     landlocked; strategic location between China and India; contains eight
+     of world's 10 highest peaks
+ 
+                                  People
+ 
+Population:
+     21,041,527 (July 1994 est.)
+Population growth rate:
+     2.44% (1994 est.)
+Birth rate:
+     37.63 births/1,000 population (1994 est.)
+Death rate:
+     13.28 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     83.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     52.53 years
+male:
+     52.35 years
+female:
+     52.73 years (1994 est.)
+Total fertility rate:
+     5.24 children born/woman (1994 est.)
+Nationality:
+noun:
+     Nepalese (singular and plural)
+adjective:
+     Nepalese
+Ethnic divisions:
+     Newars, Indians, Tibetans, Gurungs, Magars, Tamangs, Bhotias, Rais,
+     Limbus, Sherpas
+Religions:
+     Hindu 90%, Buddhist 5%, Muslim 3%, other 2% (1981)
+note:
+     only official Hindu state in world, although no sharp distinction
+     between many Hindu and Buddhist groups
+Languages:
+     Nepali (official), 20 languages divided into numerous dialects
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     26%
+male:
+     38%
+female:
+     13%
+ 
+ 
+Labor force:
+     8.5 million (1991 est.)
+by occupation:
+     agriculture 93%, services 5%, industry 2%
+note:
+     severe lack of skilled labor
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Kingdom of Nepal
+conventional short form:
+Digraph:
+     NP
+Type:
+     parliamentary democracy as of 12 May 1991
+Capital:
+     Kathmandu
+Administrative divisions:
+     14 zones (anchal, singular and plural); Bagmati, Bheri, Dhawalagiri,
+     Gandaki, Janakpur, Karnali, Kosi, Lumbini, Mahakali, Mechi, Narayani,
+     Rapti, Sagarmatha, Seti
+Independence:
+     1768 (unified by Prithvi Narayan Shah)
+National holiday:
+     Birthday of His Majesty the King, 28 December (1945)
+Constitution:
+     9 November 1990
+Legal system:
+     based on Hindu legal concepts and English common law; has not accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+head of government:
+     Prime Minister Girija Prasad KOIRALA (since 29 May 1991)
+chief of state:
+     King BIRENDRA Bir Bikram Shah Dev (since 31 January 1972, crowned King
+     24 February 1985); Heir Apparent Crown Prince DIPENDRA Bir Bikram Shah
+     Dev, son of the King (born 21 June 1971)
+cabinet:
+     Cabinet; appointed by the king on recommendation of the prime minister
+Legislative branch:
+     bicameral Parliament
+National Council:
+     consists of a 60-member body, 50 appointed by House of Representatives
+     and 10 by the King
+ 
+ 
+House of Representatives:
+     elections last held on 12 May 1991 (next to be held May 1996); results
+     - NCP 38%, CPN/UML 28%, NDP/Chand 6%, UPF 5%, NDP/Thapa 5%, Terai
+     Rights Sadbhavana Party 4%, Rohit 2%, CPN (Democratic) 1%,
+     independents 4%, other 7%; seats - (205 total) NCP 110, CPN/UML 69,
+     UPF 9, Terai Rights Sadbhavana Party 6, NDP/Chand 3, Rohit 2, CPN
+     (Democratic) 2, NDP/Thapa 1, independents 3; note - the new
+     Constitution of 9 November 1990 gave Nepal a multiparty democracy
+     system for the first time in 32 years
+Judicial branch:
+     Supreme Court (Sarbochha Adalat)
+Political parties and leaders:
+     Nepali Congress Party (NCP), president Krishna Prasad BHATTARAI, Prime
+     Minister Girija Prasad KOIRALA, Supreme Leader Ganesh Man SINGH; The
+     Conservative National Democratic Party (NDP/Thapa), Surya Bahadur
+     THAPA; Communist Party of Nepal/United Marxist and Leninist (CPN/UML),
+     Man Mohan ADHIKARI; Terai Rights Sadbhavana (Goodwill) Party, Gajendra
+     Narayan SINGH; United People's Front (UPF), Lila Mani POKHREL; Nepal
+     Workers and Peasants Party (NWPP), Narayan Man BIJUKCHHE; National
+     Democratic Party/Chand (NDP/Chand), Lokendra Bahadur CHAND; Rohit
+     Party, N. M. BIJUKCHHE; Communist Party of Nepal
+     (Democratic-Manandhar), B. B. MANANDHAR
+Other political or pressure groups:
+     numerous small, left-leaning student groups in the capital; several
+     small, radical Nepalese antimonarchist groups
+Member of:
+     AsDB, CCC, CP, ESCAP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, ILO, IMF,
+     IMO, INTELSAT, INTERPOL, IOC, ISO (correspondent), ITU, LORCS, NAM,
+     SAARC, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNPROFOR, UNTAC, UPU, WFTU,
+     WHO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     (vacant)
+chancery:
+     2131 Leroy Place NW, Washington, DC 20008
+telephone:
+     (202) 667-4550
+consulate(s) general:
+     New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Sandra VOGELGESANG
+embassy:
+     Pani Pokhari, Kathmandu
+mailing address:
+     use embassy street address
+telephone:
+     [977] (1) 411179 or 412718, 411613, 413890
+FAX:
+     [977] (1) 419963
+Flag:
+     red with a blue border around the unique shape of two overlapping
+     right triangles; the smaller, upper triangle bears a white stylized
+     moon and the larger, lower triangle bears a white 12-pointed sun
+ 
+ 
+                                  Economy
+ 
+Overview:
+     Nepal is among the poorest and least developed countries in the world.
+     Agriculture is the mainstay of the economy, providing a livelihood for
+     over 90% of the population and accounting for 60% of GDP. Industrial
+     activity is limited, mainly involving the processing of agricultural
+     produce (jute, sugarcane, tobacco, and grain). Production of textiles
+     and carpets has expanded recently and accounted for 85% of foreign
+     exchange earnings in FY94. Apart from agricultural land and forests,
+     exploitable natural resources are mica, hydropower, and tourism.
+     Agricultural production in the late 1980s grew by about 5%, as
+     compared with annual population growth of 2.6%. More than 40% of the
+     population is undernourished. Since May 1991, the government has been
+     encouraging trade and foreign investment, e.g., by eliminating
+     business licenses and registration requirements in order to simplify
+     domestic and foreign investment. The government also has been cutting
+     public expenditures by reducing subsidies, privatizing state
+     industries, and laying off civil servants. Prospects for foreign trade
+     and investment in the 1990s remain poor, however, because of the small
+     size of the economy, its technological backwardness, its remoteness,
+     and susceptibility to natural disaster. Nepal experienced severe
+     flooding in August 1993 which caused at least $50 million in damage to
+     the country's infrastructure.
+National product:
+     GDP - purchasing power equivalent - $20.5 billion (1993 est.)
+National product real growth rate:
+     2.9% (FY93)
+National product per capita:
+     $1,000 (1993 est.)
+Inflation rate (consumer prices):
+     9% (September 1993)
+Unemployment rate:
+     5%; underemployment estimated at 25%-40% (1987)
+Budget:
+revenues:
+     $457 million
+expenditures:
+     $725 million, including capital expenditures of $427 million (FY93
+     est.)
+Exports:
+     $369 million (f.o.b., FY93) but does not include unrecorded border
+     trade with India
+commodities:
+     carpets, clothing, leather goods, jute goods, grain
+partners:
+     US, Germany, India, UK
+Imports:
+     $789 million (c.i.f., FY93 est.)
+commodities:
+     petroleum products 20%, fertilizer 11%, machinery 10%
+partners:
+     India, Singapore, Japan, Germany
+External debt:
+     $2 billion (FY93 est.)
+ 
+ 
+Industrial production:
+     growth rate 6% (FY91 est.); accounts for 16% of GDP
+Electricity:
+capacity:
+     300,000 kW
+production:
+     1 billion kWh
+consumption per capita:
+     50 kWh (1992)
+Industries:
+     small rice, jute, sugar, and oilseed mills; cigarette, textile,
+     carpet, cement, and brick production; tourism
+Agriculture:
+     accounts for 60% of GDP and 93% of work force; farm products - rice,
+     corn, wheat, sugarcane, root crops, milk, buffalo meat; not
+     self-sufficient in food, particularly in drought years
+Illicit drugs:
+     illicit producer of cannabis for the domestic and international drug
+     markets; transit point for heroin from Southeast Asia to the West
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $304 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1980-89), $2.23
+     billion; OPEC bilateral aid (1979-89), $30 million; Communist
+     countries (1970-89), $286 million
+Currency:
+     1 Nepalese rupee (NR) = 100 paisa
+Exchange rates:
+     Nepalese rupees (NRs) per US$1 - 49.240 (January 1994), 48.607 (1993),
+     42.742 (1992), 37.255 (1991), 29.370 (1990), 27.189 (1989)
+Fiscal year:
+     16 July - 15 July
+ 
+                              Communications
+ 
+Railroads:
+     52 km (1990), all 0.762-meter narrow gauge; all in Terai close to
+     Indian border; 10 km from Raxaul to Birganj is government owned
+Highways:
+total:
+     7,080 km
+paved:
+     2,898 km
+unpaved:
+     gravel, crushed stone 1,660 km; seasonally motorable tracks 2,522 km
+     (1990)
+Airports:
+total:
+     37
+usable:
+     37
+with permanent-surface runways:
+     5
+with runways over 3,659 m:
+     0
+ 
+ 
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     8
+Telecommunications:
+     poor telephone and telegraph service; fair radio communication and
+     broadcast service; international radio communication service is poor;
+     50,000 telephones (1990); broadcast stations - 88 AM, no FM, 1 TV; 1
+     Indian Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Royal Nepalese Army, Royal Nepalese Army Air Service, Nepalese Police
+     Force
+Manpower availability:
+     males age 15-49 5,003,661; fit for military service 2,598,507; reach
+     military age (17) annually 241,405 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $34 million, 2% of GDP (FY91/92)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,417 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0192
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Philippines
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Philippines 
+ 
+ 
+                                Philippines
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, between Indonesia and China
+Map references:
+     Asia, Oceania, Southeast Asia, Standard Time Zones of the World
+Area:
+total area:
+     300,000 sq km
+land area:
+     298,170 sq km
+comparative area:
+     slightly larger than Arizona
+Land boundaries:
+     0 km
+Coastline:
+     36,289 km
+Maritime claims:
+     measured from claimed archipelagic baselines
+continental shelf:
+     to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     irregular polygon extending up to 100 nm from coastline as defined by
+     1898 treaty; since late 1970s has also claimed polygonal-shaped area
+     in South China Sea up to 285 nm in breadth
+International disputes:
+     involved in a complex dispute over the Spratly Islands with China,
+     Malaysia, Taiwan, Vietnam, and possibly Brunei; claims Malaysian state
+     of Sabah
+Climate:
+     tropical marine; northeast monsoon (November to April); southwest
+     monsoon (May to October)
+Terrain:
+     mostly mountains with narrow to extensive coastal lowlands
+Natural resources:
+     timber, petroleum, nickel, cobalt, silver, gold, salt, copper
+Land use:
+arable land:
+     26%
+permanent crops:
+     11%
+meadows and pastures:
+     4%
+forest and woodland:
+     40%
+other:
+     19%
+Irrigated land:
+     16,200 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; soil erosion; water pollution; air pollution in Manila
+ 
+ 
+natural hazards:
+     astride typhoon belt, usually affected by 15 and struck by five to six
+     cyclonic storms per year; subject to landslides, active volcanoes,
+     destructive earthquakes, tsunamis
+international agreements:
+     party to - Biodiversity, Endangered Species, Hazardous Wastes, Law of
+     the Sea, Marine Dumping, Nuclear Test Ban, Ozone Layer Protection,
+     Whaling; signed, but not ratified - Climate Change, Tropical Timber
+ 
+                                  People
+ 
+Population:
+     69,808,930 (July 1994 est.)
+Population growth rate:
+     1.92% (1994 est.)
+Birth rate:
+     27.34 births/1,000 population (1994 est.)
+Death rate:
+     6.94 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -1.18 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     50.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     65.39 years
+male:
+     62.88 years
+female:
+     68.02 years (1994 est.)
+Total fertility rate:
+     3.35 children born/woman (1994 est.)
+Nationality:
+noun:
+     Filipino(s)
+adjective:
+     Philippine
+Ethnic divisions:
+     Christian Malay 91.5%, Muslim Malay 4%, Chinese 1.5%, other 3%
+Religions:
+     Roman Catholic 83%, Protestant 9%, Muslim 5%, Buddhist and other 3%
+Languages:
+     Pilipino (official; based on Tagalog), English (official)
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     90%
+male:
+     90%
+female:
+     90%
+Labor force:
+     24.12 million
+ 
+ 
+by occupation:
+     agriculture 46%, industry and commerce 16%, services 18.5%, government
+     10%, other 9.5% (1989)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of the Philippines
+conventional short form:
+local long form:
+     Republika ng Pilipinas
+local short form:
+     Pilipinas
+Digraph:
+     RP
+Type:
+     republic
+Capital:
+     Manila
+Administrative divisions:
+     72 provinces and 61 chartered cities*; Abra, Agusan del Norte, Agusan
+     del Sur, Aklan, Albay, Angeles*, Antique, Aurora, Bacolod*, Bago*,
+     Baguio*, Bais*, Basilan, Basilan City*, Bataan, Batanes, Batangas,
+     Batangas City*, Benguet, Bohol, Bukidnon, Bulacan, Butuan*,
+     Cabanatuan*, Cadiz*, Cagayan, Cagayan de Oro*, Calbayog*, Caloocan*,
+     Camarines Norte, Camarines Sur, Camiguin, Canlaon*, Capiz,
+     Catanduanes, Cavite, Cavite City*, Cebu, Cebu City*, Cotabato*,
+     Dagupan*, Danao*, Dapitan*, Davao City* Davao, Davao del Sur, Davao
+     Oriental, Dipolog*, Dumaguete*, Eastern Samar, General Santos*,
+     Gingoog*, Ifugao, Iligan*, Ilocos Norte, Ilocos Sur, Iloilo, Iloilo
+     City*, Iriga*, Isabela, Kalinga-Apayao, La Carlota*, Laguna, Lanao del
+     Norte, Lanao del Sur, Laoag*, Lapu-Lapu*, La Union, Legaspi*, Leyte,
+     Lipa*, Lucena*, Maguindanao, Mandaue*, Manila*, Marawi*, Marinduque,
+     Masbate, Mindoro Occidental, Mindoro Oriental, Misamis Occidental,
+     Misamis Oriental, Mountain, Naga*, Negros Occidental, Negros Oriental,
+     North Cotabato, Northern Samar, Nueva Ecija, Nueva Vizcaya, Olongapo*,
+     Ormoc*, Oroquieta*, Ozamis*, Pagadian*, Palawan, Palayan*, Pampanga,
+     Pangasinan, Pasay*, Puerto Princesa*, Quezon, Quezon City*, Quirino,
+     Rizal, Romblon, Roxas*, Samar, San Carlos* (in Negros Occidental), San
+     Carlos* (in Pangasinan), San Jose*, San Pablo*, Silay*, Siquijor,
+     Sorsogon, South Cotabato, Southern Leyte, Sultan Kudarat, Sulu,
+     Surigao*, Surigao del Norte, Surigao del Sur, Tacloban*, Tagaytay*,
+     Tagbilaran*, Tangub*, Tarlac, Tawitawi, Toledo*, Trece Martires*,
+     Zambales, Zamboanga*, Zamboanga del Norte, Zamboanga del Sur
+Independence:
+     4 July 1946 (from US)
+National holiday:
+     Independence Day, 12 June (1898) (from Spain)
+Constitution:
+     2 February 1987, effective 11 February 1987
+Legal system:
+     based on Spanish and Anglo-American law; accepts compulsory ICJ
+     jurisdiction, with reservations
+ 
+ 
+Suffrage:
+     15 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President Fidel Valdes RAMOS (since 30 June 1992); Vice President
+     Joseph Ejercito ESTRADA (since 30 June 1992); election last held 11
+     May 1992 (next election to be held NA May 1998); results - Fidel
+     Valdes RAMOS won 23.6% of votes, a narrow plurality
+cabinet:
+     Executive Secretary; appointed by the president with the consent of
+     the Commission of Appointments
+Legislative branch:
+     bicameral Congress (Kongreso)
+Senate (Senado):
+     elections last held 11 May 1992 (next election to be held NA May
+     1995); results - LDP 66%, NPC 20%, Lakas-NUCD 8%, Liberal 6%; seats -
+     (24 total) LDP 15, NPC 5, Lakas-NUCD 2, Liberal 1, Independent 1
+House of Representatives (Kapulungan Ng Mga Kinatawan):
+     elections last held 11 May 1992 (next election to be held NA May
+     1995); results - LDP 43.5%; Lakas-NUCD 25%, NPC 23.5%, Liberal 5%, KBL
+     3%; seats - (200 total) LDP 87, NPC 45, Lakas-NUCD 41, Liberal 15, NP
+     6, KBL 3, Independent 3
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Democratic Filipino Struggle (Laban ng Demokratikong Pilipinas,
+     Laban), Edgardo ESPIRITU; People Power-National Union of Christian
+     Democrats (Lakas ng Edsa, NUCD and Partido Lakas Tao, Lakas/NUCD);
+     Fidel V. RAMOS, President of the Republic, Raul MANGLAPUS, Jose de
+     VENECIA, secretary general; Nationalist People's Coalition (NPC),
+     Eduardo COJUANGCO; Liberal Party, Jovito SALONGA; People's Reform
+     Party (PRP), Miriam DEFENSOR-SANTIAGO; New Society Movement (Kilusan
+     Bagong Lipunan; KBL), Imelda MARCOS; Nacionalista Party (NP), Salvador
+     H. LAUREL, president
+Member of:
+     APEC, AsDB, ASEAN, CCC, CP, ESCAP, FAO, G-24, G-77, GATT, IAEA, IBRD,
+     ICAO, ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT,
+     INTERPOL, IOC, IOM, ISO, ITU, LORCS, NAM, UN, UNCTAD, UNESCO, UNHCR,
+     UNIDO, UNTAC, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Raul Chaves RABE
+chancery:
+     1617 Massachusetts Avenue NW, Washington, DC 20036
+telephone:
+     (202) 483-1414
+FAX:
+     (202) 328-7614
+consulate(s) general:
+     Agana (Guam), Chicago, Honolulu, Houston, Los Angeles, New York, San
+     Francisco, and Seattle
+consulate(s):
+     San Diego and San Jose (Saipan)
+ 
+ 
+US diplomatic representation:
+chief of mission:
+     Ambassador John D. NEGROPONTE
+embassy:
+     1201 Roxas Boulevard, Ermita Manila 1000
+mailing address:
+     APO AP 96440
+telephone:
+     [632] 521-7116
+FAX:
+     [632] 522-4361
+consulate(s) general:
+     Cebu
+Flag:
+     two equal horizontal bands of blue (top) and red with a white
+     equilateral triangle based on the hoist side; in the center of the
+     triangle is a yellow sun with eight primary rays (each containing
+     three individual rays) and in each corner of the triangle is a small
+     yellow five-pointed star
+ 
+                                  Economy
+ 
+Overview:
+     Domestic output in this primarily agricultural economy failed to grow
+     in 1992 and rose only slightly in 1993. Drought and power supply
+     problems hampered production, while inadequate revenues prevented
+     government pump priming. Worker remittances helped to supplement GDP.
+     A marked increase in capital goods imports, particularly power
+     generating equipment, telecommunications equipment, and electronic
+     data processors, contributed to 20% import growth in both 1992 and
+     1993.
+National product:
+     GDP - purchasing power equivalent - $171 billion (1993 est.)
+National product real growth rate:
+     1.4% (1993 est.)
+National product per capita:
+     $2,500 (1993 est.)
+Inflation rate (consumer prices):
+     7.6% (1993)
+Unemployment rate:
+     9.2% (1993)
+Budget:
+revenues:
+     $11.5 billion
+expenditures:
+     $13 billion, including capital expenditures of $1.7 billion (1994
+     est.)
+Exports:
+     $11.1 billion (f.o.b., 1993 est.)
+commodities:
+     electronics, textiles, coconut products, cooper, fish
+partners:
+     US 39%, Japan 18%, Germany 5%, UK 5%, Hong Kong 5% (1992)
+Imports:
+     $17.1 billion (f.o.b., 1993 est.)
+ 
+ 
+commodities:
+     raw materials 40%, capital goods 25%, petroleum products 10%
+partners:
+     Japan 21%, US 18%, Taiwan 7%, Saudi Arabia 6%, Hong Kong 5%, South
+     Korea 5% (1992)
+External debt:
+     $34.1 billion (September 1993)
+Industrial production:
+     growth rate -1% (1992 est.); accounts for 34% of GDP
+Electricity:
+capacity:
+     7,850,000 kW
+production:
+     28 billion kWh
+consumption per capita:
+     420 kWh (1992)
+Industries:
+     textiles, pharmaceuticals, chemicals, wood products, food processing,
+     electronics assembly, petroleum refining, fishing
+Agriculture:
+     accounts for about 20% of GDP and about 45% of labor force; major
+     crops - rice, coconuts, corn, sugarcane, bananas, pineapples, mangos;
+     animal products - pork, eggs, beef; net exporter of farm products;
+     fish catch of 2 million metric tons annually
+Illicit drugs:
+     illicit producer of cannabis for the international drug trade; growers
+     are producing more and better quality cannabis despite government
+     eradication efforts; transit point for Southwest Asian heroin bound
+     for the US
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $3.6 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-88), $7.9
+     billion; OPEC bilateral aid (1979-89), $5 million; Communist countries
+     (1975-89), $123 million
+Currency:
+     1 Philippine peso (P) = 100 centavos
+Exchange rates:
+     Philippine pesos (P) per US$1 - 27.725 (January 1994), 22.120 (1993),
+     25.512 (1992), 27.479 (1991), 24.311 (1990), 21.737 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     378 km operable on Luzon, 34% government owned (1982)
+Highways:
+total:
+     157,450 km
+paved:
+     22,400 km
+unpaved:
+     gravel, crushed stone, stabilized earth 85,050 km; unimproved earth
+     50,000 km (1988)
+ 
+ 
+Inland waterways:
+     3,219 km; limited to shallow-draft (less than 1.5 m) vessels
+Pipelines:
+     petroleum products 357 km
+Ports:
+     Cagayan de Oro, Cebu, Davao, Guimaras, Iloilo, Legaspi, Manila, Subic
+     Bay
+Merchant marine:
+     553 ships (1,000 GRT or over) totaling 8,451,047 GRT/13,934,255 DWT,
+     bulk 241, cargo 145, chemical tanker 1, combination bulk 10,
+     combination ore/oil 1, container 8, liquefied gas 3, livestock carrier
+     9, oil tanker 33, passenger 1, passenger-cargo 13, refrigerated cargo
+     27, roll-on/roll-off cargo 14, short-sea passenger 12, vehicle carrier
+     35
+note:
+     many Philippine flag ships are foreign owned and are on the register
+     for the purpose of long-term bare-boat charter back to their original
+     owners who are principally in Japan and Germany
+Airports:
+total:
+     270
+usable:
+     238
+with permanent-surface runways:
+     74
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     9
+with runways 1,220-2,439 m:
+     57
+Telecommunications:
+     good international radio and submarine cable services; domestic and
+     interisland service adequate; 872,900 telephones; broadcast stations -
+     267 AM (including 6 US), 55 FM, 33 TV (including 4 US); submarine
+     cables extended to Hong Kong, Guam, Singapore, Taiwan, and Japan;
+     satellite earth stations - 1 Indian Ocean INTELSAT, 2 Pacific Ocean
+     INTELSAT, and 11 domestic
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy (including Coast Guard and Marine Corps), Air Force
+Manpower availability:
+     males age 15-49 17,668,781; fit for military service 12,479,312; reach
+     military age (20) annually 733,880 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $731 million, 1.4% of GNP (1992)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

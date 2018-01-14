@@ -1,0 +1,300 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0157
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Mayotte
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Mayotte 
+ 
+ 
+                                  Mayotte
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territorial collectivity of France)
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, in the northern Mozambique Channel about halfway
+     between Madagascar and Mozambique
+Map references:
+     Africa
+Area:
+total area:
+     375 sq km
+land area:
+     375 sq km
+comparative area:
+     slightly more than twice the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     185.2 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     claimed by Comoros
+Climate:
+     tropical; marine; hot, humid, rainy season during northeastern monsoon
+     (November to May); dry season is cooler (May to November)
+Terrain:
+     generally undulating with ancient volcanic peaks, deep ravines
+Natural resources:
+     negligible
+Land use:
+arable land:
+     NA%
+permanent crops:
+     NA%
+meadows and pastures:
+     NA%
+forest and woodland:
+     NA%
+other:
+     NA%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+ 
+ 
+natural hazards:
+     subject to cyclones during rainy season
+international agreements:
+     NA
+Note:
+     part of Comoro Archipelago
+ 
+                                  People
+ 
+Population:
+     93,468 (July 1994 est.)
+Population growth rate:
+     3.8% (1994 est.)
+Birth rate:
+     48.84 births/1,000 population (1994 est.)
+Death rate:
+     10.84 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     79.6 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     57.81 years
+male:
+     55.63 years
+female:
+     60.06 years (1994 est.)
+Total fertility rate:
+     6.77 children born/woman (1994 est.)
+Nationality:
+noun:
+     Mahorais (singular and plural)
+adjective:
+     Mahoran
+Ethnic divisions:
+     NA
+Religions:
+     Muslim 99%, Christian (mostly Roman Catholic)
+Languages:
+     Mahorian (a Swahili dialect), French
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     Territorial Collectivity of Mayotte
+conventional short form:
+Digraph:
+     MF
+Type:
+     territorial collectivity of France
+Capital:
+     Mamoutzou
+Administrative divisions:
+     none (territorial collectivity of France)
+Independence:
+     none (territorial collectivity of France)
+National holiday:
+     Taking of the Bastille, 14 July (1789)
+Constitution:
+     28 September 1958 (French Constitution)
+Legal system:
+     French law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Francois MITTERRAND (since 21 May 1981)
+head of government:
+     Prefect Jean-Jacques DERACQ (since NA); President of the General
+     Council Younoussa BAMANA (since NA 1976)
+Legislative branch:
+     unicameral
+General Council (Conseil General):
+     elections last held March 1991 (next to be held March 1996); results -
+     percent of vote by party NA; seats - (17 total) MPM 12, RPR 5
+French Senate:
+     elections last held on 24 September 1989 (next to be held September
+     1995); results - percent of vote by party NA; seats - (1 total) MPM 1
+French National Assembly:
+     elections last held 21 and 28 March 1993 (next to be held 1998);
+     results - UDF-CDS 54.3%, RPR 44.3%; seats - (1 total) UDF-CDS 1
+Judicial branch:
+     Supreme Court (Tribunal Superieur d'Appel)
+Political parties and leaders:
+     Mahoran Popular Movement (MPM), Younoussa BAMANA; Party for the
+     Mahoran Democratic Rally (PRDM), Daroueche MAOULIDA; Mahoran Rally for
+     the Republic (RPR), Mansour KAMARDINE; Union for French Democracy
+     (UDF), Maoulida AHMED; Center of Social Democrats (CDS),
+Member of:
+     FZ
+Diplomatic representation in US:
+     none (territorial collectivity of France)
+US diplomatic representation:
+     none (territorial collectivity of France)
+Flag:
+     the flag of France is used
+ 
+ 
+ 
+                                  Economy
+ 
+Overview:
+     Economic activity is based primarily on the agricultural sector,
+     including fishing and livestock raising. Mayotte is not
+     self-sufficient and must import a large portion of its food
+     requirements, mainly from France. The economy and future development
+     of the island are heavily dependent on French financial assistance.
+     Mayotte's remote location is an obstacle to the development of
+     tourism.
+National product:
+     GDP - purchasing power equivalent - $54 million (1993 est.)
+National product real growth rate:
+     NA%
+National product per capita:
+     $600 (1993 est.)
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $NA
+expenditures:
+     $37.3 million, including capital expenditures of $NA (1985 est.)
+Exports:
+     $4 million (f.o.b., 1984)
+commodities:
+     ylang-ylang, vanilla
+partners:
+     France 79%, Comoros 10%, Reunion 9%
+Imports:
+     $21.8 million (f.o.b., 1984)
+commodities:
+     building materials, transportation equipment, rice, clothing, flour
+partners:
+     France 57%, Kenya 16%, South Africa 11%, Pakistan 8%
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     NA
+production:
+     NA
+consumption per capita:
+     NA
+Industries:
+     newly created lobster and shrimp industry
+Agriculture:
+     most important sector; provides all export earnings; crops - vanilla,
+     ylang-ylang, coffee, copra; imports major share of food needs
+ 
+ 
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $402 million
+Currency:
+     1 French franc (F) = 100 centimes
+Exchange rates:
+     French francs (F) per US$1 - 5.9205 (January 1994), 5.6632 (1993),
+     5.2938 (1992), 5.6421 (1991), 5.4453 (1990), 6.3801 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     42 km
+paved:
+     bituminous 18 km
+unpaved:
+     24 km
+Ports:
+     Dzaoudzi
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     small system administered by French Department of Posts and
+     Telecommunications; includes radio relay and high-frequency radio
+     communications for links to Comoros and international communications;
+     450 telephones; broadcast stations - 1 AM, no FM, no TV
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of France
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,340 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0097
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Guadeloupe
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Guadeloupe 
+ 
+ 
+                                Guadeloupe
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (overseas department of France)
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the Caribbean Sea, 500 km southeast of Puerto Rico
+Map references:
+     Central America and the Caribbean
+Area:
+total area:
+     1,780 sq km
+land area:
+     1,760 sq km
+comparative area:
+     10 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     306 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     subtropical tempered by trade winds; relatively high humidity
+Terrain:
+     Basse-Terre is volcanic in origin with interior mountains; Grand-Terre
+     is low limestone formation
+Natural resources:
+     cultivable land, beaches and climate that foster tourism
+Land use:
+arable land:
+     18%
+permanent crops:
+     5%
+meadows and pastures:
+     13%
+forest and woodland:
+     40%
+other:
+     24%
+Irrigated land:
+     30 sq km (1989 est.)
+Environment:
+current issues:
+     NA
+ 
+ 
+natural hazards:
+     subject to hurricanes (June to October); La Soufriere is an active
+     volcano
+international agreements:
+     NA
+ 
+                                  People
+ 
+Population:
+     428,947 (July 1994 est.)
+Population growth rate:
+     1.55% (1994 est.)
+Birth rate:
+     17.68 births/1,000 population (1994 est.)
+Death rate:
+     5.94 deaths/1,000 population (1994 est.)
+Net migration rate:
+     3.73 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     8.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     76.97 years
+male:
+     73.91 years
+female:
+     80.14 years (1994 est.)
+Total fertility rate:
+     2.04 children born/woman (1994 est.)
+Nationality:
+noun:
+     Guadeloupian(s)
+adjective:
+Ethnic divisions:
+     black or mulatto 90%, white 5%, East Indian, Lebanese, Chinese less
+     than 5%
+Religions:
+     Roman Catholic 95%, Hindu and pagan African 5%
+Languages:
+     French, creole patois
+Literacy:
+     age 15 and over can read and write (1982)
+total population:
+     90%
+male:
+     90%
+female:
+     91%
+Labor force:
+     120,000
+by occupation:
+     services, government, and commerce 53.0%, industry 25.8%, agriculture
+     21.2%
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Department of Guadeloupe
+conventional short form:
+local long form:
+     Departement de la Guadeloupe
+local short form:
+Digraph:
+     GP
+Type:
+     overseas department of France
+Capital:
+     Basse-Terre
+Administrative divisions:
+     none (overseas department of France)
+Independence:
+     none (overseas department of France)
+National holiday:
+     National Day, Taking of the Bastille, 14 July (1789)
+Constitution:
+     28 September 1958 (French Constitution)
+Legal system:
+     French legal system
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Francois MITTERRAND (since 21 May 1981)
+head of government:
+     Prefect Franck PERRIEZ (since NA 1992); President of the General
+     Council Dominique LARIFA (since NA); President of the Regional Council
+     Lucette MICHAUX-CHEVRY (since 22 March 1992)
+cabinet:
+     Council of Ministers
+Legislative branch:
+     unicameral General Council and unicameral Regional Council
+General Council:
+     elections last held NA March 1992 (next to be held by NA 1996);
+     results - percent of vote by party NA; seats - (43 total) FRUI.G 13,
+     RPR/DUD 13, PPDG 8, FGPS 3, PCG 3 UPLG 1, PSG 1, independent 1
+Regional Council:
+     elections last held on 31 January 1993 (next to be held by 16 March
+     1998); results - RPR/DUD 48.30%, FGPS 17.09%, FRUI.G 7.44%, PPDG
+     8.90%, UPLG 7.75% PCG 6.05%; seats - (41 total) seats by party NA
+French Senate:
+     elections last held in September 1986 (next to be held September
+     1995); Guadeloupe elects two representatives; results - percent of
+     vote by party NA; seats - (2 total) PCG 1, PS 1
+ 
+ 
+French National Assembly:
+     elections last held on 21 and 28 March1993 (next to be held March
+     1998); Guadeloupe elects four representatives; results - percent of
+     vote by party NA; seats - (4 total) PS 1, RPR 1, PCG 1, independent 1
+Judicial branch:
+     Court of Appeal (Cour d'Appel) with jurisdiction over Guadeloupe,
+     French Guiana, and Martinique
+Political parties and leaders:
+     Rally for the Republic (RPR), Aldo BLAISE; Communist Party of
+     Guadeloupe (PCG), Christian Medard CELESTE; Socialist Party (FGPS),
+     Georges LOUISOR; Popular Union for the Liberation of Guadeloupe
+     (UPLG), Lucien PERATIN; FGPS Dissidents (FRUI.G); Union for French
+     Democracy (UDF), Simon BARLAGNE; Union for the Center Rally (URC;
+     coalition of the FGPS, RPR, and UDF); Guadeloupe Objective (OG),
+     Lucette MICHAUX-CHEVRY; Progressive Democratic Party (PPDG), Henri
+     BANGOU
+Other political or pressure groups:
+     Popular Union for the Liberation of Guadeloupe (UPLG); Popular
+     Movement for Independent Guadeloupe (MPGI); General Union of
+     Guadeloupe Workers (UGTG); General Federation of Guadeloupe Workers
+     (CGT-G); Christian Movement for the Liberation of Guadeloupe (KLPG)
+Member of:
+     FZ, WCL, WFTU
+Diplomatic representation in US:
+     none (overseas department of France)
+US diplomatic representation:
+     none (overseas department of France)
+Flag:
+     the flag of France is used
+ 
+                                  Economy
+ 
+Overview:
+     The economy depends on agriculture, tourism, light industry, and
+     services. It is also dependent upon France for large subsidies and
+     imports. Tourism is a key industry, with most tourists from the US. In
+     addition, an increasingly large number of cruise ships visit the
+     islands. The traditionally important sugarcane crop is slowly being
+     replaced by other crops, such as bananas (which now supply about 50%
+     of export earnings), eggplant, and flowers. Other vegetables and root
+     crops are cultivated for local consumption, although Guadeloupe is
+     still dependent on imported food, which comes mainly from France.
+     Light industry consists mostly of sugar and rum production. Most
+     manufactured goods and fuel are imported. Unemployment is especially
+     high among the young.
+National product:
+     GDP - exchange rate conversion - $2.9 billion (1991)
+National product real growth rate:
+     NA%
+National product per capita:
+     $8,400 (1991)
+Inflation rate (consumer prices):
+     3.7% (1990)
+Unemployment rate:
+     31.3% (1990)
+ 
+ 
+Budget:
+revenues:
+     $333 million
+expenditures:
+     $671 million, including capital expenditures of $NA (1989)
+Exports:
+     $168 million (f.o.b., 1988)
+commodities:
+     bananas, sugar, rum
+partners:
+     France 68%, Martinique 22% (1987)
+Imports:
+     $1.2 billion (c.i.f., 1988)
+commodities:
+     vehicles, foodstuffs, clothing and other consumer goods, construction
+     materials, petroleum products
+partners:
+     France 64%, Italy, FRG, US (1987)
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     171,500 kW
+production:
+     441 million kWh
+consumption per capita:
+     1,080 kWh (1992)
+Industries:
+     construction, cement, rum, sugar, tourism
+Agriculture:
+     cash crops - bananas, sugarcane; other products include tropical
+     fruits and vegetables; livestock - cattle, pigs, goats; not
+     self-sufficient in food
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-88), $4 million;  Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89),
+     $8.235 billion
+Currency:
+     1 French franc (F) = 100 centimes
+Exchange rates:
+     French francs (F) per US$1 - 5.9205 (January 1994), 5.6632 (1993),
+     5.2938 (1992), 5.6421 (1991), 5.4453 (1990), 6.3801 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     privately owned, narrow-gauge plantation lines
+Highways:
+total:
+     1,940 km
+ 
+ 
+paved:
+     1,600 km
+unpaved:
+     gravel, earth 340 km
+Ports:
+     Pointe-a-Pitre, Basse-Terre
+Airports:
+total:
+     9
+usable:
+     9
+with permanent-surface runways:
+     8
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     domestic facilities inadequate; 57,300 telephones; interisland
+     microwave radio relay to Antigua and Barbuda, Dominica, and
+     Martinique; broadcast stations - 2 AM, 8 FM (30 private stations
+     licensed to broadcast FM), 9 TV; 1 Atlantic Ocean INTELSAT ground
+     station
+ 
+                              Defense Forces
+ 
+Branches:
+     French Forces, Gendarmerie
+Note:
+     defense is responsibility of France
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

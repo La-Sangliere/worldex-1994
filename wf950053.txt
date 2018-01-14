@@ -1,0 +1,285 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0052
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Christmas Island
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Christmas Island 
+ 
+ 
+                             Christmas Island
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of Australia)
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, in the Indian Ocean, between Australia and
+     Indonesia
+Map references:
+     Southeast Asia
+Area:
+total area:
+     135 sq km
+land area:
+     135 sq km
+comparative area:
+     about 0.8 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     138.9 km
+Maritime claims:
+contiguous zone:
+     12 nm
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     tropical; heat and humidity moderated by trade winds
+Terrain:
+     steep cliffs along coast rise abruptly to central plateau
+Natural resources:
+     phosphate
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+ 
+ 
+natural hazards:
+     almost completely surrounded by a reef
+international agreements:
+     NA
+Note:
+     located along major sea lanes of Indian Ocean
+ 
+                                  People
+ 
+Population:
+     973 (July 1994 est.)
+Population growth rate:
+     -9% (1994 est.)
+Birth rate:
+     NA
+Death rate:
+     NA
+Net migration rate:
+     NA
+Infant mortality rate:
+     NA
+Life expectancy at birth:
+total population:
+     NA
+male:
+     NA
+female:
+     NA
+Total fertility rate:
+     NA
+Nationality:
+noun:
+     Christmas Islander(s)
+adjective:
+Ethnic divisions:
+     Chinese 61%, Malay 25%, European 11%, other 3%, no indigenous
+     population
+Religions:
+     Buddhist 36.1%, Muslim 25.4%, Christian 17.7% (Roman Catholic 8.2%,
+     Church of England 3.2%, Presbyterian 0.9%, Uniting Church 0.4%,
+     Methodist 0.2%, Baptist 0.1%, and other 4.7%), none 12.7%, unknown
+     4.6%, other 3.5% (1981)
+Languages:
+     English
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+ 
+ 
+by occupation:
+     all workers are employees of the Phosphate Mining Company of Christmas
+     Island, Ltd.
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Territory of Christmas Island
+conventional short form:
+Digraph:
+     KT
+Type:
+     territory of Australia
+Capital:
+     The Settlement
+Administrative divisions:
+     none (territory of Australia)
+Independence:
+     none (territory of Australia)
+National holiday:
+     NA
+Constitution:
+     Christmas Island Act of 1958
+Legal system:
+     under the authority of the governor general of Australia
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952)
+head of government:
+     Administrator M. J. GRIMES (since NA)
+cabinet:
+     Advisory Council
+Legislative branch:
+     none
+Judicial branch:
+     none
+Political parties and leaders:
+     none
+Member of:
+     none
+Diplomatic representation in US:
+     none (territory of Australia)
+US diplomatic representation:
+     none (territory of Australia)
+Flag:
+     the flag of Australia is used
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Phosphate mining had been the only significant economic activity, but
+     in December 1987 the Australian Government closed the mine as no
+     longer economically viable. Plans have been under way to reopen the
+     mine and also to build a casino and hotel to develop tourism.
+National product:
+     GDP $NA
+National product real growth rate:
+     NA%
+National product per capita:
+     $NA
+Inflation rate (consumer prices):
+     NA%
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $NA
+commodities:
+     phosphate
+partners:
+     Australia, NZ
+Imports:
+     $NA
+commodities:
+     consumer goods
+partners:
+     principally Australia
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     11,000 kW
+production:
+     30 million kWh
+consumption per capita:
+     17,800 kWh (1990)
+Industries:
+     phosphate extraction (near depletion)
+Agriculture:
+     NA
+Economic aid:
+     none
+Currency:
+     1 Australian dollar ($A) = 100 cents
+Exchange rates:
+     Australian dollars ($A) per US$1 - 1.4364 (January 1994), 1.4704,
+     (1993), 1.3600 (1992), 1.2836 (1991), 1.2799 (1990), 1.2618 (1989)
+ 
+ 
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     Flying Fish Cove
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     broadcast stations - 1 AM, 1 TV
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of Australia
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

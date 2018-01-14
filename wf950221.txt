@@ -1,0 +1,192 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0220
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: South Georgia and the South Sandwich Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | South Georgia and the South Sandwich Islands 
+ 
+ 
+               South Georgia and the South Sandwich Islands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (dependent territory of the UK)
+ 
+                                 Geography
+ 
+Location:
+     Southern South America, in the South Atlantic Ocean, off the south
+     Argentine coast, southeast of the Falkland Islands
+Map references:
+     Antarctic Region
+Area:
+total area:
+     4,066 sq km
+land area:
+     4,066 sq km
+comparative area:
+     slightly larger than Rhode Island
+note:
+     includes Shag Rocks, Clerke Rocks, Bird Island
+Land boundaries:
+     0 km
+Coastline:
+     NA km
+Maritime claims:
+territorial sea:
+     12 nm
+International disputes:
+     administered by the UK, claimed by Argentina
+Climate:
+     variable, with mostly westerly winds throughout the year, interspersed
+     with periods of calm; nearly all precipitation falls as snow
+Terrain:
+     most of the islands, rising steeply from the sea, are rugged and
+     mountainous; South Georgia is largely barren and has steep,
+     glacier-covered mountains; the South Sandwich Islands are of volcanic
+     origin with some active volcanoes
+Natural resources:
+     fish
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100% (largely covered by permanent ice and snow with some sparse
+     vegetation consisting of grass, moss, and lichen)
+Irrigated land:
+     0 sq km
+ 
+ 
+Environment:
+current issues:
+     NA
+natural hazards:
+     the South Sandwich Islands are subject to active volcanism
+international agreements:
+     NA
+Note:
+     the north coast of South Georgia has several large bays, which provide
+     good anchorage; reindeer, introduced early in this century, live on
+     South Georgia; weather conditions generally make it difficult to
+     approach the South Sandwich Islands
+ 
+                                  People
+ 
+Population:
+     no indigenous population; there is a small military garrison on South
+     Georgia, and the British Antarctic Survey has a biological station on
+     Bird Island; the South Sandwich Islands are uninhabited
+ 
+                                Government
+ 
+Names:
+conventional long form:
+conventional short form:
+     none
+Digraph:
+     SX
+Type:
+     dependent territory of the UK
+Capital:
+     none; Grytviken on South Georgia is the garrison town
+Administrative divisions:
+     none (dependent territory of the UK)
+Independence:
+     none (dependent territory of the UK)
+National holiday:
+     Liberation Day, 14 June (1982)
+Constitution:
+     3 October 1985
+Legal system:
+     English common law
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by
+     Commissioner David Everard TATHAM (since August 1992; resident at
+     Stanley, Falkland Islands)
+Legislative branch:
+     no elections
+Judicial branch:
+     none
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Some fishing takes place in adjacent waters. There is a potential
+     source of income from harvesting fin fish and krill. The islands
+     receive income from postage stamps produced in the UK.
+Budget:
+revenues:
+     $291,777
+expenditures:
+     $451,000, including capital expenditures of $NA (1988 est.)
+Electricity:
+capacity:
+     900 kW
+production:
+     2 million kWh
+consumption per capita:
+     NA (1992)
+ 
+                              Communications
+ 
+Highways:
+total:
+     NA
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     Grytviken on South Georgia
+Airports:
+total:
+     5
+usable:
+     5
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     coastal radio station at Grytviken; no broadcast stations
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

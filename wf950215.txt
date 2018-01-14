@@ -1,0 +1,358 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0214
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Singapore
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Singapore 
+ 
+ 
+                                 Singapore
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, between Malaysia and Indonesia
+Map references:
+     Asia, Southeast Asia, Standard Time Zones of the World
+Area:
+total area:
+     632.6 sq km
+land area:
+     622.6 sq km
+comparative area:
+     slightly less than 3.5 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     193 km
+Maritime claims:
+exclusive fishing zone:
+     12 nm
+territorial sea:
+     3 nm
+International disputes:
+     two islands in dispute with Malaysia
+Climate:
+     tropical; hot, humid, rainy; no pronounced rainy or dry seasons;
+     thunderstorms occur on 40% of all days (67% of days in April)
+Terrain:
+     lowland; gently undulating central plateau contains water catchment
+     area and nature preserve
+Natural resources:
+     fish, deepwater ports
+Land use:
+arable land:
+     4%
+permanent crops:
+     7%
+meadows and pastures:
+     0%
+forest and woodland:
+     5%
+other:
+     84%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     industrial pollution; limited water supply; limited land availability
+     presents waste disposal problems
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     party to - Endangered Species, Nuclear Test Ban, Ozone Layer
+     Protection, Ship Pollution; signed, but not ratified - Biodiversity,
+     Climate Change, Law of the Sea
+Note:
+     focal point for Southeast Asian sea routes
+ 
+                                  People
+ 
+Population:
+     2,859,142 (July 1994 est.)
+Population growth rate:
+     1.12% (1994 est.)
+Birth rate:
+     16.52 births/1,000 population (1994 est.)
+Death rate:
+     5.3 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     5.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     75.95 years
+male:
+     73.17 years
+female:
+     78.94 years (1994 est.)
+Total fertility rate:
+     1.88 children born/woman (1994 est.)
+Nationality:
+noun:
+     Singaporean(s)
+adjective:
+Ethnic divisions:
+     Chinese 76.4%, Malay 14.9%, Indian 6.4%, other 2.3%
+Religions:
+     Buddhist (Chinese), Muslim (Malays), Christian, Hindu, Sikh, Taoist,
+     Confucianist
+Languages:
+     Chinese (official), Malay (official and national), Tamil (official),
+     English (official)
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     88%
+male:
+     93%
+female:
+     84%
+Labor force:
+     1,485,800
+ 
+ 
+by occupation:
+     financial, business, and other services 30.2%, manufacturing 28.4%,
+     commerce 22.0%, construction 9.0%, other 10.4% (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Singapore
+conventional short form:
+Digraph:
+     SN
+Type:
+     republic within Commonwealth
+Capital:
+Administrative divisions:
+     none
+Independence:
+     9 August 1965 (from Malaysia)
+National holiday:
+     National Day, 9 August (1965)
+Constitution:
+     3 June 1959, amended 1965; based on preindependence State of Singapore
+     Constitution
+Legal system:
+     based on English common law; has not accepted compulsory ICJ
+     jurisdiction
+Suffrage:
+     20 years of age; universal and compulsory
+Executive branch:
+chief of state:
+     President ONG Teng Cheong (since 1 September 1993) election last held
+     28 August 1993 (next to be held NA August 1997); results - President
+     ONG was elected with 59% of the vote in the country's first popular
+     election for president
+head of government:
+     Prime Minister GOH Chok Tong (since 28 November 1990); Deputy Prime
+     Minister LEE Hsien Loong (since 28 November 1990)
+cabinet:
+     Cabinet; appointed by the president, responsible to parliament
+Legislative branch:
+     unicameral
+Parliament:
+     elections last held 31 August 1991 (next to be held 31 August 1996);
+     results - percent of vote by party NA; seats - (81 total) PAP 77, SDP
+     3, WP 1
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+government:
+     People's Action Party (PAP), GOH Chok Tong, secretary general
+ 
+ 
+opposition:
+     Workers' Party (WP), J. B. JEYARETNAM; Singapore Democratic Party
+     (SDP), CHIAM See Tong; National Solidarity Party (NSP), leader NA;
+     Barisan Sosialis (BS, Socialist Front), leader NA
+Member of:
+     APEC, AsDB, ASEAN, C, CCC, COCOM (cooperating), CP, ESCAP, G-77, GATT,
+     IAEA, IBRD, ICAO, ICC, ICFTU, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT,
+     INTERPOL, IOC, ISO, ITU, LORCS, NAM, UN, UNAVEM II, UNCTAD, UNIKOM,
+     UNTAC, UPU, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Sellapan Rama NATHAN
+chancery:
+     1824 R Street NW, Washington, DC 20009
+telephone:
+     (202) 667-7555
+FAX:
+     (202) 265-7915
+US diplomatic representation:
+chief of mission:
+     (vacant)
+embassy:
+     30 Hill Street, Singapore 0617
+mailing address:
+     FPO AP 96534
+telephone:
+     [65] 338-0251
+FAX:
+     [65] 338-5010
+Flag:
+     two equal horizontal bands of red (top) and white; near the hoist side
+     of the red band, there is a vertical, white crescent (closed portion
+     is toward the hoist side) partially enclosing five white five-pointed
+     stars arranged in a circle
+ 
+                                  Economy
+ 
+Overview:
+     Singapore has an open entrepreneurial economy with strong service and
+     manufacturing sectors and excellent international trading links
+     derived from its entrepot history. The economy registered nearly 10%
+     growth in 1993 while stemming inflation. The construction and
+     financial services industries and manufacturers of computer-related
+     components have led economic growth. Rising labor costs continue to be
+     a threat to Singapore's competitiveness, but there are indications
+     that productivity is keeping up. In applied technology, per capita
+     output, investment, and labor discipline, Singapore has key attributes
+     of a developed country.
+National product:
+     GDP - purchasing power equivalent - $42.4 billion (1993)
+National product real growth rate:
+     9.9% (1993)
+National product per capita:
+     $15,000 (1993 est.)
+ 
+ 
+Inflation rate (consumer prices):
+     2.4% (1993)
+Unemployment rate:
+     2.7% (1993)
+Budget:
+revenues:
+     $11.9 billion
+expenditures:
+     $10.5 billion, including capital expenditures of $3.9 billion (1994
+     est.)
+Exports:
+     $61.5 billion (f.o.b., 1992)
+commodities:
+     computer equipment, rubber and rubber products, petroleum products,
+     telecommunications equipment
+partners:
+     US 21%, Malaysia 12%, Hong Kong 8%, Japan 8%, Thailand 6% (1992)
+Imports:
+     $66.4 billion (f.o.b., 1992)
+commodities:
+     aircraft, petroleum, chemicals, foodstuffs
+partners:
+     Japan 21%, US 16%, Malaysia 15%, Saudi Arabia 5%, Taiwan 4%
+External debt:
+     $0; Singapore is a net creditor
+Industrial production:
+     growth rate 2.3% (1992); accounts for 28% of GDP
+Electricity:
+capacity:
+     4,860,000 kW
+production:
+     18 billion kWh
+consumption per capita:
+     6,420 kWh (1992)
+Industries:
+     petroleum refining, electronics, oil drilling equipment, rubber
+     processing and rubber products, processed food and beverages, ship
+     repair, entrepot trade, financial services, biotechnology
+Agriculture:
+     occupies a position of minor importance in the economy;
+     self-sufficient in poultry and eggs; must import much of other food;
+     major crops - rubber, copra, fruit, vegetables
+Illicit drugs:
+     transit point for Golden Triangle heroin going to the US, Western
+     Europe, and the Third World; also a major money-laundering center
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-83), $590 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $1
+     billion
+Currency:
+     1 Singapore dollar (S$) = 100 cents
+Exchange rates:
+     Singapore dollars (S$) per US$1 - 1.6032 (January 1994), 1.6158
+     (1993), 1.6290 (1992), 1.7276 (1991), 1.8125 (1990), 1.9503 (1989)
+ 
+ 
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Railroads:
+     38 km of 1.000-meter gauge
+Highways:
+total:
+     2,644 km (1985)
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+Merchant marine:
+     533 ships (1,000 GRT or over) totaling 10,656,067 GRT/17,009,400 DWT,
+     bulk 87, cargo 125, chemical tanker 14, combination bulk 3,
+     combination ore/oil 8, container 80, liquefied gas 4, livestock
+     carrier 1, oil tanker 179, passenger-cargo 1, refrigerated cargo 3,
+     roll-on/roll-off cargo 6, specialized tanker 2, vehicle carrier 20
+note:
+     many Singapore flag ships are foreign owned
+Airports:
+total:
+     10
+usable:
+     10
+with permanent-surface runways:
+     10
+with runways over 3,659 m:
+     2
+with runways 2,440-3,659 m:
+     4
+with runways 1,220-2,439 m:
+     3
+Telecommunications:
+     good domestic facilities; good international service; good radio and
+     television broadcast coverage; 1,110,000 telephones; broadcast
+     stations - 13 AM, 4 FM, 2 TV; submarine cables extend to Malaysia
+     (Sabah and Peninsular Malaysia), Indonesia, and the Philippines;
+     satellite earth stations - 1 Indian Ocean INTELSAT and 1 Pacific Ocean
+     INTELSAT
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, People's Defense Force, Police Force
+Manpower availability:
+     males age 15-49 857,824; fit for military service 630,055
+Defense expenditures:
+     exchange rate conversion - $2.7 billion, 6% of GDP (1993 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,372 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0234
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: The Former Yugoslav Republic of Macedonia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | The Former Yugoslav Republic of Macedonia 
+ 
+ 
+                 The Former Yugoslav Republic of Macedonia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Balkan State, Southeastern Europe, between Serbia and Montenegro and
+     Greece
+Map references:
+     Ethnic Groups in Eastern Europe, Europe, Standard Time Zones of the
+     World
+Area:
+total area:
+     25,333 sq km
+land area:
+     24,856 sq km
+comparative area:
+     slightly larger than Vermont
+Land boundaries:
+     total 748 km, Albania 151 km, Bulgaria 148 km, Greece 228 km, Serbia
+     and Montenegro 221 km (all with Serbia)
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     Greece claims republic's name implies territorial claims against
+     Aegean Macedonia
+Climate:
+     hot, dry summers and autumns and relatively cold winters with heavy
+     snowfall
+Terrain:
+     mountainous territory covered with deep basins and valleys; there are
+     three large lakes, each divided by a frontier line
+Natural resources:
+     chromium, lead, zinc, manganese, tungsten, nickel, low-grade iron ore,
+     asbestos, sulphur, timber
+Land use:
+arable land:
+     5%
+permanent crops:
+     5%
+meadows and pastures:
+     20%
+forest and woodland:
+     30%
+other:
+     40%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     air pollution from metallurgical plants
+natural hazards:
+     high seismic risks
+international agreements:
+     party to - Ozone Layer Protection
+ 
+ 
+Note:
+     landlocked; major transportation corridor from Western and Central
+     Europe to Aegean Sea and Southern Europe to Western Europe
+ 
+                                  People
+ 
+Population:
+     2,213,785 (July 1994 est.)
+Population growth rate:
+     0.89% (1994 est.)
+Birth rate:
+     15.59 births/1,000 population (1994 est.)
+Death rate:
+     6.72 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     27.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     73.59 years
+male:
+     71.51 years
+female:
+     75.85 years (1994 est.)
+Total fertility rate:
+     1.98 children born/woman (1994 est.)
+Nationality:
+noun:
+     Macedonian(s)
+adjective:
+     Macedonian
+Ethnic divisions:
+     Macedonian 65%, Albanian 22%, Turkish 4%, Serb 2%, Gypsies 3%, other
+     4%
+Religions:
+     Eastern Orthodox 67%, Muslim 30%, other 3%
+Languages:
+     Macedonian 70%, Albanian 21%, Turkish 3%, Serbo-Croatian 3%, other 3%
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     507,324
+by occupation:
+     agriculture 8%, manufacturing and mining 40% (1990)
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+conventional short form:
+     none
+local long form:
+     Republika Makedonija
+local short form:
+     Makedonija
+Abbreviation:
+     F.Y.R.O.M.
+Digraph:
+     MK
+Type:
+     emerging democracy
+Capital:
+     Skopje
+Administrative divisions:
+     34 counties (opstinas, singular - opstina) Berovo, Bitola, Brod,
+     Debar, Delcevo, Gevgelija, Gostivar, Kavadarci, Kicevo, Kocani,
+     Kratovo, Kriva Palanka, Krusevo, Kumanovo, Murgasevo, Negotino, Ohrid,
+     Prilep, Probistip, Radovis, Resen, Skopje-Centar, Skopje-Cair,
+     Skopje-Karpos, Skopje-Kisela Voda, Skopje-Gazi Baba, Stip, Struga,
+     Strumica, Sveti Nikole, Tetovo, Titov Veles, Valandovo, Vinica
+Independence:
+     17 September 1991 (from Yugoslavia)
+National holiday:
+     NA
+Constitution:
+     adopted 17 November 1991, effective 20 November 1991
+Legal system:
+     based on civil law system; judicial review of legislative acts
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Kiro GLIGOROV (since 27 January 1991); election last held 27
+     January 1991 (next to be held NA); results - Kiro GLIGOROV was elected
+     by the Assembly
+head of government:
+     Prime Minister Branko CRVENKOVSKI (since 4 September 1992), Deputy
+     Prime Ministers Jovan ANDONOV (since NA March 1991), Risto IVANOV
+     (since NA), and Becir ZUTA (since NA March 1991)
+cabinet:
+     Council of Ministers; elected by the majority vote of all the deputies
+     in the Sobranje
+Legislative branch:
+     unicameral
+Assembly (Sobranje):
+     elections last held 11 and 25 November and 9 December 1990 (next to be
+     held November 1994); results - percent of vote by party NA; seats -
+     (120 total) VMRO-DPMNE 32, SDSM 29, PDPM 23, SRSM 19, SPM 4, DP 4, SJM
+     2, others 7
+Judicial branch:
+     Constitutional Court, Judicial Court of the Republic
+ 
+ 
+Political parties and leaders:
+     Social-Democratic Alliance of Macedonia (SDSM; former Communist
+     Party), Branko CRVENKOVSKI, president; Party for Democratic Prosperity
+     (PDPM); National Democratic Party (PDP), Ilijas HALINI, president;
+     Alliance of Reform Forces of Macedonia - Liberal Party (SRSM-LP),
+     Stojan ANDOV, president; Socialist Party of Macedonia (SPM), Kiro
+     POPOVSKI, president; Internal Macedonian Revolutionary Organization -
+     Democratic Party for Macedonian National Unity (VMRO-DPMNE), Ljupco
+     GEORGIEVSKI, president; Party of Yugoslavs in Macedonia (SJM), Milan
+     DURCINOV, president; Democratic Party (DP), Petal GOSEV, president
+Other political or pressure groups:
+     Movement for All Macedonian Action (MAAK); Democratic Party of Serbs;
+     Democratic Party of Turks; Party for Democratic Action (Slavic Muslim)
+Member of:
+     CE (guest), CSCE (observer), EBRD, ECE, ICAO, ILO, IMF, INTELSAT
+     (nonsignatory user), ITU, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO,
+     WMO
+Diplomatic representation in US:
+     the US recognized The Former Yugoslav Republic of Macedonia on 9
+     February 1994
+US diplomatic representation:
+     the US recognized The Former Yugoslav Republic of Macedonia on 9
+     February 1994
+Flag:
+     16-point gold sun (Vergina, Sun) centered on a red field
+ 
+                                  Economy
+ 
+Overview:
+     The Former Yugoslav Republic of Macedonia, although the poorest
+     republic in the former Yugoslav federation, can meet basic food and
+     energy needs through its own agricultural and coal resources. Its
+     economic decline will continue unless ties are reforged or enlarged
+     with its neighbors Serbia and Montenegro, Albania, Greece, and
+     Bulgaria. The economy depends on outside sources for all of its oil
+     and gas and its modern machinery and parts. Continued political
+     turmoil, both internally and in the region as a whole, prevents any
+     swift readjustments of trade patterns and economic programs. The
+     country's industrial output and GDP are expected to decline further in
+     1994. The Former Yugoslav Republic of Macedonia's geographical
+     isolation, technological backwardness, and potential political
+     instability place it far down the list of countries of interest to
+     Western investors. Resolution of the dispute with Greece and an
+     internal commitment to economic reform would help to encourage foreign
+     investment over the long run. In the immediate future, the worst
+     scenario for the economy would be the spread of fighting across its
+     borders.
+National product:
+     GDP - purchasing power equivalent -  $2.2 billion (1993 est.)
+National product real growth rate:
+     -14.7% (1992 est.)
+National product per capita:
+     $1,000 (1993 est.)
+Inflation rate (consumer prices):
+     13% monthly average (1993 est.)
+ 
+ 
+Unemployment rate:
+     27% (1993 est.)
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $889 million (1993)
+commodities:
+     manufactured goods 40%, machinery and transport equipment 14%,
+     miscellaneous manufactured articles 23%, raw materials 7.6%, food
+     (rice) and live animals 5.7%, beverages and tobacco 4.5%, chemicals
+     4.7% (1990)
+partners:
+     principally Serbia and Montenegro and the other former Yugoslav
+     republics, Germany, Greece, Albania
+Imports:
+     $963 million (1993)
+commodities:
+     fuels and lubricants 19%, manufactured goods 18%, machinery and
+     transport equipment 15%, food and live animals 14%, chemicals 11.4%,
+     raw materials 10%, miscellaneous manufactured articles 8.0%, beverages
+     and tobacco 3.5% (1990)
+partners:
+     other former Yugoslav republics, Greece, Albania, Germany, Bulgaria
+External debt:
+     $840 million (1992)
+Industrial production:
+     growth rate -14% (1993 est.)
+Electricity:
+capacity:
+     1,600,000 kW
+production:
+     6.3 billion kWh
+consumption per capita:
+     2,900 kWh (1992)
+Industries:
+     low levels of technology predominate, such as, oil refining by
+     distillation only; produces basic liquid fuels, coal, metallic
+     chromium, lead, zinc, and ferronickel; light industry produces basic
+     textiles, wood products, and tobacco
+Agriculture:
+     provides 12% of GDP and meets the basic needs for food; principal
+     crops are rice, tobacco, wheat, corn, and millet; also grown are
+     cotton, sesame, mulberry leaves, citrus fruit, and vegetables; The
+     Former Yugoslav Republic of Macedonia is one of the seven legal
+     cultivators of the opium poppy for the world pharmaceutical industry,
+     including some exports to the US; agricultural production is highly
+     labor intensive
+Illicit drugs:
+     limited illicit opium cultivation; transshipment point for Asian
+     heroin
+ 
+ 
+Economic aid:
+recipient:
+     US $10 million (for humanitarian and technical assistance)
+     EC promised a 100 ECU million economic aid package (1993)
+Currency:
+     the denar, which was adopted by the Macedonian legislature 26 April
+     1992, was initially issued in the form of a coupon pegged to the
+     German mark; subsequently repegged to a basket of seven currencies
+Exchange rates:
+     denar per US$1 - 865 (October 1992)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     NA
+Highways:
+total:
+     10,591 km
+paved:
+     5,091 km
+unpaved:
+     gravel 1,404 km; earth 4,096 km (1991)
+Inland waterways:
+     NA km
+Pipelines:
+     none
+Ports:
+     none; landlocked
+Airports:
+total:
+     16
+usable:
+     16
+with permanent-surface runways:
+     10
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     2
+Telecommunications:
+     125,000 telephones; broadcast stations - 6 AM, 2 FM, 5 (2 relays) TV;
+     370,000 radios, 325,000 TV; satellite communications ground stations -
+     none
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air and Air Defense Force, Police Force
+Manpower availability:
+     males age 15-49 604,257; fit for military service 489,746; reach
+     military age (19) annually 19,539 (1994 est.)
+ 
+ 
+Defense expenditures:
+     7 billion denars, NA% of GNP (1993 est.); note - conversion of the
+     military budget into US dollars using the prevailing exchange rate
+     could produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

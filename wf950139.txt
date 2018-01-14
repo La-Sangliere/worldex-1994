@@ -1,0 +1,419 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0138
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Lebanon
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Lebanon 
+ 
+ 
+                                  Lebanon
+ 
+ 
+                                  Header
+ 
+Note:
+     Lebanon has made progress toward rebuilding its political institutions
+     and regaining its national sovereignty since the end of the
+     devastating 16-year civil war in October 1990. Under the Ta'if accord
+     - the blueprint for national reconciliation - the Lebanese have
+     established a more equitable political system, particularly by giving
+     Muslims a greater say in the political process. Since December 1990,
+     the Lebanese have formed three cabinets and conducted the first
+     legislative election in 20 years. Most of the militias have been
+     weakened or disbanded. The Lebanese Armed Forces (LAF) has seized vast
+     quantities of weapons used by the militias during the war and extended
+     central government authority over about one-half of the country.
+     Hizballah, the radical Sh'ia party, retains most of its weapons.
+     Foreign forces still occupy areas of Lebanon. Israel maintains troops
+     in southern Lebanon and continues to support a proxy militia, The Army
+     of South Lebanon (ASL), along a narrow stretch of territory contiguous
+     to its border. The ASL's enclave encompasses this self-declared
+     security zone and about 20 kilometers north to the strategic town of
+     Jazzine. As of December 1993, Syria maintained about 30,000-35,000
+     troops in Lebanon. These troops are based mainly in Beirut, North
+     Lebanon, and the Bekaa Valley. Syria's deployment was legitimized by
+     the Arab League early in Lebanon's civil war and in the Ta'if accord.
+     Citing the continued weakness of the LAF, Beirut's requests, and
+     failure of the Lebanese Government to implement all of the
+     constitutional reforms in the Ta'if accord, Damascus has so far
+     refused to withdraw its troops from Beirut.
+ 
+                                 Geography
+ 
+Location:
+     Middle East, in the eastern Mediterranean Sea, between Israel and
+     Syria
+Map references:
+     Africa, Middle East, Standard Time Zones of the World
+Area:
+total area:
+     10,400 sq km
+land area:
+     10,230 sq km
+comparative area:
+     about 0.8 times the size of Connecticut
+Land boundaries:
+     total 454 km, Israel 79 km, Syria 375 km
+Coastline:
+     225 km
+Maritime claims:
+territorial sea:
+     12 nm
+International disputes:
+     separated from Israel by the 1949 Armistice Line; Israeli troops in
+     southern Lebanon since June 1982; Syrian troops in northern, central,
+     and eastern Lebanon since October 1976
+ 
+ 
+Climate:
+     Mediterranean; mild to cool, wet winters with hot, dry summers;
+     Lebanon mountains experience heavy winter snows
+Terrain:
+     narrow coastal plain; Al Biqa' (Bekaa Valley) separates Lebanon and
+     Anti-Lebanon Mountains
+Natural resources:
+     limestone, iron ore, salt, water-surplus state in a water-deficit
+     region
+Land use:
+arable land:
+     21%
+permanent crops:
+     9%
+meadows and pastures:
+     1%
+forest and woodland:
+     8%
+other:
+     61%
+Irrigated land:
+     860 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; soil erosion; desertification; air and water pollution
+natural hazards:
+     NA
+international agreements:
+     party to - Nuclear Test Ban, Ozone Layer Protection, Ship Pollution;
+     signed, but not ratified - Biodiversity, Climate Change, Environmental
+     Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine
+     Life Conservation
+Note:
+     Nahr al Litani only major river in Near East not crossing an
+     international boundary; rugged terrain historically helped isolate,
+     protect, and develop numerous factional groups based on religion,
+     clan, and ethnicity
+ 
+                                  People
+ 
+Population:
+     3,620,395 (July 1994 est.)
+Population growth rate:
+     1.98% (1994 est.)
+Birth rate:
+     27.89 births/1,000 population (1994 est.)
+Death rate:
+     6.55 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -1.52 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     39.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     69.35 years
+ 
+ 
+male:
+     66.92 years
+female:
+     71.9 years (1994 est.)
+Total fertility rate:
+     3.39 children born/woman (1994 est.)
+Nationality:
+noun:
+     Lebanese (singular and plural)
+adjective:
+     Lebanese
+Ethnic divisions:
+     Arab 95%, Armenian 4%, other 1%
+Religions:
+     Islam 70% (5 legally recognized Islamic groups - Alawite or Nusayri,
+     Druze, Isma'ilite, Shi'a, Sunni), Christian 30% (11 legally recognized
+     Christian groups - 4 Orthodox Christian, 6 Catholic, 1 Protestant),
+     Judaism NEGL%
+Languages:
+     Arabic (official), French (official), Armenian, English
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     80%
+male:
+     88%
+female:
+     73%
+Labor force:
+     650,000
+by occupation:
+     industry, commerce, and services 79%, agriculture 11%, government 10%
+     (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Lebanon
+conventional short form:
+local long form:
+     Al Jumhuriyah al Lubnaniyah
+local short form:
+     none
+Digraph:
+     LE
+Type:
+     republic
+Capital:
+     Beirut
+Administrative divisions:
+     5 governorates (muhafazat, singular - muhafazah); Al Biqa, 'Al Janub,
+     Ash Shamal, Bayrut, Jabal Lubnan
+ 
+ 
+Independence:
+     22 November 1943 (from League of Nations mandate under French
+     administration)
+National holiday:
+     Independence Day, 22 November (1943)
+Constitution:
+     23 May 1926, amended a number of times
+Legal system:
+     mixture of Ottoman law, canon law, Napoleonic code, and civil law; no
+     judicial review of legislative acts; has not accepted compulsory ICJ
+     jurisdiction
+Suffrage:
+     21 years of age; compulsory for all males; authorized for women at age
+     21 with elementary education
+Executive branch:
+chief of state:
+     President Ilyas HARAWI (since 24 November 1989); note - by custom, the
+     president is a Maronite Christian, the prime minister is a Sunni
+     Muslim, and the speaker of the legislature is a Shi'a Muslim
+head of government:
+     Prime Minister Rafiq HARIRI (since 22 October 1992)
+cabinet:
+     Cabinet; chosen by the president in consultation with the members of
+     the National Assembly
+Legislative branch:
+     unicameral
+National Assembly:
+      (Arabic - Majlis Alnuwab, French - Assemblee Nationale) Lebanon's
+     first legislative election in 20 years was held in the summer of 1992;
+     the National Assembly is composed of 128 deputies, one-half Christian
+     and one-half Muslim; its mandate expires in 1996
+Judicial branch:
+     four Courts of Cassation (three courts for civil and commercial cases
+     and one court for criminal cases)
+Political parties and leaders:
+     political party activity is organized along largely sectarian lines;
+     numerous political groupings exist, consisting of individual political
+     figures and followers motivated by religious, clan, and economic
+     considerations
+Member of:
+     ABEDA, ACCT, AFESD, AL, AMF, CCC, ESCWA, FAO, G-24, G-77, IAEA, IBRD,
+     ICAO, ICC, ICFTU, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INTELSAT,
+     INTERPOL, IOC, ITU, LORCS, NAM, OIC, PCA, UN, UNCTAD, UNESCO, UNHCR,
+     UNIDO, UNRWA, UPU, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Riad TABBARAH
+chancery:
+     2560 28th Street NW, Washington, DC 20008
+telephone:
+     (202) 939-6300
+FAX:
+     (202) 939-6324
+consulate(s) general:
+     Detroit, New York, and Los Angeles
+ 
+ 
+US diplomatic representation:
+chief of mission:
+     Ambassador Mark HAMBLEY
+mailing embassy:
+     Antelias, Beirut
+address:
+     P. O. Box 70-840, PSC 815, Box 2, Beirut; FPO AE 09836-0002
+telephone:
+     [961] 417774 or 415802 through 415803, 402200, 403300
+FAX:
+     [961] (1) 407-112
+Flag:
+     three horizontal bands of red (top), white (double width), and red
+     with a green and brown cedar tree centered in the white band
+ 
+                                  Economy
+ 
+Overview:
+     Since 1975 civil war has seriously damaged Lebanon's economic
+     infrastructure, cut national output by half, and all but ended
+     Lebanon's position as a Middle Eastern entrepot and banking hub.
+     Following October 1990, however, a tentative peace has enabled the
+     central government to begin restoring control in Beirut, collect
+     taxes, and regain access to key port and government facilities. The
+     battered economy has also been propped up by a financially sound
+     banking system and resilient small- and medium-scale manufacturers.
+     Family remittances, banking transactions, manufactured and farm
+     exports, the narcotics trade, and international emergency aid are the
+     main sources of foreign exchange. In the relatively settled year of
+     1991, industrial production, agricultural output, and exports showed
+     substantial gains. The further rebuilding of the war-ravaged country
+     was delayed in 1992 because of an upturn in political wrangling. In
+     October 1992, Rafiq HARIRI was appointed Prime Minister. HARIRI, a
+     wealthy entrepreneur, has announced ambitious plans for Lebanon's
+     reconstruction which involve a substantial influx of foreign aid and
+     investment. Progress on restoring basic services is limited. Since
+     Prime Minister HARIRI's appointment, the most significant improvement
+     lies in the stabilization of the Lebanese pound, which had gained over
+     30% in value by yearend 1993. The year 1993 was marked by efforts of
+     the new administration to encourage domestic and foreign investment
+     and to obtain additional international assistance.
+National product:
+     GDP - exchange rate conversion - $6.1 billion (1993 est.)
+National product real growth rate:
+     4.2% (1992)
+National product per capita:
+     $1,720 (1993 est.)
+Inflation rate (consumer prices):
+     35% (1993 est.)
+Unemployment rate:
+     35% (1993 est.)
+Budget:
+revenues:
+     $990 million
+ 
+ 
+expenditures:
+     $1.98 billion, including capital expenditures of $NA (1993 est.)
+Exports:
+     $925 million (f.o.b., 1993 est.)
+commodities:
+     agricultural products, chemicals, textiles, precious and semiprecious
+     metals and jewelry, metals and metal products
+partners:
+     Saudi Arabia 21%, Switzerland 9.5%, Jordan 6%, Kuwait 12%, US 5%
+Imports:
+     $4.1 billion (c.i.f., 1993 est.)
+commodities:
+     Consumer goods, machinery and transport equipment, petroleum products
+partners:
+     Italy 14%, France 12%, US 6%, Turkey 5%, Saudi Arabia 3%
+External debt:
+     $700 million (1993 est.)
+Industrial production:
+     growth rate 25% (1993 est.)
+Electricity:
+capacity:
+     1,300,000 kW
+production:
+     3.413 billion kWh
+consumption per capita:
+     990 kWh (1992)
+Industries:
+     banking, food processing, textiles, cement, oil refining, chemicals,
+     jewelry, some metal fabricating
+Agriculture:
+     accounts for about one-third of GDP; principal products - citrus
+     fruits, vegetables, potatoes, olives, tobacco, hemp (hashish), sheep,
+     goats; not self-sufficient in grain
+Illicit drugs:
+     illicit producer of hashish and heroin for the international drug
+     trade; hashish production is shipped to Western Europe, the Middle
+     East, and North and South America; increasingly a key locus of cocaine
+     processing and trafficking
+Economic aid:
+     aid for Lebanon's reconstruction programs currently totals $1.3
+     billion since October 1992, including a $175 million loan from the
+     World Bank
+Currency:
+     1 Lebanese pound (#L) = 100 piasters
+Exchange rates:
+     Lebanese pounds (#L) per US$1 - 1,713.00 (December 1993), 2,200.00
+     (1992), 928.23 (1991), 695.09 (1990), 496.69 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     system in disrepair, considered inoperable
+ 
+ 
+Highways:
+total:
+     7,300 km
+paved:
+     6,200 km
+unpaved:
+     gravel 450 km; improved earth 650 km
+Pipelines:
+     crude oil 72 km (none in operation)
+Ports:
+     Beirut, Tripoli, Ra'Sil'ata, Juniyah, Sidon, Az Zahrani, Tyre, Jubayl,
+     Shikka Jadidah
+Merchant marine:
+     63 ships (1,000 GRT or over) totaling 268,268 GRT/399,054 DWT, bulk 4,
+     cargo 39, chemical tanker 1, combination bulk 1, container 2,
+     livestock carrier 9, refrigerated cargo 1, roll-on/roll-off cargo 2,
+     specialized tanker 1, vehicle carrier 2, combination ore/oil 1
+Airports:
+total:
+     9
+usable:
+     7
+with permanent-surface runways:
+     5
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     3
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     telecommunications system severely damaged by civil war; rebuilding
+     still underway; 325,000 telephones (95 telephones per 1,000 persons);
+     domestic traffic carried primarily by microwave radio relay and a
+     small amount of cable; international traffic by satellite - 1 Indian
+     Ocean INTELSAT earth station and 1 Atlantic Ocean INTELSAT earth
+     station (erratic operations), coaxial cable to Syria; microwave radio
+     relay to Syria but inoperable beyond Syria to Jordan, 3 submarine
+     coaxial cables; broadcast stations - 5 AM, 3 FM, 13 TV (numerous AM
+     and FM stations are operated sporadically by various factions)
+ 
+                              Defense Forces
+ 
+Branches:
+     Lebanese Armed Forces (LAF; including Army, Navy, and Air Force)
+Manpower availability:
+     males age 15-49 827,267; fit for military service 514,291
+Defense expenditures:
+     exchange rate conversion - $271 million, 8.2% of GDP (1992 budget)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

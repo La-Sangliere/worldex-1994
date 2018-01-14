@@ -1,0 +1,391 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0041
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Burma
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Burma 
+ 
+ 
+                                   Burma
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, bordering the Bay of Bengal, between Bangladesh and
+     Thailand
+Map references:
+     Asia, Southeast Asia, Standard Time Zones of the World
+Area:
+total area:
+     678,500 sq km
+land area:
+     657,740 sq km
+comparative area:
+     slightly smaller than Texas
+Land boundaries:
+     total 5,876 km, Bangladesh 193 km, China 2,185 km, India 1,463 km,
+     Laos 235 km, Thailand 1,800 km
+Coastline:
+     1,930 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200 nm or to the edge of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical monsoon; cloudy, rainy, hot, humid summers (southwest
+     monsoon, June to September); less cloudy, scant rainfall, mild
+     temperatures, lower humidity during winter (northeast monsoon,
+     December to April)
+Terrain:
+     central lowlands ringed by steep, rugged highlands
+Natural resources:
+     petroleum, timber, tin, antimony, zinc, copper, tungsten, lead, coal,
+     some marble, limestone, precious stones, natural gas
+Land use:
+arable land:
+     15%
+permanent crops:
+     1%
+meadows and pastures:
+     1%
+forest and woodland:
+     49%
+other:
+     34%
+Irrigated land:
+     10,180 sq km (1989)
+ 
+ 
+Environment:
+current issues:
+     deforestation
+natural hazards:
+     subject to destructive earthquakes and cyclones; flooding and
+     landslides common during rainy season (June to September)
+international agreements:
+     party to - Nuclear Test Ban, Ozone Layer Protection, Ship Pollution,
+     Tropical Timber; signed, but not ratified - Biodiversity, Climate
+     Change, Law of the Sea
+Note:
+     strategic location near major Indian Ocean shipping lanes
+ 
+                                  People
+ 
+Population:
+     44,277,014 (July 1994 est.)
+Population growth rate:
+     1.86% (1994 est.)
+Birth rate:
+     28.45 births/1,000 population (1994 est.)
+Death rate:
+     9.84 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     63.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     59.98 years
+male:
+     57.94 years
+female:
+     62.15 years (1994 est.)
+Total fertility rate:
+     3.64 children born/woman (1994 est.)
+Nationality:
+noun:
+     Burmese (singular and plural)
+adjective:
+     Burmese
+Ethnic divisions:
+     Burman 68%, Shan 9%, Karen 7%, Rakhine 4%, Chinese 3%, Mon 2%, Indian
+     2%, other 5%
+Religions:
+     Buddhist 89%, Christian 4% (Baptist 3%, Roman Catholic 1%), Muslim 4%,
+     animist beliefs 1%, other 2%
+Languages:
+     Burmese; minority ethnic groups have their own languages
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     81%
+male:
+     89%
+ 
+ 
+female:
+     72%
+Labor force:
+     16.007 million (1992)
+by occupation:
+     agriculture 65.2%, industry 14.3%, trade 10.1%, government 6.3%, other
+     4.1% (FY89 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Union of Burma
+conventional short form:
+local long form:
+     Pyidaungzu Myanma Naingngandaw (translated by the US Government as
+     Union of Myanma and by the Burmese as Union of Myanmar)
+local short form:
+     Myanma Naingngandaw
+former:
+     Socialist Republic of the Union of Burma
+Digraph:
+     BM
+Type:
+     military regime
+Capital:
+     Rangoon (sometimes translated as Yangon)
+Administrative divisions:
+     7 divisions* (yin-mya, singular - yin) and 7 states (pyine-mya,
+     singular - pyine); Chin State, Irrawaddy*, Kachin State, Karan State,
+     Kayah State, Magwe*, Mandalay*, Mon State, Pegu*, Rakhine State,
+     Rangoon*, Sagaing*, Shan State, Tenasserim*
+Independence:
+     4 January 1948 (from UK)
+National holiday:
+     Independence Day, 4 January (1948)
+Constitution:
+     3 January 1974 (suspended since 18 September 1988); National
+     Convention started on 9 January 1993 to draft chapter headings for a
+     new constitution
+Legal system:
+     has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state and head of government:
+     Chairman of the State Law and Order Restoration Council Gen. THAN SHWE
+     (since 23 April 1992)
+State Law and Order Restoration Council:
+     military junta which assumed power 18 September 1988
+ 
+ 
+Legislative branch:
+People's Assembly (Pyithu Hluttaw):
+     last held 27 May 1990, but Assembly never convened; results - NLD 80%;
+     seats - (485 total) NLD 396, the regime-favored NUP 10, other 79; was
+     dissolved after the coup of 18 September 1988
+Judicial branch:
+     none; Council of People's Justices was abolished after the coup of 18
+     September 1988
+Political parties and leaders:
+     Union Solidarity and Development Association (USDA), leader NA;
+     National Unity Party (NUP; proregime), THA KYAW; National League for
+     Democracy (NLD), U AUNG SHWE
+Other political or pressure groups:
+     National Coalition Government of the Union of Burma (NCGUB), headed by
+     the elected prime minister SEIN WIN (consists of individuals
+     legitimately elected to Parliament but not recognized by the military
+     regime; the group fled to a border area and joined with insurgents in
+     December 1990 to form a parallel government; Kachin Independence Army
+     (KIA); United Wa State Army (UWSA); Karen National Union (KNU);
+     several Shan factions, including the Mong Tai Army (MTA); All Burma
+     Student Democratic Front (ABSDF)
+Member of:
+     AsDB, CCC, CP, ESCAP, FAO, G-77, GATT, IAEA, IBRD, ICAO, IDA, IFAD,
+     IFC, ILO, IMF, IMO, INTELSAT (nonsignatory user), INTERPOL, IOC, ITU,
+     LORCS, NAM, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador U THAUNG
+chancery:
+     2300 S Street NW, Washington, DC 20008
+telephone:
+     (202) 332-9044 or 9045
+consulate(s) general:
+     New York
+US diplomatic representation:
+chief of mission:
+     (vacant); Deputy Chief of Mission, Charge d'Affaires Franklin P.
+     HUDDLE, Jr.
+embassy:
+     581 Merchant Street, Rangoon
+mailing address:
+     American Embassy, Box B, APO AP 96546
+telephone:
+     [95] (1) 82055, 82181
+FAX:
+     [95] (1) 80409
+Flag:
+     red with a blue rectangle in the upper hoist-side corner bearing, all
+     in white, 14 five-pointed stars encircling a cogwheel containing a
+     stalk of rice; the 14 stars represent the 14 administrative divisions
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Burma has a mixed economy with about 70% private activity, mainly in
+     agriculture, light industry, and transport, and with about 30%
+     state-controlled activity, mainly in energy, heavy industry, and
+     foreign trade. Government policy in the last five years, 1989-93, has
+     aimed at revitalizing the economy after four decades of tight central
+     planning. Thus, private activity has markedly increased; foreign
+     investment has been encouraged, so far with moderate success; and
+     efforts continue to increase the efficiency of state enterprises.
+     Published estimates of Burma's foreign trade are greatly understated
+     because of the volume of black market trade. A major ongoing problem
+     is the failure to achieve monetary and fiscal stability. Inflation has
+     been running at 25% to 30% annually. Good weather helped boost GDP by
+     perhaps 5% in 1993. Although Burma remains a poor Asian country, its
+     rich resources furnish the potential for substantial long-term
+     increases in income, exports, and living standards.
+National product:
+     GDP - purchasing power equivalent - $41 billion (1993 est.)
+National product real growth rate:
+     5% (1993 est.)
+National product per capita:
+     $950 (1993 est.)
+Inflation rate (consumer prices):
+     30% (1993 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $8.1 billion
+expenditures:
+     $11.6 billion, including capital expenditures of $NA (1992)
+Exports:
+     $613.4 million (FY93)
+commodities:
+     pulses and beans, teak, rice, hardwood
+partners:
+     Singapore, China, Thailand, India, Hong Kong
+Imports:
+     $1.02 billion (FY93)
+commodities:
+     machinery, transport equipment, chemicals, food products
+partners:
+     Japan, China, Thailand, Singapore, Malaysia
+External debt:
+     $4 billion (1992)
+Industrial production:
+     growth rate 4.9% (FY93 est.); accounts for 10% of GDP
+Electricity:
+capacity:
+     1,100,000 kW
+production:
+     2.8 billion kWh
+consumption per capita:
+     65 kWh (1992)
+ 
+ 
+Industries:
+     agricultural processing; textiles and footwear; wood and wood
+     products; petroleum refining; mining of copper, tin, tungsten, iron;
+     construction materials; pharmaceuticals; fertilizer
+Agriculture:
+     accounts for 40% of GDP and 66% of employment (including fish and
+     forestry); self-sufficient in food; principal crops - paddy rice,
+     corn, oilseed, sugarcane, pulses; world's largest stand of hardwood
+     trees; rice and timber account for 55% of export revenues
+Illicit drugs:
+     world's largest illicit producer of opium (2,575 metric tons in 1993)
+     and minor producer of cannabis for the international drug trade; opium
+     production has doubled since the collapse of Rangoon's antinarcotic
+     programs
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $158 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $3.9
+     billion; Communist countries (1970-89),  $424 million
+Currency:
+     1 kyat (K) = 100 pyas
+Exchange rates:
+     kyats (K) per US$1 - 6.2301 (December 1993), 6.1570 (1993), 6.1045
+     (1992), 6.2837 (1991), 6.3386 (1990), 6.7049 (1989); unofficial - 105
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Railroads:
+     3,991 km total, all government owned; 3,878 km 1.000-meter gauge, 113
+     km narrow-gauge industrial lines; 362 km double track
+Highways:
+total:
+     27,000 km
+paved:
+     bituminous 3,200 km
+unpaved:
+     gravel, improved earth 17,700 km; unimproved earth 6,100 km
+Inland waterways:
+     12,800 km; 3,200 km navigable by large commercial vessels
+Pipelines:
+     crude oil 1,343 km; natural gas 330 km
+Ports:
+     Rangoon, Moulmein, Bassein
+Merchant marine:
+     47 ships (1,000 GRT or over) totaling 665,628 GRT/941,512 DWT, bulk
+     15, cargo 15, chemical 1, combination bulk 1, combination ore/oil 1,
+     container 2, oil tanker 2, passenger-cargo 3, refrigerated cargo 5,
+     vehicle carrier 2
+Airports:
+total:
+     83
+usable:
+     78
+ 
+ 
+with permanent-surface runways:
+     24
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     3
+with runways 1,220-2,439 m:
+     38
+Telecommunications:
+     meets minimum requirements for local and intercity service for
+     business and government; international service is good; 53,000
+     telephones (1986); radiobroadcast coverage is limited to the most
+     populous areas; broadcast stations - 2 AM, 1 FM, 1 TV (1985); 1 Indian
+     Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force
+Manpower availability:
+     males age 15-49 11,199,531; females age 15-49 11,273,643; males fit
+     for military service 5,979,710; females fit for military service
+     6,034,810; males reach military age (18) annually 445,933 (1994 est.);
+     females reach military age (18) annually 430,738 (1994 est.); both
+     sexes liable for military service
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

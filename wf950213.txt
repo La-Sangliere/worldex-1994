@@ -1,0 +1,344 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0212
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Seychelles
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Seychelles 
+ 
+ 
+                                Seychelles
+ 
+ 
+                                 Geography
+ 
+Location:
+     Eastern Africa in the western Indian Ocean northeast of Madagascar
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     455 sq km
+land area:
+     455 sq km
+comparative area:
+     slightly more than 2.5 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     491 km
+Maritime claims:
+continental shelf:
+     200 nm or the edge of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     claims Tromelin Island
+Climate:
+     tropical marine; humid; cooler season during southeast monsoon (late
+     May to September); warmer season during northwest monsoon (March to
+     May)
+Terrain:
+     Mahe Group is granitic, narrow coastal strip, rocky, hilly; others are
+     coral, flat, elevated reefs
+Natural resources:
+     fish, copra, cinnamon trees
+Land use:
+arable land:
+     4%
+permanent crops:
+     18%
+meadows and pastures:
+     0%
+forest and woodland:
+     18%
+other:
+     60%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     no fresh water, catchments collect rain water
+natural hazards:
+     lies outside the cyclone belt, so severe storms are rare; short
+     droughts possible
+ 
+ 
+international agreements:
+     party to - Biodiversity, Climate Change, Hazardous Wastes, Law of the
+     Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Whaling
+Note:
+     40 granitic and about 50 coralline islands
+ 
+                                  People
+ 
+Population:
+     72,113 (July 1994 est.)
+Population growth rate:
+     0.84% (1994 est.)
+Birth rate:
+     21.88 births/1,000 population (1994 est.)
+Death rate:
+     6.93 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -6.52 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     11.7 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     69.67 years
+male:
+     66.05 years
+female:
+     73.39 years (1994 est.)
+Total fertility rate:
+     2.23 children born/woman (1994 est.)
+Nationality:
+noun:
+     Seychellois (singular and plural)
+adjective:
+Ethnic divisions:
+     Seychellois (mixture of Asians, Africans, Europeans)
+Religions:
+     Roman Catholic 90%, Anglican 8%, other 2%
+Languages:
+     English (official), French (official), Creole
+Literacy:
+     age 15 and over can read and write (1971)
+total population:
+     58%
+male:
+     56%
+female:
+     60%
+Labor force:
+     27,700 (1985)
+by occupation:
+     industry and commerce 31%, services 21%, government 20%, agriculture,
+     forestry, and fishing 12%, other 16% (1985)
+note:
+     57% of population of working age (1983)
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Seychelles
+conventional short form:
+Digraph:
+     SE
+Type:
+     republic
+Capital:
+     Victoria
+Administrative divisions:
+     23 administrative districts; Anse aux Pins, Anse Boileau, Anse Etoile,
+     Anse Louis, Anse Royale, Baie Lazare, Baie Sainte Anne, Beau Vallon,
+     Bel Air, Bel Ombre, Cascade, Glacis, Grand' Anse (on Mahe Island),
+     Grand' Anse (on Praslin Island), La Digue, La Riviere Anglaise, Mont
+     Buxton, Mont Fleuri, Plaisance, Pointe Larue, Port Glaud, Saint Louis,
+     Takamaka
+Independence:
+     29 June 1976 (from UK)
+National holiday:
+     National Day, 18 June (1993) ( adoption of new constitution)
+Constitution:
+     18 June 1993
+Legal system:
+     based on English common law, French civil law, and customary law
+Suffrage:
+     17 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President France Albert RENE (since 5 June 1977); election last held
+     20- 23 July 1993; results - President France Albert RENE reelected by
+     59.5% of votes, MANCHAM (PS party) 36.72%
+cabinet:
+     Council of Ministers; appointed by the president
+Legislative branch:
+     unicameral
+People's Assembly (Assemblee du Peuple):
+     elections last held 20-23 July 1993; results - SPPF 82%, DP 15%, UO
+     3%; seats - (33 total, 22 elected) SPPF 22
+Judicial branch:
+     Court of Appeal, Supreme Court
+Political parties and leaders:
+     ruling party - Seychelles People's Progressive Front (SPPF), France
+     Albert RENE; Democratic Party (DP), Sir James MANCHAM; United
+     Opposition (UO) is a coalition of the following parties: Seychelles
+     Party (PS), Wavel RAMKALAWAN; Seychelles Democratic Movement (MSPD),
+     Jacques HONDOUL; Seychelles Liberal Party (SLP), Ogilvie BERLOUIS;;
+Other political or pressure groups:
+     trade unions; Roman Catholic Church
+ 
+ 
+Member of:
+     ACCT, ACP, AfDB, C, ECA, FAO, G-77, IBRD, ICAO, ICFTU, IFAD, IFC, ILO,
+     IMF, IMO, INTELSAT (nonsignatory user), INTERPOL, IOC, ISO
+     (correspondent), NAM, OAU, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WHO,
+     WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Marc Michael Rogers MARENGO
+chancery:
+     (temporary) 820 Second Avenue, Suite 900F, New York, NY 10017
+telephone:
+     (212) 687-9766 or 9767
+FAX:
+     (212) 922-9177
+US diplomatic representation:
+chief of mission:
+     Ambassador Matthew F. MATTINGLY
+embassy:
+     4th Floor, Victoria House, Box 251, Victoria, Mahe
+mailing address:
+     Box 148, Unit 62501, Victoria, Seychelles; APO AE 09815-2501
+telephone:
+     (248) 25256
+FAX:
+     (248) 25189
+Flag:
+     three horizontal bands of red (top), white (wavy), and green; the
+     white band is the thinnest, the red band is the thickest
+ 
+                                  Economy
+ 
+Overview:
+     In this small, open, tropical island economy, the tourist industry
+     employs about 30% of the labor force and provides more than 70% of
+     hard currency earnings. In recent years the government has encouraged
+     foreign investment in order to upgrade hotels and other services. At
+     the same time, the government has moved to reduce the high dependence
+     on tourism by promoting the development of farming, fishing, and
+     small-scale manufacturing.
+National product:
+     GDP - exchange rate conversion - $407 million (1992 est.)
+National product real growth rate:
+     4% (1992 est.)
+National product per capita:
+     $5,900 (1992 est.)
+Inflation rate (consumer prices):
+     3.3% (1992 est.)
+Unemployment rate:
+     9% (1987)
+Budget:
+revenues:
+     $172 million
+expenditures:
+     $181 million, including capital expenditures of $48 million (1991
+     est.)
+ 
+ 
+Exports:
+     $47 million (f.o.b., 1992 est.)
+commodities:
+     fish, copra, cinnamon bark, petroleum products (re-exports)
+partners:
+     UK 54% France 23%, Reunion 14%, (1991)
+Imports:
+     $192 million (f.o.b., 1992 est.)
+commodities:
+     manufactured goods, food, petroleum products, tobacco, beverages,
+     machinery and transportation equipment
+partners:
+     South Africa 13%, Singapore 12%, UK 12% (1991)
+External debt:
+     $201 million (1992 est.)
+Industrial production:
+     growth rate 1.3% (1991); accounts for 12% of GDP
+Electricity:
+capacity:
+     30,000 kW
+production:
+     80 million kWh
+consumption per capita:
+     1,160 kWh (1991)
+Industries:
+     tourism, processing of coconut and vanilla, fishing, coir rope
+     factory, boat building, printing, furniture, beverage
+Agriculture:
+     accounts for 5% of GDP, mostly subsistence farming; cash crops -
+     coconuts, cinnamon, vanilla; other products - sweet potatoes, cassava,
+     bananas; broiler chickens; large share of food needs imported;
+     expansion of tuna fishing under way
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY78-89), $26 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1978-89), $315
+     million; OPEC bilateral aid (1979-89), $5 million; Communist countries
+     (1970-89), $60 million
+Currency:
+     1 Seychelles rupee (SRe) = 100 cents
+Exchange rates:
+     Seychelles rupees (SRe) per US$1 - 5.2681 (January 1994), 5.1815
+     (1993), 5.1220 (1992), 5.2893 (1991), 5.3369 (1990), 5.6457 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     260 km
+paved:
+     160 km
+unpaved:
+     crushed stone, earth 100 km
+ 
+ 
+Ports:
+     Victoria
+Merchant marine:
+     1 refrigerated cargo (over 1,000 GRT) totaling 1,827 GRT/2,170 DWT
+Airports:
+total:
+     14
+usable:
+     14
+with permanent-surface runways:
+     8
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     direct radio communications with adjacent islands and African coastal
+     countries; 13,000 telephones; broadcast stations - 2 AM, no FM, 2 TV;
+     1 Indian Ocean INTELSAT earth station; USAF tracking station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, National Guard, Marines, Coast Guard, Presidential Protection
+     Unit, Police Force
+Manpower availability:
+     males age 15-49 19,399; fit for military service 9,900
+Defense expenditures:
+     exchange rate conversion - $12 million, 4% of GDP (1990 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,361 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0101
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Guinea
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Guinea 
+ 
+ 
+                                  Guinea
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, bordering the North Atlantic Ocean between
+     Guinea-Bissau and Sierra Leone
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     245,860 sq km
+land area:
+     245,860 sq km
+comparative area:
+     slightly smaller than Oregon
+Land boundaries:
+     total 3,399 km, Guinea-Bissau 386 km, Cote d'Ivoire 610 km, Liberia
+     563 km, Mali 858 km, Senegal 330 km, Sierra Leone 652 km
+Coastline:
+     320 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     generally hot and humid; monsoonal-type rainy season (June to
+     November) with southwesterly winds; dry season (December to May) with
+     northeasterly harmattan winds
+Terrain:
+     generally flat coastal plain, hilly to mountainous interior
+Natural resources:
+     bauxite, iron ore, diamonds, gold, uranium, hydropower, fish
+Land use:
+arable land:
+     6%
+permanent crops:
+     0%
+meadows and pastures:
+     12%
+forest and woodland:
+     42%
+other:
+     40%
+Irrigated land:
+     240 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; inadequate supplies of safe drinking water;
+     desertification; soil contamination and erosion
+natural hazards:
+     hot, dry, dusty harmattan haze may reduce visibility during dry season
+ 
+ 
+international agreements:
+     party to - Biodiversity, Climate Change, Endangered Species, Law of
+     the Sea, Ozone Layer Protection
+ 
+                                  People
+ 
+Population:
+     6,391,536 (July 1994 est.)
+Population growth rate:
+     2.45% (1994 est.)
+Birth rate:
+     44.08 births/1,000 population (1994 est.)
+Death rate:
+     19.6 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     139.2 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     44.13 years
+male:
+     41.9 years
+female:
+     46.43 years (1994 est.)
+Total fertility rate:
+     5.85 children born/woman (1994 est.)
+Nationality:
+noun:
+     Guinean(s)
+adjective:
+     Guinean
+Ethnic divisions:
+     Peuhl 40%, Malinke 30%, Soussou 20%, indigenous tribes 10%
+Religions:
+     Muslim 85%, Christian 8%, indigenous beliefs 7%
+Languages:
+     French (official); each tribe has its own language
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     24%
+male:
+     35%
+female:
+     13%
+Labor force:
+     2.4 million (1983)
+by occupation:
+     agriculture 82.0%, industry and commerce 11.0%, services 5.4%
+note:
+     88,112 civil servants (1987); 52% of population of working age (1985)
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     Republic of Guinea
+conventional short form:
+local long form:
+     Republique de Guinee
+local short form:
+     Guinee
+former:
+     French Guinea
+Digraph:
+     GV
+Type:
+     republic
+Capital:
+     Conakry
+Administrative divisions:
+     33 administrative regions (regions administratives, singular - region
+     administrative); Beyla, Boffa, Boke, Conakry, Coyah, Dabola, Dalaba,
+     Dinguiraye, Faranah, Forecariah, Fria, Gaoual, Gueckedou, Kankan,
+     Kerouane, Kindia, Kissidougou, Koubia, Koundara, Kouroussa, Labe,
+     Lelouma, Lola, Macenta, Mali, Mamou, Mandiana, Nzerekore, Pita,
+     Siguiri, Telimele, Tougue, Yomou
+Independence:
+     2 October 1958 (from France)
+National holiday:
+     Anniversary of the Second Republic, 3 April (1984)
+Constitution:
+     23 December 1990 (Loi Fundamentale)
+Legal system:
+     based on French civil law system, customary law, and decree; legal
+     codes currently being revised; has not accepted compulsory ICJ
+     jurisdiction
+Suffrage:
+     none
+Executive branch:
+chief of state and head of government:
+     President Lansana CONTE, elected in the first multi-party election 19
+     December 1993 prior to the election he had ruled as head of military
+     government since 5 April 1984
+cabinet:
+     Council of Ministers; appointed by the president
+Legislative branch:
+     unicameral
+People's National Assembly (Assemblee Nationale Populaire):
+     the People's National Assembly was dissolved after the 3 April 1984
+     coup; framework established in December 1991 for a new National
+     Assembly with 114 seats; legislative elections are scheduled for 1994
+Judicial branch:
+     Court of Appeal (Cour d'Appel)
+Political parties and leaders:
+     political parties were legalized on 1 April 1992
+pro-government:
+     Party for Unity and Progress (PUP)
+ 
+ 
+other:
+     Rally for the Guinean People (RPG), Alpha CONDE; Union for a New
+     Republic (UNR), Mamadou BAH; Party for Renewal and Progress (PRP),
+     Siradiou DIALLO
+Member of:
+     ACCT, ACP, AfDB, CCC, CEAO (observer), ECA, ECOWAS, FAO, G-77, IBRD,
+     ICAO, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC,
+     ITU, LORCS, MINURSO, NAM, OAU, OIC, UN, UNCTAD, UNESCO, UNIDO, UPU,
+     WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Elhadj Boubacar BARRY
+chancery:
+     2112 Leroy Place NW, Washington, DC 20008
+telephone:
+     (202) 483-9420
+FAX:
+     (202) 483-8688
+US diplomatic representation:
+chief of mission:
+     Ambassador Joseph A. SALOOM
+embassy:
+     2nd Boulevard and 9th Avenue, Conakry
+mailing address:
+     B. P. 603, Conakry
+telephone:
+     (224) 44-15-20 through 24
+FAX:
+     (224) 44-15-22
+Flag:
+     three equal vertical bands of red (hoist side), yellow, and green;
+     uses the popular pan-African colors of Ethiopia; similar to the flag
+     of Rwanda, which has a large black letter R centered in the yellow
+     band
+ 
+                                  Economy
+ 
+Overview:
+     Although possessing major mineral and hydropower resources and
+     considerable potential for agricultural development, Guinea remains
+     one of the poorest countries in the world. The agricultural sector
+     contributes about 40% to GDP and employs more than 80% of the work
+     force, while industry accounts for 27% of GDP. Guinea possesses over
+     25% of the world's bauxite reserves. The mining sector accounted for
+     85% of exports in 1991. Long-run improvements in literacy, financial
+     institutions, and the legal framework are needed if the country is to
+     move out of poverty. Except in the bauxite industry, foreign
+     investment remains minimal.
+National product:
+     GDP - purchasing power equivalent - $3.1 billion (1993 est.)
+National product real growth rate:
+     3.2% (1992 est.)
+National product per capita:
+     $500 (1993 est.)
+ 
+ 
+Inflation rate (consumer prices):
+     16.6% (1992 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $449 million
+expenditures:
+     $708 million, including capital expenditures of $361 million (1990
+     est.)
+Exports:
+     $622 million (f.o.b., 1992 est.)
+commodities:
+     bauxite, alumina, diamonds, gold, coffee, pineapples, bananas, palm
+     kernels
+partners:
+     US 23%, Belgium 12%, Ireland 12%, Spain 12%
+Imports:
+     $768 million (c.i.f., 1992 est.)
+commodities:
+     petroleum products, metals, machinery, transport equipment,
+     foodstuffs, textiles, and other grain
+partners:
+     France 26%, Cote d'Ivoire 12%, Hong Kong 6%, Germany 6%
+External debt:
+     2.5 billion (1992)
+Industrial production:
+     growth rate NA%; accounts for 27% of GDP
+Electricity:
+capacity:
+     113,000 kW
+production:
+     300 million kWh
+consumption per capita:
+     40 kWh (1989)
+Industries:
+     bauxite mining, alumina, gold, diamond mining, light manufacturing and
+     agricultural processing industries
+Agriculture:
+     accounts for 40% of GDP (includes fishing and forestry); mostly
+     subsistence farming; principal products - rice, coffee, pineapples,
+     palm kernels, cassava, bananas, sweet potatoes, timber; livestock -
+     cattle, sheep and goats; not self-sufficient in food grains
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $227 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89),
+     $1.465 billion; OPEC bilateral aid (1979-89), $120 million; Communist
+     countries (1970-89), $446 million
+Currency:
+     1 Guinean franc (FG) = 100 centimes
+Exchange rates:
+     Guinean francs (FG) per US$1 - 810.94 (1 July 1993), 922.9 (30
+     September 1992), 675 (1990), 618 (1989), 515 (1988), 440 (1987), 383
+     (1986)
+ 
+ 
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     1,045 km; 806 km 1.000-meter gauge, 239 km 1.435-meter standard gauge
+Highways:
+total:
+     30,100 km
+paved:
+     1,145 km
+unpaved:
+     gravel, crushed stone 12,955 km (of which barely 4,500 are currently
+     all-weather roads); unimproved earth 16,000 km (1987)
+Inland waterways:
+     1,295 km navigable by shallow-draft native craft
+Ports:
+     Conakry, Kamsar
+Airports:
+total:
+     15
+usable:
+     15
+with permanent-surface runways:
+     4
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     3
+with runways 1,220-2,439 m:
+     10
+Telecommunications:
+     poor to fair system of open-wire lines, small radiocommunication
+     stations, and new radio relay system; 15,000 telephones; broadcast
+     stations - 3 AM 1 FM, 1 TV; 65,000 TV sets; 200,000 radio receivers; 1
+     Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy (acts primarily as a coast guard), Air Force, Presidential
+     Guard, Republican Guard, paramilitary National Gendarmerie, National
+     Police Force
+Manpower availability:
+     males age 15-49 1,440,297; fit for military service 726,543
+Defense expenditures:
+     exchange rate conversion - $29 million, 1.2% of GDP (1988)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

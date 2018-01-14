@@ -1,0 +1,358 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0238
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Trinidad and Tobago
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Trinidad and Tobago 
+ 
+ 
+                            Trinidad and Tobago
+ 
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the extreme southeastern Caribbean Sea, 11 km off the
+     coast of Venezuela
+Map references:
+     Central America and the Caribbean, South America, Standard Time Zones
+     of the World
+Area:
+total area:
+     5,130 sq km
+land area:
+     5,130 sq km
+comparative area:
+     slightly smaller than Delaware
+Land boundaries:
+     0 km
+Coastline:
+     362 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200 nm or the outer edge of continental margin
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; rainy season (June to December)
+Terrain:
+     mostly plains with some hills and low mountains
+Natural resources:
+     petroleum, natural gas, asphalt
+Land use:
+arable land:
+     14%
+permanent crops:
+     17%
+meadows and pastures:
+     2%
+forest and woodland:
+     44%
+other:
+     23%
+Irrigated land:
+     220 sq km (1989 est.)
+Environment:
+current issues:
+     water pollution from agricultural chemicals, industrial wastes, and
+     untreated sewage; oil pollution of beaches; land degradation
+ 
+ 
+natural hazards:
+     outside usual path of hurricanes and other tropical storms
+international agreements:
+     party to - Endangered Species, Hazardous Wastes, Law of the Sea,
+     Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection,
+     Tropical Timber; signed, but not ratified - Biodiversity, Climate
+     Change
+ 
+                                  People
+ 
+Population:
+     1,328,282 (July 1994 est.)
+Population growth rate:
+     1.1% (1994 est.)
+Birth rate:
+     19.6 births/1,000 population (1994 est.)
+Death rate:
+     6.28 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -2.33 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     16.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     70.73 years
+male:
+     68.09 years
+female:
+     73.43 years (1994 est.)
+Total fertility rate:
+     2.32 children born/woman (1994 est.)
+Nationality:
+noun:
+     Trinidadian(s), Tobagonian(s)
+adjective:
+     Trinidadian, Tobagonian
+Ethnic divisions:
+     black 43%, East Indian 40%, mixed 14%, white 1%, Chinese 1%, other 1%
+Religions:
+     Roman Catholic 32.2%, Hindu 24.3%, Anglican 14.4%, other Protestant
+     14%, Muslim 6%, none or unknown 9.1%
+Languages:
+     English (official), Hindi, French, Spanish
+Literacy:
+     age 15 and over can read and write (1980)
+total population:
+     95%
+male:
+     97%
+female:
+     93%
+Labor force:
+     463,900
+ 
+ 
+by occupation:
+     construction and utilities 18.1%, manufacturing, mining, and quarrying
+     14.8%, agriculture 10.9%, other 56.2% (1985 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Trinidad and Tobago
+conventional short form:
+Digraph:
+     TD
+Type:
+     parliamentary democracy
+Capital:
+     Port-of-Spain
+Administrative divisions:
+     8 counties, 3 municipalities*, and 1 ward**; Arima*, Caroni, Mayaro,
+     Nariva, Port-of-Spain*, Saint Andrew, Saint David, Saint George, Saint
+     Patrick, San Fernando*, Tobago**, Victoria
+Independence:
+     31 August 1962 (from UK)
+National holiday:
+     Independence Day, 31 August (1962)
+Constitution:
+     1 August 1976
+Legal system:
+     based on English common law; judicial review of legislative acts in
+     the Supreme Court; has not accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Noor Mohammed HASSANALI (since 18 March 1987)
+head of government:
+     Prime Minister Patrick Augustus Mervyn MANNING (since 17 December
+     1991)
+cabinet:
+     Cabinet; responsible to parliament
+Legislative branch:
+     bicameral Parliament
+Senate:
+     consists of a 31-member body appointed by the president
+House of Representatives:
+     elections last held 16 December 1991 (next to be held by December
+     1996); results - PNM 32%, UNC 13%, NAR 2%; seats - (36 total) PNM 21,
+     UNC 13, NAR 2
+Judicial branch:
+     Court of Appeal, Supreme Court
+ 
+ 
+Political parties and leaders:
+     People's National Movement (PNM), Patrick MANNING; United National
+     Congress (UNC), Basdeo PANDAY; National Alliance for Reconstruction
+     (NAR), Selby WILSON; Movement for Social Transformation (MOTION),
+     David ABDULLAH; National Joint Action Committee (NJAC), Makandal
+     DAAGA; Republic Party, Nello MITCHELL; National Development Party
+     (NDP), Carson CHARLES
+Member of:
+     ACP, C, CARICOM, CCC, CDB, ECLAC, FAO, G-24, G-77, GATT, IADB, IBRD,
+     ICAO, ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC,
+     ISO, ITU, LAES, LORCS, NAM, OAS, OPANAL, UN, UNCTAD, UNESCO, UNIDO,
+     UPU, WFTU, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Corinne Averille McKNIGHT
+chancery:
+     1708 Massachusetts Avenue NW, Washington, DC 20036
+telephone:
+     (202) 467-6490
+FAX:
+     (202) 785-3130
+consulate(s) general:
+     New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Sally G. COWAL
+embassy:
+     15 Queen's Park West, Port-of-Spain
+mailing address:
+     P. O. Box 752, Port-of-Spain
+telephone:
+     (809) 622-6372 through 6376, 6176
+FAX:
+     (809) 628-5462
+Flag:
+     red with a white-edged black diagonal band from the upper hoist side
+ 
+                                  Economy
+ 
+Overview:
+     Trinidad and Tobago's petroleum-based economy still enjoys a high per
+     capita income by Latin American standards, even though output and
+     living standards are substantially below the boom years of 1973-82.
+     The country suffers from widespread unemployment, large foreign-debt
+     payments, and periods of low international oil prices. Seven
+     successive years of economic contraction were followed by small gains
+     in output in 1990-91 of 1.2% and 0.9%, in turn followed by small
+     declines in 1992-93 of roughly 1.0%. The government has begun to make
+     progress in its efforts to diversify exports.
+National product:
+     GDP - purchasing power equivalent - $10.4 billion (1993 est.)
+National product real growth rate:
+     -1% (1993)
+National product per capita:
+     $8,000 (1993 est.)
+ 
+ 
+Inflation rate (consumer prices):
+     9.5% (1993)
+Unemployment rate:
+     18.5% (1991)
+Budget:
+revenues:
+     $1.6 billion
+expenditures:
+     $1.6 billion, including capital expenditures of $158 million (1993
+     est.)
+Exports:
+     $1.4 billion (f.o.b., 1993)
+commodities:
+     petroleum and petroleum products, chemicals, steel products,
+     fertilizer, sugar, cocoa, coffee, citrus, flowers
+partners:
+     US 47%, CARICOM 13%, Latin America 9%, EC 5% (1992)
+Imports:
+     $900 million (f.o.b. , 1993)
+commodities:
+     machinery, transportation equipment, manufactured goods, food, live
+     animals (1992)
+partners:
+     US 41%, Venezuela 10%, UK 8%, other EC 8%
+External debt:
+     $2 billion (1993)
+Industrial production:
+     growth rate 2.3% (1991); accounts for 37% of GDP, including petroleum
+Electricity:
+capacity:
+     1,176,000 kW
+production:
+     3.48 billion kWh
+consumption per capita:
+     2,680 kWh (1992)
+Industries:
+     petroleum, chemicals, tourism, food processing, cement, beverage,
+     cotton textiles
+Agriculture:
+     accounts for 3% of GDP; highly subsidized sector; major crops - cocoa,
+     sugarcane; sugarcane acreage is being shifted into rice, citrus,
+     coffee, vegetables; poultry sector most important source of animal
+     protein; must import large share of food needs
+Illicit drugs:
+     transshipment point for South American drugs destined for the US and
+     Europe
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $373 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $518
+     million
+Currency:
+     1 Trinidad and Tobago dollar (TT$) = 100 cents
+ 
+ 
+Exchange rates:
+     Trinidad and Tobago dollars (TT$) per US$1 - 5.8111 (January 1994),
+     5.3511 (1993), 4.2500 (fixed rate 1989-1992); note - effective 13
+     April 1993, the exchange rate of the TT dollar is market-determined as
+     opposed to the prior fixed relationship to the US dollar
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     minimal agricultural railroad system near San Fernando
+Highways:
+total:
+     8,000 km
+paved:
+     4,000 km
+unpaved:
+     improved earth 1,000 km; unimproved earth 3,000 km
+Pipelines:
+     crude oil 1,032 km; petroleum products 19 km; natural gas 904 km
+Ports:
+     Port-of-Spain, Pointe-a-Pierre, Scarborough
+Merchant marine:
+     2 cargo ships (1,000 GRT or over) totaling 12,507 GRT/21,923 DWT
+Airports:
+total:
+     6
+usable:
+     5
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     excellent international service via tropospheric scatter links to
+     Barbados and Guyana; good local service; 109,000 telephones; broadcast
+     stations - 2 AM, 4 FM, 5 TV; 1 Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Trinidad and Tobago Defense Force (including Ground Forces, Coast
+     Guard, and Air Wing), Trinidad and Tobago Police Service
+Manpower availability:
+     males age 15-49 357,904; fit for military service 257,667
+Defense expenditures:
+     exchange rate conversion - $59 million, 1%-2% of GDP (1989 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,384 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0044
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Cameroon
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Cameroon 
+ 
+ 
+                                 Cameroon
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, bordering the North Atlantic Ocean between Equatorial
+     Guinea and Nigeria
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     475,440 sq km
+land area:
+     469,440 sq km
+comparative area:
+     slightly larger than California
+Land boundaries:
+     total 4,591 km, Central African Republic 797 km, Chad 1,094 km, Congo
+     523 km, Equatorial Guinea 189 km, Gabon 298 km, Nigeria 1,690 km
+Coastline:
+     402 km
+Maritime claims:
+territorial sea:
+     50 nm
+International disputes:
+     demarcation of international boundaries in Lake Chad, the lack of
+     which has led to border incidents in the past, is completed and
+     awaiting ratification by Cameroon, Chad, Niger, and Nigeria; boundary
+     commission, created with Nigeria to discuss unresolved land and
+     maritime boundaries in the vicinity of the Bakasi Peninsula, has not
+     yet convened, but a commission was formed in January 1994 to study a
+     flare-up of the dispute
+Climate:
+     varies with terrain from tropical along coast to semiarid and hot in
+     north
+Terrain:
+     diverse, with coastal plain in southwest, dissected plateau in center,
+     mountains in west, plains in north
+Natural resources:
+     petroleum, bauxite, iron ore, timber, hydropower potential
+Land use:
+arable land:
+     13%
+permanent crops:
+     2%
+meadows and pastures:
+     18%
+forest and woodland:
+     54%
+other:
+     13%
+Irrigated land:
+     280 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     water-borne diseases are prevalent; deforestation; overgrazing;
+     desertification; poaching
+natural hazards:
+     recent volcanic activity with release of poisonous gases
+international agreements:
+     party to - Endangered Species, Law of the Sea, Ozone Layer Protection,
+     Tropical Timber; signed, but not ratified - Biodiversity, Climate
+     Change, Nuclear Test Ban
+Note:
+     sometimes referred to as the hinge of Africa
+ 
+                                  People
+ 
+Population:
+     13,132,191 (July 1994 est.)
+Population growth rate:
+     2.91% (1994 est.)
+Birth rate:
+     40.53 births/1,000 population (1994 est.)
+Death rate:
+     11.41 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     77.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     57.07 years
+male:
+     55.03 years
+female:
+     59.17 years (1994 est.)
+Total fertility rate:
+     5.84 children born/woman (1994 est.)
+Nationality:
+noun:
+     Cameroonian(s)
+adjective:
+     Cameroonian
+Ethnic divisions:
+     Cameroon Highlanders 31%, Equatorial Bantu 19%, Kirdi 11%, Fulani 10%,
+     Northwestern Bantu 8%, Eastern Nigritic 7%, other African 13%,
+     non-African less than 1%
+Religions:
+     indigenous beliefs 51%, Christian 33%, Muslim 16%
+Languages:
+     24 major African language groups, English (official), French
+     (official)
+Literacy:
+     age 15 and over can read and write (1990)
+total population:
+     55%
+ 
+ 
+male:
+     66%
+female:
+     45%
+Labor force:
+     NA
+by occupation:
+     agriculture 74.4%, industry and transport 11.4%, other services 14.2%
+     (1983)
+note:
+     50% of population of working age (15-64 years) (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Cameroon
+conventional short form:
+former:
+     French Cameroon
+Digraph:
+     CM
+Type:
+     unitary republic; multiparty presidential regime (opposition parties
+     legalized 1990)
+Capital:
+     Yaounde
+Administrative divisions:
+     10 provinces; Adamaoua, Centre, Est, Extreme-Nord, Littoral, Nord,
+     Nord-Ouest, Ouest, Sud, Sud-Ouest
+Independence:
+     1 January 1960 (from UN trusteeship under French administration)
+National holiday:
+     National Day, 20 May (1972)
+Constitution:
+     20 May 1972
+Legal system:
+     based on French civil law system, with common law influence; has not
+     accepted compulsory ICJ jurisdiction
+Suffrage:
+     20 years of age; universal
+Executive branch:
+chief of state:
+     President Paul BIYA (since 6 November 1982); election last held 11
+     October 1992; results - President Paul BIYA reelected with about 40%
+     of the vote amid widespread allegations of fraud; SDF candidate John
+     FRU NDI got 36% of the vote; UNDP candidate Bello Bouba MAIGARI got
+     19% of the vote
+head of government:
+     Prime Minister Simon ACHIDI ACHU (since 9 April 1992)
+cabinet:
+     Cabinet; appointed by the president
+Legislative branch:
+     unicameral
+ 
+ 
+National Assembly (Assemblee Nationale):
+     elections last held 1 March 1992 (next scheduled for March 1997);
+     results - (180 seats) CPDM 88, UNDP 68, UPC 18, MDR 6
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Cameroon People's Democratic Movement (CPDM), Paul BIYA, president, is
+     government-controlled and was formerly the only party, but opposition
+     parties were legalized in 1990
+major opposition parties:
+     National Union for Democracy and Progress (UNDP); Social Democratic
+     Front (SDF); Cameroonian Democratic Union (UDC); Union of Cameroonian
+     Populations (UPC)
+Other political or pressure groups:
+     NA
+Member of:
+     ACCT, ACP, AfDB, BDEAC, CCC, CEEAC, ECA, FAO, FZ, G-19, G-77, GATT,
+     IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IDB, IFAD, IFC, ILO, IMF, IMO,
+     INMARSAT, INTELSAT, INTERPOL, IOC, ITU, LORCS, NAM, OAU, OIC, PCA,
+     UDEAC, UN, UNCTAD, UNESCO, UNIDO, UNTAC, UPU, WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Jerome MENDOUGA
+chancery:
+     2349 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 265-8790 through 8794
+US diplomatic representation:
+chief of mission:
+     Ambassador Harriet ISOM
+embassy:
+     Rue Nachtigal, Yaounde
+mailing address:
+     B. P. 817, Yaounde
+telephone:
+     [237] 23-40-14 and 23-05-12
+FAX:
+     [237] 23-07-53
+consulate(s):
+     none  (Douala closed July 1993)
+Flag:
+     three equal vertical bands of green (hoist side), red, and yellow with
+     a yellow five-pointed star centered in the red band; uses the popular
+     pan-African colors of Ethiopia
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Because of its offshore oil resources and favorable agricultural
+     conditions, Cameroon has one of the best-endowed, most diversified
+     primary commodity economies in sub-Saharan Africa. Still, it faces
+     many of the serious problems facing other underdeveloped countries,
+     such as political instability, a top-heavy civil service, and a
+     generally unfavorable climate for business enterprise. The development
+     of the oil sector led rapid economic growth between 1970 and 1985.
+     Growth came to an abrupt halt in 1986, precipitated by steep declines
+     in the prices of major exports: coffee, cocoa, and petroleum. Export
+     earnings were cut by almost one-third, and inefficiencies in fiscal
+     management were exposed. In 1990-93, with support from the IMF and
+     World Bank, the government began to introduce reforms designed to spur
+     business investment, increase efficiency in agriculture, and
+     recapitalize the nation's banks. Political instability following
+     suspect elections in 1992 brought IMF/WB structural adjustment to a
+     halt. Although the 50% devaluation of the currency in January 1994
+     improves the potential for export growth, mismanagement remains and is
+     the main barrier to economic improvement.
+National product:
+     GDP - purchasing power equivalent - $19.1 billion (1993 est.)
+National product real growth rate:
+     NA
+National product per capita:
+     $1,500 (1993 est.)
+Inflation rate (consumer prices):
+     3% (1990 est.)
+Unemployment rate:
+     25% (1990 est.)
+Budget:
+revenues:
+     $1.7 billion
+expenditures:
+     $2.4 billion, including capital expenditures of $422 million (FY90
+     est.)
+Exports:
+     $1.8 billion (f.o.b., 1991)
+commodities:
+     petroleum products 51%, coffee, beans, cocoa, aluminum products,
+     timber
+partners:
+     EC (particularly France) about 50%, US, African countries
+Imports:
+     $1.2 billion (c.i.f., 1991)
+commodities:
+     machines and electrical equipment, food, consumer goods, transport
+     equipment
+partners:
+     EC about 60% (France 41%, Germany 9%), African countries, Japan, US 4%
+External debt:
+     $6 billion (1991)
+Industrial production:
+     growth rate 6.4% (FY87); accounts for 30% of GDP
+ 
+ 
+Electricity:
+capacity:
+     755,000 kW
+production:
+     2.19 billion kWh
+consumption per capita:
+     190 kWh (1991)
+Industries:
+     petroleum production and refining, food processing, light consumer
+     goods, textiles, sawmills
+Agriculture:
+     the agriculture and forestry sectors provide employment for the
+     majority of the population, contributing nearly 25% to GDP and
+     providing a high degree of self-sufficiency in staple foods;
+     commercial and food crops include coffee, cocoa, timber, cotton,
+     rubber, bananas, oilseed, grains, livestock, root starches
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-90), $479 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-90), $4.75
+     billion; OPEC bilateral aid (1979-89), $29 million; Communist
+     countries (1970-89), $125 million
+Currency:
+     1 CFA franc (CFAF) = 100 centimes
+Exchange rates:
+     Communaute Financiere Africaine francs (CFAF) per US$1 - 592.05
+     (January 1994), 283.16 (1993), 264.69 (1992), 282.11 (1991), 272.26
+     (1990), 319.01 (1989)
+note:
+     beginning 12 January 1994, the CFA franc was devalued to CFAF 100 per
+     French franc from CFAF 50 at which it had been fixed since 1948
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Railroads:
+     1,003 km total; 858 km 1.000-meter gauge, 145 km 0.600-meter gauge
+Highways:
+total:
+     65,000 km
+paved:
+     2,682 km
+unpaved:
+     gravel, improved earth 32,318 km; unimproved earth 30,000 km
+Inland waterways:
+     2,090 km; of decreasing importance
+Ports:
+     Douala
+Merchant marine:
+     2 cargo ships (1,000 GRT or over) totaling 24,122 GRT/33,509 DWT
+Airports:
+total:
+     61
+ 
+ 
+usable:
+     49
+with permanent-surface runways:
+     11
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     6
+with runways 1,220-2,439 m:
+     21
+Telecommunications:
+     good system of open wire, cable, troposcatter, and microwave radio
+     relay; 26,000 telephones, 2 telephones per 1,000 persons, available
+     only to business and government; broadcast stations - 11 AM, 11 FM, 1
+     TV; 2 Atlantic Ocean INTELSAT earth stations
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy (including Naval Infantry), Air Force, National
+     Gendarmerie, Presidential Guard
+Manpower availability:
+     males age 15-49 2,939,761; fit for military service 1,481,750; reach
+     military age (18) annually 137,020 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $219 million, less than 2% of GDP (1990
+     est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

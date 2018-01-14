@@ -1,0 +1,423 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0094
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Greece
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Greece 
+ 
+ 
+                                  Greece
+ 
+ 
+                                 Geography
+ 
+Location:
+     Balkan State, Southern Europe, bordering the Mediterranean Sea between
+     Turkey and Bulgaria
+Map references:
+     Africa, Europe, Standard Time Zones of the World
+Area:
+total area:
+     131,940 sq km
+land area:
+     130,800 sq km
+comparative area:
+     slightly smaller than Alabama
+Land boundaries:
+     total 1,210 km, Albania 282 km, Bulgaria 494 km, Turkey 206 km, The
+     Former Yugoslav Republic of Macedonia 228 km
+Coastline:
+     13,676 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+territorial sea:
+     6 nm, but Greece has threatened to claim 12 nm
+International disputes:
+     air, continental shelf, and territorial water disputes with Turkey in
+     Aegean Sea; Cyprus question; dispute with The Former Yugoslav Republic
+     of Macedonia over name and symbol implying territorial claim
+Climate:
+     temperate; mild, wet winters; hot, dry summers
+Terrain:
+     mostly mountains with ranges extending into sea as peninsulas or
+     chains of islands
+Natural resources:
+     bauxite, lignite, magnesite, petroleum, marble
+Land use:
+arable land:
+     23%
+permanent crops:
+     8%
+meadows and pastures:
+     40%
+forest and woodland:
+     20%
+other:
+     9%
+Irrigated land:
+     11,900 sq km (1989 est.)
+Environment:
+current issues:
+     air pollution; water pollution
+natural hazards:
+     subject to severe earthquakes
+ 
+ 
+international agreements:
+     party to - Air Pollution, Antarctic Treaty, Environmental
+     Modification, Marine Dumping, Nuclear Test Ban, Ozone Layer
+     Protection, Ship Pollution, Tropical Timber, Wetlands; signed, but not
+     ratified - Air Pollution-Nitrogen Oxides, Air Pollution-Volatile
+     Organic Compounds, Antarctic-Environmental Protocol, Biodiversity,
+     Climate Change, Hazardous Wastes, Law of the Sea
+Note:
+     strategic location dominating the Aegean Sea and southern approach to
+     Turkish Straits; a peninsular country, possessing an archipelago of
+     about 2,000 islands
+ 
+                                  People
+ 
+Population:
+     10,564,630 (July 1994 est.)
+Population growth rate:
+     0.84% (1994 est.)
+Birth rate:
+     10.5 births/1,000 population (1994 est.)
+Death rate:
+     9.32 deaths/1,000 population (1994 est.)
+Net migration rate:
+     7.21 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     8.6 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     77.71 years
+male:
+     75.2 years
+female:
+     80.35 years (1994 est.)
+Total fertility rate:
+     1.45 children born/woman (1994 est.)
+Nationality:
+noun:
+     Greek(s)
+adjective:
+     Greek
+Ethnic divisions:
+     Greek 98%, other 2%
+note:
+     the Greek Government states there are no ethnic divisions in Greece
+Religions:
+     Greek Orthodox 98%, Muslim 1.3%, other 0.7%
+Languages:
+     Greek (official), English, French
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     93%
+male:
+     98%
+ 
+ 
+female:
+     89%
+Labor force:
+     4.083 million
+by occupation:
+     services 48%, agriculture 24%, industry 28% (1993)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Hellenic Republic
+conventional short form:
+local long form:
+     Elliniki Dhimokratia
+local short form:
+     Ellas
+former:
+     Kingdom of Greece
+Digraph:
+     GR
+Type:
+     presidential parliamentary government; monarchy rejected by referendum
+     8 December 1974
+Capital:
+     Athens
+Administrative divisions:
+     52 prefectures (nomoi, singular - nomos); Aitolia kai Akarnania,
+     Akhaia, Argolis, Arkadhia, Arta, Attiki, Dhodhekanisos, Dhrama,
+     Evritania, Evros, Evvoia, Florina, Fokis, Fthiotis, Grevena, Ilia,
+     Imathia, Ioannina, Iraklion, Kardhitsa, Kastoria, Kavala, Kefallinia,
+     Kerkira, Khalkidhiki, Khania, Khios, Kikladhes, Kilkis, Korinthia,
+     Kozani, Lakonia, Larisa, Lasithi, Lesvos, Levkas, Magnisia, Messinia,
+     Pella, Pieria, Piraievs, Preveza, Rethimni, Rodhopi, Samos, Serrai,
+     Thesprotia, Thessaloniki, Trikala, Voiotia, Xanthi, Zakinthos,
+     autonomous region: Agion Oros (Mt. Athos)
+Independence:
+     1829 (from the Ottoman Empire)
+National holiday:
+     Independence Day, 25 March (1821) (proclamation of the war of
+     independence)
+Constitution:
+     11 June 1975
+Legal system:
+     based on codified Roman law; judiciary divided into civil, criminal,
+     and administrative courts
+Suffrage:
+     18 years of age; universal and compulsory
+Executive branch:
+chief of state:
+     President Konstantinos KARAMANLIS (since 5 May 1990); election last
+     held 4 May 1990 (next to be held May 1995); results - Konstantinos
+     KARAMANLIS was elected by Parliament
+ 
+ 
+head of government:
+     Prime Minister Andreas PAPANDREOU (since 10 October 1993)
+cabinet:
+     Cabinet; appointed by the president on recommendation of the prime
+     minister
+Legislative branch:
+     unicameral
+Chamber of Deputies (Vouli ton Ellinon):
+     elections last held 10 October 1993 (next to be held by NA October
+     1997); results - PASOK 46.88%, ND 39.30%, Political Spring 4.87%, KKE
+     4.54%, and Progressive Left Coalition 2.94%; seats - (300 total) PASOK
+     170, ND 111, Political Spring 10, KKE 9
+Judicial branch:
+     Supreme Judicial Court, Special Supreme Tribunal
+Political parties and leaders:
+     New Democracy (ND; conservative), Miltiades EVERT; Panhellenic
+     Socialist Movement (PASOK), Andreas PAPANDREOU; Progressive Left
+     Coalition, Maria DAMANAKI; Democratic Renewal (DIANA), Konstantinos
+     STEFANOPOULOS; Communist Party (KKE), Aleka PAPARIGA;
+     Ecologist-Alternative List, leader rotates; Political Spring, Antonis
+     SAMARAS
+Member of:
+     Australian Group, BIS, BSEC, CCC, CE, CERN, COCOM, CSCE, EBRD, EC,
+     ECE, EIB, FAO, G-6, GATT, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IEA,
+     IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO,
+     ITU, LORCS, MINURSO, MTCR, NACC, NAM (guest), NATO, NEA, NSG, OAS
+     (observer), OECD, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIKOM,
+     UNOMIG, UNOSOM, UPU, WEU (associate), WFTU, WHO, WIPO, WMO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Loucas TSILAS
+chancery:
+     2221 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 939-5800
+FAX:
+     (202) 939-5824
+consulate(s) general:
+     Atlanta, Boston, Chicago, Houston, Los Angeles, New York, and San
+     Francisco
+consulate(s):
+     New Orleans
+US diplomatic representation:
+chief of mission:
+     Ambassador Thomas M.T. NILES
+embassy:
+     91 Vasilissis Sophias Boulevard, 10160 Athens
+mailing address:
+     PSC 108, Athens; APO AE 09842
+telephone:
+     [30] (1) 721-2951 or 721-8401
+FAX:
+     [30] (1) 645-6282
+consulate(s) general:
+     Thessaloniki
+ 
+ 
+Flag:
+     nine equal horizontal stripes of blue alternating with white; there is
+     a blue square in the upper hoist-side corner bearing a white cross;
+     the cross symbolizes Greek Orthodoxy, the established religion of the
+     country
+ 
+                                  Economy
+ 
+Overview:
+     Greece has a mixed capitalist economy with the basic entrepreneurial
+     system overlaid in 1981-89 by a socialist system that enlarged the
+     public sector from 55% of GDP in 1981 to about 70% in 1989. Since
+     then, the public sector has been reduced to about 60% of GDP. Tourism
+     continues as a major source of foreign exchange, and agriculture is
+     self-sufficient except for meat, dairy products, and animal
+     feedstuffs. Over the last decade, real GDP growth has averaged 1.6% a
+     year, compared with the European Union average of 2.2%. Inflation is
+     four times the EU average, and the national debt has reached 140% of
+     GDP, the highest in the EU. Prime Minister PAPANDREOU will probably
+     only make limited progress correcting the economy's problems of high
+     inflation, large budget deficit, and decaying infrastructure. His
+     economic program suggests that although he will shun his expansionary
+     policies of the 1980s, he will avoid tough measures needed to slow
+     inflation or reduce the state's role in the economy. He has limited
+     the previous government's privatization plans, for example, and has
+     called for generous welfare spending and real wage increases. In 1994,
+     the GDP growth rate is likely to remain low, and inflation probably
+     will accelerate, remaining the highest in the EU. PAPANDREOU'S failure
+     to improve the country's economic performance will further strain
+     relations with the EU. Since Greece's accession to the then EC in
+     1981, Athens' heavy reliance on EU aid - amounting to about 6% of
+     Greek GDP annually - and its poor use of Union funds have riled
+     Brussels. Its ailing economy will continue to be a drag on European
+     economic and monetary union.
+National product:
+     GDP - purchasing power equivalent - $93.2 billion (1993)
+National product real growth rate:
+     1% (1993)
+National product per capita:
+     $8,900 (1993)
+Inflation rate (consumer prices):
+     14.4% (1993)
+Unemployment rate:
+     9.5% (1993)
+Budget:
+revenues:
+     $28.3 billion
+expenditures:
+     $37.6 billion, including capital expenditures of $5.2 billion (1994)
+Exports:
+     $6 billion (f.o.b., 1992)
+commodities:
+     manufactured goods 53%, foodstuffs 34%, fuels 5%
+partners:
+     Germany 23%, Italy 18%, France 7%, UK 7%, US 4% (1992)
+ 
+ 
+Imports:
+     $23.3 billion (c.i.f., 1992)
+commodities:
+     manufactured goods 72%, foodstuffs 15%, fuels 10%
+partners:
+     Germany 20%, Italy 14%, France 8%, Netherlands 7%, Japan 6% (1992)
+External debt:
+     $23.1 billion (1992)
+Industrial production:
+     growth rate -1.3% (1992); accounts for 20% of GDP
+Electricity:
+capacity:
+     10,500,000 kW
+production:
+     36.4 billion kWh
+consumption per capita:
+     3,610 kWh (1992)
+Industries:
+     food and tobacco processing, textiles, chemicals, metal products,
+     tourism, mining, petroleum
+Agriculture:
+     including fishing and forestry, accounts for 15% of GDP and 24% of the
+     labor force; principal products - wheat, corn, barley, sugar beets,
+     olives, tomatoes, wine, tobacco, potatoes; self-sufficient in food
+     except meat, dairy products, and animal feedstuffs
+Illicit drugs:
+     illicit producer of cannabis and limited opium; mostly for domestic
+     production; serves as a gateway to Europe for traffickers smuggling
+     cannabis and heroin from the Middle East and Southwest Asia to the
+     West and precursor chemicals to the East; transshipment point for
+     Southwest Asian heroin transiting the Balkan route
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-81), $525 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $1.39
+     billion
+Currency:
+     1 drachma (Dr) = 100 lepta
+Exchange rates:
+     drachmae (Dr) per US$1 - 250.28 (January 1994), 229.26 (1993), 190.62
+     (1992), 182.27 (1991), 158.51 (1990), 162.42 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     2,479 km total; 1,565 km 1,435-mm standard gauge, of which 36 km
+     electrified and 100 km double track; 892 km 1,000-mm gauge; 22 km
+     750-mm narrow gauge; all government owned
+Highways:
+total:
+     38,938 km
+paved:
+     16,090 km
+ 
+ 
+unpaved:
+     crushed stone, gravel 13,676 km; improved earth 5,632 km; unimproved
+     earth 3,540 km
+Inland waterways:
+     80 km; system consists of three coastal canals; including the Corinth
+     Canal (6 km) which crosses the Isthmus of Corinth connecting the Gulf
+     of Corinth with the Saronic Gulf and shortens the sea voyage from the
+     Adriatic to Piraievs (Piraeus) by 325 km; and three unconnected rivers
+Pipelines:
+     crude oil 26 km; petroleum products 547 km
+Ports:
+     Piraievs (Piraeus), Thessaloniki
+Merchant marine:
+     1,059 ships (1,000 GRT or over) totaling 29,343,367 GRT/54,249,294
+     DWT, bulk 453, cargo 117, chemical tanker 20, combination bulk 23,
+     combination ore/oil 38, container 36, liquefied gas 6, livestock
+     carrier 1, oil tanker 251, passenger 15, passenger-cargo 2,
+     refrigerated cargo 11, roll-on/roll-off cargo 17, short-sea passenger
+     65, specialized tanker 3, vehicle carrier 1
+note:
+     ethnic Greeks also own large numbers of ships under the registry of
+     Liberia, Panama, Cyprus, Malta, and The Bahamas
+Airports:
+total:
+     78
+usable:
+     77
+with permanent-surface runways:
+     63
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     20
+with runways 1,220-2,439 m:
+     24
+Telecommunications:
+     adequate, modern networks reach all areas; 4,080,000 telephones;
+     microwave radio relay carries most traffic; extensive open-wire
+     network; submarine cables to off-shore islands; broadcast stations -
+     29 AM, 17 (20 repeaters) FM, 361 TV; tropospheric links, 8 submarine
+     cables; 1 satellite earth station operating in INTELSAT (1 Atlantic
+     Ocean and 1 Indian Ocean antenna), and EUTELSAT systems
+ 
+                              Defense Forces
+ 
+Branches:
+     Hellenic Army, Hellenic Navy, Hellenic Air Force, National Guard,
+     Police
+Manpower availability:
+     males age 15-49 2,645,859; fit for military service 2,025,212; reach
+     military age (21) annually 74,484 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $4.0 billion, 5.4% of GDP (1993)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

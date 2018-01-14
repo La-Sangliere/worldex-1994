@@ -1,0 +1,338 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0139
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Lesotho
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Lesotho 
+ 
+ 
+                                  Lesotho
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, an enclave of South Africa
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     30,350 sq km
+land area:
+     30,350 sq km
+comparative area:
+     slightly larger than Maryland
+Land boundaries:
+     total 909 km, South Africa 909 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     temperate; cool to cold, dry winters; hot, wet summers
+Terrain:
+     mostly highland with some plateaus, hills, and mountains
+Natural resources:
+     water, agricultural and grazing land, some diamonds and other minerals
+Land use:
+arable land:
+     10%
+permanent crops:
+     0%
+meadows and pastures:
+     66%
+forest and woodland:
+     0%
+other:
+     24%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     population pressure forcing settlement in marginal areas results in
+     overgrazing, severe soil erosion, soil exhaustion; desertification
+natural hazards:
+     subject to periods of drought
+international agreements:
+     party to - Marine Life Conservation, Ozone Layer Protection, Wetlands;
+     signed, but not ratified - Biodiversity, Climate Change, Endangered
+     Species, Law of the Sea, Marine Dumping
+Note:
+     landlocked; surrounded by South Africa; Highlands Water Project will
+     control, store, and redirect water to South Africa
+ 
+ 
+                                  People
+ 
+Population:
+     1,944,493 (July 1994 est.)
+Population growth rate:
+     2.48% (1994 est.)
+Birth rate:
+     34 births/1,000 population (1994 est.)
+Death rate:
+     9.19 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     69.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     62.14 years
+male:
+     60.32 years
+female:
+     64.01 years (1994 est.)
+Total fertility rate:
+     4.5 children born/woman (1994 est.)
+Nationality:
+noun:
+     Mosotho (singular), Basotho (plural)
+adjective:
+     Basotho
+Ethnic divisions:
+     Sotho 99.7%, Europeans 1,600, Asians 800
+Religions:
+     Christian 80%, rest indigenous beliefs
+Languages:
+     Sesotho (southern Sotho), English (official), Zulu, Xhosa
+Literacy:
+     age 15 and over can read and write (1966)
+total population:
+     59%
+male:
+     44%
+female:
+     68%
+Labor force:
+     689,000 economically active
+by occupation:
+     86.2% of resident population engaged in subsistence agriculture;
+     roughly 60% of active male labor force works in South Africa
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Kingdom of Lesotho
+conventional short form:
+ 
+ 
+ 
+former:
+     Basutoland
+Digraph:
+     LT
+Type:
+     constitutional monarchy
+Capital:
+     Maseru
+Administrative divisions:
+     10 districts; Berea, Butha-Buthe, Leribe, Mafeteng, Maseru, Mohale's
+     Hoek, Mokhotlong, Qacha's Nek, Quthing, Thaba-Tseka
+Independence:
+     4 October 1966 (from UK)
+National holiday:
+     Independence Day, 4 October (1966)
+Constitution:
+     2 April 1993
+Legal system:
+     based on English common law and Roman-Dutch law; judicial review of
+     legislative acts in High Court and Court of Appeal; has not accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     21 years of age; universal
+Executive branch:
+chief of state:
+     King LETSIE III (since 12 November 1990)
+head of government:
+     Prime Minister Ntsu MOKHEHLE (since 2 April 1993 )
+cabinet:
+     Cabinet
+Legislative branch:
+     bicameral Parliament consisting of the Assembly or lower house whose
+     members are chosen by popular election and the Senate or upper house
+     whose members consist of the 22 principal chiefs and 10 other members
+     appointed by the ruling party;  election held in March 1993 (first
+     since 1971); all 65 seats in the Assembly were won by the BCP
+Judicial branch:
+     High Court, Court of Appeal
+Political parties and leaders:
+     Basotho National Party (BNP), Evaristus SEKHONYANA; Basutholand
+     Congress Party (BCP), Ntsu MOKHEHLE; National Independent Party (NIP),
+     A. C. MANYELI; Marematlou Freedom Party (MFP), Vincent MALEBO; United
+     Democratic Party, Charles MOFELI; Communist Party of Lesotho (CPL),
+     Jacob M. KENA
+Member of:
+     ACP, AfDB, C, CCC, ECA, FAO, G-77, GATT, IBRD, ICAO, ICFTU, IDA, IFAD,
+     IFC, ILO, IMF, INTELSAT (nonsignatory user), INTERPOL, IOC, ITU,
+     LORCS, NAM, OAU, SACU, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU,
+     WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Teboho KITLELI
+chancery:
+     2511 Massachusetts Avenue NW, Washington, DC 20008
+ 
+ 
+telephone:
+     (202) 797-5533 through 5536
+FAX:
+     (202) 234-6815
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge d'Affaires Karl HOFMANN
+embassy:
+     address NA, Maseru
+mailing address:
+     P. O. Box 333, Maseru 100, Lesotho
+telephone:
+     [266] 312-666
+FAX:
+     [266] 310-116
+Flag:
+     divided diagonally from the lower hoist side corner; the upper half is
+     white bearing the brown silhouette of a large shield with crossed
+     spear and club; the lower half is a diagonal blue band with a green
+     triangle in the corner
+ 
+                                  Economy
+ 
+Overview:
+     Small, landlocked, and mountainous, Lesotho has no important natural
+     resources other than water. Its economy is based on agriculture, light
+     manufacturing, and remittances from laborers employed in South Africa
+     (recently equal to about 45% of GDP). The great majority of households
+     gain their livelihoods from subsistence farming and migrant labor; a
+     large portion of the adult male workforce is employed in South African
+     mines. Manufacturing depends largely on farm products to support the
+     milling, canning, leather, and jute industries; other industries
+     include textile, clothing, and construction (in particular, a major
+     water improvement project which will permit the sale of water to South
+     Africa). Industry's share of GDP rose from 6% in 1982 to 13% in 1991.
+National product:
+     GDP - purchasing power equivalent - $2.8 billion (1993 est.)
+National product real growth rate:
+     2.4% (FY 93)
+National product per capita:
+     $1,500 (1993 est.)
+Inflation rate (consumer prices):
+     17% (FY93)
+Unemployment rate:
+     at least 55% among adult males (1991 est.)
+Budget:
+revenues:
+     $438 million
+expenditures:
+     $430 million, including capital expenditures of $155 million (1994
+     est.)
+Exports:
+     $109 million (f.o.b., 1992)
+commodities:
+     wool, mohair, wheat, cattle, peas, beans, corn, hides, skins, baskets
+ 
+ 
+partners:
+     South Africa 42%, EC 28%, North and South America 25% (1991)
+Imports:
+     $964 million (c.i.f., 1992)
+commodities:
+     mainly corn, building materials, clothing, vehicles, machinery,
+     medicines, petroleum
+partners:
+     South Africa 94%, Asia 3%, EC 1% (1991)
+External debt:
+     $428 million (1991)
+Industrial production:
+     growth rate 5% (1991 est.); accounts for 13% of GDP
+Electricity:
+     power supplied by South Africa
+Industries:
+     food, beverages, textiles, handicrafts, tourism
+Agriculture:
+     accounts for 15% of GDP (1991 est.) and employs 60-70% of all
+     households; exceedingly primitive, mostly subsistence farming and
+     livestock; principal crops corn, wheat, pulses, sorghum, barley
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $268 million; US (1992),
+     $10.3 million; US (1993 est.), $10.1 million; Western (non-US)
+     countries, ODA and OOF bilateral commitments (1970-89), $819 million;
+     OPEC bilateral aid (1979-89), $4 million; Communist countries
+     (1970-89), $14 million
+Currency:
+     1 loti (L) = 100 lisente
+Exchange rates:
+     maloti (M) per US$1 - 3.4096 (January 1994), 3.2636 (1993), 2.8497
+     (1992), 2.7563 (1991), 2.5863 (1990), 2.6166 (1989); note - the
+     Basotho loti is at par with the South African rand
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Railroads:
+     2.6 km; owned, operated by, and included in the statistics of South
+     Africa
+Highways:
+total:
+     7,215 km
+paved:
+     572 km
+unpaved:
+     gravel, stabilized earth 2,337 km; improved earth 1,806 km; unimproved
+     earth 2,500 km (1988)
+Airports:
+total:
+     28
+usable:
+     28
+ 
+ 
+with permanent-surface runways:
+     3
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     2
+Telecommunications:
+     rudimentary system consisting of a few landlines, a small microwave
+     system, and minor radio communications stations; 5,920 telephones;
+     broadcast stations - 3 AM, 2 FM, 1 TV; 1 Atlantic Ocean INTELSAT earth
+     station
+ 
+                              Defense Forces
+ 
+Branches:
+     Royal Lesotho Defense Force (RLDF; including Army, Air Wing), Royal
+     Lesotho Mounted Police
+Manpower availability:
+     males age 15-49 438,096; fit for military service 236,324
+Defense expenditures:
+     exchange rate conversion - $55 million, 13% of GDP (1990 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

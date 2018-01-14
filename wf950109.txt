@@ -1,0 +1,396 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0108
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Hong Kong
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Hong Kong 
+ 
+ 
+                                 Hong Kong
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (dependent territory of the UK)
+ 
+                                 Geography
+ 
+Location:
+     Eastern Asia, on the southeast coast of China bordering the South
+     China Sea
+Map references:
+     Asia, Southeast Asia, Standard Time Zones of the World
+Area:
+total area:
+     1,040 sq km
+land area:
+     990 sq km
+comparative area:
+     slightly less than six times the size of Washington, DC
+Land boundaries:
+     total 30 km, China 30 km
+Coastline:
+     733 km
+Maritime claims:
+exclusive fishing zone:
+     3 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     tropical monsoon; cool and humid in winter, hot and rainy from spring
+     through summer, warm and sunny in fall
+Terrain:
+     hilly to mountainous with steep slopes; lowlands in north
+Natural resources:
+     outstanding deepwater harbor, feldspar
+Land use:
+arable land:
+     7%
+permanent crops:
+     1%
+meadows and pastures:
+     1%
+forest and woodland:
+     12%
+other:
+     79%
+Irrigated land:
+     20 sq km (1989)
+Environment:
+current issues:
+     air and water pollution from rapid urbanization
+ 
+ 
+natural hazards:
+     occasional typhoons
+international agreements:
+     NA
+Note:
+     more than 200 islands
+ 
+                                  People
+ 
+Population:
+     5,548,754 (July 1994 est.)
+Population growth rate:
+     -0.09% (1994 est.)
+Birth rate:
+     12.16 births/1,000 population (1994 est.)
+Death rate:
+     5.85 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -7.21 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     5.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     80.09 years
+male:
+     76.67 years
+female:
+     83.71 years (1994 est.)
+Total fertility rate:
+     1.37 children born/woman (1994 est.)
+Nationality:
+noun:
+     Chinese
+adjective:
+     Chinese
+Ethnic divisions:
+     Chinese 95%, other 5%
+Religions:
+     eclectic mixture of local religions 90%, Christian 10%
+Languages:
+     Chinese (Cantonese), English
+Literacy:
+     age 15 and over having ever attended school (1971)
+total population:
+     77%
+male:
+     90%
+female:
+     64%
+Labor force:
+     2.8 million (1990)
+ 
+ 
+by occupation:
+     manufacturing 28.5%, wholesale and retail trade, restaurants, and
+     hotels 27.9%, services 17.7%, financing, insurance, and real estate
+     9.2%, transport and communications 4.5%, construction 2.5%, other 9.7%
+     (1989)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Abbreviation:
+     HK
+Digraph:
+     HK
+Type:
+     dependent territory of the UK scheduled to revert to China in 1997
+Capital:
+     Victoria
+Administrative divisions:
+     none (dependent territory of the UK)
+Independence:
+     none (dependent territory of the UK; the UK signed an agreement with
+     China on 19 December 1984 to return Hong Kong to China on 1 July 1997;
+     in the joint declaration, China promises to respect Hong Kong's
+     existing social and economic systems and lifestyle)
+National holiday:
+     Liberation Day, 29 August (1945)
+Constitution:
+     unwritten; partly statutes, partly common law and practice; new Basic
+     Law approved in March 1990 in preparation for 1997
+Legal system:
+     based on English common law
+Suffrage:
+     direct election 21 years of age; universal for permanent residents
+     living in the territory of Hong Kong for the past seven years;
+     indirect election limited to about 100,000 professionals of electoral
+     college and functional constituencies
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952)
+head of government:
+     Governor Chris PATTEN (since 9 July 1992); Chief Secretary Anson CHAN
+     Fang On-Sang (since 29 November 1993)
+cabinet:
+     Executive Council; appointed by the governor
+Legislative branch:
+     unicameral
+ 
+ 
+Legislative Council:
+     indirect elections last held 12 September 1991 and direct elections
+     were held for the first time 15 September 1991 (next to be held in
+     September 1995 when the number of directly-elected seats increases to
+     20); results - percent of vote by party NA; seats - (60 total; 21
+     indirectly elected by functional constituencies, 18 directly elected,
+     18 appointed by governor, 3 ex officio members); indirect elections -
+     number of seats by functional constituency NA; direct elections - UDHK
+     12, Meeting Point 3, ADPL 1, other 2
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     United Democrats of Hong Kong, Martin LEE, chairman; Democratic
+     Alliance for the Betterment of Hong Kong, TSANG Yuk-shing, chairman;
+     Hong Kong Democratic Foundation, Dr. Patrick SHIU Kin-ying, chairman
+note:
+     in April 1994, the United Democrats of Hong Kong and Meeting Point
+     merged to form the "Democratic Party;" the merger becomes effective in
+     October 1994
+Other political or pressure groups:
+     Liberal Party, Allen LEE, chairman; Meeting Point, Anthony CHEUNG
+     Bing-leung, chairman; Association for Democracy and People's
+     Livelihood, Frederick FUNG Kin Kee, chairman; Liberal Democratic
+     Federation, HU Fa-kuang, chairman; Federation of Trade Unions
+     (pro-China), LEE Chark-tim, president; Hong Kong and Kowloon Trade
+     Union Council (pro-Taiwan); Confederation of Trade Unions
+     (pro-democracy), LAU Chin-shek, chairman; Hong Kong General Chamber of
+     Commerce; Chinese General Chamber of Commerce (pro-China); Federation
+     of Hong Kong Industries; Chinese Manufacturers' Association of Hong
+     Kong; Hong Kong Professional Teachers' Union, CHEUNG Man-kwong,
+     president; Hong Kong Alliance in Support of the Patriotic Democratic
+     Movement in China, Szeto WAH, chairman
+note:
+     in April 1994, the United Democrats of Hong Kong and Meeting Point
+     merged to form the "Democratic Party;" the merger becomes effective in
+     October 1994
+Member of:
+     COCOM (cooperating), APEC, AsDB, CCC, ESCAP (associate), GATT, ICFTU,
+     IMO (associate), INTERPOL (subbureau), IOC, ISO (correspondent), WCL,
+     WMO
+Diplomatic representation in US:
+     none (dependent territory of the UK)
+US diplomatic representation:
+chief of mission:
+     Consul General Richard MUELLER
+consulate general:
+     26 Garden Road, Hong Kong
+mailing address:
+     PSC 464, Box 30, Hong Kong, or FPO AP 96522-0002
+telephone:
+     [852] 523-9011
+FAX:
+     [852] 845-1598
+ 
+ 
+Flag:
+     blue with the flag of the UK in the upper hoist-side quadrant with the
+     Hong Kong coat of arms on a white disk centered on the outer half of
+     the flag; the coat of arms contains a shield (bearing two junks below
+     a crown) held by a lion (representing the UK) and a dragon
+     (representing China) with another lion above the shield and a banner
+     bearing the words HONG KONG below the shield
+ 
+                                  Economy
+ 
+Overview:
+     Hong Kong has a bustling free market economy with few tariffs or
+     nontariff barriers. Natural resources are limited, and food and raw
+     materials must be imported. Manufacturing accounts for about 17% of
+     GDP. Goods and services exports account for about 50% of GDP. Real GDP
+     growth averaged a remarkable 8% in 1987-88, slowed to 3.0% in 1989-90,
+     and picked up to 4.2% in 1991, 5.0% in 1992, and 5.2% in 1993.
+     Unemployment, which has been declining since the mid-1980s, is now
+     about 2%. A shortage of labor continues to put upward pressure on
+     prices and the cost of living. Short-term prospects remain bright so
+     long as major trading partners continue to be reasonably prosperous.
+National product:
+     GDP - purchasing power equivalent - $119 billion (1993 est.)
+National product real growth rate:
+     5.2% (1993)
+National product per capita:
+     $21,500 (1993 est.)
+Inflation rate (consumer prices):
+     9.5% (1993)
+Unemployment rate:
+     2.3% (1993 est.)
+Budget:
+revenues:
+     $19.2 billion
+expenditures:
+     $19.7 billion, including capital expenditures of $NA (FY94)
+Exports:
+     $145.1 billion (including re-exports of $104.2 billion )(f.o.b., 1993
+     est.)
+commodities:
+     clothing, textiles, yarn and fabric, footwear, electrical appliances,
+     watches and clocks, toys
+partners:
+     China 32%, US 23%, Germany 5%, Japan 5%, UK 3% (1993 est.)
+Imports:
+     $149.6 billion (c.i.f., 1993 est.)
+commodities:
+     foodstuffs, transport equipment, raw materials, semimanufactures,
+     petroleum
+partners:
+     China 36%, Japan 19%, Taiwan 9%, US 7% (1993 est.)
+External debt:
+     none (1993)
+Industrial production:
+     growth rate 2% (1993 est.)
+ 
+ 
+Electricity:
+capacity:
+     9,566,000 kW
+production:
+     29.4 billion kWh
+consumption per capita:
+     4,980 kWh (1992)
+Industries:
+     textiles, clothing, tourism, electronics, plastics, toys, watches,
+     clocks
+Agriculture:
+     minor role in the economy; local farmers produce 26% fresh vegetables,
+     27% live poultry; 8% of land area suitable for farming
+Illicit drugs:
+     a hub for Southeast Asian heroin trade; transshipment and major
+     financial and money-laundering center
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-87), $152 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $923
+     million
+Currency:
+     1 Hong Kong dollar (HK$) = 100 cents
+Exchange rates:
+     Hong Kong dollars (HK$) per US$ - 7.800 (1993), 7.741 (1992), 7.771
+     (1991), 7.790 (1990), 7.800 (1989); note - linked to the US dollar at
+     the rate of about 7.8 HK$ per 1 US$ since 1985
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Railroads:
+     35 km 1.435-meter standard gauge, government owned
+Highways:
+total:
+     1,100 km
+paved:
+     794 km
+unpaved:
+     gravel, crushed stone, earth 306 km
+Ports:
+Merchant marine:
+     201 ships (1,000 GRT or over), totaling 6,972,233 GRT/11,965,809 DWT,
+     bulk 105, cargo 23, chemical tanker 3, combination bulk 2, combination
+     ore/oil 6, container 29, liquefied gas 7, oil tanker 16, refrigerated
+     cargo 7, short-sea passenger 1, vehicle carrier 2
+note:
+     a flag of convenience registry; ships registered in Hong Kong fly the
+     UK flag, and an estimated 500 Hong Kong-owned ships are registered
+     elsewhere
+Airports:
+total:
+     2
+ 
+ 
+usable:
+     2
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     modern facilities provide excellent domestic and international
+     services; 3,000,000 telephones; microwave transmission links and
+     extensive optical fiber transmission network; broadcast stations - 6
+     AM, 6 FM, 4 TV; 1 British Broadcasting Corporation (BBC) repeater
+     station and 1 British Forces Broadcasting Service repeater station;
+     2,500,000 radio receivers; 1,312,000 TV sets (1,224,000 color TV
+     sets); satellite earth stations - 1 Pacific Ocean INTELSAT and 2
+     Indian Ocean INTELSAT; coaxial cable to Guangzhou, China; links to 5
+     international submarine cables providing access to ASEAN member
+     nations, Japan, Taiwan, Australia, Middle East, and Western Europe
+ 
+                              Defense Forces
+ 
+Branches:
+     Headquarters of British Forces, Royal Navy, Royal Air Force, Royal
+     Hong Kong Auxiliary Air Force, Royal Hong Kong Police Force
+Manpower availability:
+     males age 15-49 1,636,397; fit for military service 1,251,901; reach
+     military age (18) annually 42,044 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $300 million, 0.5% of GDP (1989 est.); this
+     represents one-fourth of the total cost of defending itself, the
+     remainder being paid by the UK
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

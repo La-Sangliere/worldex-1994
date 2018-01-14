@@ -1,0 +1,353 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0120
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Jamaica
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Jamaica 
+ 
+ 
+                                  Jamaica
+ 
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the northern Caribbean Sea, about 160 km south of Cuba
+Map references:
+     Central America and the Caribbean, North America, Standard Time Zones
+     of the World
+Area:
+total area:
+     10,990 sq km
+land area:
+     10,830 sq km
+comparative area:
+     slightly smaller than Connecticut
+Land boundaries:
+     0 km
+Coastline:
+     1,022 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; hot, humid; temperate interior
+Terrain:
+     mostly mountains with narrow, discontinuous coastal plain
+Natural resources:
+     bauxite, gypsum, limestone
+Land use:
+arable land:
+     19%
+permanent crops:
+     6%
+meadows and pastures:
+     18%
+forest and woodland:
+     28%
+other:
+     29%
+Irrigated land:
+     350 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; water pollution
+natural hazards:
+     subject to hurricanes (especially July to November)
+international agreements:
+     party to - Law of the Sea, Marine Dumping, Marine Life Conservation,
+     Nuclear Test Ban, Ozone Layer Protection, Ship Pollution; signed, but
+     not ratified - Biodiversity, Climate Change
+ 
+ 
+Note:
+     strategic location between Cayman Trench and Jamaica Channel, the main
+     sea lanes for Panama Canal
+ 
+                                  People
+ 
+Population:
+     2,555,064 (July 1994 est.)
+Population growth rate:
+     1.02% (1994 est.)
+Birth rate:
+     21.69 births/1,000 population (1994 est.)
+Death rate:
+     5.62 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -5.9 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     16.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     74.36 years
+male:
+     72.16 years
+female:
+     76.68 years (1994 est.)
+Total fertility rate:
+     2.41 children born/woman (1994 est.)
+Nationality:
+noun:
+     Jamaican(s)
+adjective:
+     Jamaican
+Ethnic divisions:
+     African 76.3%, Afro-European 15.1%, East Indian and Afro-East Indian
+     3%, white 3.2%, Chinese and Afro-Chinese 1.2%, other 1.2%
+Religions:
+     Protestant 55.9% (Church of God 18.4%, Baptist 10%, Anglican 7.1%,
+     Seventh-Day Adventist 6.9%, Pentecostal 5.2%, Methodist 3.1%, United
+     Church 2.7%, other 2.5%), Roman Catholic 5%, other, including some
+     spiritual cults 39.1% (1982)
+Languages:
+     English, Creole
+Literacy:
+     age 15 and over having ever attended school (1990 est.)
+total population:
+     98%
+male:
+     98%
+female:
+     99%
+Labor force:
+     1,062,100
+by occupation:
+     services 41%, agriculture 22.5%, industry 19%, unemployed 17.5% (1989)
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     JM
+Type:
+     parliamentary democracy
+Capital:
+     Kingston
+Administrative divisions:
+     14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint
+     Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James,
+     Saint Mary, Saint Thomas, Trelawny, Westmoreland
+Independence:
+     6 August 1962 (from UK)
+National holiday:
+     Independence Day (first Monday in August) (1962)
+Constitution:
+     6 August 1962
+Legal system:
+     based on English common law; has not accepted compulsory ICJ
+     jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by Governor
+     General Sir Howard COOKE (since 1 August 1991)
+head of government:
+     Prime Minister P. J. PATTERSON (since 30 March 1992); Deputy Prime
+     Minister Seymour MULLINGS (since NA)
+cabinet:
+     Cabinet; appointed by the governor general on the advice of the prime
+     minister
+Legislative branch:
+     bicameral Parliament
+Senate:
+     consists of a 21-member body appointed by the governor general
+House of Representatives:
+     elections last held 30 March 1993 (next to be held by February 1998);
+     results - percent of vote by party NA; seats - (60 total) PNP 52, JLP
+     8
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     People's National Party (PNP) P. J. PATTERSON; Jamaica Labor Party
+     (JLP), Edward SEAGA
+Other political or pressure groups:
+     Rastafarians (black religious/racial cultists, pan-Africanists); New
+     Beginnings Movement (NBM)
+ 
+ 
+Member of:
+     ACP, C, CARICOM, CCC, CDB, ECLAC, FAO, G-19, G-77, GATT, G-15, IADB,
+     IAEA, IBRD, ICAO, ICFTU, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL,
+     IOC, ISO, ITU, LAES, LORCS, NAM, OAS, OPANAL, UN, UNCTAD, UNESCO,
+     UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Richard Leighton BERNAL
+chancery:
+     Suite 355, 1850 K Street NW, Washington, DC 20006
+telephone:
+     (202) 452-0660
+FAX:
+     (202) 452-0081
+consulate(s) general:
+     Miami and New York
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge d'Affaires Lacy A. WRIGHT, Jr.
+embassy:
+     Jamaica Mutual Life Center, 2 Oxford Road, 3rd floor, Kingston
+mailing address:
+     use Embassy street address
+telephone:
+     (809) 929-4850 through 4859
+FAX:
+     (809) 926-6743
+Flag:
+     diagonal yellow cross divides the flag into four triangles - green
+     (top and bottom) and black (hoist side and fly side)
+ 
+                                  Economy
+ 
+Overview:
+     The economy is based on sugar, bauxite, and tourism. In September
+     1988, Hurricane Gilbert inflicted severe damage on crops and the
+     electric power system, a sharp but temporary setback to the economy.
+     By October 1989 the economic recovery from the hurricane was largely
+     complete, and real growth was up to about 3% for 1989. In 1991,
+     however, growth dropped to 0.2% as a result of the US recession, lower
+     world bauxite prices, and monetary instability. In 1992, growth was
+     1.2%, supported by a recovery in tourism and stabilization of the
+     Jamaican dollar in the second half of 1992.
+National product:
+     GDP - purchasing power equivalent - $8 billion (1992 est.)
+National product real growth rate:
+     1.2% (1992 est.)
+National product per capita:
+     $3,200 (1992 est.)
+Inflation rate (consumer prices):
+     30% (1992 est.)
+Unemployment rate:
+     15.4% (1992)
+ 
+ 
+Budget:
+revenues:
+     $600 million
+expenditures:
+     $736 million, including capital expenditures of $NA (FY91 est.)
+Exports:
+     $1.1 billion (f.o.b., 1992)
+commodities:
+     alumina, bauxite, sugar, bananas, rum
+partners:
+     US 40%, UK 14%, Germany 10%, Canada 10%, Norway 7%
+Imports:
+     $1.5 billion (f.o.b., 1992)
+commodities:
+     fuel, other raw materials, construction materials, food, transport
+     equipment, other machinery and equipment
+partners:
+     US 53%, UK 5%, Venezuela 6%, Germany 5%, Japan 4.0%
+External debt:
+     $4.5 billion (1992 est.)
+Industrial production:
+     growth rate 2% (1990); accounts for almost 25% of GDP
+Electricity:
+capacity:
+     1,127,000 kW
+production:
+     2.736 trillion kWh
+consumption per capita:
+     1,090 kWh (1992)
+Industries:
+     tourism, bauxite mining, textiles, food processing, light manufactures
+Agriculture:
+     accounts for about 7% of GDP, 23% of work force, and 17% of exports;
+     commercial crops - sugarcane, bananas, coffee, citrus, potatoes,
+     vegetables; livestock and livestock products include poultry, goats,
+     milk; not self-sufficient in grain, meat, and dairy products
+Illicit drugs:
+     transshipment point for cocaine from Central and South America to
+     North America and Europe; illicit cultivation of cannabis; government
+     has an active cannabis eradication program
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $1.2 billion; other
+     countries, ODA and OOF bilateral commitments (1970-89), $1.6 billion
+Currency:
+     1 Jamaican dollar (J$) = 100 cents
+Exchange rates:
+     Jamaican dollars (J$) per US$1 -32.758 (31 December 1993), 22.960
+     (1992), 12.116 (1991), 7.184 (1990), 5.7446 (1989)
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+ 
+Railroads:
+     370 km, all 1.435-meter standard gauge, single track
+Highways:
+total:
+     18,200 km
+paved:
+     12,600 km
+unpaved:
+     gravel 3,200 km; improved earth 2,400 km
+Pipelines:
+     petroleum products 10 km
+Ports:
+     Kingston, Montego Bay, Port Antonio
+Merchant marine:
+     4 ships (1,000 GRT or over) totaling 9,618 GRT/16,215 DWT, bulk 2, oil
+     tanker 1, roll-on/roll-off cargo 1
+Airports:
+total:
+     40
+usable:
+     27
+with permanent-surface runways:
+     10
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     1
+Telecommunications:
+     fully automatic domestic telephone network; 127,000 telephones;
+     broadcast stations - 10 AM, 17 FM, 8 TV; 2 Atlantic Ocean INTELSAT
+     earth stations; 3 coaxial submarine cables
+ 
+                              Defense Forces
+ 
+Branches:
+     Jamaica Defense Force (including Ground Forces, Coast Guard and Air
+     Wing), Jamaica Constabulary Force
+Manpower availability:
+     males age 15-49 664,122; fit for military service 469,982; reach
+     military age (18) annually 26,103 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $19.3 million, 1% of GDP (FY91/92)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

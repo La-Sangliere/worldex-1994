@@ -1,0 +1,436 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0219
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: South Africa
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | South Africa 
+ 
+ 
+                               South Africa
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, at the extreme southern tip of the continent
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     1,219,912 sq km
+land area:
+     1,219,912 sq km
+comparative area:
+     slightly less than twice the size of Texas
+note:
+     includes Prince Edward Islands (Marion Island and Prince Edward
+     Island)
+Land boundaries:
+     total 4,750 km, Botswana 1,840 km, Lesotho 909 km, Mozambique 491 km,
+     Namibia 855 km, Swaziland 430 km, Zimbabwe 225 km
+Coastline:
+     2,798 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     the dispute with Namibia over Walvis Bay and 12 offshore islands has
+     been resolved and these territories were transferred to Namibian
+     sovereignty on 1 March 1994; Swaziland has asked South Africa to open
+     negotiations on reincorporating some nearby South African territories
+     that are populated by ethnic Swazis or that were long ago part of the
+     Swazi Kingdom
+Climate:
+     mostly semiarid; subtropical along coast; sunny days, cool nights
+Terrain:
+     vast interior plateau rimmed by rugged hills and narrow coastal plain
+Natural resources:
+     gold, chromium, antimony, coal, iron ore, manganese, nickel,
+     phosphates, tin, uranium, gem diamonds, platinum, copper, vanadium,
+     salt, natural gas
+Land use:
+arable land:
+     10%
+permanent crops:
+     1%
+meadows and pastures:
+     65%
+forest and woodland:
+     3%
+other:
+     21%
+ 
+ 
+Irrigated land:
+     11,280 sq km (1989 est.)
+Environment:
+current issues:
+     lack of important arterial rivers or lakes requires extensive water
+     conservation and control measures; growth in water usage threatens to
+     outpace supply; pollution of rivers from agricultural runoff and urban
+     discharge; air pollution resulting in acid rain; soil erosion;
+     desertification
+natural hazards:
+     subject to prolonged droughts
+international agreements:
+     party to - Antarctic Treaty, Endangered Species, Marine Dumping,
+     Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection,
+     Ship Pollution, Wetlands, Whaling; signed, but not ratified -
+     Antarctic-Environmental Protocol, Biodiversity, Climate Change, Law of
+     the Sea
+Note:
+     South Africa completely surrounds Lesotho and almost completely
+     surrounds Swaziland
+ 
+                                  People
+ 
+Population:
+     43,930,631 (July 1994 est.)
+Population growth rate:
+     2.62% (1994 est.)
+Birth rate:
+     33.58 births/1,000 population (1994 est.)
+Death rate:
+     7.53 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.16 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     47.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     65.11 years
+male:
+     62.37 years
+female:
+     67.94 years (1994 est.)
+Total fertility rate:
+     4.37 children born/woman (1994 est.)
+Nationality:
+noun:
+     South African(s)
+adjective:
+     South African
+Ethnic divisions:
+     black 75.2%, white 13.6%, Colored 8.6%, Indian 2.6%
+Religions:
+     Christian (most whites and Coloreds and about 60% of blacks), Hindu
+     (60% of Indians), Muslim 2%
+ 
+ 
+Languages:
+     eleven official languages, including Afrikaans, English, Ndebele,
+     Pedi, Sotho, Swati, Tsonga, Tswana, Venda, Xhosa, Zulu
+Literacy:
+     age 15 and over can read and write (1980)
+total population:
+     76%
+male:
+     78%
+female:
+     75%
+Labor force:
+     13.4 million economically active (1990)
+by occupation:
+     services 35%, agriculture 30%, industry 20%, mining 9%, other 6%
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of South Africa
+conventional short form:
+Abbreviation:
+     RSA
+Digraph:
+     SF
+Type:
+     republic
+Capital:
+     Pretoria (administrative); Cape Town (legislative);  Bloemfontein
+     (judicial)
+Administrative divisions:
+     9 provinces; Eastern Cape, Eastern Transvaal, Kwa Zulu/Natal, Northern
+     Cape, Northern Transvaal, Northwest, Orange Free State,
+     Pretoria-Witwatersrand-Vereeniging, Western Cape
+note:
+     previously the administrative divisions consisted of 4 provinces;
+     Cape, Natal, Orange Free State, Transvaal; there were 10 homelands not
+     recognized by the US - 4 independent (Bophuthatswana, Ciskei,
+     Transkei, Venda) and 6 other (Gazankulu, Kangwane, KwaNdebele,
+     KwaZulu, Lebowa, QwaQwa)
+Independence:
+     31 May 1910 (from UK)
+National holiday:
+     Republic Day, 31 May (1910)
+Constitution:
+     27 April 1994 (interim constitution, replacing the constitution of 3
+     September 1984)
+Legal system:
+     based on Roman-Dutch law and English common law; accepts compulsory
+     ICJ jurisdiction, with reservations
+Suffrage:
+     18 years of age; universal
+ 
+ 
+Executive branch:
+chief of state and head of government:
+     Executive President Nelson MANDELA (since 10 May 1994); Deputy
+     Executive President Frederik W. DE KLERK (since 10 May 1994); Deputy
+     Executive President Thabo MBEKI (since 10 May 1994)
+note:
+     any political party that wins 20% or more of the National Assembly
+     votes in a general election is entitled to name a Deputy Executive
+     President
+cabinet:
+     Cabinet appointed by the Executive President
+Legislative branch:
+     bicameral
+National Assembly:
+     elections held 26-29 April 1994 (next to be held NA); results - ANC
+     62.6%, NP 20.4%, IFP 10.5%, FF 2.2%, DP 1.7%, PAC 1.2%, ACDP 0.5%,
+     other 0.9%; seats - (400 total) ANC 252, NP 82, IFP 43, FF 9, DP 7,
+     PAC 5, ACDP 2
+Senate:
+     the Senate is composed of members who are nominated by the nine
+     provincial parliaments (which are elected in parallel with the
+     National Assembly) and has special powers to protect regional
+     interests, including the right to limited self-determination for
+     ethnic minorities; seats - (90 total) ANC 61, NP 17, FF 4, IFP 5, DP 3
+note:
+     when the National Assembly meets in joint session with the Senate to
+     consider the provisions of the Constitution, the combined group is
+     referred to as the Constitutional Assembly
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     African National Congress (ANC), Cyril RAMAPHOSA; National Party (NP),
+     Frederik W. DE KLERK, president; Inkatha Freedom Party (IFP),
+     Mangosuthu BUTHELEZI, president; Freedom Front (FF), Constand VILJOEN,
+     president; Democratic Party (DP); Pan Africanist Congress (PAC),
+     Clarence MAKWETU, president; African Christian Democratic Party (ACDP)
+note:
+     in addition to these seven parties which won seats in the National
+     Assembly, twelve other parties won votes in the national elections in
+     April 1994
+Other political or pressure groups:
+     NA;;
+Member of:
+     BIS, CCC, ECA, GATT, G-77, IAEA, IBRD, ICAO (suspended), ICC, IDA,
+     IFC, IMF, INTELSAT, IOC, ISO, ITU (suspended), LORCS, OAU, SACU, UN,
+     UNCTAD, WFTU, WHO, WIPO, WMO (suspended), ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Harry Heinz SCHWARZ
+chancery:
+     3051 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 232-4400
+consulate(s) general:
+     Beverly Hills (California), Chicago, and New York
+ 
+ 
+US diplomatic representation:
+chief of mission:
+     Ambassador Princeton N. LYMAN
+embassy:
+     877 Pretorius St., Arcadia 0083
+mailing address:
+     P.O. Box 9536, Pretoria 0001
+telephone:
+     [27] (12) 342-1048
+FAX:
+     [27] (12) 342-2244 or 2299
+consulate(s) general:
+     Cape Town, Durban, Johannesburg
+Flag:
+     two equal width horizontal bands of red (top) and blue separated by a
+     central green band which splits into a horozontal Y, the arms of which
+     end at the corners of the hoist side, embracing a black isoceles
+     triangle from which the arms are separated by narrow yellow bands; the
+     red and blue bands are separated from the green band and its arms by
+     narrow white stripes
+note:
+     prior to 26 April 1994 the flag was actually four flags in one - three
+     miniature flags reproduced in the center of the white band of the
+     former flag of the Netherlands, which has three equal horizontal bands
+     of orange (top), white, and blue; the miniature flags are a vertically
+     hanging flag of the old Orange Free State with a horizontal flag of
+     the UK adjoining on the hoist side and a horizontal flag of the old
+     Transvaal Republic adjoining on the other side
+ 
+                                  Economy
+ 
+Overview:
+     Many of the white one-seventh of the South African population enjoy
+     incomes, material comforts, and health and educational standards equal
+     to those of Western Europe. In contrast, most of the remaining
+     population suffers from the poverty patterns of the Third World,
+     including unemployment and lack of job skills. The main strength of
+     the economy lies in its rich mineral resources, which provide
+     two-thirds of exports. Economic developments for the remainder of the
+     1990s will be driven largely by the new government's attempts to
+     improve black living conditions and to set the country on an
+     aggressive export-led growth path. The shrinking economy in recent
+     years has absorbed less than 5% of the more than 300,000 workers
+     entering the labor force annually. Local economists estimate that the
+     economy must grow between 5% and 6% in real terms annually to absorb
+     all of the new entrants.
+National product:
+     GDP - purchasing power equivalent - $171 billion (1993 est.)
+National product real growth rate:
+     1.1% (1993 est.)
+National product per capita:
+     $4,000 (1993 est.)
+Inflation rate (consumer prices):
+     9.7% (1993 est.)
+ 
+ 
+Unemployment rate:
+     50% (1994 est.)
+Budget:
+revenues:
+     $26.3 billion
+expenditures:
+     $34 billion, including capital expenditures of $2.5 billion (FY94
+     est.)
+Exports:
+     $24.3 billion (f.o.b., 1993)
+commodities:
+     gold 27%, other minerals and metals 20-25%, food 5%, chemicals 3%
+partners:
+     Italy, Japan, US, Germany, UK, other EC countries, Hong Kong
+Imports:
+     $18.1 billion (f.o.b., 1993)
+commodities:
+     machinery 32%, transport equipment 15%, chemicals 11%, oil, textiles,
+     scientific instruments
+partners:
+     Germany, US, Japan, UK, Italy
+External debt:
+     $17 billion (1993 est.)
+Industrial production:
+     growth rate NA%; accounts for about 40% of GDP
+Electricity:
+capacity:
+     46,000,000 kW
+production:
+     180 billion kWh
+consumption per capita:
+     4,100 kWh (1991)
+Industries:
+     mining (world's largest producer of platinum, gold, chromium),
+     automobile assembly, metalworking, machinery, textile, iron and steel,
+     chemical, fertilizer, foodstuffs
+Agriculture:
+     accounts for about 5% of GDP and 30% of labor force; diversified
+     agriculture, with emphasis on livestock; products - cattle, poultry,
+     sheep, wool, milk, beef, corn, wheat, sugarcane, fruits, vegetables;
+     self-sufficient in food
+Illicit drugs:
+     transshipment center of heroin and cocaine; cocaine consumption on the
+     rise
+Economic aid:
+     many aid packages for the new government are still being prepared;
+     current aid pledges include US $600 million over 3 years; UK $150
+     million over 3 years; Australia $21 million over 3 years
+Currency:
+     1 rand (R) = 100 cents
+Exchange rates:
+     rand (R) per US$1 - 3.4551 (March 1994), 3.2636 (1993), 2.8497 (1992),
+     2.7563 (1991), 2.5863 (1990), 2.6166 (1989)
+Fiscal year:
+     1 April - 31 March
+ 
+ 
+ 
+                              Communications
+ 
+Railroads:
+     20,638 km route distance total; 20,324 km of 1.067-meter gauge
+     trackage (counts double and multiple tracking as single track); 314 km
+     of 610 mm gauge; substantial electrification of 1.067 meter gauge
+Highways:
+total:
+     188,309 km
+paved:
+     54,013 km
+unpaved:
+     crushed stone, gravel, improved earth 134,296 km
+Pipelines:
+     crude oil 931 km; petroleum products 1,748 km; natural gas 322 km
+Ports:
+     Durban, Cape Town, Port Elizabeth, Richards Bay, Saldanha, Mosselbaai
+Merchant marine:
+     5 ships (1,000 GRT or over) totaling 213,273 GRT/201,043 DWT,
+     container 4, vehicle carrier 1
+Airports:
+total:
+     886
+usable:
+     718
+with permanent-surface runways:
+     140
+with runways over 3,659 m:
+     5
+with runways 2,440-3,659 m:
+     10
+with runways 1,220-2,439 m:
+     213
+Telecommunications:
+     the system is the best developed, most modern, and has the highest
+     capacity in Africa; it consists of carrier-equipped open-wire lines,
+     coaxial cables, radio relay links, fiber optic cable, and
+     radiocommunication stations; key centers are Bloemfontein, Cape Town,
+     Durban, Johannesburg, Port Elizabeth, and Pretoria; over 4,500,000
+     telephones; broadcast stations - 14 AM, 286 FM, 67 TV; 1 submarine
+     cable; satellite earth stations - 1 Indian Ocean INTELSAT and 2
+     Atlantic Ocean INTELSAT
+ 
+                              Defense Forces
+ 
+ 
+Branches:
+     the South African National Defence Force (SANDF) includes Army, Navy,
+     Air Force, and Medical Services of the former South Africa, the armed
+     forces of the former homelands, and the ANC and PAC military
+     components; the initial strength of the SANDF has been set at about
+     100,000 active duty members with plans to reduce it to about 40,000 by
+     1997; it is manned mostly by nonwhites, but the higher officer grades
+     are held by whites; the South African Police (SAP) have incorporated
+     the police forces of the former homelands since the elections of 1994;
+     a National Peacekeeping Force (NPKF) to ensure peaceful proceedures
+     during the 1994 elections was established briefly from the military
+     components of the principal political factions, but was dissolved on 2
+     June 1994, following the elections.
+Manpower availability:
+     males age 15-49 10,557,346; fit for military service 6,437,240; reach
+     military age (18) annually 431,832 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $2.9 billion, about 2.5% of GDP (FY93
+     budget)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

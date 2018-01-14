@@ -1,0 +1,359 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0136
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Laos
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Laos 
+ 
+ 
+                                   Laos
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, between Vietnam and Thailand
+Map references:
+     Southeast Asia, Standard Time Zones of the World
+Area:
+total area:
+     236,800 sq km
+land area:
+     230,800 sq km
+comparative area:
+     slightly larger than Utah
+Land boundaries:
+     total 5,083 km, Burma 235 km, Cambodia 541 km, China 423 km, Thailand
+     1,754 km, Vietnam 2,130 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     boundary dispute with Thailand
+Climate:
+     tropical monsoon; rainy season (May to November); dry season (December
+     to April)
+Terrain:
+     mostly rugged mountains; some plains and plateaus
+Natural resources:
+     timber, hydropower, gypsum, tin, gold, gemstones
+Land use:
+arable land:
+     4%
+permanent crops:
+     0%
+meadows and pastures:
+     3%
+forest and woodland:
+     58%
+other:
+     35%
+Irrigated land:
+     1,200 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; soil erosion
+natural hazards:
+     subject to floods, drought, and blight
+international agreements:
+     party to - Environmental Modification, Nuclear Test Ban; signed, but
+     not ratified - Law of the Sea
+Note:
+     landlocked
+ 
+ 
+                                  People
+ 
+Population:
+     4,701,654 (July 1994 est.)
+Population growth rate:
+     2.85% (1994 est.)
+Birth rate:
+     43.23 births/1,000 population (1994 est.)
+Death rate:
+     14.74 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     101.8 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     51.68 years
+male:
+     50.16 years
+female:
+     53.28 years (1994 est.)
+Total fertility rate:
+     6.07 children born/woman (1994 est.)
+Nationality:
+noun:
+     Lao(s) or Laotian(s)
+adjective:
+     Lao or Laotian
+Ethnic divisions:
+     Lao 50%, Phoutheung (Kha) 15%, tribal Thai 20%, Meo, Hmong, Yao, and
+     other 15%
+Religions:
+     Buddhist 85%, animist and other 15%
+Languages:
+     Lao (official), French, English
+Literacy:
+     age 15-45 can read and write (1993)
+total population:
+     64%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     1-1.5 million
+by occupation:
+     agriculture 85-90% (est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Lao People's Democratic Republic
+conventional short form:
+ 
+ 
+ 
+local long form:
+     Sathalanalat Paxathipatai Paxaxon Lao
+local short form:
+     none
+Digraph:
+     LA
+Type:
+     Communist state
+Capital:
+     Vientiane
+Administrative divisions:
+     16 provinces (khoueng, singular and plural) and 1 municipality*
+     (kampheng nakhon, singular and plural); Attapu, Bokeo, Bolikhamsai,
+     Champasak, Houaphan, Khammouan, Louang Namtha, Louangphrabang,
+     Oudomxai, Phongsali, Saravan, Savannakhet, Xekong, Vientiane,
+     Viangchan*, Xaignabouri, Xiangkhoang
+Independence:
+     19 July 1949 (from France)
+National holiday:
+     National Day, 2 December (1975) (proclamation of the Lao People's
+     Democratic Republic)
+Constitution:
+     promulgated 14 August 1991
+Legal system:
+     based on civil law system; has not accepted compulsory ICJ
+     jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President NOUHAK PHOUMSAVAN (since 25 November 1992)
+head of government:
+     Prime Minister Gen. KHAMTAI SIPHANDON (since 15 August 1991)
+cabinet:
+     Council of Ministers;  appointed by the president, approved by the
+     Assembly
+Legislative branch:
+     unicameral
+Third National Assembly:
+     elections last held on 20 December 1992 (next to be held NA); results
+     - percent of vote by party NA; seats - (85 total) number of seats by
+     party NA
+Judicial branch:
+     Supreme People's Court
+Political parties and leaders:
+     Lao People's Revolutionary Party (LPRP), KHAMTAI Siphandon, party
+     president; includes Lao Front for National Construction (LFNC); other
+     parties moribund
+Other political or pressure groups:
+     non-Communist political groups moribund; most leaders fled the country
+     in 1975
+Member of:
+     ACCT, AsDB, ASEAN (observer), CP, ESCAP, FAO, G-77, IBRD, ICAO, IDA,
+     IFAD, IFC, ILO, IMF, INTELSAT (nonsignatory user), INTERPOL, IOC, ITU,
+     LORCS, NAM, PCA, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WMO, WTO
+ 
+ 
+Diplomatic representation in US:
+chief of mission:
+     Ambassador HIEM PHOMMACHANH
+chancery:
+     2222 S Street NW, Washington, DC 20008
+telephone:
+     (202) 332-6416 or 6417
+FAX:
+     (202) 332-4923
+US diplomatic representation:
+chief of mission:
+     Ambassador Victor TOMSETH
+embassy:
+     Rue Bartholonie, Vientiane
+mailing address:
+     B. P. 114, Vientiane, or American Embassy, Box V, APO AP 96546
+telephone:
+     [851] 2220, 2357, or 3570, 16-9581
+FAX:
+     [851] 4675
+Flag:
+     three horizontal bands of red (top), blue (double width), and red with
+     a large white disk centered in the blue band
+ 
+                                  Economy
+ 
+Overview:
+     Laos has had a Communist centrally planned economy with government
+     ownership and control of major productive enterprises. Since 1986,
+     however, the government has been decentralizing control and
+     encouraging private enterprise. Laos is a landlocked country with a
+     primitive infrastructure; it has no railroads, a rudimentary road
+     system, limited external and internal telecommunications, and
+     electricity available in only a limited area. Subsistence agriculture
+     is the main occupation, accounting for over 60% of GDP and providing
+     about 85-90% of total employment. The predominant crop is rice. For
+     the foreseeable future the economy will continue to depend for its
+     survival on foreign aid from the IMF and other international sources;
+     aid from the former USSR and Eastern Europe has been cut sharply.
+National product:
+     GDP - purchasing power equivalent - $4.1 billion (1993 est.)
+National product real growth rate:
+     7% (1992 est.)
+National product per capita:
+     $900 (1993 est.)
+Inflation rate (consumer prices):
+     9.8% (1992 est.)
+Unemployment rate:
+     21% (1989 est.)
+Budget:
+revenues:
+     $83 million
+expenditures:
+     $188.5 million, including capital expenditures of $94 million (1990
+     est.)
+ 
+ 
+Exports:
+     $133 million (f.o.b., 1992 est.)
+commodities:
+     electricity, wood products, coffee, tin
+partners:
+     Thailand, Malaysia, Vietnam, FSU, US, China
+Imports:
+     $266 million (c.i.f., 1992 est.)
+commodities:
+     food, fuel oil, consumer goods, manufactures
+partners:
+     Thailand, FSU, Japan, France, Vietnam, China
+External debt:
+     $1.1 billion (1990 est.)
+Industrial production:
+     growth rate 12% (1991 est.); accounts for about 18% of GDP (1991 est.)
+Electricity:
+capacity:
+     226,000 kW
+production:
+     990 million kWh
+consumption per capita:
+     220 kWh (1992)
+Industries:
+     tin and gypsum mining, timber, electric power, agricultural
+     processing, construction
+Agriculture:
+     accounts for 60% of GDP and employs most of the work force;
+     subsistence farming predominates; normally self-sufficient in
+     nondrought years; principal crops - rice (80% of cultivated land),
+     sweet potatoes, vegetables, corn, coffee, sugarcane, cotton; livestock
+     - buffaloes, hogs, cattle, poultry
+Illicit drugs:
+     illicit producer of cannabis, opium poppy for the international drug
+     trade, third-largest opium producer (180 metric tons in 1993)
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-79), $276 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $605
+     million; Communist countries (1970-89), $995 million
+Currency:
+     1 new kip (NK) = 100 at
+Exchange rates:
+     new kips (NK) per US$1 - 720 (July 1993). 710 (May 1992), 710
+     (December 1991), 700 (September 1990), 576 (1989)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Railroads:
+     none
+Highways:
+total:
+     27,527 km
+ 
+ 
+paved:
+     bituminous 1,856 km
+unpaved:
+     gravel, crushed stone, improved earth 7,451 km; unimproved earth
+     18,220 km (often impassable during rainy season mid-May to
+     mid-September)
+Inland waterways:
+     about 4,587 km, primarily Mekong and tributaries; 2,897 additional
+     kilometers are sectionally navigable by craft drawing less than 0.5 m
+Pipelines:
+     petroleum products 136 km
+Ports:
+     none
+Merchant marine:
+     1 cargo ship (1,000 GRT or over) totaling 2,370 GRT/3,000 DWT
+Airports:
+total:
+     53
+usable:
+     41
+with permanent-surface runways:
+     8
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     15
+Telecommunications:
+     service to general public practically non-existant; radio
+     communications network provides generally erratic service to
+     government users; 7,390 telephones (1986); broadcast stations - 10 AM,
+     no FM, 1 TV; 1 satellite earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Lao People's Army (LPA; including naval, aviation, and militia
+     elements), Air Force, National Police Department
+Manpower availability:
+     males age 15-49 1,015,357; fit for military service 547,566; reach
+     military age (18) annually 49,348 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

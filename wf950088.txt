@@ -1,0 +1,357 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0087
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: The Gambia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | The Gambia 
+ 
+ 
+                                The Gambia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Western Africa, bordering the North Atlantic Ocean almost completely
+     surrounded by Senegal
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     11,300 sq km
+land area:
+     10,000 sq km
+comparative area:
+     slightly more than twice the size of Delaware
+Land boundaries:
+     total 740 km, Senegal 740 km
+Coastline:
+     80 km
+Maritime claims:
+contiguous zone:
+     18 nm
+continental shelf:
+     not specified
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     short section of boundary with Senegal is indefinite
+Climate:
+     tropical; hot, rainy season (June to November); cooler, dry season
+     (November to May)
+Terrain:
+     flood plain of the Gambia River flanked by some low hills
+Natural resources:
+     fish
+Land use:
+arable land:
+     16%
+permanent crops:
+     0%
+meadows and pastures:
+     9%
+forest and woodland:
+     20%
+other:
+     55%
+Irrigated land:
+     120 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; desertification; water-borne diseases prevalent
+natural hazards:
+     rainfall has dropped by 30% in the last thirty years
+ 
+ 
+international agreements:
+     party to - Endangered Species, Law of the Sea, Nuclear Test Ban, Ozone
+     Layer Protection, Ship Pollution; signed, but not ratified -
+     Biodiversity, Climate Change
+Note:
+     almost an enclave of Senegal; smallest country on the continent of
+     Africa
+ 
+                                  People
+ 
+Population:
+     959,300 (July 1994 est.)
+Population growth rate:
+     3.08% (1994 est.)
+Birth rate:
+     46.39 births/1,000 population (1994 est.)
+Death rate:
+     15.64 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     123.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     50.08 years
+male:
+     47.83 years
+female:
+     52.39 years (1994 est.)
+Total fertility rate:
+     6.29 children born/woman (1994 est.)
+Nationality:
+noun:
+     Gambian(s)
+adjective:
+     Gambian
+Ethnic divisions:
+     African 99% (Mandinka 42%, Fula 18%, Wolof 16%, Jola 10%, Serahuli 9%,
+     other 4%), non-Gambian 1%
+Religions:
+     Muslim 90%, Christian 9%, indigenous beliefs 1%
+Languages:
+     English (official), Mandinka, Wolof, Fula, other indigenous
+     vernaculars
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     27%
+male:
+     39%
+female:
+     16%
+Labor force:
+     400,000 (1986 est.)
+ 
+ 
+by occupation:
+     agriculture 75.0%, industry, commerce, and services 18.9%, government
+     6.1%
+note:
+     55% population of working age (1983)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of The Gambia
+conventional short form:
+Digraph:
+     GA
+Type:
+     republic under multiparty democratic rule
+Capital:
+     Banjul
+Administrative divisions:
+     5 divisions and 1 city*; Banjul*, Lower River, MacCarthy Island, North
+     Bank, Upper River, Western
+Independence:
+     18 February 1965 (from UK; The Gambia and Senegal signed an agreement
+     on 12 December 1981 that called for the creation of a loose
+     confederation to be known as Senegambia, but the agreement was
+     dissolved on 30 September 1989)
+National holiday:
+     Independence Day, 18 February (1965)
+Constitution:
+     24 April 1970
+Legal system:
+     based on a composite of English common law, Koranic law, and customary
+     law; accepts compulsory ICJ jurisdiction, with reservations
+Suffrage:
+     21 years of age; universal
+Executive branch:
+chief of state and head of government:
+     President Alhaji Sir Dawda Kairaba JAWARA (since 24 April 1970); Vice
+     President Saihou SABALLY (since NA); election last held on 29 April
+     1992 (next to be held April 1997); results - Sir Dawda JAWARA (PPP)
+     58.5%, Sherif Mustapha DIBBA (NCP) 22.2%, Assan Musa CAMARA (GPP) 8.0%
+cabinet:
+     Cabinet; appointed by the president from members of the House of
+     Representatives
+Legislative branch:
+     unicameral
+House of Representatives:
+     elections last held on 29 April 1992 (next to be held April 1997);
+     results - PPP 58.1%, seats - (43 total, 36 elected) PPP 30, NCP 6
+Judicial branch:
+     Supreme Court
+ 
+ 
+Political parties and leaders:
+     People's Progressive Party (PPP), Dawda K. JAWARA, secretary general;
+     National Convention Party (NCP), Sheriff DIBBA; Gambian People's Party
+     (GPP), Hassan Musa CAMARA; United Party (UP), leader NA; People's
+     Democratic Organization of Independence and Socialism (PDOIS), leader
+     NA; People's Democratic Party (PDP), Jabel SALLAH
+Member of:
+     ACP, AfDB, C, CCC, ECA, ECOWAS, FAO, G-77, GATT, IBRD, ICAO, ICFTU,
+     IDA, IDB, IFAD, IFC, IMF, IMO, INTELSAT (nonsignatory user), INTERPOL,
+     IOC, ITU, LORCS, NAM, OAU, OIC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL,
+     WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Ousman A. SALLAH
+chancery:
+     Suite 1000, 1155 15th Street NW, Washington, DC 20005
+telephone:
+     (202) 785-1399, 1379, or 1425
+FAX:
+     (202) 785-1430
+US diplomatic representation:
+chief of mission:
+     Ambassador Arlene RENDER
+embassy:
+     Fajara, Kairaba Avenue, Banjul
+mailing address:
+     P. M. B. No. 19, Banjul
+telephone:
+     [220] 92856 or 92858, 91970, 91971
+FAX:
+     (220) 92475
+Flag:
+     three equal horizontal bands of red (top), blue with white edges, and
+     green
+ 
+                                  Economy
+ 
+Overview:
+     The Gambia has no important mineral or other natural resources and has
+     a limited agricultural base. It is one of the world's poorest
+     countries with a per capita income of roughly $800. About 75% of the
+     population is engaged in crop production and livestock raising, which
+     contribute 30% to GDP. Small-scale manufacturing activity - processing
+     peanuts, fish, and hides - accounts for less than 10% of GDP. A
+     sustained structural adjustment program, including a liberalized trade
+     policy, has fostered a respectable 4% rate of growth in recent years.
+     Re-export trade constitutes one-third of economic activity; however,
+     border closures associated with Senegal's monetary crisis in late 1993
+     led to a 50% decline in re-export trade, reducing government revenues
+     in turn. Devaluation of the CFA franc in January 1994 has made
+     Senegalese goods more competitive, and is likely to prompt a
+     relaxation of Senegalese controls, paving the way for a comeback in
+     re-exports.
+National product:
+     GDP - purchasing power equivalent - $740 million (1993 est.)
+ 
+ 
+National product real growth rate:
+     4.5% (FY92 est)
+National product per capita:
+     $800 (1993 est.)
+Inflation rate (consumer prices):
+     5% (FY 92 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $94 million
+expenditures:
+     $80 million, including capital expenditures of $25 million (FY91 est.)
+Exports:
+     $164 million (f.o.b., FY92 est.)
+commodities:
+     peanuts and peanut products, fish, cotton lint, palm kernels
+partners:
+     Japan 60%, Europe 29%, Africa 5%, US 1%, other 5% (1989)
+Imports:
+     $214 million (f.o.b., FY92 est.)
+commodities:
+     foodstuffs, manufactures, raw materials, fuel, machinery and transport
+     equipment
+partners:
+     Europe 57%, Asia 25%, USSR and Eastern Europe 9%, US 6%, other 3%
+     (1989)
+External debt:
+     $336 million (December 1990 est.)
+Industrial production:
+     growth rate 6.7% (year NA); accounts for 5.8% of GDP (FY90)
+Electricity:
+capacity:
+     30,000 kW
+production:
+     65 million kWh
+consumption per capita:
+     75 kWh (1991)
+Industries:
+     peanut processing, tourism, beverages, agricultural machinery
+     assembly, woodworking, metalworking, clothing
+Agriculture:
+     accounts for 30% of GDP and employs about 75% of the population;
+     imports one-third of food requirements; major export crop is peanuts;
+     other principal crops - millet, sorghum, rice, corn, cassava, palm
+     kernels; livestock - cattle, sheep, goats; forestry and fishing
+     resources not fully exploited
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $93 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $535
+     million; Communist countries (1970-89), $39 million
+Currency:
+     1 dalasi (D) = 100 butut
+ 
+ 
+Exchange rates:
+     dalasi (D) per US$1 - 9.440 (November 1993), 8.888 (1992), 8.803
+     (1991), 7.883 (1990), 7.5846 (1989), 6.7086 (1988)
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Highways:
+total:
+     3,083 km
+paved:
+     431 km
+unpaved:
+     gravel, crushed stone 501 km; unimproved earth 2,151 km
+Inland waterways:
+     400 km
+Ports:
+     Banjul
+Merchant marine:
+     1 bulk ship (1,000 GRT or over) totaling 11,194 GRT/19,394 DWT
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     adequate network of radio relay and wire; 3,500 telephones; broadcast
+     stations - 3 AM, 2 FM; 1 Atlantic Ocean INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, National Gendarmerie, National Police
+Manpower availability:
+     males age 15-49 207,754; fit for military service 105,100
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

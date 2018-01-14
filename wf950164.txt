@@ -1,0 +1,384 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0163
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Mongolia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Mongolia 
+ 
+ 
+                                 Mongolia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Northern Asia, between China and Russia
+Map references:
+     Asia, Standard Time Zones of the World
+Area:
+total area:
+     1.565 million sq km
+land area:
+     1.565 million sq km
+comparative area:
+     slightly larger than Alaska
+Land boundaries:
+     total 8,114 km, China 4,673 km, Russia 3,441 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     desert; continental (large daily and seasonal temperature ranges)
+Terrain:
+     vast semidesert and desert plains; mountains in west and southwest;
+     Gobi Desert in southeast
+Natural resources:
+     oil, coal, copper, molybdenum, tungsten, phosphates, tin, nickel,
+     zinc, wolfram, fluorspar, gold
+Land use:
+arable land:
+     1%
+permanent crops:
+     0%
+meadows and pastures:
+     79%
+forest and woodland:
+     10%
+other:
+     10%
+Irrigated land:
+     770 sq km (1989)
+Environment:
+current issues:
+     limited water resources; policies of the former communist regime
+     promoting rapid urbanization and industrial growth have raised
+     concerns about their negative effects on the environment; the burning
+     of soft coal and the concentration of factories in Ulaanbaatar have
+     severely polluted the air; deforestation, overgrazing, the converting
+     of virgin land to agricultural production have increased soil erosion
+     from wind and rain; desertification
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     party to - Biodiversity, Climate Change, Environmental Modification,
+     Nuclear Test Ban; signed, but not ratified - Law of the Sea
+Note:
+     landlocked; strategic location between China and Russia
+ 
+                                  People
+ 
+Population:
+     2,429,762 (July 1994 est.)
+Population growth rate:
+     2.61% (1994 est.)
+Birth rate:
+     33.04 births/1,000 population (1994 est.)
+Death rate:
+     6.99 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     43.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     66.16 years
+male:
+     63.9 years
+female:
+     68.52 years (1994 est.)
+Total fertility rate:
+     4.33 children born/woman (1994 est.)
+Nationality:
+noun:
+     Mongolian(s)
+adjective:
+     Mongolian
+Ethnic divisions:
+     Mongol 90%, Kazakh 4%, Chinese 2%, Russian 2%, other 2%
+Religions:
+     predominantly Tibetan Buddhist, Muslim 4%
+note:
+     previously limited religious activity because of Communist regime
+Languages:
+     Khalkha Mongol 90%, Turkic, Russian, Chinese
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+by occupation:
+     primarily herding/agricultural
+ 
+ 
+note:
+     over half the adult population is in the labor force, including a
+     large percentage of women; shortage of skilled labor
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+local long form:
+     none
+local short form:
+     Mongol Uls
+former:
+     Outer Mongolia
+Digraph:
+     MG
+Type:
+     republic
+Capital:
+     Ulaanbaatar
+Administrative divisions:
+     18 provinces (aymguud, singular - aymag) and 3 municipalities*
+     (hotuud, singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy, Bulgan,
+     Darhan*, Dornod, Dornogovi, Dundgovi, Dzavhan, Erdenet*, Govi-Altay,
+     Hentiy, Hovd, Hovsgol, Omnogovi, Ovorhangay, Selenge, Suhbaatar, Tov,
+     Ulaanbaatar*, Uvs
+Independence:
+     13 March 1921 (from China)
+National holiday:
+     National Day, 11 July (1921)
+Constitution:
+     adopted 13 January 1992
+Legal system:
+     blend of Russian, Chinese, and Turkish systems of law; no
+     constitutional provision for judicial review of legislative acts; has
+     not accepted compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Punsalmaagiyn OCHIRBAT (since 3 September 1990); election
+     last held 6 June 1993 (next to be held NA 1997); results -
+     Punsalmaagiyn OCHIRBAT (MNDP and MSDP) elected directly with 57.8% of
+     the vote; other candidate Lodongiyn TUDEV (MPRP)
+head of government:
+     Prime Minister Putsagiyn JASRAY (since 3 August 1992); Deputy Prime
+     Ministers Lhamsuren ENEBISH and Choijilsurengiyn PUREVDORJ (since NA)
+cabinet:
+     Cabinet; appointed by the Great Hural
+Legislative branch:
+     unicameral
+ 
+ 
+State Great Hural:
+     elections first time held 28 June 1992 (next to be held NA); results -
+     percent of vote by party NA; seats - (76 total) MPRP 71, United Party
+     4, MSDP 1
+note:
+     the People's Small Hural no longer exists
+Judicial branch:
+     Supreme Court serves as appeals court for people's and provincial
+     courts, but to date rarely overturns verdicts of lower courts
+Political parties and leaders:
+     Mongolian People's Revolutionary Party (MPRP), Budragchagiin
+     DASH-YONDON, secretary general; Mongolian Democratic Party (MDP),
+     Erdenijiyn BAT-UUL, general coordinator; National Progress Party
+     (NPP), S. BYAMBAA and Luusandambyn DASHNYAM, leaders; Social
+     Democratic Party (SDP), BATBAYAR and Tsohiogyyn ADYASUREN, leaders;
+     Mongolian Independence Party (MIP), D. ZORIGT, leader; United Party of
+     Mongolia (made up of the MDP, SDP, and NPP); Mongolian National
+     Democratic Party (MNDP), D. GANBOLD, chairman; Mongolian Social
+     Democratic Party (MSDP), B. BATBAYAR, chairman; Mongolian Conservative
+     Party, O. ZOYA; Mongolian Green Party (MGP), M. GANBAT
+note:
+     opposition parties were legalized in May 1990
+Member of:
+     AsDB, CCC, ESCAP, FAO, G-77, IAEA, IBRD, ICAO, IDA, IFC, ILO, IMF,
+     INTELSAT (nonsignatory user), INTERPOL, IOC, ISO, ITU, LORCS, NAM
+     (observer), UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Luvsandorj DAWAGIV
+chancery:
+     2833 M Street NW, Washington, DC 20007
+telephone:
+     (202) 333-7117
+FAX:
+     (202) 298-9227
+consulate(s) general:
+     New York
+US diplomatic representation:
+chief of mission:
+     Ambassador Donald C. JOHNSON
+embassy:
+     address NA, Ulaanbaatar
+mailing address:
+     Ulaanbaatar, c/o American Embassy Beijing, Micro Region II, Big Ring
+     Road; PSC 461, Box 300, FPO AP 96521-0002
+telephone:
+     [976] (1) 329095 through 329606
+FAX:
+     [976] (1) 320-776
+Flag:
+     three equal, vertical bands of red (hoist side), blue, and red,
+     centered on the hoist-side red band in yellow is the national emblem
+     ("soyombo" - a columnar arrangement of abstract and geometric
+     representation for fire, sun, moon, earth, water, and the yin-yang
+     symbol)
+ 
+ 
+ 
+                                  Economy
+ 
+Overview:
+     Mongolia's severe climate, scattered population, and wide expanses of
+     unproductive land have constrained economic development. Economic
+     activity traditionally has been based on agriculture and the breeding
+     of livestock - Mongolia has the highest number of livestock per person
+     in the world. In past years extensive mineral resources had been
+     developed with Soviet support; total Soviet assistance at its height
+     amounted to 30% of GDP. The mining and processing of coal, copper,
+     molybdenum, tin, tungsten, and gold account for a large part of
+     industrial production. Timber and fishing are also important sectors.
+     The Mongolian leadership is trying to make the transition from
+     Soviet-style central planning to a market economy through
+     privatization and price reform, and is soliciting support from
+     international financial agencies and foreign investors. The economy,
+     however, has still not recovered from the loss of Soviet aid, and the
+     country continues to suffer substantial economic hardships.
+National product:
+     GDP - purchasing power equivalent - $2.8 billion (1993 est.)
+National product real growth rate:
+     -1.3% (1993 est.)
+National product per capita:
+     $1,200 (1993 est.)
+Inflation rate (consumer prices):
+     325% (1992 est.)
+Unemployment rate:
+     15% (1991 est.)
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA (1991 est.)
+note:
+     deficit of $67 million
+Exports:
+     $355 million (f.o.b., 1992 est.)
+commodities:
+     copper, livestock, animal products, cashmere, wool, hides, fluorspar,
+     other nonferrous metals
+partners:
+     former CMEA countries 62%, China 17%, EC 8% (1992)
+Imports:
+     $501 million (f.o.b., 1991 est.)
+commodities:
+     machinery and equipment, fuels, food products, industrial consumer
+     goods, chemicals, building materials, sugar, tea
+partners:
+     USSR 75%, Austria 5%, China 5%
+External debt:
+     $16.8 billion (yearend 1990); 98.6% with USSR
+Industrial production:
+     growth rate -15% (1992 est.); accounts for about 42% of GDP
+ 
+ 
+Electricity:
+capacity:
+     1,248,000 kW
+production:
+     3,740 kWh
+consumption per capita:
+     1,622 kWh (1992)
+Industries:
+     copper, processing of animal products, building materials, food and
+     beverage, mining (particularly coal)
+Agriculture:
+     accounts for about 35% of GDP and provides livelihood for about 50% of
+     the population; livestock raising predominates (primarily sheep and
+     goats, but also cattle, camels, and horses); crops - wheat, barley,
+     potatoes, forage
+Economic aid:
+     NA
+Currency:
+     1 tughrik (Tug) = 100 mongos
+Exchange rates:
+     tughriks (Tug) per US$1 - 150 (1 January 1993), 40 (1992), 7.1 (1991),
+     5.63 (1990), 3.00 (1989)
+note:
+     the exchange rate 40 tughriks = 1US$ was introduced June 1991 and was
+     in force to the end of 1992
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     1,750 km 1.524-meter broad gauge (1988)
+Highways:
+total:
+     46,700 km
+paved:
+     1,000 km
+unpaved:
+     45,700 km (1988)
+Inland waterways:
+     397 km of principal routes (1988)
+Ports:
+     none; landlocked
+Airports:
+total:
+     81
+usable:
+     31
+with permanent-surface runways:
+     11
+with runways over 3,659 m:
+     fewer than 5
+with runways 2,440-3,659 m:
+     fewer than 20
+ 
+ 
+with runways 1,220-2,439 m:
+     12
+Telecommunications:
+     63,000 telephones (1989); broadcast stations - 12 AM, 1 FM, 1 TV (with
+     18 provincial repeaters); repeat of Russian TV; 120,000 TVs; 220,000
+     radios; at least 1 earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Mongolian People's Army (includes Internal Security Forces and
+     Frontier Guards), Air Force
+Manpower availability:
+     males age 15-49 587,113; fit for military service 382,633; reach
+     military age (18) annually 25,261 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $22.8 million of GDP, 1% of GDP (1992)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

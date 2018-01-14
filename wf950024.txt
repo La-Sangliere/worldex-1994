@@ -1,0 +1,349 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0023
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Barbados
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Barbados 
+ 
+ 
+                                 Barbados
+ 
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the extreme eastern Caribbean Sea, about 375 km
+     northeast of Venezuela
+Map references:
+     Central America and the Caribbean, South America, Standard Time Zones
+     of the World
+Area:
+total area:
+     430 sq km
+land area:
+     430 sq km
+comparative area:
+     slightly less than 2.5 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     97 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; rainy season (June to October)
+Terrain:
+     relatively flat; rises gently to central highland region
+Natural resources:
+     petroleum, fishing, natural gas
+Land use:
+arable land:
+     77%
+permanent crops:
+     0%
+meadows and pastures:
+     9%
+forest and woodland:
+     0%
+other:
+     14%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     pollution of coastal waters from waste disposal by ships; soil
+     erosion; illegal solid waste disposal threatens contamination of
+     aquifers
+natural hazards:
+     subject to hurricanes (especially June to October); periodic
+     landslides
+ 
+ 
+international agreements:
+     party to - Climate Change, Law of the Sea, Ozone Layer Protection;
+     signed, but not ratified - Biodiversity
+Note:
+     easternmost Caribbean island
+ 
+                                  People
+ 
+Population:
+     255,827 (July 1994 est.)
+Population growth rate:
+     0.21% (1994 est.)
+Birth rate:
+     15.63 births/1,000 population (1994 est.)
+Death rate:
+     8.4 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -5.16 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     20.3 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     73.83 years
+male:
+     71.11 years
+female:
+     76.76 years (1994 est.)
+Total fertility rate:
+     1.78 children born/woman (1994 est.)
+Nationality:
+noun:
+     Barbadian(s)
+adjective:
+     Barbadian
+Ethnic divisions:
+     African 80%, European 4%, other 16%
+Religions:
+     Protestant 67% (Anglican 40%, Pentecostal 8%, Methodist 7%, other
+     12%), Roman Catholic 4%, none 17%, unknown 3%, other 9% (1980)
+Languages:
+     English
+Literacy:
+     age 15 and over having ever attended school (1970)
+total population:
+     99%
+male:
+     99%
+female:
+     99%
+Labor force:
+     120,900 (1991)
+by occupation:
+     services and government 37%, commerce 22%, manufacturing and
+     construction 22%, transportation, storage, communications, and
+     financial institutions 9%, agriculture 8%, utilities 2% (1985 est.)
+ 
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     BB
+Type:
+     parliamentary democracy
+Capital:
+     Bridgetown
+Administrative divisions:
+     11 parishes; Christ Church, Saint Andrew, Saint George, Saint James,
+     Saint John, Saint Joseph, Saint Lucy, Saint Michael, Saint Peter,
+     Saint Philip, Saint Thomas
+note:
+     the new city of Bridgetown may be given parish status
+Independence:
+     30 November 1966 (from UK)
+National holiday:
+     Independence Day, 30 November (1966)
+Constitution:
+     30 November 1966
+Legal system:
+     English common law; no judicial review of legislative acts
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by Governor
+     General Dame Nita BARROW (since 6 June 1990)
+head of government:
+     Prime Minister Lloyd Erskine SANDIFORD (since 2 June 1987); Deputy
+     Prime Minister Philip Marlowe GREAVES (since 2 June 1987)
+cabinet:
+     Cabinet; appointed by the governor general on advice of the prime
+     minister
+Legislative branch:
+     bicameral Parliament
+Senate:
+     consists of a 21-member body appointed by the governor general
+House of Assembly:
+     election last held 22 January 1991 (next to be held by January 1996);
+     results - DLP 49.8%; seats - (28 total) DLP 18, BLP 10
+Judicial branch:
+     Supreme Court of Judicature
+Political parties and leaders:
+     Democratic Labor Party (DLP), Erskine SANDIFORD; Barbados Labor Party
+     (BLP), Owen ARTHUR; National Democratic Party (NDP), Richie HAYNES
+ 
+ 
+Other political or pressure groups:
+     Barbados Workers Union, Leroy TROTMAN; People's Progressive Movement,
+     Eric SEALY; Workers' Party of Barbados, Dr. George BELLE; Clement
+     Payne Labor Union, David COMMISSIONG
+Member of:
+     ACP, C, CARICOM, CDB, ECLAC, FAO, G-77, GATT, IADB, IBRD, ICAO, ICFTU,
+     IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ISO
+     (correspondent), ITU, LAES, LORCS, NAM, OAS, OPANAL, UN, UNCTAD,
+     UNESCO, UNIDO, UPU, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Dr. Rudi Valentine WEBSTER
+chancery:
+     2144 Wyoming Avenue NW, Washington, DC 20008
+telephone:
+     (202) 939-9200 through 9202
+consulate(s) general:
+     New York
+consulate(s):
+     Los Angeles
+US diplomatic representation:
+chief of mission:
+     Ambassador Jeanette W. HYDE
+embassy:
+     Canadian Imperial Bank of Commerce Building, Broad Street, Bridgetown
+mailing address:
+     P. O. Box 302, Bridgetown; FPO AA 34055
+telephone:
+     (809) 436-4950
+FAX:
+     (809) 429-5246
+Flag:
+     three equal vertical bands of blue (hoist side), yellow, and blue with
+     the head of a black trident centered on the gold band; the trident
+     head represents independence and a break with the past (the colonial
+     coat of arms contained a complete trident)
+ 
+                                  Economy
+ 
+Overview:
+     A per capita income of $8,700 gives Barbados one of the highest
+     standards of living of all the small island states of the eastern
+     Caribbean. Historically, the economy was based on the cultivation of
+     sugar cane and related activities. In recent years, however, the
+     economy has diversified into manufacturing and tourism. The tourist
+     industry is now a major employer of the labor force and a primary
+     source of foreign exchange. The economy slowed in 1990-92 as
+     Bridgetown's difficulty in financing its deficits caused it to exert
+     control over domestic demands
+National product:
+     GDP - purchasing power equivalent - $2.2 billion (1993 est.)
+National product real growth rate:
+     -3% (1992)
+National product per capita:
+     $8,700 (1993 est.)
+ 
+ 
+Inflation rate (consumer prices):
+     6.1% (1992)
+Unemployment rate:
+     23% (1992)
+Budget:
+revenues:
+     $547 million
+expenditures:
+     $620 million, including capital expenditures of $60 million (FY92-93)
+Exports:
+     $158 million (f.o.b., 1992)
+commodities:
+     sugar and molasses, rum, other foods and beverages, chemicals,
+     electrical components, clothing
+partners:
+     US 13%, UK 13%, Trinidad and Tobago 9%, Windward Islands 7.8%
+Imports:
+     $465 million (f.o.b., 1992)
+commodities:
+     machinery, foodstuffs, construction materials, chemicals, fuel,
+     electrical components
+partners:
+     US 33%, UK 11%, Trinidad and Tobago 11%, Japan 5%
+External debt:
+     $652 million (1991 est.)
+Industrial production:
+     growth rate -1.3% (1991); accounts for 10% of GDP
+Electricity:
+capacity:
+     152,100 kW
+production:
+     540 million kWh
+consumption per capita:
+     2,118 kWh (1992)
+Industries:
+     tourism, sugar, light manufacturing, component assembly for export,
+     petroleum
+Agriculture:
+     accounts for 6% of GDP; major cash crop is sugarcane; other crops -
+     vegetables, cotton; not self-sufficient in food
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $15 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $171
+     million
+Currency:
+     1 Barbadian dollar (Bds$) = 100 cents
+Exchange rates:
+     Barbadian dollars (Bds$) per US$1 - 2.0113 (fixed rate)
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+ 
+Highways:
+total:
+     1,570 km
+paved:
+     1,475 km
+unpaved:
+     gravel, earth 95 km
+Ports:
+     Bridgetown
+Merchant marine:
+     2 oil tankers (1,000 GRT or over) totaling 44,466 GRT/76,219 DWT
+Airports:
+total:
+     1
+usable:
+     1
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     island wide automatic telephone system with 89,000 telephones;
+     tropospheric scatter link to Trinidad and Saint Lucia; broadcast
+     stations - 3 AM, 2 FM, 2 (1 is pay) TV; 1 Atlantic Ocean INTELSAT
+     earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Royal Barbados Defense Force, including the Ground Forces and Coast
+     Guard, Royal Barbados Police Force
+Manpower availability:
+     males age 15-49 70,751; fit for military service 49,330
+Defense expenditures:
+     exchange rate conversion - $10 million, 0.7% of GDP (1989)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

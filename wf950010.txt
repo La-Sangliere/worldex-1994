@@ -1,0 +1,350 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0009
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Antigua and Barbuda
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Antigua and Barbuda 
+ 
+ 
+                            Antigua and Barbuda
+ 
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the eastern Caribbean Sea, about 420 km east-southeast
+     of Puerto Rico
+Map references:
+     Central America and the Caribbean, Standard Time Zones of the World
+Area:
+total area:
+     440 sq km
+land area:
+     440 sq km
+comparative area:
+     slightly less than 2.5 times the size of Washington, DC
+note:
+     includes Redonda
+Land boundaries:
+     0 km
+Coastline:
+     153 km
+Maritime claims:
+contiguous zone:
+     24 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical marine; little seasonal temperature variation
+Terrain:
+     mostly low-lying limestone and coral islands with some higher volcanic
+     areas
+Natural resources:
+     negligible; pleasant climate fosters tourism
+Land use:
+arable land:
+     18%
+permanent crops:
+     0%
+meadows and pastures:
+     7%
+forest and woodland:
+     16%
+other:
+     59%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     insufficient freshwater resources
+natural hazards:
+     subject to hurricanes and tropical storms (July to October)
+ 
+ 
+international agreements:
+     party to - Biodiversity, Climate Change, Environmental Modification,
+     Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship
+     Pollution, Whaling
+ 
+                                  People
+ 
+Population:
+     64,762 (July 1994 est.)
+Population growth rate:
+     0.59% (1994 est.)
+Birth rate:
+     17.31 births/1,000 population (1994 est.)
+Death rate:
+     5.44 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -5.93 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     18.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     73.11 years
+male:
+     71.07 years
+female:
+     75.26 years (1994 est.)
+Total fertility rate:
+     1.67 children born/woman (1994 est.)
+Nationality:
+noun:
+     Antiguan(s), Barbudan(s)
+adjective:
+     Antiguan, Barbudan
+Ethnic divisions:
+     black African, British, Portuguese, Lebanese, Syrian
+Religions:
+     Anglican (predominant), other Protestant sects, some Roman Catholic
+Languages:
+     English (official), local dialects
+Literacy:
+     age 15 and over having completed 5 or more years of schooling (1960)
+total population:
+     89%
+male:
+     90%
+female:
+     88%
+Labor force:
+     30,000
+by occupation:
+     commerce and services 82%, agriculture 11%, industry 7% (1983)
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     AC
+Type:
+     parliamentary democracy
+Capital:
+     Saint John's
+Administrative divisions:
+     6 parishes and 2 dependencies*; Barbuda*, Redonda*, Saint George,
+     Saint John, Saint Mary, Saint Paul, Saint Peter, Saint Philip
+Independence:
+     1 November 1981 (from UK)
+National holiday:
+     Independence Day, 1 November (1981)
+Constitution:
+     1 November 1981
+Legal system:
+     based on English common law
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by Governor
+     General James B. CARLISLE (since NA 1993)
+head of government:
+     Prime Minister Lester Bryant BIRD (since 8 March 1994)
+cabinet:
+     Council of Ministers; appointed by the governor general on the advice
+     of the prime minister
+Legislative branch:
+     bicameral Parliament
+Senate:
+     17 member body appointed by the governor general
+House of Representatives:
+     elections last held 8 March 1994 (next to be held NA 1999); results -
+     percent of vote by party NA; seats - (17 total) ALP 11, UPP 5,
+     independent 1
+Judicial branch:
+     Eastern Caribbean Supreme Court
+Political parties and leaders:
+     Antigua Labor Party (ALP), Lester Bryant BIRD; United Progressive
+     Party (UPP), Baldwin SPENCER
+Other political or pressure groups:
+     United Progressive Party (UPP), headed by Baldwin SPENCER, a coalition
+     of three opposition political parties - the United National Democratic
+     Party (UNDP); the Antigua Caribbean Liberation Movement (ACLM); and
+     the Progressive Labor Movement (PLM); Antigua Trades and Labor Union
+     (ATLU), headed by Noel THOMAS
+ 
+ 
+Member of:
+     ACP, C, CARICOM, CDB, ECLAC, FAO, G-77, GATT, IBRD, ICAO, ICFTU, IFAD,
+     IFC, ILO, IMF, IMO, INTELSAT (nonsignatory user), INTERPOL, IOC, ITU,
+     LORCS, NAM (observer), OAS, OECS, OPANAL, UN, UNCTAD, UNESCO, WCL,
+     WHO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Patrick Albert LEWIS
+chancery:
+     Suite 4M, 3400 International Drive NW, Washington, DC 20008
+telephone:
+     (202) 362-5211 or 5166, 5122
+FAX:
+     (202) 362-5225
+consulate(s) general:
+     Miami
+US diplomatic representation:
+chief of mission:
+     the US Ambassador to Barbados is accredited to Antigua and Barbuda,
+     and, in his absence, the Embassy is headed by Charge d'Affaires Bryant
+     J. SALTER
+embassy:
+     Queen Elizabeth Highway, Saint John's
+mailing address:
+     FPO AA 34054-0001
+telephone:
+     (809) 462-3505 or 3506
+FAX:
+     (809) 462-3516
+Flag:
+     red with an inverted isosceles triangle based on the top edge of the
+     flag; the triangle contains three horizontal bands of black (top),
+     light blue, and white with a yellow rising sun in the black band
+ 
+                                  Economy
+ 
+Overview:
+     The economy is primarily service oriented, with tourism the most
+     important determinant of economic performance. During the period
+     1986-91, real GDP expanded at an annual average rate of about 6%.
+     Tourism makes a direct contribution to GDP of about 13% and also
+     affects growth in other sectors - particularly in construction,
+     communications, and public utilities. In 1992, reduced government
+     capital spending and private sector investment, dampened by recession
+     in the major world economies, slowed economic growth.
+National product:
+     GDP - exchange rate conversion - $368.5 million (1993 est.)
+National product real growth rate:
+     NA
+National product per capita:
+     $5,800 (1993 est.)
+Inflation rate (consumer prices):
+     7% (1993)
+Unemployment rate:
+     5% (1988 est.)
+ 
+ 
+Budget:
+revenues:
+     $105 million
+expenditures:
+     $161 million, including capital expenditures of $56 million (1992)
+Exports:
+     $54.7 million (f.o.b., 1992)
+commodities:
+     petroleum products 48%, manufactures 23%, food and live animals 4%,
+     machinery and transport equipment 17%
+partners:
+     OECS 26%, Barbados 15%, Guyana 4%, Trinidad and Tobago 2%, US 0.3%
+Imports:
+     $260.9 million (f.o.b., 1992)
+commodities:
+     food and live animals, machinery and transport equipment,
+     manufactures, chemicals, oil
+partners:
+     US 27%, UK 16%, Canada 4%, OECS 3%, other 50%
+External debt:
+     $250 million (1990 est.)
+Industrial production:
+     growth rate 3% (1989 est.); accounts for 8% of GDP
+Electricity:
+capacity:
+     52,100 kW
+production:
+     95 million kWh
+consumption per capita:
+     1,482 kWh (1992)
+Industries:
+     tourism, construction, light manufacturing (clothing, alcohol,
+     household appliances)
+Agriculture:
+     accounts for 4% of GDP; expanding output of cotton, fruits,
+     vegetables, and livestock; other crops - bananas, coconuts, cucumbers,
+     mangoes, sugarcane; not self-sufficient in food
+Economic aid:
+recipient:
+     US commitments (1985-88), $10 million; Western (non-US) countries, ODA
+     and OOF bilateral commitments (1970-89), $50 million
+Currency:
+     1 EC dollar (EC$) = 100 cents
+Exchange rates:
+     East Caribbean dollars (EC$) per US$1 - 2.70 (fixed rate since 1976)
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Railroads:
+     64 km 0.760-meter narrow gauge and 13 km 0.610-meter gauge used almost
+     exclusively for handling sugarcane
+ 
+ 
+Highways:
+total:
+     240 km
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     Saint John's
+Merchant marine:
+     227 ships (1,000 GRT or over) totaling 849,699 GRT/1,218,492 DWT, bulk
+     4, cargo 156, chemical tanker 11, container 37, liquified gas 2, oil
+     tanker 2, refrigerated cargo 4, roll-on/roll-off cargo 11
+note:
+     a flag of convenience registry
+Airports:
+total:
+     3
+usable:
+     3
+with permanent-surface runways:
+     2
+with runways 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     good automatic telephone system; 6,700 telephones; tropospheric
+     scatter links with Saba and Guadeloupe; broadcast stations - 4 AM, 2
+     FM, 2 TV, 2 shortwave; 1 coaxial submarine cable; 1 Atlantic Ocean
+     INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Royal Antigua and Barbuda Defense Force, Royal Antigua and Barbuda
+     Police Force (including the Coast Guard)
+Defense expenditures:
+     exchange rate conversion - $1.4 million, 1% of GDP (FY90/91)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

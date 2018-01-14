@@ -1,0 +1,337 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0154
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Martinique
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Martinique 
+ 
+ 
+                                Martinique
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (overseas department of France)
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the Caribbean Sea, off the coast of Venezuela
+Map references:
+     Central America and the Caribbean, South America
+Area:
+total area:
+     1,100 sq km
+land area:
+     1,060 sq km
+comparative area:
+     slightly more than six times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     290 km
+Maritime claims:
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical; moderated by trade winds; rainy season (June to October)
+Terrain:
+     mountainous with indented coastline; dormant volcano
+Natural resources:
+     coastal scenery and beaches, cultivable land
+Land use:
+arable land:
+     10%
+permanent crops:
+     8%
+meadows and pastures:
+     30%
+forest and woodland:
+     26%
+other:
+     26%
+Irrigated land:
+     60 sq km (1989 est.)
+Environment:
+current issues:
+     NA
+natural hazards:
+     subject to hurricanes, flooding, and volcanic activity that result in
+     an average of one major natural disaster every five years
+ 
+ 
+international agreements:
+     NA
+ 
+                                  People
+ 
+Population:
+     392,362 (July 1994 est.)
+Population growth rate:
+     1.2% (1994 est.)
+Birth rate:
+     17.96 births/1,000 population (1994 est.)
+Death rate:
+     5.95 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     10.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     78.01 years
+male:
+     74.88 years
+female:
+     81.2 years (1994 est.)
+Total fertility rate:
+     1.92 children born/woman (1994 est.)
+Nationality:
+noun:
+     Martiniquais (singular and plural)
+adjective:
+     Martiniquais
+Ethnic divisions:
+     African and African-Caucasian-Indian mixture 90%, Caucasian 5%, East
+     Indian, Lebanese, Chinese less than 5%
+Religions:
+     Roman Catholic 95%, Hindu and pagan African 5%
+Languages:
+     French, Creole patois
+Literacy:
+     age 15 and over can read and write (1982)
+total population:
+     93%
+male:
+     92%
+female:
+     93%
+Labor force:
+     100,000
+by occupation:
+     service industry 31.7%, construction and public works 29.4%,
+     agriculture 13.1%, industry 7.3%, fisheries 2.2%, other 16.3%
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     Department of Martinique
+conventional short form:
+local long form:
+     Departement de la Martinique
+local short form:
+Digraph:
+     MB
+Type:
+     overseas department of France
+Capital:
+     Fort-de-France
+Administrative divisions:
+     none (overseas department of France)
+Independence:
+     none (overseas department of France)
+National holiday:
+     National Day, Taking of the Bastille, 14 July (1789)
+Constitution:
+     28 September 1958 (French Constitution)
+Legal system:
+     French legal system
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     President Francois MITTERRAND (since 21 May 1981)
+head of government:
+     Prefect Michel MORIN (since NA); President of the General Council
+     Claude LISE (since 22 March 1992); President of the Regional Council
+     Emile CAPGRAS (since 22 March 1992)
+cabinet:
+     Council of Ministers
+Legislative branch:
+     unicameral General Council and a unicameral Regional Assembly
+General Council:
+     elections last held in 25 September and 8 October 1988 (next to be
+     held by NA); results - percent of vote by party NA; seats - (44 total)
+     number of seats by party NA; note - a leftist coalition obtained a
+     one-seat margin
+Regional Assembly:
+     elections last held on 22 March 1992 (next to be held by March 1998);
+     results - percent of vote by party NA; seats - (41 total) RPR-UDF 16,
+     MIM 9, PPM 9, PCM 5, independents 2
+French Senate:
+     elections last held 24 September 1989 (next to be held NA); results -
+     percent of vote by party NA; seats - (2 total) UDF 1, PPM 1
+French National Assembly:
+     elections last held on NA June 1993 (next to be held June 1998);
+     results - percent of vote by party NA; seats - (4 total) RPR 3, FSM 1
+Judicial branch:
+     Supreme Court
+ 
+ 
+Political parties and leaders:
+     Rally for the Republic (RPR), Stephen BAGOE; Union for a Martinique of
+     Progress (UMP); Martinique Progressive Party (PPM), Aime CESAIRE and
+     Camille DARSIERES; Socialist Federation of Martinique (FSM), Jean
+     CRUSOL; Martinique Communist Party (PCM); Martinique Patriots (PM);
+     Union for French Democracy (UDF), Jean MARAN; Martinique Independence
+     Movement (MIM), Alfred MARIE-JEANNE
+Other political or pressure groups:
+     Proletarian Action Group (GAP); Alhed Marie-Jeanne Socialist
+     Revolution Group (GRS); Caribbean Revolutionary Alliance (ARC);
+     Central Union for Martinique Workers (CSTM), Marc PULVAR; Frantz Fanon
+     Circle; League of Workers and Peasants; Parti Martiniquais Socialiste
+     (PMS)
+Member of:
+     FZ, WCL, WFTU
+Diplomatic representation in US:
+     none (overseas department of France)
+US diplomatic representation:
+     the post closed in August 1993 (overseas department of France)
+Flag:
+     the flag of France is used
+ 
+                                  Economy
+ 
+Overview:
+     The economy is based on sugarcane, bananas, tourism, and light
+     industry. Agriculture accounts for about 10% of GDP and the small
+     industrial sector for 10%. Sugar production has declined, with most of
+     the sugarcane now used for the production of rum. Banana exports are
+     increasing, going mostly to France. The bulk of meat, vegetable, and
+     grain requirements must be imported, contributing to a chronic trade
+     deficit that requires large annual transfers of aid from France.
+     Tourism has become more important than agricultural exports as a
+     source of foreign exchange. The majority of the work force is employed
+     in the service sector and in administration. Banana workers launched
+     protests late in 1992 because of falling banana prices and fears of
+     greater competition in the European market from other producers.
+National product:
+     GDP - exchange rate conversion - $3.3 billion (1991)
+National product real growth rate:
+     NA%
+National product per capita:
+     $9,500 (1991)
+Inflation rate (consumer prices):
+     3.9% (1990)
+Unemployment rate:
+     32.1% (1990)
+Budget:
+revenues:
+     $268 million
+expenditures:
+     $268 million, including capital expenditures of $NA (1989 est.)
+Exports:
+     $201.5 million (f.o.b., 1991)
+ 
+ 
+commodities:
+     refined petroleum products, bananas, rum, pineapples
+partners:
+     France 57.1%, Guadeloupe 31.5%, French Guiana 6.2%
+Imports:
+     $1.5 billion (c.i.f., 1991)
+commodities:
+     petroleum products, crude oil, foodstuffs, construction materials,
+     vehicles, clothing and other consumer goods
+partners:
+     France 62.2%, UK, Italy, Germany, Japan, US
+External debt:
+     $NA
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     113,100 kW
+production:
+     588 million kWh
+consumption per capita:
+     1,580 kWh (1992)
+Industries:
+     construction, rum, cement, oil refining, sugar, tourism
+Agriculture:
+     including fishing and forestry, accounts for about 10% of GDP;
+     principal crops - pineapples, avocados, bananas, flowers, vegetables,
+     sugarcane for rum; dependent on imported food, particularly meat and
+     vegetables
+Illicit drugs:
+     transshipment point for cocaine and marijuana bound for the US and
+     Europe
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $10.1 billion
+Currency:
+     1 French franc (F) = 100 centimes
+Exchange rates:
+     French francs (F) per US$1 - 5.9305 (January 1994), 5.6632 (1993),
+     5.2938 (1992), 5.6421 (1991), 5.4453 (1990), 6.3801 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Highways:
+total:
+     1,680 km
+paved:
+     1,300 km
+unpaved:
+     gravel, earth 380 km
+Ports:
+     Fort-de-France
+ 
+ 
+Airports:
+total:
+     2
+usable:
+     2
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     0
+Telecommunications:
+     domestic facilities are adequate; 68,900 telephones; interisland
+     microwave radio relay links to Guadeloupe, Dominica, and Saint Lucia;
+     broadcast stations - 1 AM, 6 FM, 10 TV; 2 Atlantic Ocean INTELSAT
+     earth stations
+ 
+                              Defense Forces
+ 
+Branches:
+     French Forces, Gendarmerie
+Note:
+     defense is the responsibility of France
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

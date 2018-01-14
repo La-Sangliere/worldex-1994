@@ -1,0 +1,386 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0080
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Fiji
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Fiji 
+ 
+ 
+                                   Fiji
+ 
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Melanesia, 2,500 km north of New Zealand in the South Pacific
+     Ocean
+Map references:
+     Oceania, Standard Time Zones of the World
+Area:
+total area:
+     18,270 sq km
+land area:
+     18,270 sq km
+comparative area:
+     slightly smaller than New Jersey
+Land boundaries:
+     0 km
+Coastline:
+     1,129 km
+Maritime claims:
+     measured from claimed archipelagic baselines
+continental shelf:
+     200-m depth or to depth of exploitation; rectilinear shelf claim added
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical marine; only slight seasonal temperature variation
+Terrain:
+     mostly mountains of volcanic origin
+Natural resources:
+     timber, fish, gold, copper, offshore oil potential
+Land use:
+arable land:
+     8%
+permanent crops:
+     5%
+meadows and pastures:
+     3%
+forest and woodland:
+     65%
+other:
+     19%
+Irrigated land:
+     10 sq km (1989 est.)
+Environment:
+current issues:
+     deforestation; soil erosion
+natural hazards:
+     cyclonic storms can occur from November to January
+ 
+ 
+international agreements:
+     party to - Biodiversity, Climate Change, Law of the Sea, Marine Life
+     Conservation, Nuclear Test Ban, Ozone Layer Protection
+Note:
+     includes 332 islands of which approximately 110 are inhabited
+ 
+                                  People
+ 
+Population:
+     764,382 (July 1994 est.)
+Population growth rate:
+     1.05% (1994 est.)
+Birth rate:
+     24.18 births/1,000 population (1994 est.)
+Death rate:
+     6.5 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -7.15 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     18.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     65.14 years
+male:
+     62.88 years
+female:
+     67.51 years (1994 est.)
+Total fertility rate:
+     2.92 children born/woman (1994 est.)
+Nationality:
+noun:
+     Fijian(s)
+adjective:
+     Fijian
+Ethnic divisions:
+     Fijian 49%, Indian 46%, European, other Pacific Islanders, overseas
+     Chinese, and other 5%
+Religions:
+     Christian 52% (Methodist 37%, Roman Catholic 9%), Hindu 38%, Muslim
+     8%, other 2%
+note:
+     Fijians are mainly Christian, Indians are Hindu, and there is a Muslim
+     minority (1986)
+Languages:
+     English (official), Fijian, Hindustani
+Literacy:
+     age 15 and over can read and write (1985 est.)
+total population:
+     86%
+male:
+     90%
+female:
+     81%
+Labor force:
+     235,000
+ 
+ 
+by occupation:
+     subsistence agriculture 67%, wage earners 18%, salary earners 15%
+     (1987)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Fiji
+conventional short form:
+Digraph:
+     FJ
+Type:
+     republic
+note:
+     military coup leader Maj. Gen. Sitiveni RABUKA formally declared Fiji
+     a republic on 6 October 1987
+Capital:
+     Suva
+Administrative divisions:
+     4 divisions and 1 dependency*; Central, Eastern, Northern, Rotuma*,
+     Western
+Independence:
+     10 October 1970 (from UK)
+National holiday:
+     Independence Day, 10 October (1970)
+Constitution:
+     10 October 1970 (suspended 1 October 1987); a new Constitution was
+     proposed on 23 September 1988 and promulgated on 25 July 1990; the
+     1990 Constitution is under review; the review will be complete by 1997
+Legal system:
+     based on British system
+Suffrage:
+     none
+Executive branch:
+chief of state:
+     President Ratu Sir Kamisese MARA (since 12 January 1994); First Vice
+     President Ratu Sir Josaia TAIVAIQIA (since 12 January 1994); Second
+     Vice President Ratu Inoke TAKIVEIKATA (since 12 January 1994); note -
+     President GANILAU died on 15 December 1993 and Vice President MARA
+     became acting president; MARA was elected president by the Great
+     Council of Chiefs on 12 January 1994
+head of government:
+     Prime Minister Sitiveni RABUKA (since 2 June 1992)
+Presidential Council:
+     appointed by the governor general
+Great Council of Chiefs:
+     (highest ranking members of the traditional chiefly system)
+cabinet:
+     Cabinet; appointed by prime minister from members of Parliament and
+     responsible to Parliament
+Legislative branch:
+     the bicameral Parliament was dissolved following the coup of 14 May
+     1987
+ 
+ 
+Senate:
+     nonelective body containing 34 seats, 24 reserved for Melanesians, 9
+     for Indians and others, 1 for the island of Rotuma
+House of Representatives:
+     elections last held 18-25 February 1994 (next to be held NA 1997);
+     results - percent of vote by party NA; seats - (70 total, with ethnic
+     Fijians allocated 37 seats, ethnic Indians 27 seats, and independents
+     and other 6 seats) number of seats by party SVT 31, NFP 20, FLP 7, FA
+     5, GVP 4, independents 2, ANC 1
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Fijian Political Party (SVT - primarily Fijian), leader Maj. Gen.
+     Sitivini RABUKA; National Federation Party (NFP; primarily Indian),
+     Jai Ram REDDY; Christian Fijian Nationalist Party (CFNP), Sakeasi
+     BUTADROKA; Fiji Labor Party (FLP), Mahendra CHAUDHRY; All National
+     Congress (ANC), Apisai TORA; General Voters Party (GVP), Max OLSSON;
+     Fiji Conservative Party (FCP), Isireli VUIBAU; Conservative Party of
+     Fiji (CPF), Jolale ULUDOLE and Viliame SAVU; Fiji Indian Liberal
+     Party, Swami MAHARAJ; Fiji Indian Congress Party, Ishwari BAJPAI; Fiji
+     Independent Labor (Muslim), leader NA; Four Corners Party, David
+     TULVANUAVOU; Fijian Association (FA), Josevata KAMIKAMICA
+Member of:
+     ACP, AsDB, CP, ESCAP, FAO, G-77, GATT, IBRD, ICAO, ICFTU, IDA, IFAD,
+     IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ITU, LORCS, PCA,
+     SPARTECA, SPC, SPF, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNIKOM, UNOMUR,
+     UNTAC, UPU, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Pita Kewa NACUVA
+chancery:
+     Suite 240, 2233 Wisconsin Avenue NW, Washington, DC 20007
+telephone:
+     (202) 337-8320
+FAX:
+     (202) 337-1996
+consulate(s):
+     New York
+US diplomatic representation:
+chief of mission:
+     (vacant); Charge d'Affaires William ROPE
+embassy:
+     31 Loftus Street, Suva
+mailing address:
+     P. O. Box 218, Suva
+telephone:
+     [679] 314-466
+FAX:
+     [679] 300-081
+Flag:
+     light blue with the flag of the UK in the upper hoist-side quadrant
+     and the Fijian shield centered on the outer half of the flag; the
+     shield depicts a yellow lion above a white field quartered by the
+     cross of Saint George featuring stalks of sugarcane, a palm tree,
+     bananas, and a white dove
+ 
+ 
+ 
+                                  Economy
+ 
+Overview:
+     Fiji's economy is primarily agricultural, with a large subsistence
+     sector. Sugar exports and tourism are the major sources of foreign
+     exchange. Industry contributes 13% to GDP, with sugar processing
+     accounting for one-third of industrial activity. Roughly 250,000
+     tourists visit each year. Political uncertainty and drought, however,
+     contribute to substantial fluctuations in earnings from tourism and
+     sugar. In 1992, growth was approximately 3%, based on growth in
+     tourism and a lessening of labor-management disputes in the sugar and
+     gold-mining sectors. In 1993, the government's budgeted growth rate of
+     3% was not achieved because of a decline in non-sugar agricultural
+     output and damage from Cyclone Kina.
+National product:
+     GDP - purchasing power equivalent - $3 billion (1993 est.)
+National product real growth rate:
+     1% (1993 est.)
+National product per capita:
+     $4,000 (1993 est.)
+Inflation rate (consumer prices):
+     5.6% (1993 est.)
+Unemployment rate:
+     5.9% (1991 est.)
+Budget:
+revenues:
+     $455 million
+expenditures:
+     $546 million, including capital expenditures of $NA (1993 est.)
+Exports:
+     $417 million (f.o.b., 1992)
+commodities:
+     sugar 40%, clothing, processed fish, gold, lumber
+partners:
+     EC 26%, Australia 15%, Pacific Islands 11%, Japan 6%
+Imports:
+     $517 million (c.i.f., 1992 est)
+commodities:
+     machinery and transport equipment, petroleum products, food, consumer
+     goods, chemicals
+partners:
+     Australia 30%, NZ 17%, Japan 13%, EC 6%, US 6%
+External debt:
+     $670 million (1994 est.)
+Industrial production:
+     growth rate 7.5% (1992 est.); accounts for 13% of GDP
+Electricity:
+capacity:
+     215,000 kW
+production:
+     420 million kWh
+consumption per capita:
+     560 kWh (1992)
+ 
+ 
+Industries:
+     sugar, tourism, copra, gold, silver, clothing, lumber, small cottage
+     industries
+Agriculture:
+     accounts for 23% of GDP; principal cash crop is sugarcane; coconuts,
+     cassava, rice, sweet potatoes, bananas; small livestock sector
+     includes cattle, pigs, horses, and goats; fish catch nearly 33,000
+     tons (1989)
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1980-89), $815 million
+Currency:
+     1 Fijian dollar (F$) = 100 cents
+Exchange rates:
+     Fijian dollars (F$) per US$1 - 1.5239 (January 1994), 1.5418 (1993),
+     1.5030 (1992), 1.4756 (1991), 1.4809 (1990), 1.4833 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     644 km 0.610-meter narrow gauge, belonging to the government-owned
+     Fiji Sugar Corporation
+Highways:
+total:
+     3,300 km
+paved:
+     1,590 km
+unpaved:
+     gravel, crushed stone, stabilized earth 1,290 km; unimproved earth 420
+     km (1984)
+Inland waterways:
+     203 km; 122 km navigable by motorized craft and 200-metric-ton barges
+Ports:
+     Labasa, Lautoka, Savusavu, Suva
+Merchant marine:
+     8 ships (1,000 GRT or over) totaling 44,911 GRT/54,490 DWT, cargo 1,
+     chemical tanker 2, container 2, oil tanker 1, roll-on/roll-off cargo 2
+Airports:
+total:
+     25
+usable:
+     22
+with permanent-surface runways:
+     3
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     1
+with runways 1,220-2,439 m:
+     2
+ 
+ 
+Telecommunications:
+     modern local, interisland, and international (wire/radio integrated)
+     public and special-purpose telephone, telegraph, and teleprinter
+     facilities; regional radio center; important COMPAC cable link between
+     US-Canada and NZ-Australia; 53,228 telephones (71 telephones per 1,000
+     persons); broadcast stations - 7 AM, 1 FM, no TV; 1 Pacific Ocean
+     INTELSAT earth station
+ 
+                              Defense Forces
+ 
+Branches:
+     Republic of Fiji Military Forces (RFMF; including a naval division,
+     police)
+Manpower availability:
+     males age 15-49 197,767; fit for military service 109,026; reach
+     military age (18) annually 8,154 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $22.4 million, about 2% of GDP (FY91/92)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

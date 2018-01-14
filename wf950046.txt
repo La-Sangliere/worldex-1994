@@ -1,0 +1,401 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0045
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Canada
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Canada 
+ 
+ 
+                                  Canada
+ 
+ 
+                                 Geography
+ 
+Location:
+     Northern North America, bordering the North Atlantic Ocean and North
+     Pacific Ocean north of the US
+Map references:
+     Arctic Region, North America, Standard Time Zones of the World
+Area:
+total area:
+     9,976,140 sq km
+land area:
+     9,220,970 sq km
+comparative area:
+     slightly larger than US
+Land boundaries:
+     total 8,893 km, US 8,893 km (includes 2,477 km with Alaska)
+Coastline:
+     243,791 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     maritime boundary disputes with the US; Saint Pierre and Miquelon is
+     focus of maritime boundary dispute between Canada and France
+Climate:
+     varies from temperate in south to subarctic and arctic in north
+Terrain:
+     mostly plains with mountains in west and lowlands in southeast
+Natural resources:
+     nickel, zinc, copper, gold, lead, molybdenum, potash, silver, fish,
+     timber, wildlife, coal, petroleum, natural gas
+Land use:
+arable land:
+     5%
+permanent crops:
+     0%
+meadows and pastures:
+     3%
+forest and woodland:
+     35%
+other:
+     57%
+Irrigated land:
+     8,400 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     acid rain severely affecting lakes and damaging forests; metal
+     smelting, coal-burning utilities, and vehicle emissions impacting on
+     agricultural and forest productivity; ocean waters becoming
+     contaminated due to agricultural, industrial, mining, and forestry
+     activities
+natural hazards:
+     continuous permafrost in north is a serious obstacle to development
+international agreements:
+     party to - Air Pollution, Air Pollution-Nitrogen Oxides, Air
+     Pollution-Sulphur, Antarctic Treaty, Biodiversity, Climate Change,
+     Endangered Species, Environmental Modification, Hazardous Wastes,
+     Marine Dumping, Nuclear Test Ban, Ozone Layer Protection, Ship
+     Pollution, Tropical Timber, Wetlands; signed, but not ratified - Air
+     Pollution-Volatile Organic Compounds, Antarctic-Environmental
+     Protocol, Law of the Sea
+Note:
+     second-largest country in world (after Russia); strategic location
+     between Russia and US via north polar route; nearly 90% of the
+     population is concentrated in the region near the US/Canada border
+ 
+                                  People
+ 
+Population:
+     28,113,997 (July 1994 est.)
+Population growth rate:
+     1.18% (1994 est.)
+Birth rate:
+     14.1 births/1,000 population (1994 est.)
+Death rate:
+     7.39 deaths/1,000 population (1994 est.)
+Net migration rate:
+     5.11 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     6.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     78.13 years
+male:
+     74.73 years
+female:
+     81.71 years (1994 est.)
+Total fertility rate:
+     1.84 children born/woman (1994 est.)
+Nationality:
+noun:
+     Canadian(s)
+adjective:
+     Canadian
+Ethnic divisions:
+     British Isles origin 40%, French origin 27%, other European 20%,
+     indigenous Indian and Eskimo 1.5%
+Religions:
+     Roman Catholic 46%, United Church 16%, Anglican 10%, other 28%
+ 
+ 
+Languages:
+     English (official), French (official)
+Literacy:
+     age 15 and over can read and write (1986)
+total population:
+     97%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     13.38 million
+by occupation:
+     services 75%, manufacturing 14%, agriculture 4%, construction 3%,
+     other 4% (1988)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     CA
+Type:
+     confederation with parliamentary democracy
+Capital:
+     Ottawa
+Administrative divisions:
+     10 provinces and 2 territories*; Alberta, British Columbia, Manitoba,
+     New Brunswick, Newfoundland, Northwest Territories*, Nova Scotia,
+     Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon Territory*
+Independence:
+     1 July 1867 (from UK)
+National holiday:
+     Canada Day, 1 July (1867)
+Constitution:
+     amended British North America Act 1867 patriated to Canada 17 April
+     1982; charter of rights and unwritten customs
+Legal system:
+     based on English common law, except in Quebec, where civil law system
+     based on French law prevails; accepts compulsory ICJ jurisdiction,
+     with reservations
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952), represented by Governor
+     General Raymond John HNATYSHYN (since 29 January 1990)
+head of government:
+     Prime Minister Jean CHRETIEN (since 4 November 1993) was elected on 25
+     October 1993, replacing Kim CAMBELL; Deputy Prime Minister Sheila
+     COPPS
+ 
+ 
+cabinet:
+     Federal Ministry; chosen by the prime minister from members of his own
+     party sitting in Parliament
+Legislative branch:
+     bicameral Parliament (Parlement)
+Senate (Senat):
+     consisting of a body whose members are appointed to serve until 75
+     years of age by the governor general and selected on the advice of the
+     prime minister; its normal limit 104 senators
+House of Commons (Chambre des Communes):
+     elections last held 25 October 1993 (next to be held by NA October
+     1998); results - number of votes by percent NA; seats - (295 total)
+     Liberal Party 178, Bloc Quebecois 54, Reform Party 52, New Democratic
+     Party 8, Progressive Conservative Party 2, independents 1
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Liberal Party, Jean CHRETIEN; Bloc Quebecois, Lucien BOUCHARD; Reform
+     Party, Preston MANNING; New Democratic Party, Audrey McLAUGHLIN;
+     Progressive Conservative Party, Jean CHAREST
+Member of:
+     ACCT, AfDB, AG (observer), APEC, AsDB, Australia Group, BIS, C, CCC,
+     CDB (non-regional), COCOM, CSCE, EBRD, ECE, ECLAC, ESA (cooperating
+     state), FAO, G-7, G-8, G-10, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU,
+     IDA, IEA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC,
+     IOM, ISO, ITU, LORCS, MINURSO, MTCR, NACC, NAM (guest), NATO, NEA,
+     NSG, OAS, OECD, ONUSAL, PCA, UN, UNAVEM II, UNCTAD, UNDOF, UNESCO,
+     UNFICYP, UNHCR, UNIDO, UNIKOM, UNOMOZ, UNOMUR, UNPROFOR, UNTAC, UNTSO,
+     UPU, WCL, WHO, WMO, WIPO, WTO, ZC
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Raymond CHRETIEN
+chancery:
+     501 Pennsylvania Avenue NW, Washington, DC 20001
+telephone:
+     (202) 682-1740
+FAX:
+     (202) 682-7726
+consulate(s) general:
+     Atlanta, Boston, Buffalo, Chicago, Dallas, Detroit, Los Angeles,
+     Minneapolis, New York, Philadelphia, and Seattle
+consulate(s):
+     Cincinnati, Cleveland, Miami, Pittsburg, Princeton, San Diego, San
+     Francisco, and San Juan (Puerto Rico)
+US diplomatic representation:
+chief of mission:
+     Ambassador James Johnston BLANCHARD
+embassy:
+     100 Wellington Street, K1P 5T1, Ottawa
+mailing address:
+     P. O. Box 5000, Ogdensburg, NY 13669-0430
+telephone:
+     (613) 238-5335 or 4470
+FAX:
+     (613) 238-5720
+ 
+ 
+consulate(s) general:
+     Calgary, Halifax, Montreal, Quebec, Toronto, and Vancouver
+Flag:
+     three vertical bands of red (hoist side), white (double width,
+     square), and red with a red maple leaf centered in the white band
+ 
+                                  Economy
+ 
+Overview:
+     As an affluent, high-tech industrial society, Canada today closely
+     resembles the US in per capita output, market-oriented economic
+     system, and pattern of production. Since World War II the impressive
+     growth of the manufacturing, mining, and service sectors has
+     transformed the nation from a largely rural economy into one primarily
+     industrial and urban. In the 1980s, Canada registered one of the
+     highest rates of real growth among the OECD nations, averaging about
+     3.2%. With its great natural resources, skilled labor force, and
+     modern capital plant, Canada has excellent economic prospects,
+     although the country still faces high unemployment and a growing debt.
+     Moreover, the continuing constitutional impasse between English- and
+     French-speaking areas has observers discussing a possible split in the
+     confederation; foreign investors have become edgy.
+National product:
+     GDP - purchasing power equivalent - $617.7 billion (1993)
+National product real growth rate:
+     2.4% (1993)
+National product per capita:
+     $22,200 (1993)
+Inflation rate (consumer prices):
+     1.9% (1993)
+Unemployment rate:
+     11% (December 1993)
+Budget:
+revenues:
+     $92.34 billion (Federal)
+expenditures:
+     $123.04 billion, including capital expenditures of $NA (FY93 est.)
+Exports:
+     $133.9 billion (f.o.b., 1993)
+commodities:
+     newsprint, wood pulp, timber, crude petroleum, machinery, natural gas,
+     aluminum, motor vehicles and parts; telecommunications equipment
+partners:
+     US, Japan, UK, Germany, South Korea, Netherlands, China
+Imports:
+     $125.3 billion (c.i.f., 1993)
+commodities:
+     crude oil, chemicals, motor vehicles and parts, durable consumer
+     goods, electronic computers; telecommunications equipment and parts
+partners:
+     US, Japan, UK, Germany, France, Mexico, Taiwan, South Korea
+External debt:
+     $435 billion (1993)
+Industrial production:
+     growth rate 3.5% (1993)
+ 
+ 
+Electricity:
+capacity:
+     109,340,000 kW
+production:
+     493 billion kWh
+consumption per capita:
+     17,900 kWh (1992)
+Industries:
+     processed and unprocessed minerals, food products, wood and paper
+     products, transportation equipment, chemicals, fish products,
+     petroleum and natural gas
+Agriculture:
+     accounts for about 3% of GDP; one of the world's major producers and
+     exporters of grain (wheat and barley); key source of US agricultural
+     imports; large forest resources cover 35% of total land area;
+     commercial fisheries provide annual catch of 1.5 million metric tons,
+     of which 75% is exported
+Illicit drugs:
+     illicit producer of cannabis for the domestic drug market; use of
+     hydroponics technology permits growers to plant large quantities of
+     high-quality marijuana indoors; growing role as a transit point for
+     heroin and cocaine entering the US market
+Economic aid:
+donor:
+     ODA and OOF commitments (1970-89), $7.2 billion
+Currency:
+     1 Canadian dollar (Can$) = 100 cents
+Exchange rates:
+     Canadian dollars (Can$) per US$1 - 1.3174 (January 1994), 1.2901
+     (1993), 1.2087 (1992), 1.1457 (1991), 1.1668 (1990), 1.1840 (1989)
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Railroads:
+     146,444 km total; two major transcontinental freight railway systems -
+     Canadian National (government owned) and Canadian Pacific Railway;
+     passenger service - VIA (government operated); 158 km is electrified
+Highways:
+total:
+     884,272 km
+paved:
+     250,023 km
+unpaved:
+     gravel 462,913 km; earth 171,336 km
+Inland waterways:
+     3,000 km, including Saint Lawrence Seaway
+Pipelines:
+     crude and refined oil 23,564 km; natural gas 74,980 km
+Ports:
+     Halifax, Montreal, Quebec, Saint John (New Brunswick), Saint John's
+     (Newfoundland), Toronto, Vancouver
+ 
+ 
+Merchant marine:
+     59 ships (1,000 GRT or over) totaling 448,357 GRT/639,319 DWT, bulk 9,
+     cargo 8, chemical tanker 4, container 1, oil tanker 22, passenger 1,
+     passenger-cargo 1, railcar carrier 2, roll-on/roll-off cargo 6,
+     short-sea passenger 3, specialized tanker 2
+note:
+     does not include ships used exclusively in the Great Lakes
+Airports:
+total:
+     1,356
+usable:
+     1,107
+with permanent-surface runways:
+     458
+with runways over 3,659 m:
+     4
+with runways 2,440-3,659 m:
+     29
+with runways 1,220-2,439 m:
+     326
+Telecommunications:
+     excellent service provided by modern media; 18.0 million telephones;
+     broadcast stations - 900 AM, 29 FM, 53 (1,400 repeaters) TV; 5 coaxial
+     submarine cables; over 300 earth stations operating in INTELSAT
+     (including 4 Atlantic Ocean and 1 Pacific Ocean) and domestic systems
+ 
+                              Defense Forces
+ 
+Branches:
+     Canadian Armed Forces (including Land Forces Command, Maritime
+     Command, Air Command, Communications Command, Training Command), Royal
+     Canadian Mounted Police (RCMP)
+Manpower availability:
+     males age 15-49 7,508,590; fit for military service 6,482,267; reach
+     military age (17) annually 191,850 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $10.3 billion, 1.9% of GDP (FY93/94)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,386 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0263
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Zaire
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Zaire 
+ 
+ 
+                                   Zaire
+ 
+ 
+                                 Geography
+ 
+Location:
+     Central Africa, between Congo and Zambia
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     2,345,410 sq km
+land area:
+     2,267,600 sq km
+comparative area:
+     slightly more than one-quarter the size of US
+Land boundaries:
+     total 10,271 km, Angola 2,511 km, Burundi 233 km, Central African
+     Republic 1,577 km, Congo 2,410 km, Rwanda 217 km, Sudan 628 km, Uganda
+     765 km, Zambia 1,930 km
+Coastline:
+     37 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     Tanzania-Zaire-Zambia tripoint in Lake Tanganyika may no longer be
+     indefinite since it is reported that the indefinite section of the
+     Zaire-Zambia boundary has been settled; long section with Congo along
+     the Congo River is indefinite (no division of the river or its islands
+     has been made)
+Climate:
+     tropical; hot and humid in equatorial river basin; cooler and drier in
+     southern highlands; cooler and wetter in eastern highlands; north of
+     Equator - wet season April to October, dry season December to
+     February; south of Equator - wet season November to March, dry season
+     April to October
+Terrain:
+     vast central basin is a low-lying plateau; mountains in east
+Natural resources:
+     cobalt, copper, cadmium, petroleum, industrial and gem diamonds, gold,
+     silver, zinc, manganese, tin, germanium, uranium, radium, bauxite,
+     iron ore, coal, hydropower potential
+Land use:
+arable land:
+     3%
+permanent crops:
+     0%
+meadows and pastures:
+     4%
+forest and woodland:
+     78%
+other:
+     15%
+ 
+ 
+Irrigated land:
+     100 sq km (1989 est.)
+Environment:
+current issues:
+     poaching threatens wildlife populations; water pollution;
+     deforestation
+natural hazards:
+     periodic droughts in south
+international agreements:
+     party to - Endangered Species, Law of the Sea, Marine Dumping, Nuclear
+     Test Ban, Tropical Timber; signed, but not ratified - Biodiversity,
+     Climate Change, Environmental Modification
+Note:
+     straddles Equator; very narrow strip of land that controls the lower
+     Congo River and is only outlet to South Atlantic Ocean; dense tropical
+     rain forest in central river basin and eastern highlands
+ 
+                                  People
+ 
+Population:
+     42,684,091 (July 1994 est.)
+Population growth rate:
+     3.17% (1994 est.)
+Birth rate:
+     48.39 births/1,000 population (1994 est.)
+Death rate:
+     16.74 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.03 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     110.9 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     47.4 years
+male:
+     45.57 years
+female:
+     49.29 years (1994 est.)
+Total fertility rate:
+     6.7 children born/woman (1994 est.)
+Nationality:
+noun:
+     Zairian(s)
+adjective:
+     Zairian
+Ethnic divisions:
+     over 200 African ethnic groups, the majority are Bantu; four largest
+     tribes - Mongo, Luba, Kongo (all Bantu), and the Mangbetu-Azande
+     (Hamitic) make up about 45% of the population
+Religions:
+     Roman Catholic 50%, Protestant 20%, Kimbanguist 10%, Muslim 10%, other
+     syncretic sects and traditional beliefs 10%
+Languages:
+     French, Lingala, Swahili, Kingwana, Kikongo, Tshiluba
+ 
+ 
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     72%
+male:
+     84%
+female:
+     61%
+Labor force:
+     15 million (13% of the labor force is wage earners; 51% of the
+     population is of working age)
+by occupation:
+     agriculture 75%, industry 13%, services 12% (1985)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Zaire
+conventional short form:
+local long form:
+     Republique du Zaire
+local short form:
+former:
+     Belgian Congo Congo/Leopoldville  Congo/Kinshasa
+Digraph:
+     CG
+Type:
+     republic with a strong presidential system
+Capital:
+     Kinshasa
+Administrative divisions:
+     10 regions (regions, singular - region) and 1 town* (ville); Bandundu,
+     Bas-Zaire, Equateur, Haut-Zaire, Kasai-Occidental, Kasai-Oriental,
+     Kinshasa*, Maniema, Nord-Kivu, Shaba, Sud-Kivu
+Independence:
+     30 June 1960 (from Belgium)
+National holiday:
+     Anniversary of the Regime (Second Republic), 24 November (1965)
+Constitution:
+     24 June 1967, amended August 1974, revised 15 February 1978; amended
+     April 1990; new transitional constitution promulgated in April 1994
+Legal system:
+     based on Belgian civil law system and tribal law; has not accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     18 years of age; universal and compulsory
+Executive branch:
+chief of state:
+     President Marshal MOBUTU Sese Seko Kuku Ngbendu wa Za Banga (since 24
+     November 1965) election last held 29 July 1984 (next to be scheduled
+     by High Council, the opposition-controlled transition legislature);
+     results - President MOBUTU was reelected without opposition
+ 
+ 
+head of government:
+     Prime Minister Etienne TSHISEKEDI (since NA 1993); note - de facto
+     executive authority is exercised by President MOBUTU
+cabinet:
+     National Executive Council; appointed by the president on
+     recommendation of the prime minister
+Legislative branch:
+     unicameral
+parliament:
+     a single body consisting of the High Council of the Republic and the
+     Parliament of the Transition with membership equally divided between
+     presidential supporters and opponents
+Judicial branch:
+     Supreme Court (Cour Supreme)
+Political parties and leaders:
+     sole legal party until January 1991 - Popular Movement of the
+     Revolution (MPR); other parties include Union for Democracy and Social
+     Progress (UDPS), Etienne TSHISEKEDI wa Mulumba; Democratic Social
+     Christian Party (PDSC), Joseph ILEO; Union of Federalists and
+     Independent Republicans (UFERI), NGUZ a Karl-I-Bond; Unified Lumumbast
+     Party (PALU), Antoine GIZENGA
+Member of:
+     ACCT, ACP, AfDB, CCC, CEEAC, CEPGL, ECA, FAO, G-19, G-24, G-77, GATT,
+     IAEA, IBRD, ICAO, ICC, IDA, IFAD, IFC, ILO, IMF, IMO, INTELSAT,
+     INTERPOL, IOC, ITU, LORCS, NAM, OAU, PCA, UN, UNCTAD, UNESCO, UNHCR,
+     UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador TATANENE Manata
+chancery:
+     1800 New Hampshire Avenue NW, Washington, DC 20009
+telephone:
+     (202) 234-7690 or 7691
+US diplomatic representation:
+chief of mission:
+     (vacant); Deputy Chief of Mission John YATES
+embassy:
+     310 Avenue des Aviateurs, Kinshasa
+mailing address:
+     Unit 31550, Kinshasha; APO AE 09828
+telephone:
+     [243] (12) 21532, 21628
+FAX:
+     [243] (12) 21232 or 21534/5, ext. 2308
+consulate(s) general:
+     Lubumbashi (closed and evacuated in October 1991 because of the poor
+     security situation)
+Flag:
+     light green with a yellow disk in the center bearing a black arm
+     holding a red flaming torch; the flames of the torch are blowing away
+     from the hoist side; uses the popular pan-African colors of Ethiopia
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Zaire's economy has continued to disintegrate. While meaningful
+     economic figures are difficult to come by, Zaire's hyperinflation, the
+     largest government deficit ever, and plunging mineral production have
+     made the country one of the world's poorest. Most formal transactions
+     are conducted in hard currency as indigenous banknotes have lost
+     almost all value, and a barter economy now flourishes in all but the
+     largest cities. Most individuals and families hang on grimly through
+     subsistence farming and petty trade. The government has not been able
+     to meet its financial obligations to the International Momentary Fund
+     or put in place the financial measures advocated by the IMF. Although
+     short-term prospects for improvement are dim, improved political
+     stability would boost Zaire's long-term potential to effectively
+     exploit its vast wealth of mineral and agricultural resources.
+National product:
+     GDP - purchasing power equivalent - $21 billion (1993 est.)
+National product real growth rate:
+     -6% (1992 est.)
+National product per capita:
+     $500 (1993 est.)
+Inflation rate (consumer prices):
+     35%-40% per month (1992 est.)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $1.5 billion (f.o.b., 1992 est.)
+commodities:
+     copper, coffee, diamonds, cobalt, crude oil
+partners:
+     US, Belgium, France, Germany, Italy, UK, Japan, South Africa
+Imports:
+     $1.2 billion (f.o.b., 1992 est.)
+commodities:
+     consumer goods, foodstuffs, mining and other machinery, transport
+     equipment, fuels
+partners:
+     South Africa, US, Belgium, France, Germany, Italy, Japan, UK
+External debt:
+     $9.2 billion (May 1992 est.)
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     2,580,000 kW
+production:
+     6 billion kWh
+consumption per capita:
+     160 kWh (1991)
+ 
+ 
+Industries:
+     mining, mineral processing, consumer products (including textiles,
+     footwear, and cigarettes), processed foods and beverages, cement,
+     diamonds
+Agriculture:
+     cash crops - coffee, palm oil, rubber, quinine; food crops - cassava,
+     bananas, root crops, corn
+Illicit drugs:
+     illicit producer of cannabis, mostly for domestic consumption
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $1.1 billion; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $6.9
+     billion; OPEC bilateral aid (1979-89), $35 million; Communist
+     countries (1970-89), $263 million
+note:
+     except for humanitarian aid to private organizations, no US assistance
+     was given to Zaire in 1992
+Currency:
+     1 zaire (Z) = 100 makuta
+Exchange rates:
+     zaire (Z) per US$1 - 7,915,000 (September 1993), 1,990,000 (1992),
+     15,587 (1991), 719 (1990), 381 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     5,254 km total; 3,968 km 1.067-meter gauge (851 km electrified); 125
+     km 1.000-meter gauge; 136 km 0.615-meter gauge; 1,025 km 0.600-meter
+     gauge; limited trackage in use because of civil strife
+Highways:
+total:
+     146,500 km
+paved:
+     2,800 km
+unpaved:
+     gravel, improved earth 46,200 km; unimproved earth 97,500 km
+Inland waterways:
+     15,000 km including the Congo, its tributaries, and unconnected lakes
+Pipelines:
+     petroleum products 390 km
+Ports:
+     Matadi, Boma, Banana
+Merchant marine:
+     1 passenger cargo ship (1,000 GRT or over) totaling 15,489 GRT/13,481
+     DWT
+Airports:
+total:
+     278
+usable:
+     233
+with permanent-surface runways:
+     25
+ 
+ 
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     6
+with runways 1,220-2,439 m:
+     72
+Telecommunications:
+     barely adequate wire and microwave service; broadcast stations - 10
+     AM, 4 FM, 18 TV; satellite earth stations - 1 Atlantic Ocean INTELSAT,
+     14 domestic
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, paramilitary National Gendarmerie, Civil Guard,
+     Special Presidential Division
+Manpower availability:
+     males age 15-49 9,178,659; fit for military service 4,674,819
+Defense expenditures:
+     exchange rate conversion - $49 million, 0.8% of GDP (1988)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

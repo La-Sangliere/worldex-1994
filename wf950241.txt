@@ -1,0 +1,373 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0240
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Tunisia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Tunisia 
+ 
+ 
+                                  Tunisia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Northern Africa, 144 km from Italy across the Strait of Sicily,
+     between Algeria and Libya
+Map references:
+     Africa, Standard Time Zones of the World
+Area:
+total area:
+     163,610 sq km
+land area:
+     155,360 sq km
+comparative area:
+     slightly larger than Georgia
+Land boundaries:
+     total 1,424 km, Algeria 965 km, Libya 459 km
+Coastline:
+     1,148 km
+Maritime claims:
+territorial sea:
+     12 nm
+International disputes:
+     maritime boundary dispute with Libya; land boundary dispute with
+     Algeria settled in 1993
+Climate:
+     temperate in north with mild, rainy winters and hot, dry summers;
+     desert in south
+Terrain:
+     mountains in north; hot, dry central plain; semiarid south merges into
+     the Sahara
+Natural resources:
+     petroleum, phosphates, iron ore, lead, zinc, salt
+Land use:
+arable land:
+     20%
+permanent crops:
+     10%
+meadows and pastures:
+     19%
+forest and woodland:
+     4%
+other:
+     47%
+Irrigated land:
+     2,750 sq km (1989)
+Environment:
+current issues:
+     toxic and hazardous waste disposal is ineffective and presents human
+     health risks; water pollution from untreated sewage; water scarcity;
+     deforestation; overgrazing; soil erosion; desertification
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     party to - Biodiversity, Climate Change, Endangered Species,
+     Environmental Modification, Law of the Sea, Marine Dumping, Nuclear
+     Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands; signed,
+     but not ratified - Marine Life Conservation
+Note:
+     strategic location in central Mediterranean
+ 
+                                  People
+ 
+Population:
+     8,726,562 (July 1994 est.)
+Population growth rate:
+     1.76% (1994 est.)
+Birth rate:
+     23.4 births/1,000 population (1994 est.)
+Death rate:
+     4.95 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.85 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     34.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     72.89 years
+male:
+     70.85 years
+female:
+     75.03 years (1994 est.)
+Total fertility rate:
+     2.88 children born/woman (1994 est.)
+Nationality:
+noun:
+     Tunisian(s)
+adjective:
+     Tunisian
+Ethnic divisions:
+     Arab-Berber 98%, European 1%, Jewish less than 1%
+Religions:
+     Muslim 98%, Christian 1%, Jewish 1%
+Languages:
+     Arabic (official and one of the languages of commerce), French
+     (commerce)
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     65%
+male:
+     74%
+female:
+     56%
+Labor force:
+     2.25 million
+by occupation:
+     agriculture 32%
+ 
+ 
+note:
+     shortage of skilled labor
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Tunisia
+conventional short form:
+local long form:
+     Al Jumhuriyah at Tunisiyah
+local short form:
+     Tunis
+Digraph:
+     TS
+Type:
+     republic
+Capital:
+     Tunis
+Administrative divisions:
+     23 governorates; Beja, Ben Arous, Bizerte, Gabes, Gafsa, Jendouba,
+     Kairouan, Kasserine, Kebili, L'Ariana, Le Kef, Mahdia, Medenine,
+     Monastir, Nabeul, Sfax, Sidi Bou Zid, Siliana, Sousse, Tataouine,
+     Tozeur, Tunis, Zaghouan
+Independence:
+     20 March 1956 (from France)
+National holiday:
+     National Day, 20 March (1956)
+Constitution:
+     1 June 1959; amended 12 July 1988
+Legal system:
+     based on French civil law system and Islamic law; some judicial review
+     of legislative acts in the Supreme Court in joint session
+Suffrage:
+     20 years of age; universal
+Executive branch:
+chief of state:
+     President Gen. Zine el Abidine BEN ALI (since 7 November 1987);
+     election last held 20 March 1994 (next to be held NA); results - Gen.
+     Zine el Abidine BEN ALI was reelected without opposition
+head of government:
+     Prime Minister Hamed KAROUI (since 26 September 1989)
+cabinet:
+     Council of Ministers; appointed by the president
+Legislative branch:
+     unicameral
+Chamber of Deputies (Majlis al-Nuwaab):
+     elections last held 2 April 1989 (next to be held NA March 1994);
+     results - RCD 80.7%, independents/Islamists 13.7%, MDS 3.2%, other
+     2.4%; seats - (141 total) RCD 141
+Judicial branch:
+     Court of Cassation (Cour de Cassation)
+ 
+ 
+Political parties and leaders:
+     Constitutional Democratic Rally Party (RCD), President BEN ALI
+     (official ruling party); Movement of Democratic Socialists (MDS),
+     Mohammed MOUAADA; five other political parties are legal, including
+     the Communist Party
+Other political or pressure groups:
+     the Islamic fundamentalist party, An Nahda (Rebirth), is outlawed
+Member of:
+     ABEDA, ACCT, AfDB, AFESD, AL, AMF, AMU, CCC, ECA, FAO, G-77, GATT,
+     IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IDB, IFAD, IFC, ILO, IMF, IMO,
+     INMARSAT, INTELSAT, INTERPOL, IOC, ISO, ITU, LORCS, MINURSO, NAM,
+     OAPEC (withdrew from active membership in 1986), OAS (observer), OAU,
+     OIC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOSOM, UNPROFOR, UNTAC, UPU,
+     WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Ismail KHALIL
+chancery:
+     1515 Massachusetts Avenue NW, Washington, DC 20005
+telephone:
+     (202) 862-1850
+US diplomatic representation:
+chief of mission:
+     Ambassador John T. McCARTHY
+embassy:
+     144 Avenue de la Liberte, 1002 Tunis-Belvedere
+mailing address:
+     use embassy street address
+telephone:
+     [216] (1) 782-566
+FAX:
+     [216] (1) 789-719
+Flag:
+     red with a white disk in the center bearing a red crescent nearly
+     encircling a red five-pointed star; the crescent and star are
+     traditional symbols of Islam
+ 
+                                  Economy
+ 
+Overview:
+     Tunisia has a diverse economy, with important agricultural, mining,
+     energy, tourism and manufacturing sectors. The economy grew rapidly in
+     the mid-1980s, GDP growth averaging 5.4% in 1983-85. Following a
+     foreign exchange crisis caused by a sharp drop in agricultural output
+     and tourism, combined with the oil price collapse in 1986, Tunisia
+     inaugurated an IMF-sponsored economic rehabilitation scheme.
+     Subsequent government structural reforms have helped liberalize and
+     open the economy, and GDP growth has been positive since the start of
+     the program. A sharp rebound in tourism from the downturn caused by
+     the Gulf war and strong agricultural performance boosted real GDP
+     growth to more than 8% in 1992; growth fell back to 2.6% in 1993.
+     Further privatization and further improvements in government
+     administrative efficiency are among the challenges for the future.
+National product:
+     GDP - purchasing power equivalent - $34.3 billion (1993 est.)
+ 
+ 
+National product real growth rate:
+     2.6% (1993 est.)
+National product per capita:
+     $4,000 (1993 est.)
+Inflation rate (consumer prices):
+     4.5% (1993 est.)
+Unemployment rate:
+     16.2% (1993 est.)
+Budget:
+revenues:
+     $4.3 billion
+expenditures:
+     $5.5 billion, including capital expenditures to $NA (1993 est.)
+Exports:
+     $4.1 billion (f.o.b., 1993)
+commodities:
+     hydrocarbons, agricultural products, phosphates and chemicals
+partners:
+     EC countries 75%, Middle East 10%, Algeria 2%, India 2%, US 1%
+Imports:
+     $6.4 billion (c.i.f., 1993)
+commodities:
+     industrial goods and equipment 57%, hydrocarbons 13%, food 12%,
+     consumer goods
+partners:
+     EC countries 70%, US 5%, Middle East 2%, Japan 2%, Switzerland 1%,
+     Algeria 1%
+External debt:
+     $7.7 billion (1993 est.)
+Industrial production:
+     growth rate 5% (1989); accounts for about 25% of GDP, including
+     petroleum
+Electricity:
+capacity:
+     1,545,000 kW
+production:
+     5,096 kWh
+consumption per capita:
+     600 kWh (1992)
+Industries:
+     petroleum, mining (particularly phosphate and iron ore), tourism,
+     textiles, footwear, food, beverages
+Agriculture:
+     accounts for 16% of GDP and one-third of labor force; output subject
+     to severe fluctuations because of frequent droughts; export crops -
+     olives, dates, oranges, almonds; other products - grain, sugar beets,
+     wine grapes, poultry, beef, dairy; not self-sufficient in food
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $730 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89) $52
+     million; OPEC bilateral aid (1979-89), $684 million; Communist
+     countries (1970-89),  $410 million
+Currency:
+     1 Tunisian dinar (TD) = 1,000 millimes
+ 
+ 
+Exchange rates:
+     Tunisian dinars (TD) per US$1 - 1.0514 (January 1994), 1.0037 (1993),
+     0.8844 (1992), 0.9246 (1991), 0.8783 (1990), 0.9493 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     2,115 km total; 465 km 1.435-meter (standard) gauge; 1,650 km
+     1.000-meter gauge
+Highways:
+total:
+     17,700 km
+paved:
+     bituminous 9,100 km
+unpaved:
+     improved, unimproved earth 8,600 km
+Pipelines:
+     crude oil 797 km; petroleum products 86 km; natural gas 742 km
+Ports:
+     Bizerte, Gabes, Sfax, Sousse, Tunis, La Goulette, Zarzis
+Merchant marine:
+     23 ships (1,000 GRT or over) totaling 152,683 GRT/199,273 DWT, bulk 6,
+     cargo 6, chemical tanker 6, liquefied gas 1, oil tanker 1,
+     roll-on/roll-off cargo 2, short-sea passenger 1
+Airports:
+total:
+     31
+usable:
+     27
+with permanent-surface runways:
+     14
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     9
+with runways 1,220-2,439 m:
+     5
+note:
+     a new airport opened 6 May 1993, length and type of surface NA
+Telecommunications:
+     the system is above the African average; facilities consist of
+     open-wire lines, coaxial cable, and microwave radio relay; key centers
+     are Sfax, Sousse, Bizerte, and Tunis; 233,000 telephones (28
+     telephones per 1,000 persons); broadcast stations - 7 AM, 8 FM, 19 TV;
+     5 submarine cables; satellite earth stations - 1 Atlantic Ocean
+     INTELSAT and 1 ARABSAT with back-up control station; coaxial cable and
+     microwave radio relay to Algeria and Libya
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Navy, Air Force, paramilitary forces, National Guard
+ 
+ 
+Manpower availability:
+     males age 15-49 2,229,362; fit for military service 1,281,015; reach
+     military age (20) annually 91,941 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $618 million, 3.7% of GDP (1993 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

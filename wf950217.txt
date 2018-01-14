@@ -1,0 +1,402 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0216
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Slovenia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Slovenia 
+ 
+ 
+                                 Slovenia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Balkan State, Southeastern Europe, bordering the Adriatic Sea, between
+     Austria and Croatia
+Map references:
+     Ethnic Groups in Eastern Europe, Europe, Standard Time Zones of the
+     World
+Area:
+total area:
+     20,296 sq km
+land area:
+     20,296 sq km
+comparative area:
+     slightly larger than New Jersey
+Land boundaries:
+     total 1,045 km, Austria 262 km, Croatia 501 km, Italy 199 km, Hungary
+     83 km
+Coastline:
+     32 km
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation
+territorial sea:
+     12 nm
+International disputes:
+     dispute with Croatia over fishing rights in the Adriatic and over some
+     border areas; the border issue is currently under negotiation
+Climate:
+     Mediterranean climate on the coast, continental climate with mild to
+     hot summers and cold winters in the plateaus and valleys to the east
+Terrain:
+     a short coastal strip on the Adriatic, an alpine mountain region
+     adjacent to Italy, mixed mountain and valleys with numerous rivers to
+     the east
+Natural resources:
+     lignite coal, lead, zinc, mercury, uranium, silver
+Land use:
+arable land:
+     10%
+permanent crops:
+     2%
+meadows and pastures:
+     20%
+forest and woodland:
+     45%
+other:
+     23%
+Irrigated land:
+     NA sq km
+ 
+ 
+Environment:
+current issues:
+     Sava River polluted with domestic and industrial waste; heavy metals
+     and toxic chemicals along coastal waters; forest damage near Koper
+     from air pollution originating at metallurgical and chemical plants
+natural hazards:
+     subject to flooding and earthquakes
+international agreements:
+     party to - Air Pollution, Hazardous Wastes, Marine Dumping, Nuclear
+     Test Ban, Ozone Layer Protection, Ship Pollution; signed, but not
+     ratified - Biodiversity, Climate Change
+ 
+                                  People
+ 
+Population:
+     1,972,227 (July 1994 est.)
+Population growth rate:
+     0.23% (1994 est.)
+Birth rate:
+     11.81 births/1,000 population (1994 est.)
+Death rate:
+     9.5 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     8.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     74.36 years
+male:
+     70.49 years
+female:
+     78.44 years (1994 est.)
+Total fertility rate:
+     1.67 children born/woman (1994 est.)
+Nationality:
+noun:
+     Slovene(s)
+adjective:
+     Slovenian
+Ethnic divisions:
+     Slovene 91%, Croat 3%, Serb 2%, Muslim 1%, other 3%
+Religions:
+     Roman Catholic 96% (including 2% Uniate), Muslim 1%, other 3%
+Languages:
+     Slovenian 91%, Serbo-Croatian 7%, other 2%
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     786,036
+ 
+ 
+by occupation:
+     agriculture 2%, manufacturing and mining 46%
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Slovenia
+conventional short form:
+local long form:
+     Republika Slovenije
+local short form:
+     Slovenija
+Digraph:
+     SI
+Type:
+     emerging democracy
+Capital:
+     Ljubljana
+Administrative divisions:
+     60 provinces (pokajine, singular - pokajina) Ajdovscina, Brezice,
+     Celje, Cerknica, Crnomelj, Dravograd, Gornja Radgona, Grosuplje,
+     Hrastnik Lasko, Idrija, Ilirska Bistrica, Izola, Jesenice, Kamnik,
+     Kocevje, Koper, Kranj, Krsko, Lenart, Lendava, Litija,
+     Ljubljana-Bezigrad, Ljubljana-Center, Ljubljana-Moste-Polje,
+     Ljubljana-Siska, Ljubljana-Vic-Rudnik, Ljutomer, Logatec, Maribor,
+     Metlika, Mozirje, Murska Sobota, Nova Gorica, Novo Mesto, Ormoz,
+     Pesnica, Piran, Postojna, Ptuj, Radlje Ob Dravi, Radovljica, Ravne Na
+     Koroskem, Ribnica, Ruse, Sentjur Pri Celju, Sevnica, Sezana, Skofja
+     Loka, Slovenj Gradec, Slovenska Bistrica, Slovenske Konjice, Smarje
+     Pri Jelsah, Tolmin, Trbovlje, Trebnje, Trzic, Velenje, Vrhnika,
+     Zagorje Ob Savi, Zalec
+Independence:
+     25 June 1991 (from Yugoslavia)
+National holiday:
+     Statehood Day, 25 June (1991)
+Constitution:
+     adopted 23 December 1991, effective 23 December 1991
+Legal system:
+     based on civil law system
+Suffrage:
+     16 years of age, if employed;  18 years of age, universal
+Executive branch:
+chief of state:
+     President Milan KUCAN (since 22 April 1990); election last held 6
+     December 1992 (next to be held NA 1996); results - Milan KUCAN
+     reelected by direct popular vote
+head of government:
+     Prime Minister Janez DRNOVSEK (since 14 May 1992); Deputy Prime
+     Minister Lojze PETERLE (since NA)
+cabinet:
+     Council of Ministers
+Legislative branch:
+     bicameral National Assembly
+ 
+ 
+State Assembly:
+     elections last held 6 December 1992 (next to be held NA 1996); results
+     - percent of vote by party NA; seats - (total 90) LDS 22, SKD 15,
+     United List (former Communists and allies) 14, Slovene National Party
+     12, SLS 10, Democratic Party 6, ZS 5, SDSS 4, Hungarian minority 1,
+     Italian minority 1
+State Council:
+     will become operational after next election in 1996; in the election
+     of 6 December 1992 40 members were elected to represent local and
+     socioeconomic interests
+Judicial branch:
+     Supreme Court, Constitutional Court
+Political parties and leaders:
+     Slovene Christian Democrats (SKD), Lozje PETERLE, chairman; Liberal
+     Democratic (LDS), Janez DRNOVSEK, chairman; Social-Democratic Party of
+     Slovenia (SDSS), Joze PUCNIK, chairman; Socialist Party of Slovenia
+     (SSS), Viktor ZAKELJ, chairman; Greens of Slovenia (ZS), Dusan PLUT,
+     chairman; National Democratic, Rajko PIRNAT, chairman; Democratic
+     Peoples Party, Marjan PODOBNIK, chairman; Reformed Socialists (former
+     Communist Party), Ciril RIBICIC, chairman; United List (former
+     Communists and allies); Slovene National Party, leader NA; Democratic
+     Party, Igor BAVCAR; Slovene People's Party (SLS), Ivan OMAN
+note:
+     parties have changed as of the December 1992 elections
+Other political or pressure groups:
+     none
+Member of:
+     CCC, CE, CEI, CSCE, EBRD, ECE, IAEA, IBRD, ICAO, IDA, IFC, ILO, IMF,
+     IMO, INTELSAT (nonsignatory user), INTERPOL, IOC, IOM (observer), ITU,
+     NAM (guest), UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Ernest PETRIC
+chancery:
+     1525 New Hampshir Avenue NW, Washington, DC, 20036
+telephone:
+     (202) 667-5363
+consulate(s) general:
+     New York
+US diplomatic representation:
+chief of mission:
+     Ambassador E. Allan WENDT
+embassy:
+     P.O. Box 254, Prazakova 4, 61000 Ljubljana
+mailing address:
+     use embassy street address
+telephone:
+     [386] (61) 301-427/472/485
+FAX:
+     [386] (61) 301-401
+ 
+ 
+Flag:
+     three equal horizontal bands of white (top), blue, and red with the
+     Slovenian seal (a shield with the image of Triglav in white against a
+     blue background at the center, beneath it are two wavy blue lines
+     depicting seas and rivers, and around it, there are three six-sided
+     stars arranged in an inverted triangle); the seal is located in the
+     upper hoist side of the flag centered in the white and blue bands
+ 
+                                  Economy
+ 
+Overview:
+     Slovenia was by far the most prosperous of the former Yugoslav
+     republics, with a per capita income more than twice the Yugoslav
+     average, indeed not far below the levels in neighboring Austria and
+     Italy. Because of its strong ties to Western Europe and the small
+     scale of damage during its brief fight for independence from
+     Yugoslavia, Slovenia has the brightest prospects among the former
+     Yugoslav republics for economic recovery over the next few years. The
+     dissolution of Yugoslavia, however, has led to severe short-term
+     dislocations in production, employment, and trade ties. For example,
+     overall industrial production has fallen 26% since 1990; particularly
+     hard hit have been the iron and steel, machine-building, chemical, and
+     textile industries. Meanwhile, the continued fighting in other former
+     Yugoslav republics has led to further destruction of long-established
+     trade channels and to an influx of tens of thousands of Croatian and
+     Bosnian refugees. The key program for breaking up and privatizing
+     major industrial firms was established in late 1992. Despite slow
+     progress in privatization Slovenia has reasonable prospects for an
+     upturn in 1994. Bright spots for encouraging Western investors are
+     Slovenia's comparatively well-educated work force, its developed
+     infrastructure, and its Western business attitudes, but instability in
+     Croatia is a deterrent. Slovenia in absolute terms is a small economy,
+     and a little Western investment would go a long way.
+National product:
+     GDP - purchasing power equivalent - $15 billion (1993 est.)
+National product real growth rate:
+     0% (1993 est.)
+National product per capita:
+     $7,600 (1993 est.)
+Inflation rate (consumer prices):
+     22.9% (1993)
+Unemployment rate:
+     15.5% (1993)
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $5.1 billion (f.o.b., 1993)
+commodities:
+     machinery and transport equipment 38%, other manufactured goods 44%,
+     chemicals 9%, food and live animals 4.6%, raw materials 3%, beverages
+     and tobacco less than 1% (1992)
+ 
+ 
+partners:
+     Germany 27%, Croatia 14%, Italy 13%, France 9% (1992)
+Imports:
+     $5.3 billion (c.i.f., 1993)
+commodities:
+     machinery and transport equipment 35%, other manufactured goods 26.7%,
+     chemicals 14.5%, raw materials 9.4%, fuels and lubricants 7%, food and
+     live animals 6% (1992)
+partners:
+     Germany 23%, Croatia 14%, Italy 14%, France 8%, Austria 8% (1992)
+External debt:
+     $1.9 billion
+Industrial production:
+     growth rate -2.8% (1993); accounts for 30% of GDP
+Electricity:
+capacity:
+     2,900,000 kW
+production:
+     10 billion kWh
+consumption per capita:
+     5,090 kWh (1992)
+Industries:
+     ferrous metallurgy and rolling mill products, aluminum reduction and
+     rolled products, lead and zinc smelting, electronics (including
+     military electronics), trucks, electric power equipment, wood
+     products, textiles, chemicals, machine tools
+Agriculture:
+     accounts for 5% of GDP; dominated by stock breeding (sheep and cattle)
+     and dairy farming; main crops - potatoes, hops, hemp, flax; an export
+     surplus in these commodities; Slovenia must import many other
+     agricultural products and has a negative overall trade balance in this
+     sector
+Illicit drugs:
+     NA
+Economic aid:
+     $NA
+Currency:
+     1 tolar (SlT) = 100 stotins
+Exchange rates:
+     tolars (SIT) per US$1 - 112 (June 1993), 28 (January 1992)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     1,200 km, 1.435 m gauge (1991)
+Highways:
+total:
+     14,553 km
+paved:
+     10,525 km
+unpaved:
+     gravel 4,028 km
+ 
+ 
+Inland waterways:
+     NA
+Pipelines:
+     crude oil 290 km; natural gas 305 km
+Ports:
+     coastal - Koper
+Merchant marine:
+     19 ships (1,000 GRT or over) totaling 309,502 GRT/521,997 DWT
+     controlled by Slovenian owners, bulk 13, cargo 6
+note:
+     most under the flag of Saint Vincent and the Grenadines; no ships
+     remain under the Slovenian flag
+Airports:
+total:
+     14
+usable:
+     13
+with permanent-surface runways:
+     6
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     2
+Telecommunications:
+     130,000 telephones; broadcast stations - 6 AM, 5 FM, 7 TV; 370,000
+     radios; 330,000 TVs
+ 
+                              Defense Forces
+ 
+Branches:
+     Slovene Defense Forces
+Manpower availability:
+     males age 15-49 513,885; fit for military service 411,619; reach
+     military age (19) annually 15,157 (1994 est.)
+Defense expenditures:
+     13.5 billion tolars, 4.5% of GDP (1993); note - conversion of the
+     military budget into US dollars using the current exchange rate could
+     produce misleading results
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

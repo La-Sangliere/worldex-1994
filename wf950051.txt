@@ -1,0 +1,410 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0050
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Chile
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Chile 
+ 
+ 
+                                   Chile
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern South America, bordering the South Pacific Ocean between
+     Argentina and Peru
+Map references:
+     South America, Standard Time Zones of the World
+Area:
+total area:
+     756,950 sq km
+land area:
+     748,800 sq km
+comparative area:
+     slightly smaller than twice the size of Montana
+note:
+     includes Isla de Pascua (Easter Island) and Isla Sala y Gomez
+Land boundaries:
+     total 6,171 km, Argentina 5,150 km, Bolivia 861 km, Peru 160 km
+Coastline:
+     6,435 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     short section of the southern boundary with Argentina is indefinite;
+     Bolivia has wanted a sovereign corridor to the South Pacific Ocean
+     since the Atacama area was lost to Chile in 1884; dispute with Bolivia
+     over Rio Lauca water rights; territorial claim in Antarctica (Chilean
+     Antarctic Territory) partially overlaps Argentine and British claims
+Climate:
+     temperate; desert in north; cool and damp in south
+Terrain:
+     low coastal mountains; fertile central valley; rugged Andes in east
+Natural resources:
+     copper, timber, iron ore, nitrates, precious metals, molybdenum
+Land use:
+arable land:
+     7%
+permanent crops:
+     0%
+meadows and pastures:
+     16%
+forest and woodland:
+     21%
+other:
+     56%
+Irrigated land:
+     12,650 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     air pollution from industrial and vehicle emissions; water pollution
+     from untreated sewage; deforestation contributing to loss of
+     biodiversity; soil erosion; desertification
+natural hazards:
+     subject to severe earthquakes; active volcanism; tsunamis
+international agreements:
+     party to - Antarctic Treaty, Endangered Species, Hazardous Wastes,
+     Marine Dumping, Nuclear Test Ban, Ozone Layer Protection, Wetlands,
+     Whaling; signed, but not ratified - Antarctic-Environmental Protocol,
+     Biodiversity, Climate Change, Law of the Sea
+Note:
+     strategic location relative to sea lanes between Atlantic and Pacific
+     Oceans (Strait of Magellan, Beagle Channel, Drake Passage); Atacama
+     Desert one of world's driest regions
+ 
+                                  People
+ 
+Population:
+     13,950,557 (July 1994 est.)
+Population growth rate:
+     1.51% (1994 est.)
+Birth rate:
+     20.59 births/1,000 population (1994 est.)
+Death rate:
+     5.49 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     15.1 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     74.51 years
+male:
+     71.52 years
+female:
+     77.65 years (1994 est.)
+Total fertility rate:
+     2.5 children born/woman (1994 est.)
+Nationality:
+noun:
+     Chilean(s)
+adjective:
+     Chilean
+Ethnic divisions:
+     European and European-Indian 95%, Indian 3%, other 2%
+Religions:
+     Roman Catholic 89%, Protestant 11%, Jewish
+Languages:
+     Spanish
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     93%
+ 
+ 
+male:
+     94%
+female:
+     93%
+Labor force:
+     4.728 million
+by occupation:
+     services 38.3% (includes government 12%), industry and commerce 33.8%,
+     agriculture, forestry, and fishing 19.2%, mining 2.3%, construction
+     6.4% (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Chile
+conventional short form:
+local long form:
+     Republica de Chile
+local short form:
+Digraph:
+     CI
+Type:
+     republic
+Capital:
+     Santiago
+Administrative divisions:
+     13 regions (regiones, singular - region); Aisen del General Carlos
+     Ibanez del Campo, Antofagasta, Araucania, Atacama, Bio-Bio, Coquimbo,
+     Libertador General Bernardo O'Higgins, Los Lagos, Magallanes y de la
+     Antartica Chilena, Maule, Region Metropolitana, Tarapaca, Valparaiso
+note:
+     the US does not recognize claims to Antarctica
+Independence:
+     18 September 1810 (from Spain)
+National holiday:
+     Independence Day, 18 September (1810)
+Constitution:
+     11 September 1980, effective 11 March 1981; amended 30 July 1989
+Legal system:
+     based on Code of 1857 derived from Spanish law and subsequent codes
+     influenced by French and Austrian law; judicial review of legislative
+     acts in the Supreme Court; has not accepted compulsory ICJ
+     jurisdiction
+Suffrage:
+     18 years of age; universal and compulsory
+Executive branch:
+chief of state and head of government:
+     President Eduardo FREI Ruiz-Tagle (since 11 March 1994) election last
+     held 11 December 1993 (next to be held December 1999); results -
+     Eduardo FREI Ruiz-Tagle (PDC) 58%, Arturo ALESSANDRI 24.4%, other
+     17.6%
+ 
+ 
+cabinet:
+     Cabinet; appointed by the president
+Legislative branch:
+     bicameral National Congress (Congreso Nacional)
+Senate (Senado):
+     election last held 11 December 1993 (next to be held December 1997);
+     results - percent of vote by party NA; seats - (46 total, 38 elected)
+     Concertation of Parties for Democracy 21 (PDC 13, PS 4, PPD 3, PR 1),
+     Union for the Progress of Chile 15 (RN 11, UDI 3, UCC 1), right-wing
+     independents 10
+Chamber of Deputies (Camara de Diputados):
+     election last held 11 December 1993 (next to be held December 1997);
+     results - Concertation of Parties for Democracy 53.95% (PDC 27.16%, PS
+     12.01%, PPD 11.82%, PR 2.96%,); Union for the Progress of Chile 30.57%
+     (RN 15.25%, UDI 12.13%, UCC 3.19%); seats - (120 total) Concertation
+     of Parties for Democracy 70 (PDC 37, PPD 15, PR 2, PS 15, left-wing
+     independent 1), Union for the Progress of Chile 47 (RN 30, UDI 15, UCC
+     2), right-wing independents 3
+Judicial branch:
+     Supreme Court (Corte Suprema)
+Political parties and leaders:
+     Concertation of Parties for Democracy consists mainly of four parties:
+     Christian Democratic Party (PDC), Gutenberg MARTINEZ; Socialist Party
+     (PS), Camilo ESCALONA; Party for Democracy (PPD), Victor Manuel
+     REBOLLEDO; Radical Party (PR), Carlos GONZALEZ Marquez; Union for the
+     Progress of Chile consists mainly of three parties: National Renewal
+     (RN), Andres ALLAMAND; Independent Democratic Union (UDI), Jovino
+     NOVOA; Center Center Union (UCC), Francisco Javier ERRAZURIZ
+Other political or pressure groups:
+     revitalized university student federations at all major universities;
+     labor - United Labor Central (CUT) includes trade unionists from the
+     country's five largest labor confederations; Roman Catholic Church
+Member of:
+     CCC, ECLAC, FAO, G-11, G-77, GATT, IADB, IAEA, IBRD, ICAO, ICFTU, IDA,
+     IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO,
+     ITU, LAES, LAIA, LORCS, NAM, OAS, ONUSAL, OPANAL, PCA, RG, UN, UNCTAD,
+     UNESCO, UNIDO, UNMOGIP, UNTAC, UNTSO, UPU, WCL, WFTU, WHO, WIPO, WMO,
+     WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador John BIEHL del Rio
+chancery:
+     1732 Massachusetts Avenue NW, Washington, DC 20036
+telephone:
+     (202) 785-1746
+FAX:
+     (202) 887-5579
+consulate(s) general:
+     Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco,
+     and San Juan (Puerto Rico)
+US diplomatic representation:
+chief of mission:
+     Ambassador Curtis W. KAMMAN
+embassy:
+     Codina Building, 1343 Agustinas, Santiago
+ 
+ 
+mailing address:
+     Unit 4127, Santiago; APO AA 34033
+telephone:
+     [56] (2) 671-0133
+FAX:
+     [56] (2) 699-1141
+Flag:
+     two equal horizontal bands of white (top) and red; there is a blue
+     square the same height as the white band at the hoist-side end of the
+     white band; the square bears a white five-pointed star in the center;
+     design was based on the US flag
+ 
+                                  Economy
+ 
+Overview:
+     Chile has a prosperous, essentially free market economy, with the
+     degree of government intervention varying according to the philosophy
+     of the different regimes. Under the center-left government of
+     President AYLWIN, which took power in March 1990, spending on social
+     welfare has risen steadily. At the same time business investment,
+     exports and consumer spending have also grown substantially. The new
+     president, FREI, who takes office in March 1994, is expected to
+     emphasize social spending even more. Growth in 1991-93 has averaged 8%
+     annually, with an estimated one million Chileans having moved out of
+     poverty in the last four years. Copper remains vital to the health of
+     the economy; Chile is the world's largest producer and exporter of
+     copper.
+National product:
+     GDP - purchasing power equivalent - $96 billion (1993 est.)
+National product real growth rate:
+     5.8% (1993 est.)
+National product per capita:
+     $7,000 (1993 est.)
+Inflation rate (consumer prices):
+     12.3% (1993 est.)
+Unemployment rate:
+     5.1% (1993 est.)
+Budget:
+revenues:
+     $10.9 billion
+expenditures:
+     $10.9 billion, including capital expenditures of $1.2 billion (1993)
+Exports:
+     $10 billion (f.o.b., 1992)
+commodities:
+     copper 41%, other metals and minerals 8.7%, wood products 7.1%, fish
+     and fishmeal 9.8%, fruits 8.4% (1991)
+partners:
+     EC 29%, Japan 17%, US 16%, Argentina 5%, Brazil 5% (1992)
+Imports:
+     $9.2 billion (f.o.b., 1992)
+commodities:
+     capital goods 25.2%, spare parts 24.8%, raw materials 15.4%, petroleum
+     10%, foodstuffs 5.7%
+ 
+ 
+partners:
+     EC 24%, US 21%, Brazil 10%, Japan 10% (1992)
+External debt:
+     $19.7 billion (1993 est.)
+Industrial production:
+     growth rate 9.3% (1992 est.); accounts for 34% of GDP
+Electricity:
+capacity:
+     5,769,000 kW
+production:
+     22.01 billion kWh
+consumption per capita:
+     1,630 kWh (1992)
+Industries:
+     copper, other minerals, foodstuffs, fish processing, iron and steel,
+     wood and wood products, transport equipment, cement, textiles
+Agriculture:
+     accounts for about 7% of GDP (including fishing and forestry); major
+     exporter of fruit, fish, and timber products; major crops - wheat,
+     corn, grapes, beans, sugar beets, potatoes, deciduous fruit; livestock
+     products - beef, poultry, wool; self-sufficient in most foods; 1991
+     fish catch of 6.6 million metric tons; net agricultural importer
+Illicit drugs:
+     a minor transshipment country for cocaine destined for the US and
+     Europe
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $521 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $1.6
+     billion; Communist countries (1970-89), $386 million
+Currency:
+     1 Chilean peso (Ch$) = 100 centavos
+Exchange rates:
+     Chilean pesos (Ch$) per US$1 - 430.57 (January 1994), 404.35 (1993),
+     362.59 (1992), 349.37 (1991), 305.06 (1990), 267.16 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     7,766 km total; 3,974 km 1.676-meter gauge, 150 km 1.435-meter
+     standard gauge, 3,642 km 1.000-meter gauge; 1,865 km 1.676-meter gauge
+     and 80 km 1.000-meter gauge electrified
+Highways:
+total:
+     79,993 km
+paved:
+     10,984 km
+unpaved:
+     gravel or earth 68,615 km (1990)
+Inland waterways:
+     725 km
+Pipelines:
+     crude oil 755 km; petroleum products 785 km; natural gas 320 km
+ 
+ 
+Ports:
+     Antofagasta, Iquique, Puerto Montt, Punta Arenas, Valparaiso, San
+     Antonio, Talcahuano, Arica
+Merchant marine:
+     31 ships (1,000 GRT or over) totaling 449,253 GRT/755,821 DWT, bulk
+     10, cargo 7, chemical tanker 3, combination ore/oil 3, liquefied gas
+     tanker 3, oil tanker 2, roll-on/roll-off cargo 3
+note:
+     in addition, 1 naval tanker and 1 military transport are sometimes
+     used commercially
+Airports:
+total:
+     392
+usable:
+     349
+with permanent-surface runways:
+     47
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     13
+with runways 1,220-2,439 m:
+     58
+Telecommunications:
+     modern telephone system based on extensive microwave radio relay
+     facilities; 768,000 telephones; broadcast stations - 159 AM, no FM,
+     131 TV, 11 shortwave; satellite ground stations - 2 Atlantic Ocean
+     INTELSAT and 3 domestic
+ 
+                              Defense Forces
+ 
+Branches:
+     Army of the Nation, National Navy (including Naval Air, Coast Guard,
+     and Marines), Air Force of the Nation, Carabineros of Chile (National
+     Police), Investigative Police
+Manpower availability:
+     males age 15-49 3,705,321; fit for military service 2,759,130; reach
+     military age (19) annually 120,512 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $1 billion, 3.4% of GDP (1991 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

@@ -1,0 +1,426 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0187
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Panama
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Panama 
+ 
+ 
+                                  Panama
+ 
+ 
+                                 Geography
+ 
+Location:
+     Middle America, between Colombia and Costa Rica
+Map references:
+     Central America and the Caribbean, South America, Standard Time Zones
+     of the World
+Area:
+total area:
+     78,200 sq km
+land area:
+     75,990 sq km
+comparative area:
+     slightly smaller than South Carolina
+Land boundaries:
+     total 555 km, Colombia 225 km, Costa Rica 330 km
+Coastline:
+     2,490 km
+Maritime claims:
+territorial sea:
+     200 nm
+International disputes:
+     none
+Climate:
+     tropical; hot, humid, cloudy; prolonged rainy season (May to January),
+     short dry season (January to May)
+Terrain:
+     interior mostly steep, rugged mountains and dissected, upland plains;
+     coastal areas largely plains and rolling hills
+Natural resources:
+     copper, mahogany forests, shrimp
+Land use:
+arable land:
+     6%
+permanent crops:
+     2%
+meadows and pastures:
+     15%
+forest and woodland:
+     54%
+other:
+     23%
+Irrigated land:
+     320 sq km (1989 est.)
+Environment:
+current issues:
+     water pollution from agricultural runoff threatens fishery resources;
+     deforestation of tropical rain forest; land degradation
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     party to - Endangered Species, Hazardous Wastes, Marine Dumping,
+     Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical
+     Timber, Wetlands; signed, but not ratified - Biodiversity, Climate
+     Change, Law of the Sea, Marine Life Conservation
+Note:
+     strategic location on eastern end of isthmus forming land bridge
+     connecting North and South America; controls Panama Canal that links
+     North Atlantic Ocean via Caribbean Sea with North Pacific Ocean
+ 
+                                  People
+ 
+Population:
+     2.63 million (July 1994 est.)
+Population growth rate:
+     1.94% (1994 est.)
+Birth rate:
+     24.61 births/1,000 population (1994 est.)
+Death rate:
+     4.87 deaths/1,000 population (1994 est.)
+Net migration rate:
+     -0.37 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     16.5 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     74.88 years
+male:
+     72.28 years
+female:
+     77.62 years (1994 est.)
+Total fertility rate:
+     2.85 children born/woman (1994 est.)
+Nationality:
+noun:
+     Panamanian(s)
+adjective:
+     Panamanian
+Ethnic divisions:
+     mestizo (mixed Indian and European ancestry) 70%, West Indian 14%,
+     white 10%, Indian 6%
+Religions:
+     Roman Catholic 85%, Protestant 15%
+Languages:
+     Spanish (official), English 14%
+note:
+     many Panamanians bilingual
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     88%
+male:
+     88%
+female:
+     88%
+ 
+ 
+Labor force:
+     921,000 (1992 est.)
+by occupation:
+     government and community services 31.8%, agriculture, hunting, and
+     fishing 26.8%, commerce, restaurants, and hotels 16.4%, manufacturing
+     and mining 9.4%, construction 3.2%, transportation and communications
+     6.2%, finance, insurance, and real estate 4.3%
+note:
+     shortage of skilled labor, but an oversupply of unskilled labor
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Panama
+conventional short form:
+local long form:
+     Republica de Panama
+local short form:
+Digraph:
+     PM
+Type:
+     constitutional  republic
+Capital:
+Administrative divisions:
+     9 provinces (provincias, singular - provincia) and 1 territory*
+     (comarca); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Herrera,
+     Los Santos, Panama, San Blas*, Veraguas
+Independence:
+     3 November 1903 (from Colombia; became independent from Spain 28
+     November 1821)
+National holiday:
+     Independence Day, 3 November (1903)
+Constitution:
+     11 October 1972; major reforms adopted April 1983
+Legal system:
+     based on civil law system; judicial review of legislative acts in the
+     Supreme Court of Justice; accepts compulsory ICJ jurisdiction, with
+     reservations
+Suffrage:
+     18 years of age; universal and compulsory
+Executive branch:
+chief of state and head of government:
+     President Guillermo ENDARA (since 20 December 1989, elected 7 May
+     1989); First Vice President Guillermo FORD Boyd (since 24 December
+     1992); Second Vice President (vacant); election last held on 7 May
+     1989, annulled but later upheld; results - anti-NORIEGA coalition
+     believed to have won about 75% of the total votes cast
+ 
+ 
+note:
+     a presidential election was held 8 May 1994 (next election to held on
+     9 May 1999) with inauguration of the successful candidates to take
+     place on 1 September 1994; results - President Ernesto PEREZ
+     BALLADARES Gonzales, First Vice President Tomas Altamirano DUQUE, and
+     Second Vice President Felipe VIRZI were elected; percent of vote for
+     president - BALLADARES 33%, DE GRUBER 29%, BLADES 17%
+cabinet:
+     Cabinet; appointed by the president
+Legislative branch:
+     unicameral
+National Assembly (Asamblea Nacional):
+     elections held on 27 January 1991; results - percent of vote by party
+     NA; seats - (67 total)
+progovernment parties:
+     PDC 28, MOLIRENA 15, PA 8, PLA 4
+opposition parties:
+     PRD 10, PALA 1, PL 1; note - the PDC went into opposition after
+     President Guillermo ENDARA ousted the PDC from the coalition
+     government in April 1991; an election of members of the National
+     Assembly was held on 8 May 1994 (next election to be held on 9 May
+     1999) and they will take their seats on 1 September 1994; results -
+     percent of vote and seats won by party NA
+Judicial branch:
+     Supreme Court of Justice (Corte Suprema de Justicia), 5 superior
+     courts, 3 courts of appeal
+Political parties and leaders:
+government alliance:
+     Nationalist Republican Liberal Movement (MOLIRENA), Alfredo RAMIREZ;
+     Authentic Liberal Party (PLA), Arnulfo ESCALONA; Arnulfista Party
+     (PA), Mireya MOSCOSO DE GRUBER
+other parties:
+     Christian Democratic Party (PDC), Raul OSSA; Democratic Revolutionary
+     Party (PRD), Gerardo GONZALEZ; Agrarian Labor Party (PALA), Nestor
+     Tomas GUERRA; Liberal Party (PL), Roberto ALEMAN Zubieta; Doctrinaire
+     Panamenista Party (PPD), Jose Salvador MUNOZ; Papa Egoro Movement,
+     Ruben BLADES; Civic Renewal Party (PRC), Tomas HERRERA; National
+     Integration Movement (MINA), Arrigo GUARDIA; National Unity Mission
+     Party (MUN), Jose Manuel PAREDES; Solidarity Party (CPS), Samuel LEWIS
+     GALINDO
+note:
+     following the elections of 8 May 1994 the following realignment of
+     political parties took place
+governing coalition:
+     Democratic Revolutionary Party (PRD), Gerardo GONZALEZ; Liberal
+     Republican Party (PLR), Rodolfo CHIARI; Labor Party (PALA), Carlos
+     Lopez GUEVARA; Solidarity Party (PS),Samuel LEWIS GALINDO
+other parties:
+     Nationalist Republican Liberal Movement (MOLIRENA), Alfredo RAMIREZ;
+     Authentic Liberal Party (PLA), Arnulfo ESCOLONA; Arnulfista Party
+     (PA), Mireya Moscoso DE GRUBER; Christian Democratic Party (PDC), Raul
+     OSSA; Liberal Party (PL), Roberto ALEMAN Zubieta; Papa Egoro Movement,
+     Ruben BLADES; Civic Renewal Party (PRC), Tomas HERRERA; National Unity
+     Mission Party (MUN), Jose Manuel PAREDES
+ 
+ 
+Other political or pressure groups:
+     National Council of Organized Workers (CONATO); National Council of
+     Private Enterprise (CONEP); Panamanian Association of Business
+     Executives (APEDE); National Civic Crusade; Chamber of Commerce;
+     Panamanian Industrialists Society (SIP); Workers Confederation of the
+     Republic of Panama (CTRP)
+Member of:
+     AG (associate), CG, ECLAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICFTU,
+     IDA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM,
+     ITU, LAES, LAIA (observer), LORCS, NAM, OAS, OPANAL, PCA, UN, UNCTAD,
+     UNESCO, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Jaime FORD Boyd (to be replaced by Ambassador Ricardo
+     Alberto ARIAS on 1 September 1994)
+chancery:
+     2862 McGill Terrace NW, Washington, DC 20008
+telephone:
+     (202) 483-1407
+consulate(s) general:
+     Atlanta, Houston, Miami, New Orleans, New York, San Francisco, San
+     Juan (Puerto Rico), Tampa,
+US diplomatic representation:
+chief of mission:
+     (vacant)
+embassy:
+     Avenida Balboa and Calle 38, Apartado 6959, Panama City 5
+mailing address:
+     American Embassy Panama, Unit 0945; APO AA 34002
+telephone:
+     (507) 27-1777
+FAX:
+     (507) 27-1964
+Flag:
+     divided into four, equal rectangles; the top quadrants are white
+     (hoist side) with a blue five-pointed star in the center and plain
+     red, the bottom quadrants are plain blue (hoist side) and white with a
+     red five-pointed star in the center
+ 
+                                  Economy
+ 
+Overview:
+     GDP expanded by roughly 5.9% in 1993, following growth of 8% in 1992;
+     banking and financial services led the way in 1993. The economy thus
+     continues to recover from the crisis that preceded the ouster of
+     Manuel NORIEGA, even though the government's structural adjustment
+     program has been hampered by a lack of popular support and a passive
+     administration. Public investment has been limited as the
+     administration has kept the fiscal deficit below 2% of GDP.
+     Unemployment and economic reform are the two major issues the new
+     government must face in 1994-95.
+National product:
+     GDP - purchasing power equivalent - $11.6 billion (1993 est.)
+National product real growth rate:
+     5.9% (1993 est.)
+ 
+ 
+National product per capita:
+     $4,500 (1993 est.)
+Inflation rate (consumer prices):
+     1% (1993 est.)
+Unemployment rate:
+     12.5% (1993 est.)
+Budget:
+revenues:
+     $1.8 billion
+expenditures:
+     $1.9 billion, including capital expenditures of $200 million (1992
+     est.)
+Exports:
+     $545 million (f.o.b., 1993 est.)
+commodities:
+     bananas 43%, shrimp 11%, sugar 4%, clothing 5%, coffee 2%
+partners:
+     US 38%, EC, Central America and Caribbean
+Imports:
+     $2.5 billion (f.o.b., 1993 est.)
+commodities:
+     capital goods 21%, crude oil 11%, foodstuffs 9%, consumer goods,
+     chemicals
+partners:
+     US 35%, EC, Central America and Caribbean, Japan
+External debt:
+     $6.1 billion (year-end 1993 est.)
+Industrial production:
+     growth rate 7% (1993 est.); accounts for about 9% of GDP
+Electricity:
+capacity:
+     1,584,000 kW
+production:
+     4.36 trillion kWh
+consumption per capita:
+     720 kWh (1992)
+Industries:
+     manufacturing and construction activities, petroleum refining,
+     brewing, cement and other construction material, sugar milling
+Agriculture:
+     accounts for 10% of GDP (1992 est.), 27% of labor force (1992); crops
+     - bananas, rice, corn, coffee, sugarcane; livestock; fishing; importer
+     of food grain, vegetables
+Illicit drugs:
+     major cocaine transshipment point and drug money laundering center
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $516 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $582
+     million; Communist countries (1970-89), $4 million
+Currency:
+     1 balboa (B) = 100 centesimos
+Exchange rates:
+     balboas (B) per US$1 - 1.000 (fixed rate)
+ 
+ 
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     238 km total; 78 km 1.524-meter gauge, 160 km 0.914-meter gauge
+Highways:
+total:
+     8,530 km
+paved:
+     2,745 km
+unpaved:
+     gravel, crushed stone 3,270 km; improved, unimproved earth 2,515 km
+Inland waterways:
+     800 km navigable by shallow draft vessels; 82 km Panama Canal
+Pipelines:
+     crude oil 130 km
+Ports:
+     Cristobal, Balboa, Colon
+Merchant marine:
+     3,405 ships (1,000 GRT or over) totaling 56,011,824 GRT/89,516,566
+     DWT, barge carrier 1, bulk 717, cargo 1,110, chemical tanker 181,
+     combination bulk 31, combination ore/oil 24, container 215, liquefied
+     gas 127, livestock carrier 9, multifunction large-load carrier 5, oil
+     tanker 437, passenger 22, passenger-cargo 3, refrigerated cargo 287,
+     roll-on/roll-off cargo 67, short-sea passenger 30, specialized tanker
+     10, vehicle carrier 129
+note:
+     all but 30 are foreign owned and operated; the top 4 foreign owners
+     are Japan 34%, Greece 8%, Hong Kong 7%, and Taiwan 5%; other foreign
+     owners include China at least 144 ships, Vietnam 3, Croatia 6, Cuba 4,
+     Cyprus 4, and Russia 41
+Airports:
+total:
+     118
+usable:
+     109
+with permanent-surface runways:
+     38
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     15
+Telecommunications:
+     domestic and international facilities well developed; connection into
+     Central American Microwave System; 220,000 telephones; broadcast
+     stations - 91 AM, no FM, 23 TV; 1 coaxial submarine cable; satellite
+     ground stations - 2 Atlantic Ocean INTELSAT
+ 
+                              Defense Forces
+ 
+ 
+Branches:
+     Panamanian Public Forces (PPF) includes the National Police, Maritime
+     Service, National Air Service, Institutional Protective Service;
+     Judicial Technical Police operate under the control of Panama's
+     judicial branch
+Manpower availability:
+     males age 15-49 686,479; fit for military service 471,780
+Defense expenditures:
+     expenditures for the Panamanian security forces amounted to $138.5
+     million, 1.0% of GDP (1993 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

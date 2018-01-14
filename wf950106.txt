@@ -1,0 +1,129 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0105
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Heard Island and McDonald Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Heard Island and McDonald Islands 
+ 
+ 
+                     Heard Island and McDonald Islands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of Australia)
+ 
+                                 Geography
+ 
+Location:
+     Southern Africa, in the Indian Ocean, 4,100 km southwest of Australia
+Map references:
+     Antarctic Region
+Area:
+total area:
+     412 sq km
+land area:
+     412 sq km
+comparative area:
+     slightly less than 2.5 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     101.9 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     antarctic
+Terrain:
+     Heard Island - bleak and mountainous, with an quiescent volcano;
+     McDonald Islands - small and rocky
+Natural resources:
+     none
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100%
+Irrigated land:
+     0 sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     NA
+ 
+ 
+international agreements:
+     NA
+Note:
+     primarily used for research stations
+ 
+                                  People
+ 
+Population:
+     uninhabited
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Territory of Heard Island and McDonald Islands
+conventional short form:
+Digraph:
+     HM
+Type:
+     territory of Australia administered by the Ministry for Environment,
+     Sport, and Territories
+Capital:
+     none; administered from Canberra, Australia
+Independence:
+     none (territory of Australia)
+ 
+                                  Economy
+ 
+Overview:
+     no economic activity
+ 
+                              Communications
+ 
+Ports:
+     none; offshore anchorage only
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of Australia
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

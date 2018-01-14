@@ -1,0 +1,165 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0160
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Midway Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Midway Islands 
+ 
+ 
+                              Midway Islands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (territory of the US)
+ 
+                                 Geography
+ 
+Location:
+     Oceania, Polynesia, in the North Pacific Ocean, 2,350 km
+     west-northwest of Honolulu, about one-third of the way between
+     Honolulu and Tokyo
+Map references:
+     Oceania
+Area:
+total area:
+     5.2 sq km
+land area:
+     5.2 sq km
+comparative area:
+     about 9 times the size of The Mall in Washington, DC
+note:
+     includes Eastern Island and Sand Island
+Land boundaries:
+     0 km
+Coastline:
+     15 km
+Maritime claims:
+contiguous zone:
+     24 nm
+continental shelf:
+     200-m depth or to depth of exploitation
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     tropical, but moderated by prevailing easterly winds
+Terrain:
+     low, nearly level
+Natural resources:
+     fish, wildlife
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     0%
+forest and woodland:
+     0%
+other:
+     100%
+ 
+ 
+Irrigated land:
+     0 sq km
+Environment:
+current issues:
+     NA
+natural hazards:
+     NA
+international agreements:
+     NA
+Note:
+     a coral atoll; closed to the public
+ 
+                                  People
+ 
+Population:
+     no indigenous inhabitants; note - there are 453 US military personnel
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     MQ
+Type:
+     unincorporated territory of the US administered by the US Navy, under
+     Naval Facilities Engineering Command, Pacific Division. This facility
+     has been operationally closed since 10 September 1993 and is currently
+     being transferred from Pacific Fleet to Naval Facilities Engineering
+     Command via a Memorandum of Understanding.
+Capital:
+     none; administered from Washington, DC
+Flag:
+     the US flag is used
+ 
+                                  Economy
+ 
+Overview:
+     The economy is based on providing support services for US naval
+     operations located on the islands. All food and manufactured goods
+     must be imported.
+Electricity:
+     supplied by US Military
+ 
+                              Communications
+ 
+Highways:
+total:
+     32 km
+paved:
+     NA
+Pipelines:
+     7.8 km
+ 
+ 
+Ports:
+     Sand Island
+Airports:
+total:
+     3
+usable:
+     2
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     1
+ 
+                              Defense Forces
+ 
+Note:
+     defense is the responsibility of the US
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

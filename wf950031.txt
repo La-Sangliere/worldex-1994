@@ -1,0 +1,336 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0030
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Bhutan
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Bhutan 
+ 
+ 
+                                  Bhutan
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southern Asia, in the Himalayas, between China and India
+Map references:
+     Asia, Standard Time Zones of the World
+Area:
+total area:
+     47,000 sq km
+land area:
+     47,000 sq km
+comparative area:
+     slightly more than half the size of Indiana
+Land boundaries:
+     total 1,075 km, China 470 km, India 605 km
+Coastline:
+     0 km (landlocked)
+Maritime claims:
+     none; landlocked
+International disputes:
+     none
+Climate:
+     varies; tropical in southern plains; cool winters and hot summers in
+     central valleys; severe winters and cool summers in Himalayas
+Terrain:
+     mostly mountainous with some fertile valleys and savanna
+Natural resources:
+     timber, hydropower, gypsum, calcium carbide
+Land use:
+arable land:
+     2%
+permanent crops:
+     0%
+meadows and pastures:
+     5%
+forest and woodland:
+     70%
+other:
+     23%
+Irrigated land:
+     340 sq km (1989 est.)
+Environment:
+current issues:
+     soil erosion; limited access to safe drinking water
+natural hazards:
+     violent storms coming down from the Himalayas are the source of the
+     country's name which translates as Land of the Thunder Dragon
+international agreements:
+     party to - Nuclear Test Ban; signed, but not ratified - Biodiversity,
+     Climate Change, Law of the Sea
+Note:
+     landlocked; strategic location between China and India; controls
+     several key Himalayan mountain passes
+ 
+ 
+                                  People
+ 
+Population:
+     716,380 (July 1994 est.)
+note:
+     other estimates range as high as 1.7 million (July 1994 est.)
+Population growth rate:
+     2.34% (1994 est.)
+Birth rate:
+     39.31 births/1,000 population (1994 est.)
+Death rate:
+     15.93 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     121 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     50.6 years
+male:
+     51.15 years
+female:
+     50.03 years (1994 est.)
+Total fertility rate:
+     5.42 children born/woman (1994 est.)
+Nationality:
+noun:
+     Bhutanese (singular and plural)
+adjective:
+     Bhutanese
+Ethnic divisions:
+     Bhote 50%, ethnic Nepalese 35%, indigenous or migrant tribes 15%
+Religions:
+     Lamaistic Buddhism 75%, Indian- and Nepalese-influenced Hinduism 25%
+Languages:
+     Dzongkha (official), Bhotes speak various Tibetan dialects; Nepalese
+     speak various Nepalese dialects
+Literacy:
+total population:
+     NA%
+male:
+     NA%
+female:
+     NA%
+Labor force:
+     NA
+by occupation:
+     agriculture 93%, services 5%, industry and commerce 2%
+note:
+     massive lack of skilled labor
+ 
+                                Government
+ 
+ 
+Names:
+conventional long form:
+     Kingdom of Bhutan
+conventional short form:
+Digraph:
+     BT
+Type:
+     monarchy; special treaty relationship with India
+Capital:
+     Thimphu
+Administrative divisions:
+     18 districts (dzongkhag, singular and plural); Bumthang, Chhukha,
+     Chirang, Daga, Geylegphug, Ha, Lhuntshi, Mongar, Paro, Pemagatsel,
+     Punakha, Samchi, Samdrup Jongkhar, Shemgang, Tashigang, Thimphu,
+     Tongsa, Wangdi Phodrang
+Independence:
+     8 August 1949 (from India)
+National holiday:
+     National Day, 17 December (1907) (Ugyen Wangchuck became first
+     hereditary king)
+Constitution:
+     no written constitution or bill of rights
+Legal system:
+     based on Indian law and English common law; has not accepted
+     compulsory ICJ jurisdiction
+Suffrage:
+     each family has one vote in village-level elections
+Executive branch:
+Chief of State and Head of Government:
+     King Jigme Singye WANGCHUCK (since 24 July 1972)
+Royal Advisory Council (Lodoi Tsokde):
+     nominated by the king
+cabinet:
+     Council of Ministers (Lhengye Shungtsog); appointed by the king
+Legislative branch:
+     unicameral National Assembly (Tshogdu); no national elections
+Judicial branch:
+     High Court
+Political parties and leaders:
+     no legal parties
+Other political or pressure groups:
+     Buddhist clergy; Indian merchant community; ethnic Nepalese
+     organizations leading militant antigovernment campaign
+Member of:
+     AsDB, CP, ESCAP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IMF, INTELSAT, IOC,
+     ITU, NAM, SAARC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO
+Diplomatic representation in US:
+     no formal diplomatic relations; the Bhutanese mission to the UN in New
+     York has consular jurisdiction in the US
+consulate(s) general:
+     New York
+US diplomatic representation:
+     no formal diplomatic relations, although informal contact is
+     maintained between the Bhutanese and US Embassies in New Delhi (India)
+ 
+ 
+Flag:
+     divided diagonally from the lower hoist side corner; the upper
+     triangle is orange and the lower triangle is red; centered along the
+     dividing line is a large black and white dragon facing away from the
+     hoist side
+ 
+                                  Economy
+ 
+Overview:
+     The economy, one of the world's least developed, is based on
+     agriculture and forestry, which provide the main livelihood for 90% of
+     the population and account for about 50% of GDP. Rugged mountains
+     dominate the terrain and make the building of roads and other
+     infrastructure difficult and expensive. The economy is closely aligned
+     with that of India through strong trade and monetary links. The
+     industrial sector is small and technologically backward, with most
+     production of the cottage industry type. Most development projects,
+     such as road construction, rely on Indian migrant labor. Bhutan's
+     hydropower potential and its attraction for tourists are its most
+     important natural resources; however, the government limits the number
+     of tourists to 4,000 per year to minimize foreign influence. Much of
+     the impetus for growth has come from large public-sector companies.
+     Nevertheless, in recent years, Bhutan has shifted toward decentralized
+     development planning and greater private initiative. The government
+     privatized several large public-sector firms, is revamping its trade
+     regime and liberalizing administerial procedures over industrial
+     licensing. The government's industrial contribution to GDP decreased
+     from 13% in 1988 to about 10% in 1992.
+National product:
+     GDP - purchasing power equivalent - $500 million (1993 est.)
+National product real growth rate:
+     5% (FY93 est.)
+National product per capita:
+     $700 (1993 est.)
+Inflation rate (consumer prices):
+     11% (October 1993)
+Unemployment rate:
+     NA%
+Budget:
+revenues:
+     $100 million
+expenditures:
+     $112 million, including capital expenditures of $60 million (FY92
+     est.)
+note:
+     the government of India finances nearly one-quarter of Bhutan's budget
+     expenditures
+Exports:
+     $66 million (f.o.b., FY93 est.)
+commodities:
+     cardamon, gypsum, timber, handicrafts, cement, fruit, electricity (to
+     India), precious stones, spices
+partners:
+     India 82%, Bangladesh, Singapore
+ 
+ 
+Imports:
+     $125 million (c.i.f., FY93 est.)
+commodities:
+     fuel and lubricants, grain, machinery and parts, vehicles, fabrics
+partners:
+     India 60%, Japan, Germany, US, UK
+External debt:
+     $141 million (June 1993)
+Industrial production:
+     growth rate NA%; accounts for 8% of GDP; primarily cottage industry
+     and home based handicrafts
+Electricity:
+capacity:
+     336,000 kW
+production:
+     1.5422 billion kWh
+consumption per capita:
+     2,203 kWh (25.8% is exported to India leaving 1,633 kWh per capita;
+     1990-91)
+Industries:
+     cement, wood products, processed fruits, alcoholic beverages, calcium
+     carbide
+Agriculture:
+     accounts for 45% of GDP; based on subsistence farming and animal
+     husbandry; self-sufficient in food except for foodgrains; other
+     production - rice, corn, root crops, citrus fruit, dairy products,
+     eggs
+Economic aid:
+recipient:
+     Western (non-US) countries, ODA and OOF bilateral commitments
+     (1970-89), $115 million;  OPEC bilateral aid (1979-89), $11 million
+Currency:
+     1 ngultrum (Nu) = 100 chetrum; note - Indian currency is also legal
+     tender
+Exchange rates:
+     ngultrum (Nu) per US$1 - 31.370 (January 1994), 30.493 (1993), 25.918
+     (1992), 22.742 (1991), 17.504 (1990), 16.226 (1989); note - the
+     Bhutanese ngultrum is at par with the Indian rupee
+Fiscal year:
+     1 July - 30 June
+ 
+                              Communications
+ 
+Highways:
+total:
+     2,165 km
+paved:
+     NA
+unpaved:
+     gravel 1,703 km
+undifferentiated:
+     462 km
+Airports:
+total:
+     2
+ 
+ 
+usable:
+     2
+with permanent-surface runways:
+     1
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     2
+Telecommunications:
+     domestic telephone service is very poor with very few telephones in
+     use; international telephone and telegraph service is by land line
+     through India; a satellite earth station was planned (1990); broadcast
+     stations - 1 AM, 1 FM, no TV (1990)
+ 
+                              Defense Forces
+ 
+Branches:
+     Royal Bhutan Army, Palace Guard, Militia
+Manpower availability:
+     males age 15-49 424,558; fit for military service 226,851; reach
+     military age (18) annually 17,310 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GDP
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

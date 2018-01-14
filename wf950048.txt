@@ -1,0 +1,318 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0047
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Cayman Islands
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Cayman Islands 
+ 
+ 
+                              Cayman Islands
+ 
+ 
+                                  Header
+ 
+Affiliation:
+     (dependent territory of the UK)
+ 
+                                 Geography
+ 
+Location:
+     Caribbean, in the northwestern Caribbean Sea, nearly halfway between
+     Cuba and Honduras
+Map references:
+     Central America and the Caribbean
+Area:
+total area:
+     260 sq km
+land area:
+     260 sq km
+comparative area:
+     slightly less than 1.5 times the size of Washington, DC
+Land boundaries:
+     0 km
+Coastline:
+     160 km
+Maritime claims:
+exclusive fishing zone:
+     200 nm
+territorial sea:
+     3 nm
+International disputes:
+     none
+Climate:
+     tropical marine; warm, rainy summers (May to October) and cool,
+     relatively dry winters (November to April)
+Terrain:
+     low-lying limestone base surrounded by coral reefs
+Natural resources:
+     fish, climate and beaches that foster tourism
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     8%
+forest and woodland:
+     23%
+other:
+     69%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     NA
+ 
+ 
+natural hazards:
+     subject to hurricanes
+international agreements:
+     NA
+Note:
+     important location between Cuba and Central America
+ 
+                                  People
+ 
+Population:
+     31,790 (July 1994 est.)
+Population growth rate:
+     4.33% (1994 est.)
+Birth rate:
+     15.06 births/1,000 population (1994 est.)
+Death rate:
+     4.98 deaths/1,000 population (1994 est.)
+Net migration rate:
+     33.2 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     8.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     77.1 years
+male:
+     75.37 years
+female:
+     78.81 years (1994 est.)
+Total fertility rate:
+     1.46 children born/woman (1994 est.)
+Nationality:
+noun:
+     Caymanian(s)
+adjective:
+     Caymanian
+Ethnic divisions:
+     mixed 40%, white 20%, black 20%, expatriates of various ethnic groups
+     20%
+Religions:
+     United Church (Presbyterian and Congregational), Anglican, Baptist,
+     Roman Catholic, Church of God, other Protestant denominations
+Languages:
+     English
+Literacy:
+     age 15 and over having ever attended school (1970)
+total population:
+     98%
+male:
+     98%
+female:
+     98%
+Labor force:
+     8,061
+ 
+ 
+by occupation:
+     service workers 18.7%, clerical 18.6%, construction 12.5%, finance and
+     investment 6.7%, directors and business managers 5.9% (1979)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+Digraph:
+     CJ
+Type:
+     dependent territory of the UK
+Capital:
+     George Town
+Administrative divisions:
+     8 districts; Creek, Eastern, Midland, South Town, Spot Bay, Stake Bay,
+     West End, Western
+Independence:
+     none (dependent territory of the UK)
+National holiday:
+     Constitution Day (first Monday in July)
+Constitution:
+     1959, revised 1972 and 1992
+Legal system:
+     British common law and local statutes
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Queen ELIZABETH II (since 6 February 1952)
+head of government:
+     Governor and President of the Executive Council Michael GORE (since 15
+     September 1992)
+cabinet:
+     Executive Council; 3 members are appointed by the governor, 4 members
+     elected by the Legislative Assembly
+Legislative branch:
+     unicameral
+Legislative Assembly:
+     election last held November 1992 (next to be held November 1996);
+     results - percent of vote by party NA; seats - (15 total, 12 elected)
+Judicial branch:
+     Grand Court, Cayman Islands Court of Appeal
+Political parties and leaders:
+     no formal political parties
+Member of:
+     CARICOM (observer), CDB, INTERPOL (subbureau), IOC
+Diplomatic representation in US:
+     none (dependent territory of the UK)
+US diplomatic representation:
+     none (dependent territory of the UK)
+ 
+ 
+Flag:
+     blue, with the flag of the UK in the upper hoist-side quadrant and the
+     Caymanian coat of arms on a white disk centered on the outer half of
+     the flag; the coat of arms includes a pineapple and turtle above a
+     shield with three stars (representing the three islands) and a scroll
+     at the bottom bearing the motto HE HATH FOUNDED IT UPON THE SEAS
+ 
+                                  Economy
+ 
+Overview:
+     The economy depends heavily on tourism (70% of GDP and 75% of foreign
+     currency earnings) and offshore financial services, with the tourist
+     industry aimed at the luxury market and catering mainly to visitors
+     from North America. About 90% of the islands' food and consumer goods
+     needs must be imported. The Caymanians enjoy one of the highest
+     standards of living in the region.
+National product:
+     GDP - exchange rate conversion - $670 million (1991 est.)
+National product real growth rate:
+     4.4% (1991)
+National product per capita:
+     $23,000 (1991 est.)
+Inflation rate (consumer prices):
+     1.5% (1992 est.)
+Unemployment rate:
+     7% (1992)
+Budget:
+revenues:
+     $141.5 million
+expenditures:
+     $160.7 million, including capital expenditures of $NA (1991)
+Exports:
+     $2.6 million (f.o.b., 1991 est.)
+commodities:
+     turtle products, manufactured consumer goods
+partners:
+     mostly US
+Imports:
+     $262.2 million (c.i.f., 1991 est.)
+commodities:
+     foodstuffs, manufactured goods
+partners:
+     US, Trinidad and Tobago, UK, Netherlands Antilles, Japan
+External debt:
+     $15 million (1986)
+Industrial production:
+     growth rate NA%
+Electricity:
+capacity:
+     74,000 kW
+production:
+     256 million kWh
+consumption per capita:
+     8,780 kWh (1992)
+ 
+ 
+Industries:
+     tourism, banking, insurance and finance, construction, building
+     materials, furniture making
+Agriculture:
+     minor production of vegetables, fruit, livestock; turtle farming
+Illicit drugs:
+     a major money-laundering center for illicit drug profits;
+     transshipment point for cocaine and marijuana bound for the US and
+     Europe
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-89), $26.7 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89),  $35
+     million
+Currency:
+     1 Caymanian dollar (CI$) = 100 cents
+Exchange rates:
+     Caymanian dollars (CI$) per US$1 - 0.85 (22 November 1993)
+Fiscal year:
+     1 April - 31 March
+ 
+                              Communications
+ 
+Highways:
+total:
+     160 km (main roads)
+paved:
+     NA
+unpaved:
+     NA
+Ports:
+     George Town, Cayman Brac
+Merchant marine:
+     30 ships (1,000 GRT or over) totaling 368,037 GRT/581,060 DWT, bulk 9,
+     cargo 8, chemical tanker 2, oil tanker 3, passenger-cargo 1,
+     roll-on/roll-off cargo 7
+note:
+     a flag of convenience registry
+Airports:
+total:
+     3
+usable:
+     3
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     0
+with runways 1,220-2,439 m:
+     2
+Telecommunications:
+     35,000 telephones; telephone system uses 1 submarine coaxial cable and
+     1 Atlantic Ocean INTELSAT earth station to link islands and access
+     international services; broadcast stations - 2 AM, 1 FM, no TV
+ 
+ 
+ 
+                              Defense Forces
+ 
+Branches:
+     Royal Cayman Islands Police Force (RCIPF)
+Note:
+     defense is the responsibility of the UK
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

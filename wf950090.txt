@@ -1,0 +1,412 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0089
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Georgia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Georgia 
+ 
+ 
+                                  Georgia
+ 
+ 
+                                  Header
+ 
+Note:
+     Georgia is currently besieged by interethnic strife in its Abkhazian
+     and South Ossetian enclaves.
+ 
+                                 Geography
+ 
+Location:
+     Southwestern Asia, bordering the Black Sea, between Turkey and Russia
+Map references:
+     Africa, Asia, Commonwealth of Independent States - European States,
+     Middle East, Standard Time Zones of the World
+Area:
+total area:
+     69,700 sq km
+land area:
+     69,700 sq km
+comparative area:
+     slightly larger than South Carolina
+Land boundaries:
+     total 1,461 km, Armenia 164 km, Azerbaijan 322 km, Russia 723 km,
+     Turkey 252 km
+Coastline:
+     310 km
+Maritime claims:
+note:
+     12 nm in 1973 USSR-Turkish Protocol concerning the sea boundary
+     between the two states in the Black Sea; Georgia claims the coastline
+     along the Black Sea as its international waters, although it cannot
+     control this area and the Russian navy and commercial ships transit
+     freely
+International disputes:
+     none
+Climate:
+     warm and pleasant; Mediterranean-like on Black Sea coast
+Terrain:
+     largely mountainous with Great Caucasus Mountains in the north and
+     Lesser Caucasus Mountains in the south; Kolkhida Lowland opens to the
+     Black Sea in the west; Mtkvari River Basin in the east; good soils in
+     river valley flood plains, foothills of Kolkhida Lowland
+Natural resources:
+     forest lands, hydropower, manganese deposits, iron ores, copper, minor
+     coal and oil deposits; coastal climate and soils allow for important
+     tea and citrus growth
+Land use:
+arable land:
+     NA%
+permanent crops:
+     NA%
+meadows and pastures:
+     NA%
+forest and woodland:
+     NA%
+ 
+ 
+other:
+     NA%
+Irrigated land:
+     4,660 sq km (1990)
+Environment:
+current issues:
+     air pollution, particularly in Rust'avi; heavy pollution of Mtkvari
+     River and the Black Sea; inadequate supplies of safe drinking water;
+     soil pollution from toxic chemicals
+natural hazards:
+     NA
+international agreements:
+     NA
+ 
+                                  People
+ 
+Population:
+     5,681,025 (July 1994 est.)
+Population growth rate:
+     0.81% (1994 est.)
+Birth rate:
+     16.11 births/1,000 population (1994 est.)
+Death rate:
+     8.69 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0.65 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     23.4 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     72.84 years
+male:
+     69.16 years
+female:
+     76.7 years (1994 est.)
+Total fertility rate:
+     2.18 children born/woman (1994 est.)
+Nationality:
+noun:
+     Georgian(s)
+adjective:
+     Georgian
+Ethnic divisions:
+     Georgian 70.1%, Armenian 8.1%, Russian 6.3%, Azeri 5.7%, Ossetian 3%,
+     Abkhaz 1.8%, other 5%
+Religions:
+     Georgian Orthodox 65%, Russian Orthodox 10%, Muslim 11%, Armenian
+     Orthodox 8%, unknown 6%
+Languages:
+     Armenian 7%, Azeri 6%, Georgian 71% (official), Russian 9%, other 7%
+Literacy:
+     age 9-49 can read and write (1970)
+total population:
+     100%
+ 
+ 
+male:
+     100%
+female:
+     100%
+Labor force:
+     2.763 million
+by occupation:
+     industry and construction 31%, agriculture and forestry 25%, other 44%
+     (1990)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Georgia
+conventional short form:
+local long form:
+     Sak'art'velos Respublika
+local short form:
+     Sak'art'velo
+former:
+     Georgian Soviet Socialist Republic
+Digraph:
+     GG
+Type:
+     republic
+Capital:
+     T'bilisi
+Administrative divisions:
+     2 autonomous republics (avtomnoy respubliki, singular - avtom
+     respublika); Abkhazia (Sokhumi), Ajaria (Bat'umi)
+note:
+     the administrative centers of the autonomous republics are included in
+     parentheses; there are no oblasts - the rayons around T'bilisi are
+     under direct republic jurisdiction
+Independence:
+     9 April 1991 (from Soviet Union)
+National holiday:
+     Independence Day, 9 April (1991)
+Constitution:
+     adopted NA February 1921; currently amending constitution for
+     Parliamentary and popular review by late 1995
+Legal system:
+     based on civil law system
+Suffrage:
+     18 years of age; universal
+Executive branch:
+chief of state:
+     Chairman of Parliament Eduard Amvrosiyevich SHEVARDNADZE (since 10
+     March 1992); election last held 11 October 1992 (next to be held NA
+     1995); results - Eduard SHEVARDNADZE 95%
+ 
+ 
+head of government:
+     Prime Minister Otar PATSATSIA (since September 1993); Deputy Prime
+     Ministers Avtandil MARGIANI, Zurab KERVALISHVILI (since NA), Tamaz
+     NADARISHVILI (since September 1993), Teimuraz BASILIA (since NA)
+cabinet:
+     Council of Ministers
+Legislative branch:
+     unicameral
+Georgian Parliament (Supreme Soviet):
+     elections last held 11 October 1992 (next to be held NA 1995); results
+     - percent of vote by party NA; seats - (225 total) number of seats by
+     party NA; note - representatives of 26 parties elected; Peace Bloc,
+     October 11, Unity, National Democratic Party, and the Greens Party won
+     the largest representation
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+     Merab Kostava Society, Vazha ADAMIA, chairman; Traditionalists' Union,
+     Akaki ASATIANI, chairman; Georgian Social Democratic Party, Guram
+     MUCHAIDZE, chairman; Green Party, Zurab ZHVANIA, chairman; Georgian
+     Popular Front (GPF), Nodar NATADZE, chairman; National Democratic
+     Party (NDP), Gia CHANTURIA, chairman; National Independence Party
+     (NIP), Irakliy TSERETELI, chairmen; Charter 1991 Party, Tedo
+     PATASHVILI, chairman; Peace Bloc; Unity; October 11
+Other political or pressure groups:
+     supporters of ousted President Zuiad GAMSAKHURDIA (deceased 1 January
+     1994) boycotted the October elections and remain a source of
+     opposition and instability
+Member of:
+     BSEC, CIS, CSCE, EBRD, ECE, IBRD, IDA, ILO, IMF, IMO, INMARSAT, IOC,
+     ITU, NACC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Petr CHKHEIDZE
+chancery:
+     (temporary) Suite 424, 1511 K Street NW, Washington, DC
+telephone:
+     (202) 393-6060
+US diplomatic representation:
+chief of mission:
+     Ambassador Kent N. BROWN
+embassy:
+     #25 Antoneli Street, T'bilisi 380026
+mailing address:
+     use embassy street address
+telephone:
+     (7) 8832-98-99-68
+FAX:
+     (7) 8832-93-37-59
+Flag:
+     maroon field with small rectangle in upper hoist side corner;
+     rectangle divided horizontally with black on top, white below
+ 
+                                  Economy
+ 
+ 
+Overview:
+     Georgia's economy has traditionally revolved around Black Sea tourism;
+     cultivation of citrus fruits, tea, and grapes; mining of manganese and
+     copper; and a small industrial sector producing wine, metals,
+     machinery, chemicals, and textiles. The country imports the bulk of
+     its energy needs, including natural gas and coal. Its only sizable
+     domestic energy resource is hydropower. Since 1990, widespread
+     conflicts, e.g., in Abkhazia, South Ossetia, and Mengrelia, severely
+     aggravated the economic crisis resulting from the disintegration of
+     the Soviet command economy in December 1991. Throughout 1993, much of
+     industry was functioning at only 20% of capacity; heavy disruptions in
+     agricultural cultivation were reported; and tourism was shut down. The
+     country is precariously dependent on US and EU humanitarian grain
+     shipments, as most other foods are priced beyond reach of the average
+     citizen. Georgia is also suffering from an acute energy crisis, as it
+     is having problems paying for even minimal imports. Georgia is pinning
+     its hopes for recovery on reestablishing trade ties with Russia and on
+     developing international transportation through the key Black Sea
+     ports of P'ot'i and Bat'umi.
+National product:
+     GDP - purchasing power equivalent - $7.8 billion (1993 estimate from
+     the UN International Comparison Program, as extended to 1991 and
+     published in the World Bank's World Development Report 1993; and as
+     extrapolated to 1993 using official Georgian statistics, which are
+     very uncertain because of major economic changes since 1990)
+National product real growth rate:
+     -35% (1993 est.)
+National product per capita:
+     $1,390 (1993 est.)
+Inflation rate (consumer prices):
+     40.5% per month (2nd half 1993 est.)
+Unemployment rate:
+     officially less than 5% but real unemployment may be up near 20%, with
+     even larger numbers of underemployed workers; real unemployment may be
+     up near 20% with even larger numbers of underemployed workers
+Budget:
+revenues:
+     $NA
+expenditures:
+     $NA, including capital expenditures of $NA
+Exports:
+     $NA
+commodities:
+     citrus fruits, tea, wine, other agricultural products; diverse types
+     of machinery; ferrous and nonferrous metals; textiles; chemicals; fuel
+     re-exports
+partners:
+     Russia, Turkey, Armenia, Azerbaijan (1992)
+Imports:
+     $NA
+commodities:
+     fuel, grain and other foods, machinery and parts, transport equipment
+partners:
+     Russia, Azerbaijan, Turkey (1993)
+ 
+ 
+External debt:
+     $100 million to $200 million (1993 est.)
+Industrial production:
+     growth rate -27% (1993); accounts for 36% of GDP
+Electricity:
+capacity:
+     4,875,000 kW
+production:
+     15.8 billion kWh
+consumption per capita:
+     2,835 kWh (1992)
+Industries:
+     heavy industrial products include raw steel, rolled steel, airplanes;
+     machine tools, foundry equipment, electric locomotives, tower cranes,
+     electric welding equipment, machinery for food preparation and meat
+     packing, electric motors, process control equipment, instruments;
+     trucks, tractors, and other farm machinery; light industrial products,
+     including cloth, hosiery, and shoes; chemicals; wood-working
+     industries; the most important food industry is wine
+Agriculture:
+     accounts for 41% of GDP; accounted for 97% of former USSR citrus
+     fruits and 93% of former USSR tea; important producer of grapes; also
+     cultivates vegetables and potatoes; dependent on imports for grain,
+     dairy products, sugar; small livestock sector
+Illicit drugs:
+     illicit cultivator of cannabis and opium poppy; mostly for domestic
+     consumption; used as transshipment point for illicit drugs to Western
+     Europe
+Economic aid:
+recipient:
+     heavily dependent on US for humanitarian grain shipments; EC granted
+     around $70 million in trade credits in 1992 and another $40 million in
+     1993; Turkey granted $50 million in 1993; smaller scale credits
+     granted by Russia and China
+Currency:
+     coupons introduced in April 1993 to be followed by introduction of the
+     lari at undetermined future date; in July 1993 use of the Russian
+     ruble was banned
+Exchange rates:
+     NA
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     1,570 km, does not include industrial lines (1990)
+Highways:
+total:
+     33,900 km
+paved and gravelled:
+     29,500 km
+unpaved:
+     earth 4,400 km (1990)
+ 
+ 
+Pipelines:
+     crude oil 370 km; refined products 300 km; natural gas 440 km (1992)
+Ports:
+     coastal - Bat'umi, P'ot'i, Sokhumi
+Merchant marine:
+     41 ships (1,000 GRT or over) totaling 575,823 GRT/882,110 DWT, bulk
+     cargo 14, oil tanker 27
+Airports:
+total:
+     37
+usable:
+     27
+with permanent-surface runways:
+     14
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     10
+with runways 1,060-2,439 m:
+     4
+note:
+     a C-130 can land on a 1,060-m airstrip
+Telecommunications:
+     poor telephone service; as of mid-1993, 672,000 telephone lines
+     providing 14 lines per 100 persons; 339,000 unsatisfied applications
+     for telephones (31 December 1990); international links via landline to
+     CIS members and Turkey; low capacity satellite earth station and
+     leased international connections via the Moscow international gateway
+     switch with other countries; international electronic mail and telex
+     service available
+Note:
+     transportation network is disrupted by ethnic conflict, criminal
+     activities, and fuel shortages
+ 
+                              Defense Forces
+ 
+Branches:
+     Army, Air Force, Navy, Interior Ministry Troops, Border Guards
+Manpower availability:
+     males age 15-49 1,362,818; fit for military service 1,081,624; reach
+     military age (18) annually 42,881 (1994 est.)
+Defense expenditures:
+     $NA, NA% of GNP
+Note:
+     Georgian forces are poorly organized and not fully under the
+     government's control
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

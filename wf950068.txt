@@ -1,0 +1,350 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0067
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Djibouti
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Djibouti 
+ 
+ 
+                                 Djibouti
+ 
+ 
+                                 Geography
+ 
+Location:
+     Eastern Africa, at the entrance to the Red Sea between Eritrea and
+     Somalia
+Map references:
+     Africa, Middle East, Standard Time Zones of the World
+Area:
+total area:
+     22,000 sq km
+land area:
+     21,980 sq km
+comparative area:
+     slightly larger than Massachusetts
+Land boundaries:
+     total 508 km, Eritrea 113 km, Ethiopia 337 km, Somalia 58 km
+Coastline:
+     314 km
+Maritime claims:
+contiguous zone:
+     24 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     none
+Climate:
+     desert; torrid, dry
+Terrain:
+     coastal plain and plateau separated by central mountains
+Natural resources:
+     geothermal areas
+Land use:
+arable land:
+     0%
+permanent crops:
+     0%
+meadows and pastures:
+     9%
+forest and woodland:
+     0%
+other:
+     91%
+Irrigated land:
+     NA sq km
+Environment:
+current issues:
+     desertification
+natural hazards:
+     prone to earthquakes, droughts
+international agreements:
+     party to - Endangered Species, Law of the Sea, Ship Pollution; signed,
+     but not ratified - Biodiversity, Climate Change
+ 
+ 
+Note:
+     strategic location near world's busiest shipping lanes and close to
+     Arabian oilfields; terminus of rail traffic into Ethiopia; a vast
+     wasteland
+ 
+                                  People
+ 
+Population:
+     412,599 (July 1994 est.)
+Population growth rate:
+     2.71% (1994 est.)
+Birth rate:
+     42.94 births/1,000 population (1994 est.)
+Death rate:
+     15.8 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     111 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     49.23 years
+male:
+     47.42 years
+female:
+     51.1 years (1994 est.)
+Total fertility rate:
+     6.21 children born/woman (1994 est.)
+Nationality:
+noun:
+     Djiboutian(s)
+adjective:
+     Djiboutian
+Ethnic divisions:
+     Somali 60%, Afar 35%, French, Arab, Ethiopian, and Italian 5%
+Religions:
+     Muslim 94%, Christian 6%
+Languages:
+     French (official), Arabic (official), Somali, Afar
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     48%
+male:
+     63%
+female:
+     34%
+Labor force:
+     NA
+by occupation:
+     a small number of semiskilled laborers at the port and 3,000 railway
+     workers
+note:
+     52% of population of working age (1983)
+ 
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     Republic of Djibouti
+conventional short form:
+former:
+     French Territory of the Afars and Issas  French Somaliland
+Digraph:
+     DJ
+Type:
+     republic
+Capital:
+Administrative divisions:
+     5 districts (cercles, singular - cercle); 'Ali Sabih, Dikhil,
+     Djibouti, Obock, Tadjoura
+Independence:
+     27 June 1977 (from France)
+National holiday:
+     Independence Day, 27 June (1977)
+Constitution:
+     multiparty constitution approved in referendum 4 September 1992
+Legal system:
+     based on French civil law system, traditional practices, and Islamic
+     law
+Suffrage:
+     universal adult at age NA
+Executive branch:
+chief of state:
+     President HASSAN GOULED Aptidon (since 24 June 1977); election last
+     held 7 May 1993 (next to be held NA 1999); results - President Hassan
+     GOULED Aptidon was reelected
+head of government:
+     Prime Minister BARKAT Gourad Hamadou (since 30 September 1978)
+cabinet:
+     Council of Ministers; responsible to the president
+Legislative branch:
+     unicameral
+Chamber of Deputies (Chambre des Deputes):
+     elections last held 18 December 1992; results - RPP is the only party;
+     seats - (65 total) RPP 65
+Judicial branch:
+     Supreme Court (Cour Supreme)
+Political parties and leaders:
+ruling party:
+     People's Progress Assembly (RPP), Hassan GOULED Aptidon
+other parties:
+     Democratic Renewal Party (PRD), Mohamed Jama ELABE; Democratic
+     National Party (PND), ADEN Robleh Awaleh
+Other political or pressure groups:
+     Front for the Restoration of Unity and Democracy (FRUD) and
+     affiliates; Movement for Unity and Democracy (MUD)
+ 
+ 
+Member of:
+     ACCT, ACP, AfDB, AFESD, AL, ECA, FAO, G-77, IBRD, ICAO, IDA, IDB,
+     IFAD, IFC, IGADD, ILO, IMF, IMO, INTELSAT (nonsignatory user),
+     INTERPOL, IOC, ITU, LORCS, NAM, OAU, OIC, UN, UNESCO, UNCTAD, UNIDO,
+     UPU, WHO, WMO
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Roble OLHAYE
+chancery:
+     Suite 515, 1156 15th Street NW, Washington, DC 20005
+telephone:
+     (202) 331-0270
+FAX:
+     (202) 331-0302
+US diplomatic representation:
+chief of mission:
+     Ambassador Martin CHESES
+embassy:
+     Plateau du Serpent, Boulevard Marechal Joffre, Djibouti
+mailing address:
+     B. P. 185, Djibouti
+telephone:
+     [253] 35-39-95
+FAX:
+     [253] 35-39-40
+Flag:
+     two equal horizontal bands of light blue (top) and light green with a
+     white isosceles triangle based on the hoist side bearing a red
+     five-pointed star in the center
+ 
+                                  Economy
+ 
+Overview:
+     The economy is based on service activities connected with the
+     country's strategic location and status as a free trade zone in
+     northeast Africa. Djibouti provides services as both a transit port
+     for the region and an international transshipment and refueling
+     center. It has few natural resources and little industry. The nation
+     is, therefore, heavily dependent on foreign assistance (an important
+     supplement to GDP) to help support its balance of payments and to
+     finance development projects. An unemployment rate of over 30%
+     continues to be a major problem. Per capita consumption dropped an
+     estimated 35% over the last five years because of recession, civil
+     war, and a high population growth rate (including immigrants and
+     refugees).
+National product:
+     GDP - purchasing power equivalent - $500 million (1993 est.)
+National product real growth rate:
+     -1% (1992 est.)
+National product per capita:
+     $1,200 (1993 est.)
+Inflation rate (consumer prices):
+     6% (1992)
+Unemployment rate:
+     over 30% (1989)
+ 
+ 
+Budget:
+revenues:
+     $170 million
+expenditures:
+     $203 million, including capital expenditures of $70 million (1991
+     est.)
+Exports:
+     $158 million (f.o.b., 1992 est.)
+commodities:
+     hides and skins, coffee (in transit)
+partners:
+     Africa 47%, Middle East 40%, Western Europe 12%
+Imports:
+     $334 million (f.o.b., 1992 est.)
+commodities:
+     foods, beverages, transport equipment, chemicals, petroleum products
+partners:
+     Western Europe 48%, Asia 25%, Africa 8%
+External debt:
+     $355 million (December 1990)
+Industrial production:
+     growth rate 3% (1991 est.); manufacturing accounts for 12% of GDP
+Electricity:
+capacity:
+     115,000 kW
+production:
+     200 million kWh
+consumption per capita:
+     580 kWh (1991)
+Industries:
+     limited to a few small-scale enterprises, such as dairy products and
+     mineral-water bottling
+Agriculture:
+     accounts for only 2% of GDP; scanty rainfall limits crop production to
+     mostly fruit and vegetables; half of population pastoral nomads
+     herding goats, sheep, and camels; imports bulk of food needs
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY78-89), $39 million; Western
+     (non-US) countries, including ODA and OOF bilateral commitments
+     (1970-89), $1.1 billion; OPEC bilateral aid (1979-89), $149 million;
+     Communist countries (1970-89), $35 million
+Currency:
+     1 Djiboutian franc (DF) = 100 centimes
+Exchange rates:
+     Djiboutian francs (DF) per US$1 - 177.721 (fixed rate since 1973)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+     the Ethiopian-Djibouti railroad extends for 97 km through Djibouti
+ 
+ 
+Highways:
+total:
+     2,900 km
+paved:
+     280 km
+unpaved:
+     improved, unimproved earth 2,620 km (1982)
+Ports:
+Merchant marine:
+     1 cargo ship (1,000 GRT or over) totaling 1,369 GRT/3,030 DWT
+Airports:
+total:
+     13
+usable:
+     11
+with permanent-surface runways:
+     2
+with runways over 3,659 m:
+     0
+with runways 2,440-3,659 m:
+     2
+with runways 1,220-2,439 m:
+     4
+Telecommunications:
+     telephone facilities in the city of Djibouti are adequate as are the
+     microwave radio relay connections to outlying areas of the country;
+     international connections via submarine cable to Saudi Arabia and by
+     satellite to other countries; one ground station each for Indian Ocean
+     INTELSAT and ARABSAT; broadcast stations - 2 AM, 2 FM, 1 TV
+ 
+                              Defense Forces
+ 
+Branches:
+     Djibouti National Army (including Navy and Air Force), National
+     Security Force (Force Nationale de Securite), National Police Force
+Manpower availability:
+     males age 15-49 99,811; fit for military service 58,346
+Defense expenditures:
+     exchange rate conversion - $26 million, NA% of GDP (1989)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.

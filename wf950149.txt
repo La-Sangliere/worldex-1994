@@ -1,0 +1,447 @@
+Access to THE WORLD FACTBOOK 1994 provided courtesy of
+the libraries of the University of Missouri-St. Louis.
+======================================================
+National Trade Data Bank
+ITEM ID     : CI WOFACT WO0148
+DATE        : Oct 28, 1994
+ 
+AGENCY      : CENTRAL INTELLIGENCE AGENCY
+PROGRAM     : WORLD FACTBOOK
+TITLE       : World Factbook: Malaysia
+ 
+Source key      : CI 
+Program key     : CI WOFACT 
+Update sched.   : Annually         
+Data type       : TEXT 
+End year        : 1994
+Date of record  : 19941020
+Keywords 3      :  
+Keywords 3      : | Malaysia 
+ 
+ 
+                                 Malaysia
+ 
+ 
+                                 Geography
+ 
+Location:
+     Southeastern Asia, bordering the South China Sea, between Vietnam and
+     Indonesia
+Map references:
+     Asia, Oceania, Southeast Asia, Standard Time Zones of the World
+Area:
+total area:
+     329,750 sq km
+land area:
+     328,550 sq km
+comparative area:
+     slightly larger than New Mexico
+Land boundaries:
+     total 2,669 km, Brunei 381 km, Indonesia 1,782 km, Thailand 506 km
+Coastline:
+     4,675 km (Peninsular Malaysia 2,068 km, East Malaysia 2,607 km)
+Maritime claims:
+continental shelf:
+     200-m depth or to depth of exploitation; specified boundary in the
+     South China Sea
+exclusive fishing zone:
+     200 nm
+exclusive economic zone:
+     200 nm
+territorial sea:
+     12 nm
+International disputes:
+     involved in a complex dispute over the Spratly Islands with China,
+     Philippines, Taiwan, Vietnam, and possibly Brunei; State of Sabah
+     claimed by the Philippines; Brunei may wish to purchase the Malaysian
+     salient that divides Brunei into two parts; two islands in dispute
+     with Singapore; two islands in dispute with Indonesia
+Climate:
+     tropical; annual southwest (April to October) and northeast (October
+     to February) monsoons
+Terrain:
+     coastal plains rising to hills and mountains
+Natural resources:
+     tin, petroleum, timber, copper, iron ore, natural gas, bauxite
+Land use:
+arable land:
+     3%
+permanent crops:
+     10%
+meadows and pastures:
+     0%
+forest and woodland:
+     63%
+other:
+     24%
+Irrigated land:
+     3,420 sq km (1989 est.)
+ 
+ 
+Environment:
+current issues:
+     air and water pollution; deforestation
+natural hazards:
+     subject to flooding
+international agreements:
+     party to - Endangered Species, Hazardous Wastes, Marine Life
+     Conservation, Nuclear Test Ban, Ozone Layer Protection, Tropical
+     Timber; signed, but not ratified - Biodiversity, Climate Change, Law
+     of the Sea
+Note:
+     strategic location along Strait of Malacca and southern South China
+     Sea
+ 
+                                  People
+ 
+Population:
+     19,283,157 (July 1994 est.)
+Population growth rate:
+     2.28% (1994 est.)
+Birth rate:
+     28.45 births/1,000 population (1994 est.)
+Death rate:
+     5.67 deaths/1,000 population (1994 est.)
+Net migration rate:
+     0 migrant(s)/1,000 population (1994 est.)
+Infant mortality rate:
+     25.6 deaths/1,000 live births (1994 est.)
+Life expectancy at birth:
+total population:
+     69.15 years
+male:
+     66.26 years
+female:
+     72.18 years (1994 est.)
+Total fertility rate:
+     3.51 children born/woman (1994 est.)
+Nationality:
+noun:
+     Malaysian(s)
+adjective:
+     Malaysian
+Ethnic divisions:
+     Malay and other indigenous 59%, Chinese 32%, Indian 9%
+Religions:
+Peninsular Malaysia:
+     Muslim (Malays), Buddhist (Chinese), Hindu (Indians)
+Sabah:
+     Muslim 38%, Christian 17%, other 45%
+Sarawak:
+     tribal religion 35%, Buddhist and Confucianist 24%, Muslim 20%,
+     Christian 16%, other 5%
+Languages:
+Peninsular Malaysia:
+     Malay (official), English, Chinese dialects, Tamil
+ 
+ 
+Sabah:
+     English, Malay, numerous tribal dialects, Chinese (Mandarin and Hakka
+     dialects predominate)
+Sarawak:
+     English, Malay, Mandarin, numerous tribal languages
+     *** No data for this item ***
+Literacy:
+     age 15 and over can read and write (1990 est.)
+total population:
+     78%
+male:
+     86%
+female:
+     70%
+Labor force:
+     7.258 million (1991 est.)
+ 
+                                Government
+ 
+Names:
+conventional long form:
+     none
+conventional short form:
+former:
+     Malayan Union
+Digraph:
+     MY
+Type:
+     constitutional monarchy
+note:
+     Federation of Malaysia formed 9 July 1963; nominally headed by the
+     paramount ruler (king) and a bicameral Parliament; Peninsular
+     Malaysian states - hereditary rulers in all but Melaka, where
+     governors are appointed by
+     Malaysian Pulau Pinang Government; powers of state governments are
+     limited by federal Constitution; Sabah - self-governing state, holds
+     20 seats in House of Representatives, with foreign affairs, defense,
+     internal security, and other powers delegated to federal government;
+     Sarawak - self-governing state, holds 27 seats in House of
+     Representatives, with foreign affairs, defense, internal security, and
+     other powers delegated to federal government
+Capital:
+     Kuala Lumpur
+Administrative divisions:
+     13 states (negeri-negeri, singular - negeri) and 2 federal
+     territories* (wilayah-wilayah persekutuan, singular - wilayah
+     persekutuan); Johor, Kedah, Kelantan, Labuan*, Melaka, Negeri
+     Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Sabah, Sarawak,
+     Selangor, Terengganu, Wilayah Persekutuan*
+Independence:
+     31 August 1957 (from UK)
+National holiday:
+     National Day, 31 August (1957)
+ 
+ 
+Constitution:
+     31 August 1957, amended 16 September 1963
+Legal system:
+     based on English common law; judicial review of legislative acts in
+     the Supreme Court at request of supreme head of the federation; has
+     not accepted compulsory ICJ jurisdiction
+Suffrage:
+     21 years of age; universal
+Executive branch:
+chief of state:
+     Paramount Ruler JA'AFAR ibni Abdul Rahman (since 26 April 1994);
+     Deputy Paramount Ruler SALAHUDDIN ibni Hisammuddin Alam Shah (since 26
+     April 1994)
+head of government:
+     Prime Minister Dr. MAHATHIR bin Mohamad (since 16 July 1981); Deputy
+     Prime Minister ANWAR bin Ibrahim (since 1 December 1993)
+cabinet:
+     Cabinet; appointed by the Paramount Ruler from members of parliament
+Legislative branch:
+     bicameral Parliament (Parlimen)
+Senate (Dewan Negara):
+     consists of a 58-member body, 32 appointed by the paramount ruler and
+     16 elected by the state legislatures
+House of Representatives (Dewan Rakyat):
+     elections last held 21 October 1990 (next to be held by August 1995);
+     results - National Front 52%, other 48%; seats - (180 total) National
+     Front 127, DAP 20, PAS 7, independents 4, other 22; note - within the
+     National Front, UMNO got 71 seats and MCA 18 seats
+Judicial branch:
+     Supreme Court
+Political parties and leaders:
+Peninsular Malaysia:
+     National Front, a confederation of 13 political parties dominated by
+     United Malays National Organization Baru (UMNO Baru), MAHATHIR bin
+     Mohamad; Malaysian Chinese Association (MCA), LING Liong Sik; Gerakan
+     Rakyat Malaysia, LIM Keng Yaik; Malaysian Indian Congress (MIC), S.
+     Samy VELLU
+Sabah:
+     National Front, Tan Sri SAKARAN, Sabah Chief Minister; United Sabah
+     National Organizaton (USNO), leader NA
+Sarawak:
+     coalition Sarawak National Front composed of the Party Pesaka
+     Bumiputra Bersatu (PBB), Datuk Patinggi Amar Haji Abdul TAIB Mahmud;
+     Sarawak United People's Party (SUPP), Datuk Amar James WONG Soon Kai;
+     Sarawak National Party (SNAP), Datuk Amar James WONG; Parti Bansa
+     Dayak Sarawak (PBDS), Datuk Leo MOGGIE; major opposition parties are
+     Democratic Action Party (DAP), LIM Kit Siang and Pan-Malaysian Islamic
+     Party (PAS), Fadzil NOOR
+Member of:
+     APEC, AsDB, ASEAN, C, CCC, CP, ESCAP, FAO, G-15, G-77, GATT, IAEA,
+     IBRD, ICAO, ICFTU, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INMARSAT,
+     INTELSAT, INTERPOL, IOC, ISO, ITU, LORCS, MINURSO, NAM, OIC, UN,
+     UNAVEM II, UNCTAD, UNESCO, UNIDO, UNIKOM, UNOMOZ, UNOSOM, UNTAC, UPU,
+     WCL, WHO, WIPO, WMO, WTO
+ 
+ 
+Diplomatic representation in US:
+chief of mission:
+     Ambassador Abdul MAJID bin Mohamed
+chancery:
+     2401 Massachusetts Avenue NW, Washington, DC 20008
+telephone:
+     (202) 328-2700
+FAX:
+     (202) 483-7661
+consulate(s) general:
+     Los Angeles and New York
+US diplomatic representation:
+chief of mission:
+     Ambassador John S. WOLF
+embassy:
+     376 Jalan Tun Razak, 50400 Kuala Lumpur
+mailing address:
+     P. O. Box No. 10035, 50700 Kuala Lumpur; APO AP 96535-5000
+telephone:
+     [60] (3) 248-9011
+FAX:
+     [60] (3) 242-2207
+Flag:
+     fourteen equal horizontal stripes of red (top) alternating with white
+     (bottom); there is a blue rectangle in the upper hoist-side corner
+     bearing a yellow crescent and a yellow fourteen-pointed star; the
+     crescent and the star are traditional symbols of Islam; the design was
+     based on the flag of the US
+ 
+                                  Economy
+ 
+Overview:
+     The Malaysian economy, a mixture of private enterprise and a soundly
+     managed public sector, has posted a remarkable record of 8%-9% average
+     growth in 1987-93. This growth has resulted in a substantial reduction
+     in poverty and a marked rise in real wages. Despite sluggish growth in
+     the major world economies in 1992-93, demand for Malaysian goods
+     remained strong, and foreign investors continued to commit large sums
+     in the economy. The government is aware of the inflationary potential
+     of this rapid development and is closely monitoring fiscal and
+     monetary policies.
+National product:
+     GDP - purchasing power equivalent - $141 billion (1993 est.)
+National product real growth rate:
+     8% (1993 est.)
+National product per capita:
+     $7,500 (1993 est.)
+Inflation rate (consumer prices):
+     3.6% (1993)
+Unemployment rate:
+     3% (1993)
+Budget:
+revenues:
+     $19.6 billion
+ 
+ 
+expenditures:
+     $18 billion, including capital expenditures of $5.4 billion (1994
+     est.)
+Exports:
+     $46.8 billion (f.o.b., 1993 est.)
+commodities:
+     electronic equipment, petroleum and petroleum products, palm oil, wood
+     and wood products, rubber, textiles
+partners:
+     Singapore 23%, US 15%, Japan 13%, UK 4%, Germany 4%, Thailand 4%
+     (1991)
+Imports:
+     $40.4 billion (f.o.b., 1993 est.)
+commodities:
+     machinery and equipment, chemicals, food, petroleum products
+partners:
+     Japan 26%, Singapore 21%, US 16%, Taiwan 6%, Germany 4%, UK 3%,
+     Australia 3% (1991)
+External debt:
+     $18.4 billion (1993 est.)
+Industrial production:
+     growth rate 13% (1992); accounts for 43% of GDP
+Electricity:
+capacity:
+     8,000,000 kW
+production:
+     30 billion kWh
+consumption per capita:
+     1,610 kWh (1992)
+Industries:
+Peninsular Malaysia:
+     rubber and oil palm processing and manufacturing, light manufacturing
+     industry, electronics, tin mining and smelting, logging and processing
+     timber
+Sabah:
+     logging, petroleum production
+Sarawak:
+     agriculture processing, petroleum production and refining, logging
+Agriculture:
+     accounts for 17% of GDP
+Peninsular Malaysia:
+     natural rubber, palm oil, rice
+Sabah:
+     mainly subsistence, but also rubber, timber, coconut, rice
+Sarawak:
+     rubber, timber, pepper; deficit of rice in all areas
+Illicit drugs:
+     transit point for Golden Triangle heroin going to the US, Western
+     Europe, and the Third World despite severe penalties for drug
+     trafficking
+Economic aid:
+recipient:
+     US commitments, including Ex-Im (FY70-84), $170 million; Western
+     (non-US) countries, ODA and OOF bilateral commitments (1970-89), $4.7
+     million; OPEC bilateral aid (1979-89), $42 million
+ 
+ 
+Currency:
+     1 ringgit (M$) = 100 sen
+Exchange rates:
+     ringgits (M$) per US$1 - 2.7123 (January 1994), 2.5741 (1993), 2.5474
+     (1992), 2.7501 (1991), 1.7048 (1990), 2.7088 (1989)
+Fiscal year:
+     calendar year
+ 
+                              Communications
+ 
+Railroads:
+Peninsular Malaysia:
+     1,665 km 1.04-meter gauge; 13 km double track, government owned
+Sabah:
+     136 km 1.000-meter gauge
+Sarawak:
+     none
+Highways:
+total:
+     29,026 km (Peninsular Malaysia 23,600 km, Sabah 3,782 km, Sarawak
+     1,644 km)
+paved:
+     NA (Peninsular Malaysia 19,352 km mostly bituminous treated)
+unpaved:
+     NA (Peninsular Malaysia 4,248 km)
+Inland waterways:
+Peninsular Malaysia:
+     3,209 km
+Sabah:
+     1,569 km
+Sarawak:
+     2,518 km
+Pipelines:
+     crude oil 1,307 km; natural gas 379 km
+Ports:
+     Tanjong Kidurong, Kota Kinabalu, Kuching, Pasir Gudang, Penang, Port
+     Kelang, Sandakan, Tawau
+Merchant marine:
+     183 ships (1,000 GRT or over) totaling 1,935,210 GRT/2,913,808 DWT,
+     bulk 29, cargo 69, chemical tanker 6, container 26, liquefied gas 6,
+     livestock carrier 1, oil tanker 39, passenger-cargo 1,
+     roll-on/roll-off cargo 2, short-sea passenger 2, vehicle carrier 2
+Airports:
+total:
+     113
+usable:
+     104
+with permanent-surface runways:
+     33
+with runways over 3,659 m:
+     1
+with runways 2,440-3,659 m:
+     7
+with runways 1,220-2,439 m:
+     18
+ 
+ 
+Telecommunications:
+     good intercity service provided on Peninsular Malaysia mainly by
+     microwave radio relay; adequate intercity microwave radio relay
+     network between Sabah and Sarawak via Brunei; international service
+     good; good coverage by radio and television broadcasts; 994,860
+     telephones (1984); broadcast stations - 28 AM, 3 FM, 33 TV; submarine
+     cables extend to India and Sarawak; SEACOM submarine cable links to
+     Hong Kong and Singapore; satellite earth stations - 1 Indian Ocean
+     INTELSAT, 1 Pacific Ocean INTELSAT, and 2 domestic
+ 
+                              Defense Forces
+ 
+Branches:
+     Malaysian Army, Royal Malaysian Navy, Royal Malaysian Air Force, Royal
+     Malaysian Police Force, Marine Police, Sarawak Border Scouts
+Manpower availability:
+     males age 15-49 4,942,387; fit for military service 3,001,972; reach
+     military age (21) annually 182,850 (1994 est.)
+Defense expenditures:
+     exchange rate conversion - $2.2 billion, 3% of GDP (1994 est.)
+ 
+ 
+ 
+===========================================================================
+This section of THE WORLD FACTBOOK 1994 produced by the United States
+Central Intelligence Agency (CIA) was derived from the US Dept. of Commerce
+Economics and Statistics Division's NATIONAL TRADE DATA BANK (NTDB) CD-ROM,
+November, 1994, SuDoc No. C 1.88:994/11/v.1-2 / Presented by Raleigh Muns,
+(srcmuns@umslvma.umsl.edu) University of Missouri-St. Louis Libraries.
